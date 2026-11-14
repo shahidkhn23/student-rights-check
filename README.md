@@ -9,6 +9,10 @@ Student Rights Check does two things:
 1. **Check a document.** Give it a contract or letter (WG lease, Werkstudent or Minijob contract, internship contract, gym contract, Abmahnung) and it points out clauses that commonly trap students.
 2. **Answer a question.** Ask *"I was sick on my exam day, what now?"* or *"My landlord came into my room without asking"* and it answers from a hand-checked knowledge base of student rights.
 
+![Demo: checking a WG lease, asking a question, and a question the tool refuses to guess on](docs/demo.gif)
+
+*Real output of the tool, rendered as a terminal recording (23 s, long outputs cut off): a WG lease with a deposit that is too high, a question about a landlord entering the room, and an unrelated question it refuses to answer.*
+
 Every answer shows what the law generally says, the exact paragraph, a link to the source, and where to get free help. If the tool doesn't have a verified rule for your question, it says so instead of guessing.
 
 ---
