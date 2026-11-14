@@ -4,6 +4,8 @@
 
 **Know your rights as a student in Germany, before someone takes advantage of them.**
 
+**Try it in your browser: [shahidkhn23.github.io/student-rights-check](https://shahidkhn23.github.io/student-rights-check/)** – no install, no account. The page runs the same Python code inside your browser (Pyodide), so your question or contract never leaves your device.
+
 Student Rights Check does two things:
 
 1. **Check a document.** Give it a contract or letter (WG lease, Werkstudent or Minijob contract, internship contract, gym contract, Abmahnung) and it points out clauses that commonly trap students.
@@ -178,7 +180,7 @@ pytest                                                              # run the te
 - [ ] OCR so students can upload a photo of a letter
 - [ ] n8n workflow: upload → check → deadline into Google Calendar → reminder e-mail
 - [ ] Zapier version: forward a letter by e-mail, get the explanation back
-- [ ] Simple web app for non-technical users
+- [x] Web version that runs in the browser, nothing uploaded
 - [ ] Exam rules for other federal states
 - [ ] Official letters (Finanzamt, Rundfunkbeitrag, Krankenkasse): "what do they want from me" + deadline
 - [ ] Feedback button "was this correct?" to measure precision with real users
