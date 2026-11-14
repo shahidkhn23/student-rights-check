@@ -1,0 +1,38 @@
+name: website
+
+# Publishes the web version to GitHub Pages. The page runs the same Python code
+# as the command line tool, inside the visitor's browser (Pyodide).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build site
+        run: |
+          mkdir -p _site/py
+          cp web/index.html _site/
+          cp src/rightscheck/__init__.py src/rightscheck/rules.py src/rightscheck/report.py src/rightscheck/ask.py _site/py/
+          cp knowledge_base/laws.json _site/py/
+          cp samples/wg_mietvertrag.txt _site/py/sample_lease.txt
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

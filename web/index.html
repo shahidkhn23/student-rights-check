@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Student Rights Check</title>
+<meta name="description" content="Check a contract or ask about your rights as a student in Germany. Runs in your browser, nothing is uploaded.">
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #ffffff; --ink: #1d2327; --muted: #5d666e; --line: #dedad0;
+    --accent: #1f5f4a; --accent-ink: #ffffff;
+    --red: #b3261e; --red-bg: #fbeceb; --amber: #8a5a00; --amber-bg: #fdf3dc; --blue: #1c4f8a; --blue-bg: #e8f0fa;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15181b; --card: #1e2226; --ink: #e8eaec; --muted: #9aa3ab; --line: #30363c;
+      --accent: #6fcfae; --accent-ink: #10231c;
+      --red: #ff9a92; --red-bg: #3a1f1d; --amber: #f2c462; --amber-bg: #38301a; --blue: #9cc3f5; --blue-bg: #1c2b3f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 28px 18px 60px; }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .lede { color: var(--muted); margin: 0 0 14px; }
+  .privacy { display: inline-block; font-size: .9rem; border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; color: var(--muted); }
+  .tabs { display: flex; gap: 6px; margin: 26px 0 0; }
+  .tabs button { flex: 1; padding: 11px 8px; border: 1px solid var(--line); border-bottom: 0; background: transparent; color: var(--muted);
+    font: inherit; font-weight: 600; border-radius: 10px 10px 0 0; cursor: pointer; }
+  .tabs button[aria-selected="true"] { background: var(--card); color: var(--ink); }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 0 0 12px 12px; padding: 18px; }
+  label { display: block; font-weight: 600; margin-bottom: 6px; }
+  textarea, input[type=text] { width: 100%; font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+  textarea { min-height: 170px; resize: vertical; }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+  .btn { font: inherit; font-weight: 600; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); cursor: pointer; }
+  .btn:disabled { opacity: .55; cursor: wait; }
+  .ghost { background: transparent; color: var(--accent); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .chip { font: inherit; font-size: .9rem; padding: 5px 11px; border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--ink); cursor: pointer; }
+  .hint { color: var(--muted); font-size: .9rem; margin: 8px 0 0; }
+  #status { color: var(--muted); font-size: .9rem; margin-top: 12px; min-height: 1.4em; }
+  .summary { font-weight: 600; margin: 22px 0 10px; }
+  .card { border: 1px solid var(--line); border-left-width: 5px; border-radius: 10px; padding: 14px 16px; margin: 12px 0; background: var(--card); }
+  .card h3 { margin: 4px 0 8px; font-size: 1.05rem; line-height: 1.35; }
+  .tag { display: inline-block; font-size: .75rem; font-weight: 700; letter-spacing: .04em; padding: 2px 8px; border-radius: 4px; }
+  .red_flag { border-left-color: var(--red); } .red_flag .tag { background: var(--red-bg); color: var(--red); }
+  .check { border-left-color: var(--amber); } .check .tag { background: var(--amber-bg); color: var(--amber); }
+  .info, .rule { border-left-color: var(--blue); } .info .tag, .rule .tag { background: var(--blue-bg); color: var(--blue); }
+  blockquote { margin: 8px 0; padding: 6px 12px; border-left: 3px solid var(--line); color: var(--muted); font-style: italic; }
+  .card p { margin: 8px 0; }
+  .law { font-weight: 600; }
+  a { color: var(--accent); }
+  .help { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-top: 16px; }
+  .help h3 { margin: 0 0 6px; font-size: 1rem; } .help ul { margin: 0; padding-left: 20px; }
+  .disclaimer { color: var(--muted); font-size: .88rem; margin-top: 14px; }
+  footer { color: var(--muted); font-size: .88rem; margin-top: 36px; border-top: 1px solid var(--line); padding-top: 14px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Student Rights Check</h1>
+  <p class="lede">Check a contract or ask about your rights as a student in Germany. Every answer comes with the law and where to get free help.</p>
+  <span class="privacy">Runs in your browser. Your document is not uploaded anywhere.</span>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-ask" aria-selected="true" aria-controls="panel-ask">Ask a question</button>
+    <button role="tab" id="tab-check" aria-selected="false" aria-controls="panel-check">Check a document</button>
+  </div>
+
+  <section class="panel" id="panel-ask" role="tabpanel" aria-labelledby="tab-ask">
+    <label for="question">Your question (English or German)</label>
+    <input type="text" id="question" placeholder="e.g. My landlord came into my room without asking" autocomplete="off">
+    <div class="chips" id="examples"></div>
+    <div class="row"><button class="btn" id="btn-ask" disabled>Ask</button></div>
+  </section>
+
+  <section class="panel" id="panel-check" role="tabpanel" aria-labelledby="tab-check" hidden>
+    <label for="doc">Paste your contract or letter (German text)</label>
+    <textarea id="doc" placeholder="WG lease, Werkstudent or Minijob contract, internship, gym or phone contract, Abmahnung ..."></textarea>
+    <div class="row">
+      <button class="btn" id="btn-check" disabled>Check document</button>
+      <button class="btn ghost" id="btn-sample" type="button">Try a sample lease</button>
+      <label class="btn ghost" for="file" style="margin:0">Open PDF or text file</label>
+      <input type="file" id="file" accept=".pdf,.txt,.md,application/pdf,text/plain" hidden>
+    </div>
+    <p class="hint">Photos and scanned PDFs can't be read yet. Type or paste the text instead.</p>
+  </section>
+
+  <div id="status" role="status" aria-live="polite">Loading the checker (about 10 MB, only the first time) ...</div>
+  <div id="results" aria-live="polite"></div>
+
+  <footer>
+    General legal information, not legal advice for your individual case. Exam rules are verified for Bavaria; some rent rules apply to Munich only.
+    <span id="kb"></span><br>
+    Built by Shahid Saleem · <a href="https://github.com/shahidkhn23/student-rights-check">Source code and how it works</a>
+  </footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/pyodide/v0.26.4/full/pyodide.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const PY_FILES = ["__init__.py", "rules.py", "report.py", "ask.py"];
+const EXAMPLES = ["Is my deposit too high?", "I was sick on my exam day", "How many hours can a Werkstudent work?",
+                  "There is mould in my flat", "Do I get minimum wage in an internship?", "Mein Vermieter will die Miete erhöhen"];
+const LABEL = {red_flag: "RED FLAG", check: "GET IT CHECKED", info: "GOOD TO KNOW"};
+let py = null;
+
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+function setStatus(t) { $("status").textContent = t; }
+
+async function boot() {
+  try {
+    py = await loadPyodide();
+    py.FS.mkdirTree("/app/src/rightscheck"); py.FS.mkdirTree("/app/knowledge_base");
+    await Promise.all(PY_FILES.map(async f => py.FS.writeFile("/app/src/rightscheck/" + f, await (await fetch("py/" + f)).text())));
+    py.FS.writeFile("/app/knowledge_base/laws.json", await (await fetch("py/laws.json")).text());
+    py.runPython(`
+import sys, json
+sys.path.insert(0, "/app/src")
+from rightscheck import check
+from rightscheck.ask import RightsIndex, answer
+_index = RightsIndex()
+def web_check(text): return json.dumps(check(text))
+def web_ask(q): return json.dumps(answer(q, _index))
+def web_pdf(path):
+    from pypdf import PdfReader
+    return "\\n".join((p.extract_text() or "") for p in PdfReader(path).pages)
+`);
+    $("btn-ask").disabled = false; $("btn-check").disabled = false;
+    setStatus("");
+  } catch (e) {
+    setStatus("The checker could not load. Please reload the page or try another browser. (" + e.message + ")");
+  }
+}
+
+function helpBlock(data) {
+  const box = el("div", "help"); box.append(el("h3", null, "Where to get free help"));
+  const ul = el("ul"); data.free_help.forEach(h => ul.append(el("li", null, h))); box.append(ul);
+  return box;
+}
+function sourceLine(url) {
+  const p = el("p"); p.append("Source: "); const a = el("a", null, url.replace(/^https?:\/\//, "").split("/")[0]);
+  a.href = url; a.target = "_blank"; a.rel = "noopener"; p.append(a); return p;
+}
+
+function showCheck(d) {
+  const out = $("results"); out.replaceChildren();
+  const s = d.summary;
+  if (!d.findings.length) {
+    out.append(el("p", "summary", d.document_type[0] === "unknown"
+      ? "I couldn't recognise what kind of document this is, so nothing was checked."
+      : "No known red flags found. That doesn't mean the document is fine, only that none of the rules in this tool matched."));
+  } else {
+    out.append(el("p", "summary", `${s.red_flag} red flag(s), ${s.check} to get checked, ${s.info} good to know`));
+  }
+  d.findings.forEach(f => {
+    const c = el("div", "card " + f.severity);
+    c.append(el("span", "tag", LABEL[f.severity]), el("h3", null, f.title), el("blockquote", null, f.clause));
+    c.append(el("p", null, f.what_we_found));
+    if (f.what_the_law_says) {
+      const p = el("p"); p.append(el("span", "law", "What the law generally says (" + f.law + "): "), f.what_the_law_says); c.append(p);
+      c.append(sourceLine(f.source));
+    }
+    out.append(c);
+  });
+  out.append(helpBlock(d), el("p", "disclaimer", d.disclaimer));
+  out.scrollIntoView({behavior: "smooth", block: "start"});
+}
+
+function showAsk(d) {
+  const out = $("results"); out.replaceChildren();
+  if (!d.found) out.append(el("p", "summary", "I couldn't find a verified rule for this question, so I won't guess. Try other words, or ask one of the free services below."));
+  d.rules.forEach(r => {
+    const c = el("div", "card rule");
+    c.append(el("span", "tag", r.law + (r.region ? " · " + r.region : "")), el("h3", null, r.title), el("p", null, r.summary), sourceLine(r.source));
+    out.append(c);
+  });
+  out.append(helpBlock(d), el("p", "disclaimer", d.disclaimer));
+  $("kb").textContent = " Rules last verified: " + d.kb_last_verified + ".";
+  out.scrollIntoView({behavior: "smooth", block: "start"});
+}
+
+function ask() {
+  const q = $("question").value.trim(); if (!q || !py) return;
+  showAsk(JSON.parse(py.globals.get("web_ask")(q)));
+}
+function check() {
+  const t = $("doc").value.trim(); if (!t || !py) return;
+  const d = JSON.parse(py.globals.get("web_check")(t));
+  showCheck(d); $("kb").textContent = " Rules last verified: " + d.kb_last_verified + ".";
+}
+
+async function openFile(file) {
+  if (!file || !py) return;
+  if (!/\.pdf$/i.test(file.name)) { $("doc").value = await file.text(); return; }
+  setStatus("Reading the PDF in your browser ...");
+  try {
+    await py.loadPackage("micropip");
+    await py.runPythonAsync("import micropip\nawait micropip.install('pypdf')");
+    py.FS.writeFile("/tmp/doc.pdf", new Uint8Array(await file.arrayBuffer()));
+    const text = py.globals.get("web_pdf")("/tmp/doc.pdf");
+    if (text.trim()) { $("doc").value = text; setStatus(""); }
+    else setStatus("This PDF has no readable text (probably a scan). Please type or paste the text.");
+  } catch (e) { setStatus("Could not read this PDF. Please paste the text instead."); }
+}
+
+function selectTab(name) {
+  for (const n of ["ask", "check"]) {
+    $("tab-" + n).setAttribute("aria-selected", n === name); $("panel-" + n).hidden = n !== name;
+  }
+}
+
+EXAMPLES.forEach(q => { const b = el("button", "chip", q); b.type = "button"; b.onclick = () => { $("question").value = q; ask(); }; $("examples").append(b); });
+$("tab-ask").onclick = () => selectTab("ask");
+$("tab-check").onclick = () => selectTab("check");
+$("btn-ask").onclick = ask;
+$("question").addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
+$("btn-check").onclick = check;
+$("btn-sample").onclick = async () => { $("doc").value = await (await fetch("py/sample_lease.txt")).text(); if (py) check(); };
+$("file").onchange = e => openFile(e.target.files[0]);
+boot();
+</script>
+</body>
+</html>
