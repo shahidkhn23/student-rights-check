@@ -1,0 +1,19 @@
+name: live run (real model)
+
+# Started by hand from the Actions tab. Needs the repository secret GROQ_API_KEY.
+on:
+  workflow_dispatch:
+
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - name: Agent on the sample lease
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python -m rightscheck agent "Is this okay? Write my landlord a short message." --file samples/wg_mietvertrag.txt --trace
