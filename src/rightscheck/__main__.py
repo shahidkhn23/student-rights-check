@@ -68,7 +68,10 @@ def cmd_agent(args) -> int:
     out = run_agent(args.message, document, model=model)
     if args.trace:
         for step in out["trace"]:
-            print(f"[tool] {step['tool']} {json.dumps(step['input'], ensure_ascii=False)}")
+            if "rejected" in step:
+                print(f"[rejected] answer cited {', '.join(step['rejected'])}, which no tool returned")
+            else:
+                print(f"[tool] {step['tool']} {json.dumps(step['input'], ensure_ascii=False)}")
         print(f"[grounded] {out['grounded']}\n")
     print(out["answer"])
     return 0

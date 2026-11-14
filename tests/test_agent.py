@@ -91,3 +91,15 @@ def test_groq_format_roundtrip():
     assert req["messages"][2]["tool_calls"][0]["function"]["name"] == "search_rights"
     assert req["messages"][3]["tool_call_id"] == "c1"
     assert req["tools"][1]["function"]["parameters"]["required"] == ["question"]
+
+
+def test_grounding_check_ignores_spacing_but_not_numbers():
+    results = ['{"law": "§ 551 Abs. 1 und 4 BGB"}']
+    assert ungrounded_refs("§\u00a0551 BGB and §§ 551", results) == []      # non-breaking space, double sign
+    assert ungrounded_refs("§ 5 BGB", results) == ["§ 5"]                    # 5 is not 551
+
+
+def test_contract_section_numbers_are_not_invented_law():
+    model = scripted(tool("check_document"), text("In § 3 of your contract the deposit is too high (§ 551 BGB)."))
+    out = run_agent("Is my lease ok?", document=LEASE, model=model)
+    assert out["grounded"]

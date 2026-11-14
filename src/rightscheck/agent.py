@@ -99,10 +99,15 @@ def groq_model(system: str, messages: list, tools: list) -> dict:
         return from_openai(json.loads(r.read())["choices"][0]["message"])
 
 
-def ungrounded_refs(text: str, tool_results: list[str]) -> list[str]:
-    """Law references in the answer that no tool returned."""
-    allowed = " ".join(tool_results).replace(" ", "")
-    return [ref for ref in LAW_REF.findall(text) if ref.replace(" ", "").lstrip("§") not in allowed]
+def _norm(ref: str) -> str:
+    """'§ 551', '§\u00a0551' and '§§ 551' all become '§551'."""
+    return re.sub(r"§+", "§", re.sub(r"\s+", "", ref)).lower()
+
+
+def ungrounded_refs(text: str, sources: list[str]) -> list[str]:
+    """Law references in the answer that appear in none of the sources (tool results, the document)."""
+    allowed = {_norm(r) for r in LAW_REF.findall(" ".join(sources))}
+    return [ref for ref in LAW_REF.findall(text) if _norm(ref) not in allowed]
 
 
 def run_agent(message: str, document: str | None = None, model=anthropic_model, max_steps: int = 6) -> dict:
@@ -127,7 +132,10 @@ def run_agent(message: str, document: str | None = None, model=anthropic_model, 
 
         if not calls:
             text = "".join(b.get("text", "") for b in resp["content"] if b["type"] == "text")
-            bad = ungrounded_refs(text, results)
+            # the contract's own section numbers (e.g. "§ 3 Kaution") are not invented law
+            bad = ungrounded_refs(text, results + [document or ""])
+            if bad:
+                trace.append({"rejected": bad})
             if not bad:
                 return {"answer": text, "trace": trace, "grounded": True}
             if not retried:
