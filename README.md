@@ -106,15 +106,26 @@ A wrong answer here costs a student real money or an exam attempt. So the work i
 
 Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 50 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
 
-Illustrative trace:
+Real run on 14 Nov 2026 (Groq, `openai/gpt-oss-120b`, started from the "live run" workflow in GitHub Actions), shortened:
 
 ```
 $ python -m rightscheck agent "Is this okay? Write my landlord a short message." --file samples/wg_mietvertrag.txt --trace
-[tool] check_document {}
-[tool] search_rights {"question": "deposit instalments"}
+[tool] check_document
 [grounded] True
-...
+
+Sehr geehrter Herr Beispiel,
+... beim Durchsehen habe ich ein paar Punkte gefunden, die nach geltendem Recht angepasst werden sollten:
+
+1. Kaution: Die vereinbarte Kaution von 1 800 € überschreitet das zulässige Maximum von drei
+   Nettokaltmieten (3 × 450 € = 1 350 €). Nach § 551 Abs. 1 und 4 BGB ...
+   § 551 Abs. 2 und 3 BGB sieht vor, dass die Kaution in bis zu drei gleichen Monatsraten gezahlt werden kann.
+2. Kündigungsfrist: ... Nach § 573c Abs. 1 und 4 BGB beträgt die gesetzliche Kündigungsfrist ... in der Regel drei Monate.
+
+Kostenlose Hilfe: Mieterverein in Ihrer Stadt ... / Rechtsberatung bei vielen Studierendenwerken
+Allgemeine rechtliche Informationen, keine Rechtsberatung für Ihren Einzelfall.
 ```
+
+**What the first live run taught me.** The very first run came back with `[grounded] False`: the grounding check rejected an answer whose citations were correct, and the agent fell back to the raw verified results. The check compared text too literally. It now compares normalised references (so `§ 551` with a non-breaking space still matches), no longer lets `§ 5` pass because `§ 551` was returned, and accepts the contract's own section numbers. The trace also prints which references were rejected. The offline tests had not caught this; the real model did.
 
 The safety rule is enforced in code, not only in the prompt: every law reference (`§ …`, `Art. …`) in the answer must appear in a tool result. If the model cites something no tool returned, it gets one chance to fix it; after that the agent shows the verified tool results instead. There is also a step limit, and unknown tool names are rejected.
 
@@ -150,7 +161,7 @@ pytest                                                              # run the te
 
 ## Quality
 
-- **57 tests**: every sample contract, number parsing, 29 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
+- **60 tests**: every sample contract, number parsing, 29 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
 - **Precision test:** a fair contract (`samples/fairer_vertrag.txt`) must produce zero warnings, and an unrelated question must get no answer. A tool that warns about everything or answers everything is useless.
 - **Integrity tests:** every rule has an area, a source link and keywords; every answer only contains text from the verified knowledge base.
 
