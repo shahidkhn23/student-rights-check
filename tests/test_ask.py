@@ -38,6 +38,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("How do I cancel a streaming subscription online?", "cancel_button"),
     ("A company sent me a package I didn't order and now wants money", "unordered_goods"),
     ("Which questions can a landlord ask in a flat application?", "tenant_selfdisclosure"),
+    ("How long can I stay in Germany to find a job after my master's?", "job_search_after_degree"),
+    ("How much money do I need in a Sperrkonto for the student visa?", "blocked_account_amount"),
+    ("My residence permit expires but the Ausländerbehörde has not answered my extension", "residence_permit_extension"),
+    ("My boss never gave me a written contract", "written_contract_terms"),
+    ("My befristet contract was signed after I started working", "fixed_term_needs_writing"),
+    ("I got fired, how long do I have to go to the Arbeitsgericht?", "dismissal_three_weeks"),
+    ("Do I get paid for Easter Monday in my Minijob?", "holiday_pay"),
+    ("When do I need a Krankschreibung for my employer?", "sick_notification"),
+    ("My manager keeps part of the tips in the restaurant", "tips_belong_to_you"),
+    ("My contract says overtime is already included in my salary", "overtime_flat_clause"),
+    ("Why is 3.6 percent pension taken from my Minijob pay?", "minijob_pension"),
+    ("I think I was rejected for a job because of my headscarf", "discriminated_application"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Verified general legal information for students in Germany, used by Student Rights Check. Every statement the tool makes must come from this file. Nothing here is advice for an individual case.",
-    "last_verified": "2026-11-08",
+    "last_verified": "2026-11-16",
     "verified_by": "Manual check against law texts and official/authoritative sources listed in each entry",
     "region_note": "Federal law applies everywhere. University (exam) rules are verified for Bavaria (RaPO / BayHIG / AGVwGO); housing values marked 'München' are Munich-specific."
   },
@@ -910,6 +910,246 @@
         "lawyer letter"
       ],
       "source": "https://www.gesetze-im-internet.de/urhg/__97a.html"
+    },
+    "job_search_after_degree": {
+      "area": "international",
+      "law": "§ 20 AufenthG",
+      "title": "Non-EU graduates: up to 18 months to look for a job after your degree",
+      "summary": "If you finished a degree in Germany on a study permit (§ 16b or § 16c AufenthG), you can get a residence permit to look for a job for up to 18 months. It is granted directly after the studies, it allows any kind of work while you search, and you must be able to support yourself. The 18 months cannot be extended.",
+      "keywords": [
+        "job search",
+        "after graduation",
+        "after my degree",
+        "post-study",
+        "18 months",
+        "arbeitsplatzsuche",
+        "chancenkarte",
+        "stay after studies",
+        "graduate visa",
+        "work visa after study",
+        "nach dem studium bleiben"
+      ],
+      "source": "https://lxgesetze.de/aufenthg/20"
+    },
+    "blocked_account_amount": {
+      "area": "international",
+      "law": "Auswärtiges Amt; § 16b AufenthG",
+      "title": "Student visa: proof of funds is 992 EUR a month in 2026",
+      "summary": "For a study visa or residence permit (§ 16b AufenthG) you must show at least 992 EUR a month, i.e. 11,904 EUR a year in 2026. You can prove it with a blocked account (Sperrkonto), a scholarship confirmation or a Verpflichtungserklärung. Other purposes, for example looking for a place at university, have a higher amount (1,091 EUR a month in 2026).",
+      "keywords": [
+        "blocked account",
+        "sperrkonto",
+        "proof of funds",
+        "finanzierungsnachweis",
+        "11904",
+        "992",
+        "student visa money",
+        "how much money visa",
+        "fintiba",
+        "expatrio",
+        "lebensunterhalt"
+      ],
+      "source": "https://www.make-it-in-germany.com/pdf-lebensunterhaltssicherung"
+    },
+    "residence_permit_extension": {
+      "area": "international",
+      "law": "§ 81 Abs. 3 und 4 AufenthG",
+      "title": "Applied to extend your residence permit in time: the old one keeps working",
+      "summary": "If you apply to extend your residence permit, or for a different one, before it expires, the old permit counts as continuing until the Ausländerbehörde decides. This happens by law, even if the authority is slow. Work permission you had usually continues too. You can ask for a Fiktionsbescheinigung as proof. A late application generally does not have this effect automatically.",
+      "keywords": [
+        "residence permit",
+        "extend",
+        "expires",
+        "verlängerung",
+        "aufenthaltstitel",
+        "fiktionsbescheinigung",
+        "fiktionswirkung",
+        "visa expires",
+        "ausländerbehörde slow",
+        "aufenthaltserlaubnis abgelaufen",
+        "permit expired"
+      ],
+      "source": "https://wetteraukreis.de/fileadmin/2_Service/Integration_Migration/Aufenthalt/merkblatt_fiktionswirkung_aufenthaltstitel_hmdi_stand_01_02.pdf"
+    },
+    "written_contract_terms": {
+      "area": "work",
+      "law": "§ 2 NachwG",
+      "title": "Your employer must give you the key terms of the job in writing",
+      "summary": "Under the Nachweisgesetz the employer must record the essential terms of your job and hand them to you, even if the contract was agreed only by mouth. Since 1 January 2025 text form (for example an email) is enough, but you can still ask for it on paper. Names of the parties, pay and working hours are due on the first working day; the other terms within a month at the latest.",
+      "keywords": [
+        "no contract",
+        "arbeitsvertrag",
+        "nachweisgesetz",
+        "nachweis",
+        "written contract",
+        "oral agreement",
+        "verbal contract",
+        "job terms",
+        "no written contract",
+        "kein vertrag",
+        "mündlich"
+      ],
+      "source": "https://lxgesetze.de/nachwg/2"
+    },
+    "fixed_term_needs_writing": {
+      "area": "work",
+      "law": "§ 14 Abs. 4, § 16 TzBfG",
+      "title": "A fixed-term job only works if the end date is in a signed contract",
+      "summary": "A fixed-term employment contract needs the fixed term in writing, signed by hand, and the signed document must reach you before the job starts (BAG, 7 AZR 756/14). If the term was only agreed by mouth or signed after you began, it is void and you have an open-ended job (§ 16 TzBfG). Only the fixed term needs this form, not the contract as a whole.",
+      "keywords": [
+        "fixed-term",
+        "befristet",
+        "befristung",
+        "temporary contract",
+        "contract ends",
+        "limited contract",
+        "signed after start",
+        "unterschrieben",
+        "befristeter arbeitsvertrag",
+        "contract end date"
+      ],
+      "source": "https://www.bundesarbeitsgericht.de/en/?p=1152986"
+    },
+    "dismissal_three_weeks": {
+      "area": "work",
+      "law": "§ 4, § 7 KSchG",
+      "title": "Fired: you have only 3 weeks to go to the labour court",
+      "summary": "If you want to challenge a written dismissal, you must file a lawsuit at the labour court within three weeks after you receive it. This applies in small companies and in the first six months too, not only in firms covered by the main dismissal protection rules. If you miss the deadline, the dismissal counts as valid even if it was wrong.",
+      "keywords": [
+        "fired",
+        "dismissed",
+        "kündigung",
+        "gekündigt",
+        "kündigungsschutzklage",
+        "labour court",
+        "arbeitsgericht",
+        "3 weeks",
+        "drei wochen",
+        "terminated",
+        "laid off",
+        "probation fired"
+      ],
+      "source": "https://www.gesetze-im-internet.de/kschg/__4.html"
+    },
+    "holiday_pay": {
+      "area": "work",
+      "law": "§ 2 EFZG",
+      "title": "Public holiday on a work day: you get paid, even in a Minijob",
+      "summary": "If a public holiday falls on a day you would normally have worked, the employer must pay you what you would have earned (§ 2 EFZG). This applies to part-timers and Minijobbers too. The employer may not make you work the hours before or after on another day. If you would not have worked that day anyway, there is no extra holiday pay.",
+      "keywords": [
+        "public holiday",
+        "feiertag",
+        "feiertagslohn",
+        "feiertagsvergütung",
+        "holiday pay",
+        "paid holiday minijob",
+        "christmas",
+        "easter",
+        "nacharbeiten",
+        "bank holiday",
+        "1 may"
+      ],
+      "source": "https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/_100_muessen_minijobber_feiertage_nacharbeiten/faq_100_muessen_minijobber_feiertage_nacharbeiten"
+    },
+    "sick_notification": {
+      "area": "work",
+      "law": "§ 5 EFZG",
+      "title": "Calling in sick: tell your employer at once, a doctor confirms from day 4",
+      "summary": "You must tell your employer immediately that you cannot work and how long it will probably last. If it lasts longer than three calendar days, a doctor must confirm it by the next working day. For people in statutory health insurance the doctor sends it electronically (eAU) and the employer retrieves it. The employer may ask for the confirmation earlier, even from the first day. You do not have to tell your employer the diagnosis.",
+      "keywords": [
+        "krankmeldung",
+        "call in sick",
+        "sick note",
+        "doctor's note",
+        "eau",
+        "krankschreibung",
+        "report sick",
+        "arbeitsunfähigkeit",
+        "gelber schein",
+        "employer wants sick note",
+        "day one sick note",
+        "attest arbeit"
+      ],
+      "source": "https://lxgesetze.de/efzg/5"
+    },
+    "tips_belong_to_you": {
+      "area": "work",
+      "law": "§ 107 Abs. 3 GewO; § 3 Nr. 51 EStG",
+      "title": "Tips belong to you, are tax-free and do not count toward minimum wage",
+      "summary": "Tips that customers give voluntarily are legally yours, not the employer's. They are tax-free (§ 3 Nr. 51 EStG) and can not be counted against the minimum wage. A contract may lower your pay because tips are expected, but it may not exclude pay altogether. If the employer pools tips, it must share them fairly and may not keep a part.",
+      "keywords": [
+        "tips",
+        "trinkgeld",
+        "tip jar",
+        "tip pool",
+        "waiter",
+        "kellner",
+        "tips taxed",
+        "trinkgeld abgeben",
+        "employer keeps tips",
+        "server tips",
+        "bar job tips"
+      ],
+      "source": "https://www.haufe.de/id/beitrag/trinkgeld-zusammenfassung-LI1925596.html"
+    },
+    "overtime_flat_clause": {
+      "area": "work",
+      "law": "§ 307 Abs. 1 S. 2 BGB; BAG 5 AZR 517/09",
+      "title": "'All overtime is covered by your salary' is usually invalid",
+      "summary": "A contract clause saying that overtime is covered by the salary is invalid if it does not say how many hours (BAG, 5 AZR 517/09). Such a clause has to be clear and limited. A clause like 'the first 20 overtime hours a month are included' can be valid (BAG, 5 AZR 331/11). Without a valid clause, overtime must be paid or compensated with time off.",
+      "keywords": [
+        "overtime",
+        "überstunden",
+        "überstundenabgeltung",
+        "unpaid overtime",
+        "extra hours",
+        "mehrarbeit",
+        "abgegolten",
+        "overtime included in salary",
+        "clause overtime",
+        "überstunden bezahlen"
+      ],
+      "source": "https://www.iww.de/pfb/quellenmaterial/id/72895"
+    },
+    "minijob_pension": {
+      "area": "work",
+      "law": "§ 6 Abs. 1b SGB VI",
+      "title": "Minijob: pension contribution of 3.6 percent, you can opt out",
+      "summary": "In a commercial Minijob the employer pays 15 percent into the pension fund and you pay 3.6 percent yourself, unless you apply to your employer for an exemption in writing or electronically. If you opt out you keep more net pay but lose pension benefits. From 1 July 2026 you can undo an exemption once, for the future (§ 6 Abs. 6 SGB VI).",
+      "keywords": [
+        "minijob pension",
+        "rentenversicherung",
+        "rentenversicherungspflicht",
+        "befreiung",
+        "3,6",
+        "3.6 percent",
+        "opt out pension",
+        "minijob deductions",
+        "minijob abzüge",
+        "befreiungsantrag",
+        "pension minijob"
+      ],
+      "source": "https://magazin.minijob-zentrale.de/befreiung-von-der-rentenversicherungspflicht-im-minijob-infos-fuer-arbeitgeber-und-minijobber/"
+    },
+    "discriminated_application": {
+      "area": "discrimination",
+      "law": "§ 15 AGG",
+      "title": "Rejected for a job because of discrimination: compensation claim, 2-month deadline",
+      "summary": "If you were turned down for a job because of race, ethnic origin, gender, religion, disability, age or sexual identity, you can claim compensation under § 15 AGG. You must claim it in writing within two months, starting with the rejection, and sue within three months after that (§ 61b ArbGG). If you would not have got the job anyway, the compensation is capped at three monthly salaries. The law gives no right to the job itself.",
+      "keywords": [
+        "rejected job",
+        "job rejection",
+        "discrimination job",
+        "application rejected",
+        "absage",
+        "diskriminierung bewerbung",
+        "entschädigung",
+        "agg",
+        "headscarf job",
+        "rejected because of age",
+        "rejected because of religion"
+      ],
+      "source": "https://www.gesetze-im-internet.de/agg/__15.html"
     }
   },
   "free_help": {

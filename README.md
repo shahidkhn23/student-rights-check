@@ -27,19 +27,19 @@ Lawyers are expensive, and free advice exists (Mieterverein, Verbraucherzentrale
 
 ## What it covers
 
-50 verified rules across 10 areas of student life (`python -m rightscheck topics` lists them all):
+62 verified rules across 10 areas of student life (`python -m rightscheck topics` lists them all):
 
 | Area | Examples |
 |---|---|
 | **Studies & exams** (Bavaria) | Sick on exam day, objecting to a grade, seeing your marked exam, Nachteilsausgleich, maternity protection |
-| **Werkstudent, Minijob, internships** | Minimum wage, unpaid internships, 20-hour rule, Minijob limit, holiday jobs, equal pay for Minijobbers, working hours and breaks, sick pay, holiday, notice periods, termination by e-mail, payslip and reference, forbidden interview questions |
-| **International students** | 140/280 working days rule |
+| **Werkstudent, Minijob, internships** | Minimum wage, unpaid internships, 20-hour rule, Minijob limit, holiday jobs, equal pay for Minijobbers, working hours and breaks, sick pay, holiday, notice periods, termination by e-mail, payslip and reference, forbidden interview questions, written contract terms, fixed-term contracts, the 3-week deadline after a dismissal, public-holiday pay, calling in sick, tips, overtime clauses, Minijob pension |
+| **International students** | 140/280 working days rule, 18-month job search after the degree, proof of funds for the visa, applying to extend your permit in time |
 | **Housing & WG** | Deposit limit and return, notice periods (yours and the landlord's), fixed-term leases, Mietpreisbremse and rent increase cap in Munich, utility bills, painting when moving out, rent reduction for mould/pests, landlord entering your room, subletting, flat applications, address registration |
 | **Money** | BAföG, Wohngeld, Kindergeld, Rundfunkbeitrag exemption, getting tax back, right to a bank account |
 | **Health insurance** | Family insurance until 25, student rate until 30 |
 | **Contracts** | 14-day withdrawal for online purchases, gym contracts, phone contracts (max. 24 months), online cancel button, unordered goods |
 | **Data protection** | Asking any company what data it has about you |
-| **Discrimination** | Being rejected for a flat because of your origin |
+| **Discrimination** | Being rejected for a flat or a job because of your origin, religion, age and so on (with the 2-month deadline) |
 | **Abmahnung** | Capped lawyer fees, don't sign before checking |
 
 ### Contract checks (red flags it finds automatically)
@@ -91,7 +91,7 @@ I couldn't find a verified rule for this question, so I won't guess.
 flowchart LR
     Q[Question] --> R[Retrieval<br/>BM25 over rules<br/>EN + DE keywords]
     D[PDF / text] --> X[Extract text] --> C[Classify document] --> E[Rule engine<br/>clause + numbers]
-    R --> K[(Verified knowledge base<br/>50 rules · sources · dates)]
+    R --> K[(Verified knowledge base<br/>62 rules · sources · dates)]
     E --> K
     K --> O[Report / answer<br/>law · source · free help]
     O --> L[Optional LLM<br/>plain language, any language<br/>only from verified facts]
@@ -110,7 +110,7 @@ A wrong answer here costs a student real money or an exam attempt. So the work i
 
 `python -m rightscheck agent "<message>" [--file contract.pdf] [--trace]`
 
-Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 50 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
+Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 62 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
 
 Real run on 14 Nov 2026 (Groq, `openai/gpt-oss-120b`, started from the "live run" workflow in GitHub Actions), shortened:
 
@@ -167,7 +167,7 @@ pytest                                                              # run the te
 
 ## Quality
 
-- **60 tests**: every sample contract, number parsing, 29 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
+- **72 tests**: every sample contract, number parsing, 41 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
 - **Precision test:** a fair contract (`samples/fairer_vertrag.txt`) must produce zero warnings, and an unrelated question must get no answer. A tool that warns about everything or answers everything is useless.
 - **Integrity tests:** every rule has an area, a source link and keywords; every answer only contains text from the verified knowledge base.
 
@@ -177,6 +177,7 @@ pytest                                                              # run the te
 - [x] v0.2: all student-rights areas, "Ask about your rights" mode, Bavarian exam law
 - [x] v0.3: 50 verified rules, 27 automatic contract checks
 - [x] v0.4: AI agent mode with tool calling and a code-enforced grounding check
+- [ ] Growing the knowledge base towards 200 rules in verified batches of ~12-25 (62 so far; each rule is checked against its source and gets a test question)
 - [ ] OCR so students can upload a photo of a letter
 - [ ] n8n workflow: upload → check → deadline into Google Calendar → reminder e-mail
 - [ ] Zapier version: forward a letter by e-mail, get the explanation back
