@@ -3890,6 +3890,132 @@
         "gewährleistung rechte käufer"
       ],
       "source": "https://www.verbraucherzentrale.de/kundenrechte/gewaehrleistung-des-haendlers-5057"
+    },
+    "tenant_special_termination_rent_increase": {
+      "area": "housing",
+      "law": "BGB §§ 561, 555e",
+      "title": "Rent increase or modernisation: you get a special right to terminate",
+      "summary": "If your landlord demands a rent increase to the local comparative rent or after modernisation, you can terminate the tenancy specially under § 561 BGB. You must give notice by the end of the second month after the increase request reaches you, and the tenancy then ends at the end of the following two months. If you terminate, the increase does not take effect. Agreeing to the increase first removes the option. A tenant also has a special right to leave after a modernisation announcement, except for trivial measures. Notice should be in writing.",
+      "keywords": [
+        "sonderkündigungsrecht",
+        "sonderkündigung mieterhöhung",
+        "special termination rent increase",
+        "landlord raised rent can i leave",
+        "modernisierung kündigung mieter",
+        "kündigung nach mieterhöhung",
+        "terminate lease after rent hike",
+        "561 bgb",
+        "555e bgb",
+        "außerordentliche kündigung mieter",
+        "mieterhöhung ausziehen",
+        "leave flat after modernisation"
+      ],
+      "source": "https://bmgev.de/mietrecht/tipps/sonderkuendigungsrechte"
+    },
+    "parental_leave_notice": {
+      "area": "work",
+      "law": "BEEG §§ 15, 16, 18",
+      "title": "Parental leave (Elternzeit): ask in writing seven weeks ahead, protected from dismissal",
+      "summary": "Employees have a legal right to Elternzeit, including part-time and marginal workers, and the contract cannot exclude it. For the first three years of the child you must request it in writing at least seven weeks before it starts. The special protection against dismissal begins from the request, at the earliest eight weeks before the start, and lasts during the leave. Working part time during leave is possible, with a right to it under conditions such as a larger employer. Elterngeld is a separate application.",
+      "keywords": [
+        "elternzeit",
+        "parental leave germany",
+        "elternzeit beantragen",
+        "sieben wochen elternzeit",
+        "kündigungsschutz elternzeit",
+        "parental leave notice period",
+        "elternzeit minijob",
+        "elternzeit teilzeit",
+        "father parental leave",
+        "elternzeit werkstudent",
+        "beeg",
+        "elternzeit antrag arbeitgeber"
+      ],
+      "source": "https://familienportal.de/bmbfsfj/themen/familie/familienleistungen/elternzeit/elternzeit-73832"
+    },
+    "trial_subscription_one_withdrawal": {
+      "area": "consumer",
+      "law": "BGB § 355, EuGH",
+      "title": "Free trial that turns into a paid subscription: only one withdrawal right",
+      "summary": "Per an EuGH ruling reported by Legal Tribune Online in June 2026, a consumer can withdraw only once from a distance contract for a subscription that starts free and renews automatically into a paid one. When the trial turns into the paid phase, no new withdrawal right arises. So withdraw or cancel within the trial or the first 14 days, and set a reminder before it converts. Once the paid phase has begun, you can still use the normal cancellation rules in your contract.",
+      "keywords": [
+        "probeabo",
+        "free trial subscription",
+        "kostenlose testphase abo",
+        "trial turns paid",
+        "probe abo widerruf",
+        "gratis abo kündigen",
+        "free trial auto renew",
+        "testphase kündigen",
+        "eugh probeabo",
+        "subscription trial cancel",
+        "widerruf nach testphase",
+        "trial converts to paid"
+      ],
+      "source": "https://www.lto.de/recht/nachrichten/n/eugh-c56522-widerruf-verbraucher-widerrufsrecht-abo-testphase-probeabo/print.html"
+    },
+    "labor_court_no_lawyer": {
+      "area": "work",
+      "law": "ArbGG, KSchG § 4",
+      "title": "Labour court: you can sue without a lawyer, and the Rechtsantragstelle helps for free",
+      "summary": "In the first instance at the Arbeitsgericht there is no obligation to have a lawyer. Each court has a Rechtsantragstelle that records your claim for free, but it cannot advise you on the chances of success. A dismissal claim must reach the court within three weeks of receiving the written notice (§ 4 KSchG). In the first instance each side bears its own costs, whoever wins. A union representative can also act for you.",
+      "keywords": [
+        "arbeitsgericht ohne anwalt",
+        "rechtsantragstelle",
+        "sue employer without lawyer",
+        "kündigungsschutzklage ohne anwalt",
+        "labour court costs",
+        "arbeitsgericht kosten",
+        "klage einreichen arbeitsgericht",
+        "anwaltszwang arbeitsgericht",
+        "labor court germany",
+        "file claim employer",
+        "gewerkschaft vertretung klage",
+        "klage lohn arbeitsgericht"
+      ],
+      "source": "https://www.kanzlei-hasselbach.de/blog/kuendigungsschutzklage-ohne-anwalt/"
+    },
+    "legal_aid_beratungshilfe": {
+      "area": "money",
+      "law": "BerHG, ZPO",
+      "title": "Cheap legal help: Beratungshilfe costs 15 euro, Prozesskostenhilfe covers court",
+      "summary": "People with low income can get Beratungshilfe, a lawyer's advice outside court, by applying at the Amtsgericht. The court decision is free and the lawyer can ask for a one-off 15 euro. If a lawsuit is needed, you can apply for Prozesskostenhilfe at the court instead. If you already started with a lawyer before applying, the application must reach the court within four weeks of starting. The conditions are the same low-income test as for PKH and the request must not be frivolous.",
+      "keywords": [
+        "beratungshilfe",
+        "beratungshilfeschein",
+        "cheap lawyer",
+        "kostenlose rechtsberatung",
+        "prozesskostenhilfe",
+        "legal aid germany",
+        "anwalt 15 euro",
+        "amtsgericht rechtsberatung student",
+        "free legal advice low income",
+        "pkh antrag",
+        "lawyer cost low income",
+        "rechtsberatung bafög empfänger"
+      ],
+      "source": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/landshut/verfahren_21.php"
+    },
+    "applicant_data_deletion": {
+      "area": "data",
+      "law": "DSGVO Art. 17, AGG § 15",
+      "title": "Rejected job application: your data is generally deleted within about six months",
+      "summary": "After a rejection, a company may keep your application documents only as long as needed, and data protection authorities accept up to about six months because of the AGG claim deadlines (two months to claim, then three months to sue). After that the data must be deleted under Art. 17 DSGVO unless a claim is pending. If you withdraw your application, the data must be deleted without delay. A longer talent pool needs your consent, which you can withdraw. You can also ask for access to your data.",
+      "keywords": [
+        "bewerbungsunterlagen löschen",
+        "application data deleted",
+        "bewerberdaten löschfrist",
+        "job application rejected data",
+        "talentpool einwilligung",
+        "delete my application documents",
+        "sechs monate bewerbung löschen",
+        "dsgvo bewerbung",
+        "absage unterlagen zurück",
+        "company keeps my cv",
+        "lebenslauf löschen",
+        "applicant data retention"
+      ],
+      "source": "https://www.haufe.de/compliance/management-praxis/aufbewahrung-wie-lange-duerfen-bewerberdaten-gespeichert-werden_230130_261218.html"
     }
   },
   "free_help": {

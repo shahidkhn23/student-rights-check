@@ -182,6 +182,12 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("Dealer sold me a used car with a defect after six months", "used_car_dealer_warranty"),
     ("I fell ill during my vacation, do the days count as leave?", "sick_during_vacation"),
     ("Seller wants to repair my faulty product, can I demand a refund instead?", "consumer_repair_replace_rights"),
+    ("Can I use my Sonderkündigungsrecht and terminate specially after a modernisation announcement?", "tenant_special_termination_rent_increase"),
+    ("How many weeks before must I request Elternzeit from my employer?", "parental_leave_notice"),
+    ("Free trial subscription turned into a paid one, can I withdraw again?", "trial_subscription_one_withdrawal"),
+    ("Can I go to the Arbeitsgericht without a lawyer using the Rechtsantragstelle?", "labor_court_no_lawyer"),
+    ("How do I get a Beratungshilfeschein for a cheap lawyer?", "legal_aid_beratungshilfe"),
+    ("How long can a company keep my application documents after a rejection?", "applicant_data_deletion"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
