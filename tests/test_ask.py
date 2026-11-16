@@ -169,6 +169,19 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("My online order parcel got lost, who bears the risk?", "parcel_shipping_risk"),
     ("Can my boss put a camera at my workplace?", "workplace_video_surveillance"),
     ("I got a Mahnbescheid, how long to object?", "mahnbescheid_objection"),
+    ("Is a 30 minute break mandatory after six hours and how many hours of rest between shifts?", "rest_breaks_rest_periods"),
+    ("A salesman at my door got me to sign a contract, can I withdraw?", "door_to_door_withdrawal"),
+    ("How much is the fine for cycling through a red light?", "bike_traffic_fines"),
+    ("Can I get Arbeitslosengeld after my bachelor if I was a Werkstudent?", "student_unemployment_benefit"),
+    ("A friend posted a photo of me on Instagram without asking", "photo_rights_social_media"),
+    ("Who pays the Makler commission for a rental flat?", "broker_fee_tenant"),
+    ("My employer gave me an Abmahnung, can I write a Gegendarstellung?", "warning_letter_employer"),
+    ("How much does student health insurance cost per month?", "student_health_contribution"),
+    ("Can a full-time student get Bürgergeld from the Jobcenter?", "student_buergergeld_exclusion"),
+    ("My bank raised the account fee without my consent, can I get it back?", "bank_fee_increase_consent"),
+    ("Dealer sold me a used car with a defect after six months", "used_car_dealer_warranty"),
+    ("I fell ill during my vacation, do the days count as leave?", "sick_during_vacation"),
+    ("Seller wants to repair my faulty product, can I demand a refund instead?", "consumer_repair_replace_rights"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

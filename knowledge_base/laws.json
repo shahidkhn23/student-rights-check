@@ -3617,6 +3617,279 @@
         "mahnbescheid ignorieren"
       ],
       "source": "https://infodienst-schuldnerberatung.de/wp-content/uploads/2026/03/Forderungspruefung-Schuldnerberatung.pdf"
+    },
+    "rest_breaks_rest_periods": {
+      "area": "work",
+      "law": "ArbZG §§ 4, 5",
+      "title": "Breaks and rest: 30 minutes after six hours, 11 hours rest between shifts",
+      "summary": "The Arbeitszeitgesetz requires fixed breaks: at least 30 minutes if you work more than six and up to nine hours, and 45 minutes if you work more than nine hours (§ 4 ArbZG). You may not work more than six hours in a row without a break. A break can be split into parts of at least 15 minutes each, and it is normally unpaid. After the working day you need an uninterrupted rest of at least eleven hours (§ 5 ArbZG). In hotels, restaurants and similar businesses this rest can be shortened under conditions. Teenagers have stricter rules.",
+      "keywords": [
+        "pausen arbeitszeitgesetz",
+        "ruhepause",
+        "30 minuten pause",
+        "break after six hours",
+        "ruhezeit 11 stunden",
+        "rest period between shifts",
+        "elf stunden ruhezeit",
+        "mandatory break work",
+        "pause nach sechs stunden",
+        "werkstudent pause",
+        "pausenregelung",
+        "break length 45 minutes"
+      ],
+      "source": "https://www.allianz.de/recht-und-eigentum/rechtsschutzversicherung/arbeitsrecht/gesetzliche-pausenzeiten/"
+    },
+    "door_to_door_withdrawal": {
+      "area": "consumer",
+      "law": "BGB §§ 312b, 355",
+      "title": "Contract signed at the door or on the street: 14 days to withdraw",
+      "summary": "A contract signed away from business premises, the classic Haustürgeschäft, can be withdrawn within 14 days without giving a reason. For goods the period starts when the goods arrive. If the seller did not tell you about the right, the period extends to 12 months and 14 days. There is generally no right if both sides complete the deal at once and you pay no more than 40 euro. Withdraw clearly and, where possible, provably, for example by registered letter. Contracts after phone sales are different. This also covers contracts signed after being approached on the street.",
+      "keywords": [
+        "haustürgeschäft",
+        "door to door sales contract",
+        "vertrag an der haustür",
+        "widerruf haustür",
+        "kaffeefahrt widerruf",
+        "straße angesprochen vertrag",
+        "withdraw contract signed at door",
+        "außerhalb von geschäftsräumen",
+        "vertreter haustür widerruf",
+        "zeitschriftenabo haustür",
+        "14 tage widerruf",
+        "doorstep selling germany"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/node/12240"
+    },
+    "bike_traffic_fines": {
+      "area": "consumer",
+      "law": "StVO, Bußgeldkatalog",
+      "title": "Cycling fines: red light 60 euro and one point, wrong path 20 euro, pavement 55 euro",
+      "summary": "Cyclists can be fined too. According to the sources, running a red light costs 60 euro and one point in Flensburg, longer than one second 100 euro, and with an accident up to 180. Not using a signed bike path costs 20 euro, rising to 35 with an accident. Riding on the pavement as an adult costs at least 55 euro. A missing or defective light costs 20 to 35 euro. Amounts are taken from commercial fine-catalogue sites and police sheets, so check the current Bußgeldkatalog.",
+      "keywords": [
+        "fahrrad bußgeld",
+        "cycling fine germany",
+        "rote ampel fahrrad",
+        "radfahren gehweg",
+        "bike fine red light",
+        "fahrrad licht bußgeld",
+        "radweg nicht benutzt",
+        "fahrrad punkte flensburg",
+        "cycling on pavement germany",
+        "bußgeldkatalog radfahrer",
+        "fahrrad handy bußgeld",
+        "fine for riding without lights"
+      ],
+      "source": "https://www.bussgeldkatalog.de/fahrrad-stvo/"
+    },
+    "student_unemployment_benefit": {
+      "area": "money",
+      "law": "SGB III §§ 137, 142",
+      "title": "Arbeitslosengeld I after studying: you need 12 months of insured work",
+      "summary": "Arbeitslosengeld I requires that you worked in insured employment for at least 12 months within the last 30 months before you register as unemployed (§ 142 SGB III). Werkstudent time usually does not count, because working students are normally exempt from unemployment insurance. While enrolled as a student you are generally presumed not to be available to the labour market, so ALG I is rarely possible. Register early, at the latest three months before a job ends. Talk to the Hochschulteam at the Arbeitsagentur.",
+      "keywords": [
+        "arbeitslosengeld student",
+        "alg 1 student",
+        "unemployment benefit student",
+        "arbeitslos nach studium",
+        "anwartschaftszeit",
+        "arbeitslosengeld werkstudent",
+        "exmatrikulation arbeitslos",
+        "unemployed after graduation",
+        "arbeitslosmeldung",
+        "arbeitsuchend melden",
+        "unemployed after degree germany",
+        "12 monate versicherungspflichtig"
+      ],
+      "source": "https://www.studierenplus.de/nach-dem-abschluss/arbeitslos-nach-studium"
+    },
+    "photo_rights_social_media": {
+      "area": "data",
+      "law": "KUG §§ 22, 23, DSGVO",
+      "title": "Photos of you on social media: usually needs your consent, and you can ask for removal",
+      "summary": "A picture of an identifiable person may in principle be published only with that person's consent (§ 22 KUG); there are limited exceptions in § 23 KUG. The right applies online as well as in print. If it is violated, you can claim removal, a cease-and-desist and damages. Ask the poster in writing to delete it, and report the content to the platform. A smile into the camera does not mean consent to every later use. Pictures by a photographer also carry that person's copyright.",
+      "keywords": [
+        "recht am eigenen bild",
+        "photo of me posted online",
+        "foto instagram löschen",
+        "picture posted without permission",
+        "kunsturhebergesetz",
+        "foto ohne einwilligung",
+        "remove photo social media",
+        "bild ohne erlaubnis veröffentlicht",
+        "friend posted my photo",
+        "foto löschen verlangen",
+        "tiktok video of me without consent",
+        "image rights germany"
+      ],
+      "source": "https://advocado.de/ratgeber/medien-und-urheberrecht/urhebergesetz/recht-am-eigenen-bild.html"
+    },
+    "broker_fee_tenant": {
+      "area": "housing",
+      "law": "WoVermG, Bestellerprinzip",
+      "title": "Estate agent fee for a rental flat: whoever orders the agent pays",
+      "summary": "Since the Bestellerprinzip (2015), the person who commissions the estate agent pays the commission. For a rental flat that is normally the landlord. A tenant only pays if they themselves hired the agent to search for them. Splitting the fee between landlord and tenant is not allowed, and fees disguised as viewing, processing or contract charges are not allowed either. If an agent demands money you never commissioned, do not pay and ask a tenants' association.",
+      "keywords": [
+        "maklerprovision",
+        "bestellerprinzip",
+        "estate agent fee rent",
+        "makler gebühr mieter",
+        "wer zahlt den makler",
+        "broker fee apartment",
+        "courtage mietwohnung",
+        "besichtigung gebühr verboten",
+        "agent commission flat",
+        "wohnungsvermittlung",
+        "bearbeitungsgebühr makler",
+        "pay agent to view flat"
+      ],
+      "source": "https://www.immobilienscout24.de/wissen/vermieten/wer-zahlt-makler-bei-vermietung.html"
+    },
+    "warning_letter_employer": {
+      "area": "work",
+      "law": "BetrVG § 83, BGB §§ 242, 1004",
+      "title": "Warning letter (Abmahnung) at work: reply in writing or demand removal",
+      "summary": "There is no legal deadline for objecting to an Abmahnung. You can write a counter-statement (Gegendarstellung) and ask that it be added to your personnel file (§ 83 Abs. 2 BetrVG). If the warning is unjustified, you can demand its removal from the file, and if the employer refuses, sue at the Arbeitsgericht. An Abmahnung is normally a precondition for a dismissal for conduct, but not for very serious misconduct. Keep evidence such as emails.",
+      "keywords": [
+        "abmahnung arbeitgeber",
+        "warning letter job",
+        "gegendarstellung abmahnung",
+        "abmahnung entfernen personalakte",
+        "unjustified warning employer",
+        "abmahnung widerspruch",
+        "got a warning at work",
+        "abmahnung kündigung",
+        "remove warning personnel file",
+        "verhaltensbedingte kündigung",
+        "abmahnung fristen",
+        "counter statement warning"
+      ],
+      "source": "https://www.advocado.de/ratgeber/arbeitsrecht/abmahnung/abmahnung-widerspruch-ihre-rechte-als-arbeitnehmer.html"
+    },
+    "student_health_contribution": {
+      "area": "health",
+      "law": "SGB V, Studententarif",
+      "title": "Student health insurance contribution 2026: about 140 to 148 euro a month",
+      "summary": "Compulsorily insured students pay a nationwide base rate of 10.22 percent calculated on the BAföG need rate of 855 euro, which is 87.38 euro, plus their insurer's own Zusatzbeitrag. Long-term care adds 30.78 euro for students under 23 or with a child and 35.91 euro for childless students from 23. In total that is roughly 140 to 148 euro a month depending on the insurer. Because the Zusatzbeitrag differs, comparing insurers can save money. These figures are 2026 values, so check the insurer's current sheet.",
+      "keywords": [
+        "krankenkasse beitrag student",
+        "student health insurance cost",
+        "studententarif",
+        "kvdS beitrag",
+        "how much health insurance student",
+        "zusatzbeitrag student",
+        "87,38 euro",
+        "krankenversicherung studierende kosten",
+        "pflegeversicherung student 35,91",
+        "health insurance price student 2026",
+        "krankenkasse vergleich student",
+        "monthly health insurance student"
+      ],
+      "source": "https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/"
+    },
+    "student_buergergeld_exclusion": {
+      "area": "money",
+      "law": "SGB II § 7 Abs. 5, 6",
+      "title": "Bürgergeld as a student: usually excluded if your degree is BAföG-eligible",
+      "summary": "Under § 7 Abs. 5 SGB II, students whose degree is in principle eligible for BAföG are generally excluded from Bürgergeld, whether or not they actually receive BAföG. There are exceptions in § 7 Abs. 6, and some one-off needs can still be covered. Courts have said that a part-time degree, which is not BAföG-eligible, does not trigger the exclusion. A leave semester does not automatically open a claim. Ask the Jobcenter or the Studierendenwerk's social counselling about your specific case.",
+      "keywords": [
+        "bürgergeld student",
+        "student social benefits",
+        "jobcenter student",
+        "grundsicherung student",
+        "hartz iv student",
+        "can students get bürgergeld",
+        "leistungsausschluss student",
+        "teilzeitstudium bürgergeld",
+        "sgb ii student",
+        "jobcenter ablehnung student",
+        "urlaubssemester bürgergeld",
+        "welfare as a student"
+      ],
+      "source": "https://rechtsanwalt-und-sozialrecht.de/student-auszubildende-hartz-iv/"
+    },
+    "bank_fee_increase_consent": {
+      "area": "money",
+      "law": "BGH XI ZR 26/20",
+      "title": "Bank raises account fees: silence is not consent",
+      "summary": "Since the BGH ruling of 27 April 2021, banks may not treat your silence as consent to higher fees or new charges. The bank must tell you about the change, but it only takes effect if you actively agree. If you never agreed, you may be able to reclaim fees, with claims generally becoming time-barred after three years at year end. You may refuse, but the bank may then terminate the account, and you can switch banks.",
+      "keywords": [
+        "kontoführungsgebühr",
+        "bank fee increase",
+        "girokonto teurer",
+        "zustimmungsfiktion",
+        "bank raised account fees",
+        "gebühren zurückfordern bank",
+        "bgh bankgebühren",
+        "account fee refund",
+        "bank gebührenerhöhung zustimmung",
+        "sparkasse gebühr erhöht",
+        "stillschweigen zustimmung bank",
+        "bank charges unauthorized"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/was-tun-wenn-das-konto-teurer-wird-13252"
+    },
+    "used_car_dealer_warranty": {
+      "area": "consumer",
+      "law": "BGB §§ 437, 476, 477",
+      "title": "Used car from a dealer: warranty can be cut to one year, not removed",
+      "summary": "A dealer selling a used car to a consumer cannot exclude statutory warranty entirely, but may shorten the limitation period from two years to one year if agreed. Within the first twelve months it is presumed that a defect already existed at handover, and the dealer must prove otherwise (§ 477 BGB, since 2022). A voluntary used-car guarantee runs in addition to your statutory rights, not instead of them. Sales between private people can usually exclude warranty.",
+      "keywords": [
+        "gebrauchtwagen gewährleistung",
+        "used car dealer defect",
+        "gebrauchtwagen händler mangel",
+        "car warranty one year",
+        "gebrauchtwagengarantie",
+        "car bought from dealer broke",
+        "autokauf mangel",
+        "beweislastumkehr auto",
+        "kfz händler gewährleistung",
+        "used car warranty germany",
+        "car defect after purchase",
+        "privatkauf auto ausschluss"
+      ],
+      "source": "https://www.adac.de/infotestrat/fahrzeugkauf-und-verkauf/gebrauchtfahrzeuge/gebrauchtwagenkauf/liste-mangel-verschleiss/"
+    },
+    "sick_during_vacation": {
+      "area": "work",
+      "law": "BUrlG § 9, EntgFG § 5",
+      "title": "Getting sick during holiday: sick days do not count as vacation with a doctor's note",
+      "summary": "If you fall ill during vacation, days of incapacity for work that are proven by a medical certificate are not counted against your annual leave (§ 9 BUrlG). You must report the illness to your employer promptly and get a certificate, also when abroad. You cannot simply tack the lost days onto your holiday on your own: the employer decides when you get them, taking your wishes into account. Without a certificate there is no credit.",
+      "keywords": [
+        "krank im urlaub",
+        "sick on holiday",
+        "urlaubstage zurück krank",
+        "ill during vacation",
+        "attest urlaub krank",
+        "krankheit im urlaub",
+        "sick abroad vacation certificate",
+        "urlaub nachholen krank",
+        "paragraph 9 bundesurlaubsgesetz",
+        "fell ill on holiday",
+        "krankmeldung im urlaub",
+        "vacation days lost illness"
+      ],
+      "source": "https://www.igmetall.de/service/ratgeber/sonne-urlaub-grippe"
+    },
+    "consumer_repair_replace_rights": {
+      "area": "consumer",
+      "law": "BGB §§ 437, 439, 475d",
+      "title": "Faulty goods: repair or replacement first, then refund or price cut",
+      "summary": "For a defective product you first claim Nacherfüllung, which means repair or replacement, and generally cannot demand a refund right away. The seller may refuse your chosen option if it would cost disproportionately much. Per the Verbraucherzentrale, you usually have to accept a repair at most twice before you can withdraw or reduce the price. Consumers no longer need to set the seller a deadline themselves. You can ask for an advance for transport costs, and for products bought after 31 July 2026 choosing repair extends the warranty once by one year.",
+      "keywords": [
+        "mangelhafte ware",
+        "nacherfüllung",
+        "defective product rights",
+        "reparatur oder ersatz",
+        "faulty goods refund",
+        "rücktritt kaufvertrag mangel",
+        "minderung kaufpreis",
+        "right to repair",
+        "product broke after purchase",
+        "händler verweigert reparatur",
+        "zweimal reparatur",
+        "gewährleistung rechte käufer"
+      ],
+      "source": "https://www.verbraucherzentrale.de/kundenrechte/gewaehrleistung-des-haendlers-5057"
     }
   },
   "free_help": {
