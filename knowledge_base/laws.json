@@ -1150,6 +1150,250 @@
         "rejected because of religion"
       ],
       "source": "https://www.gesetze-im-internet.de/agg/__15.html"
+    },
+    "bafoeg_repayment": {
+      "area": "money",
+      "law": "§ 17, § 18 BAföG",
+      "title": "BAföG repayment: half is a grant, you repay at most 10,010 EUR",
+      "summary": "Student BAföG is usually paid half as a grant and half as an interest-free loan. Of the loan you repay at most 10,010 EUR, however much you received. Repayment normally starts five years after the end of the maximum funding period, with instalments of at least 130 EUR a month. After 77 instalments the debt is cleared. If you earn little, you can apply for lower instalments or an exemption.",
+      "keywords": [
+        "bafög repay",
+        "bafög rückzahlung",
+        "repay bafög",
+        "bafoeg loan",
+        "10010",
+        "10.010",
+        "darlehen",
+        "how much bafög back",
+        "pay back bafög",
+        "77 raten",
+        "bafög schulden",
+        "studienabbruch bafög"
+      ],
+      "source": "https://www.studierendenwerke.de/fileadmin/user_upload/FAQ_BAfoeG_01-2026.pdf"
+    },
+    "bafoeg_change_subject": {
+      "area": "money",
+      "law": "§ 7 Abs. 3 BAföG",
+      "title": "Switching subject or dropping out: BAföG goes on only if you switch early",
+      "summary": "BAföG for a new subject (or after dropping out) is only continued if there is an important reason and the switch happens before the start of the 4th semester. After that you need an 'unabweisbarer Grund' (a reason you could not avoid). A plain change of interest (Neigungswandel) no longer counts after the end of the 3rd semester.",
+      "keywords": [
+        "change subject",
+        "switch course",
+        "fachrichtungswechsel",
+        "fachwechsel",
+        "studiengang wechseln",
+        "drop out bafög",
+        "studienabbruch",
+        "change degree",
+        "new degree bafög",
+        "4th semester",
+        "bafög after switching"
+      ],
+      "source": "https://www.bverwg.de/pm/2020/10"
+    },
+    "bafoeg_apply_early": {
+      "area": "money",
+      "law": "§ 15 Abs. 1 BAföG",
+      "title": "BAföG is not paid retroactively: apply in the first month",
+      "summary": "BAföG is paid from the month in which your application reaches the BAföG office, at the earliest from the start of your studies, not for earlier months. So a late application loses whole months. A short informal application is enough to secure the month; you can hand in the forms and documents later.",
+      "keywords": [
+        "apply bafög",
+        "bafög antrag",
+        "bafög deadline",
+        "bafög frist",
+        "retroactive",
+        "rückwirkend",
+        "late application",
+        "formloser antrag",
+        "when to apply bafög",
+        "bafög beantragen",
+        "antragsmonat"
+      ],
+      "source": "https://wiesbaden.de/medien/downloads/leben-in-wiesbaden/amt-40/Seite-2-5-Umschlag-Vorblatt.pdf"
+    },
+    "bafoeg_side_job": {
+      "area": "money",
+      "law": "§§ 21-23 BAföG",
+      "title": "BAföG and a side job: about 603 EUR a month is not counted in 2026",
+      "summary": "You can work alongside BAföG. In 2026 income up to the Minijob limit of 603 EUR a month (about 7,237 EUR gross a year) does not reduce your BAföG. Above that, the excess is counted against your BAföG over the approval period. What counts is when the money reaches your account, not when you worked.",
+      "keywords": [
+        "bafög nebenjob",
+        "bafög hinzuverdienst",
+        "side job bafög",
+        "bafög freibetrag",
+        "earn bafög",
+        "bafög minijob",
+        "job and bafög",
+        "too much income bafög",
+        "bafög einkommen",
+        "werkstudent bafög",
+        "603 bafög"
+      ],
+      "source": "https://www.arbeitsagentur.de/bildung/studium/jobben-neben-dem-studium"
+    },
+    "kindergeld_side_job": {
+      "area": "money",
+      "law": "§ 32 Abs. 4 EStG",
+      "title": "Kindergeld: no income limit in your first degree, 20-hour limit in a second",
+      "summary": "There is no income limit for Kindergeld any more. In a first training or first degree your parents keep Kindergeld whatever you earn on the side. For a second training or second degree they get it only if you work no more than 20 hours a week (or the job is part of the training). Changing or restarting a degree before finishing one still counts as the first.",
+      "keywords": [
+        "kindergeld side job",
+        "kindergeld nebenjob",
+        "kindergeld income limit",
+        "kindergeld einkommensgrenze",
+        "kindergeld zweitstudium",
+        "second degree kindergeld",
+        "parents kindergeld earn",
+        "kindergeld 20 stunden",
+        "kindergeld masterstudium",
+        "kindergeld verdienst"
+      ],
+      "source": "https://www.lohnsteuer-kompakt.de/steuerwissen/kindergeld-bei-teilzeitstudium-anspruch-nach-der-erstausbildung/"
+    },
+    "family_insurance_limit": {
+      "area": "health",
+      "law": "§ 10 SGB V; Einkommensgrenzen 2026",
+      "title": "Free family insurance: income limit 565 EUR a month (603 EUR in a Minijob)",
+      "summary": "You stay free of charge in your parents' statutory health insurance only while your regular monthly income stays under the limit: 565 EUR in 2026, or 603 EUR if your only job is a Minijob. Other income such as rent or self-employment counts too. If you exceed it, you must insure yourself, usually in the student scheme. A short overshoot of about two months a year can be tolerated; ask your Krankenkasse before taking a job.",
+      "keywords": [
+        "family insurance",
+        "familienversicherung",
+        "565",
+        "parents insurance income",
+        "free insurance student",
+        "lose family insurance",
+        "krankenkasse nebenjob",
+        "income limit insurance",
+        "student health insurance job",
+        "familienversichert verdienen",
+        "praktikum familienversicherung"
+      ],
+      "source": "https://www.vdek.com/vertragspartner/mitgliedschaftsrecht_beitragsrecht/familienversicherung.html"
+    },
+    "werkstudent_contributions": {
+      "area": "work",
+      "law": "Werkstudentenprivileg (§ 6 Abs. 1 Nr. 3 SGB V, § 27 Abs. 4 SGB III)",
+      "title": "Werkstudent: only pension contributions, no health or unemployment insurance",
+      "summary": "As a Werkstudent you and your employer pay no health, long-term care or unemployment insurance contributions on your pay, only pension insurance, which you share half and half. This only holds while you work no more than 20 hours a week in total, counting all jobs together. Above that, all insurance branches become mandatory. You still need your own student health insurance.",
+      "keywords": [
+        "werkstudent pension",
+        "werkstudent rentenversicherung",
+        "werkstudent deductions",
+        "werkstudent abzüge",
+        "werkstudent social insurance",
+        "sozialversicherung werkstudent",
+        "werkstudent netto",
+        "werkstudentenprivileg",
+        "two jobs werkstudent",
+        "werkstudent contributions"
+      ],
+      "source": "https://magazin.minijob-zentrale.de/werkstudent/"
+    },
+    "rent_arrears_termination": {
+      "area": "housing",
+      "law": "§ 543 Abs. 2 Nr. 3, § 569 Abs. 3 BGB",
+      "title": "Late rent: when the landlord can end your lease at once, and how to stop it",
+      "summary": "A landlord can end a flat lease without notice if you are behind with more than one month's rent for two months in a row, or the arrears reach two months' rent. If you pay all arrears within two months after the landlord has sued for eviction (Schonfrist), that termination becomes void. An ordinary notice based on the same arrears can still stay valid (BGH, VIII ZR 106/23).",
+      "keywords": [
+        "rent arrears",
+        "late rent",
+        "miete nicht gezahlt",
+        "mietrückstand",
+        "fristlose kündigung miete",
+        "schonfrist",
+        "can't pay rent",
+        "evicted",
+        "räumungsklage",
+        "zahlungsverzug miete",
+        "landlord terminates unpaid rent",
+        "two months rent"
+      ],
+      "source": "https://www.anwaltonline.com/mietrecht/tipps/1226/mietrueckstand"
+    },
+    "warranty_twelve_months": {
+      "area": "consumer",
+      "law": "§ 438, § 477 BGB",
+      "title": "Faulty product: 2 years warranty, the seller must prove it's not a defect in the first 12 months",
+      "summary": "When you buy from a business, defects are covered for two years (§ 438 BGB). If the defect shows up within 12 months of delivery, it is presumed to have been there from the start, and the seller has to prove otherwise (§ 477 Abs. 1 BGB; before 2022 this was 6 months). The BGH ruled in May 2026 that the seller cannot escape this just because other causes are conceivable. For second-hand goods the period can be shortened by contract to one year.",
+      "keywords": [
+        "warranty",
+        "gewährleistung",
+        "defect",
+        "mangel",
+        "broken after",
+        "laptop broke",
+        "phone broke",
+        "faulty",
+        "garantie",
+        "kaputt",
+        "two years",
+        "12 months",
+        "beweislastumkehr",
+        "used goods warranty",
+        "seller refuses repair"
+      ],
+      "source": "https://www.it-recht-kanzlei.de/gewaehrleistung-wer-muss-mangel-beweisen.html"
+    },
+    "flight_delay_compensation": {
+      "area": "consumer",
+      "law": "Verordnung (EG) Nr. 261/2004",
+      "title": "Flight delayed 3 hours or more: 250 to 600 EUR compensation",
+      "summary": "If your flight reaches its final destination 3 hours or more late, you can claim compensation under EU Regulation 261/2004: 250 EUR up to 1,500 km, 400 EUR for 1,500 to 3,500 km (and for longer flights within the EU), 600 EUR beyond that. It applies if the flight starts in the EU or the airline is based in the EU. There is no payment if the delay was caused by extraordinary circumstances. On many routes the airline must also give you meals and drinks from 2 hours of waiting.",
+      "keywords": [
+        "flight delay",
+        "flug verspätung",
+        "flight cancelled",
+        "flug annulliert",
+        "compensation flight",
+        "entschädigung flug",
+        "fluggastrechte",
+        "ryanair",
+        "lufthansa",
+        "airline refuses",
+        "delayed flight",
+        "600 euro"
+      ],
+      "source": "https://www.europarl.europa.eu/erpl-app-public/factsheets/pdf/de/FTU_2.2.3.pdf"
+    },
+    "internship_holiday": {
+      "area": "work",
+      "law": "§ 26 BBiG; § 3 BUrlG",
+      "title": "Internship: holiday and a reference only for voluntary internships",
+      "summary": "In a voluntary internship (§ 26 BBiG) you have a right to paid holiday under the Federal Holiday Act, to a written reference and to appropriate pay for work that teaches you a job. In a compulsory internship required by your study regulations there is no holiday entitlement.",
+      "keywords": [
+        "internship holiday",
+        "praktikum urlaub",
+        "pflichtpraktikum",
+        "freiwilliges praktikum",
+        "praktikum zeugnis",
+        "praktikum vergütung",
+        "internship vacation days",
+        "internship reference",
+        "unpaid internship holiday",
+        "praktikant urlaub"
+      ],
+      "source": "https://www.aok.de/fk/fileadmin/user_upload/medien-seminare/seminare/online/universell/2026-06-18-1000-best-of-probearbeit-praktikum.pdf"
+    },
+    "termination_without_notice": {
+      "area": "work",
+      "law": "§ 626 BGB",
+      "title": "Fired or quitting without notice: you need an important reason and act within 2 weeks",
+      "summary": "A termination without notice (fristlos) is only valid with an important reason that makes it unreasonable to continue until the end of the notice period (§ 626 Abs. 1 BGB). It can only be declared within two weeks after the person learned the reason (§ 626 Abs. 2 BGB); after that it is invalid. This applies to employer and employee. Employees can also quit without notice for serious reasons such as unpaid wages.",
+      "keywords": [
+        "fristlose kündigung",
+        "sofort gekündigt",
+        "fired immediately",
+        "quit without notice",
+        "kündigung ohne frist",
+        "außerordentliche kündigung",
+        "two weeks reason",
+        "wichtiger grund",
+        "unpaid wages quit",
+        "dismissed on the spot",
+        "abmahnung kündigung"
+      ],
+      "source": "https://finanztip.de/fristlose-kuendigung/"
     }
   },
   "free_help": {

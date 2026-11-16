@@ -50,6 +50,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("My contract says overtime is already included in my salary", "overtime_flat_clause"),
     ("Why is 3.6 percent pension taken from my Minijob pay?", "minijob_pension"),
     ("I think I was rejected for a job because of my headscarf", "discriminated_application"),
+    ("How much BAföG do I have to pay back after my degree?", "bafoeg_repayment"),
+    ("I want to switch my degree in the 5th semester, do I keep BAföG?", "bafoeg_change_subject"),
+    ("I am late with my BAföG application, do I lose money?", "bafoeg_apply_early"),
+    ("How much can I earn next to BAföG with a student job?", "bafoeg_side_job"),
+    ("Do my parents lose Kindergeld if I earn too much in my second degree?", "kindergeld_side_job"),
+    ("Until what income can I stay in my parents' Familienversicherung?", "family_insurance_limit"),
+    ("What do I pay in social insurance as a Werkstudent?", "werkstudent_contributions"),
+    ("I am two months behind with rent, can my landlord throw me out?", "rent_arrears_termination"),
+    ("My laptop broke after 8 months and the shop refuses a repair", "warranty_twelve_months"),
+    ("My flight was delayed by four hours, do I get compensation?", "flight_delay_compensation"),
+    ("Do I get holiday in my voluntary internship?", "internship_holiday"),
+    ("My boss fired me on the spot without notice", "termination_without_notice"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
