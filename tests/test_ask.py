@@ -160,6 +160,15 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("What rights do I have as a dual study student with a company contract?", "dual_study_rights"),
     ("How long do I have to answer a rent increase letter in Munich?", "rent_increase_response"),
     ("My landlord has not given me the Wohnungsgeberbestätigung for the Anmeldung in Munich", "registration_missing_landlord_confirmation"),
+    ("How much notice do I need to quit my Werkstudent job?", "employee_notice_period"),
+    ("Do I get Elterngeld as a student with a baby?", "elterngeld_student"),
+    ("Where is the Kündigungsbutton for my mobile contract and what is the one month notice?", "mobile_contract_notice"),
+    ("Who pays my train ticket to a job interview?", "interview_travel_costs"),
+    ("Is there a right to a Zwischenzeugnis during my job?", "interim_reference"),
+    ("How long do negative Schufa entries stay?", "schufa_retention"),
+    ("My online order parcel got lost, who bears the risk?", "parcel_shipping_risk"),
+    ("Can my boss put a camera at my workplace?", "workplace_video_surveillance"),
+    ("I got a Mahnbescheid, how long to object?", "mahnbescheid_objection"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

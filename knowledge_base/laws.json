@@ -3431,6 +3431,192 @@
         "erklärung fehlende wohnungsgeberbestätigung"
       ],
       "source": "https://stadt.muenchen.de/service/info/hauptabteilung-ii-buergerangelegenheiten/1063475/"
+    },
+    "employee_notice_period": {
+      "area": "work",
+      "law": "BGB § 622",
+      "title": "Quitting a job: four weeks to the 15th or month end, two weeks in probation",
+      "summary": "An employee can end a regular job with four weeks' notice to the 15th or the end of a calendar month (§ 622 Abs. 1 BGB). This notice stays the same however long you have worked there, and four weeks means exactly 28 days. In an agreed probation period, up to six months, the notice is two weeks to any day. The contract may not give the employee a longer notice than the employer. Notice must be in writing with your own signature; email or chat does not count. A contract or collective agreement can set different terms.",
+      "keywords": [
+        "kündigungsfrist arbeitnehmer",
+        "notice period quitting job",
+        "kündigungsfrist probezeit",
+        "how long notice to quit",
+        "werkstudent kündigen",
+        "four weeks notice 15th",
+        "kündigung zum 15.",
+        "probation notice two weeks",
+        "resign from job notice",
+        "eigenkündigung frist",
+        "quit werkstudent job",
+        "arbeitsvertrag kündigen frist"
+      ],
+      "source": "https://www.ihk.de/kassel-marburg/beratung-service/recht/arbeitsrecht/gesetzliche-kuendigungsfristen-5559740"
+    },
+    "elterngeld_student": {
+      "area": "money",
+      "law": "BEEG",
+      "title": "Student with a baby: Elterngeld minimum 300 euro, and you can take a leave semester",
+      "summary": "Students without income get the minimum Elterngeld of 300 euro a month, and it is paid for 12 months, or 14 with partner months. You must live with the child in Germany and care for it yourself. Full-time students without a job have no Elternzeit in the strict sense, because that is for employees, but they can take a leave semester. At TUM such a leave for Mutterschutz or Elternzeit is possible for up to six semesters per child. If you receive BAföG, Elterngeld above the minimum is counted as income. Apply at the Elterngeldstelle of your state.",
+      "keywords": [
+        "elterngeld student",
+        "student baby",
+        "studieren mit kind",
+        "parental allowance student",
+        "300 euro elterngeld",
+        "beurlaubung elternzeit",
+        "pregnant student germany",
+        "schwanger im studium",
+        "student mother benefits",
+        "urlaubssemester kind",
+        "elterngeld bafög",
+        "study with child leave"
+      ],
+      "source": "https://www.iu.de/magazin/schwanger-im-studium/"
+    },
+    "mobile_contract_notice": {
+      "area": "consumer",
+      "law": "TKG § 56",
+      "title": "Phone and internet contracts: max 24 months, then monthly notice",
+      "summary": "Since 1 December 2021 the minimum term of a mobile or internet contract may be at most 24 months (§ 56 Abs. 1 TKG). After that it cannot renew silently for a year: once it runs on, you can end it at any time with one month's notice (§ 56 Abs. 3 TKG). The provider must warn you before it renews. You also have a Kündigungsbutton on the provider's website. Contracts signed before 1 March 2022 may still have older terms for the first term. Cancelling online with the button gets an instant receipt.",
+      "keywords": [
+        "handyvertrag kündigen",
+        "mobile contract cancel",
+        "kündigungsbutton",
+        "vertrag verlängert sich automatisch",
+        "telekom kündigen",
+        "o2 kündigen",
+        "mindestlaufzeit 24 monate",
+        "phone contract auto renew",
+        "internet vertrag kündigung frist",
+        "dsl kündigen",
+        "tarif kündigen monatlich",
+        "cancel phone plan germany"
+      ],
+      "source": "https://www.allianz.de/recht-und-eigentum/rechtsschutzversicherung/vertragsrecht/handyvertrag-kuendigen/"
+    },
+    "interview_travel_costs": {
+      "area": "work",
+      "law": "BGB § 670",
+      "title": "Job interview travel: the inviting employer pays unless it said otherwise in advance",
+      "summary": "If an employer invites you to an interview, it generally has to reimburse your necessary travel costs under § 670 BGB. It can exclude this or cap it, but only if it says so clearly together with the invitation. Ask before the interview and keep tickets. The claim comes from the invitation, whether or not you get the job. Other costs, such as pay for a day of leave you took, are normally not paid. If the employer refuses, your own costs can be deducted as Werbungskosten on your tax return.",
+      "keywords": [
+        "fahrtkosten vorstellungsgespräch",
+        "interview travel costs",
+        "bewerbungskosten erstattung",
+        "who pays interview travel",
+        "reisekosten bewerbung",
+        "vorstellungskosten",
+        "employer pays interview train",
+        "assessment center reisekosten",
+        "bewerbung kosten absetzen",
+        "einladung vorstellungsgespräch kosten",
+        "job interview reimbursement",
+        "anreise bewerbungsgespräch"
+      ],
+      "source": "https://www.igmetall.de/service/ratgeber/bewerbung-diese-kosten-werden-erstattet"
+    },
+    "interim_reference": {
+      "area": "work",
+      "law": "GewO § 109",
+      "title": "Zwischenzeugnis: no automatic right, but you can ask with a good reason",
+      "summary": "On leaving a job, every employee has a legal claim to a written reference (§ 109 GewO), simple or qualified. A Zwischenzeugnis during the job is different: there is no general legal claim, but you can ask for one if you have a legitimate interest, for example when your tasks change substantially, when you have a new boss, or before applying elsewhere. A reference must be clear and understandable, with no hidden messages, and you can ask for a correction. The employee has the choice between simple and qualified.",
+      "keywords": [
+        "zwischenzeugnis",
+        "interim reference",
+        "zwischenzeugnis anspruch",
+        "reference during employment",
+        "zwischenzeugnis verlangen",
+        "interim reference letter",
+        "zwischenzeugnis wann",
+        "zwischenzeugnis vorgesetzter wechsel",
+        "reference before applying elsewhere"
+      ],
+      "source": "https://www.ihk.de/schleswig-holstein/recht/arbeitsrecht/Arbeitszeugnis/"
+    },
+    "schufa_retention": {
+      "area": "money",
+      "law": "DSGVO Art. 17",
+      "title": "Schufa: most negative entries stay three years, paid-off debts are marked as settled",
+      "summary": "A paid debt stays in the Schufa record but is marked as erledigt. The main storage period is three years for claims and for data on insolvency or debt relief proceedings after their end. A small unsettled claim under 2,000 euro that is paid promptly is not entered at all, according to one source. After the 2023 court cases the Schufa announced it would delete entries on a completed Restschuldbefreiung after six months. There is no clear nationwide statute for how long settled claims may be stored, so ask the Schufa for deletion in writing if an entry is wrong or unfair.",
+      "keywords": [
+        "schufa eintrag löschen",
+        "schufa negative eintrag",
+        "how long schufa stores",
+        "schufa lösch frist",
+        "schufa three years",
+        "bonität schlecht wohnung",
+        "schufa erledigt",
+        "schufa restschuldbefreiung",
+        "negative schufa apartment",
+        "wann wird schufa gelöscht",
+        "schufa entry paid debt",
+        "bad credit score germany"
+      ],
+      "source": "https://www.gegen-hartz.de/?p=175623"
+    },
+    "parcel_shipping_risk": {
+      "area": "consumer",
+      "law": "BGB §§ 446, 475 Abs. 2",
+      "title": "Parcel lost or damaged: the online shop carries the shipping risk",
+      "summary": "If you buy as a private person from a business, the seller bears the risk until the goods are handed to you (§ 475 Abs. 2 BGB; § 447 does not apply). If the parcel is lost or arrives damaged, the shop must refund or deliver again, even with uninsured shipping, and it should not refer you to the carrier. Take photos of damaged packaging and contact the shop. The risk passes to you if you refuse to accept delivery. A private seller is different: according to one source, such a seller is not liable for loss in transit, so you only have a voluntary refund to hope for.",
+      "keywords": [
+        "paket verloren",
+        "package lost online shop",
+        "paket beschädigt",
+        "versandrisiko",
+        "parcel damaged who pays",
+        "dhl paket nicht angekommen",
+        "order never arrived refund",
+        "transportschaden händler",
+        "shipping risk online shop",
+        "lieferung nicht erhalten geld zurück",
+        "parcel not delivered",
+        "paket beschädigt angekommen"
+      ],
+      "source": "https://www.ra-kotz.de/paket-beschaedigt-oder-zu-spaet-diese-rechte-haben-sie-jetzt.htm"
+    },
+    "workplace_video_surveillance": {
+      "area": "data",
+      "law": "BDSG § 26",
+      "title": "Cameras at work: not without a reason, never in changing rooms or toilets",
+      "summary": "Filming employees without any reason is not allowed under § 26 BDSG. Cameras must be necessary and proportionate, and the works council has a say where there is one. Toilets, showers, changing rooms and sleeping rooms are off limits, and consent does not fix that. Secret filming is allowed only in narrow cases, such as concrete suspicion of a crime and when milder measures have not worked. You can ask your employer in writing whether and what data it stores about you, and complain to the data-protection authority.",
+      "keywords": [
+        "kamera arbeitsplatz",
+        "videoüberwachung arbeitsplatz",
+        "camera at work legal",
+        "boss filming me",
+        "heimliche überwachung mitarbeiter",
+        "kamera umkleide",
+        "cctv employer",
+        "bdsg 26 überwachung",
+        "arbeitgeber kamera datenschutz",
+        "surveillance at workplace germany",
+        "kamera im hotel rezeption",
+        "überwachung arbeitgeber beschwerde"
+      ],
+      "source": "https://www.haufe.de/personal/arbeitsrecht/videoueberwachung-von-mitarbeitern_76_341674.html"
+    },
+    "mahnbescheid_objection": {
+      "area": "money",
+      "law": "ZPO §§ 692, 694",
+      "title": "Mahnbescheid: you have two weeks to object, and it is a simple form",
+      "summary": "A Mahnbescheid is a payment demand from the court and not yet a judgment. You have two weeks to object (Widerspruch), using the form that comes with it, fully or in part. If you object, the creditor has to sue if it wants to go on. If the deadline passes, the objection is treated as an Einspruch against the Vollstreckungsbescheid, which again has a two-week deadline. If you think the claim is unjustified, object and get free debt counselling advice; do not just ignore it.",
+      "keywords": [
+        "mahnbescheid",
+        "mahnbescheid widerspruch",
+        "court payment order",
+        "vollstreckungsbescheid einspruch",
+        "gerichtlicher mahnbescheid frist",
+        "received mahnbescheid",
+        "widerspruch mahnbescheid zwei wochen",
+        "inkasso mahnbescheid",
+        "debt collection letter court",
+        "schuldnerberatung kostenlos",
+        "two weeks objection payment demand",
+        "mahnbescheid ignorieren"
+      ],
+      "source": "https://infodienst-schuldnerberatung.de/wp-content/uploads/2026/03/Forderungspruefung-Schuldnerberatung.pdf"
     }
   },
   "free_help": {
