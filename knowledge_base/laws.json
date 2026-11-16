@@ -604,7 +604,10 @@
         "kündigung vermieter",
         "rauswurf",
         "landlord cancel",
-        "have to leave"
+        "have to leave",
+        "eigenbedarf",
+        "kick me out",
+        "wants me out"
       ],
       "source": "https://www.gesetze-im-internet.de/bgb/__573.html"
     },
@@ -1903,6 +1906,274 @@
         "meine schufa"
       ],
       "source": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/was-tun-bei-einem-schufaeintrag-53209"
+    },
+    "bafoeg_flexi_semester": {
+      "area": "money",
+      "law": "§ 15 Abs. 3 und 4 BAföG",
+      "title": "BAföG after the standard period: one free extra semester (Flexi-Semester) plus extensions for specific reasons",
+      "summary": "Once in your Bachelor or Master you can get BAföG for one more semester after the standard period without giving a reason (the Flexibilitätssemester). Beyond that, BAföG can be extended for a fitting time if you went over because of serious reasons, for example a first failed final exam, a disability, pregnancy or caring for a child under 14, or caring for a relative with care level 3. You have to prove the reason and show it caused the delay, so apply early, ideally at the start of the last funded semester.",
+      "keywords": [
+        "flexi-semester",
+        "flexibilitätssemester",
+        "bafög verlängerung",
+        "förderungshöchstdauer",
+        "regelstudienzeit überschritten",
+        "bafög longer than standard period",
+        "extra semester bafög",
+        "bafög after regelstudienzeit",
+        "über die förderungshöchstdauer",
+        "bafög extension"
+      ],
+      "source": "https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/bafoeg/verlaengerung-der-bafoeg-foerderung"
+    },
+    "bafoeg_performance_proof": {
+      "area": "money",
+      "law": "§ 48 BAföG",
+      "title": "BAföG from the 5th semester: you need a performance record (Leistungsnachweis), usually about 120 ECTS",
+      "summary": "To keep getting BAföG from the 5th subject semester you must hand in a performance record (Leistungsnachweis) showing the work normally expected by then, which in most Bachelor programmes is about 120 ECTS. It counts as handed in on time if the BAföG office receives it within four months after the semester it covers. If you are short, ask for an exception: in some cases the deadline can be extended if the funding period will probably be extended anyway. Your Prüfungsamt issues the form, so ask it early.",
+      "keywords": [
+        "leistungsnachweis bafög",
+        "§ 48 bafög",
+        "bafög 4. semester",
+        "bafög fünftes semester",
+        "bafög 120 ects",
+        "formblatt 5",
+        "bafög performance record",
+        "bafög proof of progress",
+        "bafög ab dem 5. semester",
+        "bafög nachweis leistungen",
+        "bafög zu wenig ects",
+        "bafög ects fehlen",
+        "leistungsnachweis",
+        "leistungsnachweis 4th semester",
+        "need a leistungsnachweis",
+        "leistungsbescheinigung"
+      ],
+      "source": "https://www.bafoeg-aktuell.de/?p=6851"
+    },
+    "bafoeg_abroad": {
+      "area": "money",
+      "law": "§ 5, § 16 BAföG",
+      "title": "BAföG abroad: a full degree in the EU is funded, outside the EU one year, at least six months abroad",
+      "summary": "You can get BAföG for studying abroad if you live permanently in Germany and the foreign university is equivalent. In the EU or Switzerland even a whole degree can be funded. Outside the EU, BAföG usually covers one year (two semesters) in one continuous stay, after at least a year of studying in Germany, in rare cases up to five semesters. The stay must last at least six months or one semester, and it must help your studies at home. Apply about six months before leaving, and mandatory internships abroad can be funded too. Up to two semesters abroad do not count towards your funding period in Germany.",
+      "keywords": [
+        "auslands-bafög",
+        "auslandsbafög",
+        "bafög ausland",
+        "erasmus bafög",
+        "bafög abroad",
+        "study abroad funding",
+        "auslandssemester finanzieren",
+        "bafög pflichtpraktikum ausland",
+        "bafög eu studium",
+        "auslandssemester bafög antrag"
+      ],
+      "source": "https://www.studierendenwerke.de/fileadmin/user_upload/260713_DSW_Flyer_BafoeGAusland_web.pdf"
+    },
+    "liability_insurance_student": {
+      "area": "consumer",
+      "law": "Versicherungsvertragsgesetz; Vertragsbedingungen der Privathaftpflicht",
+      "title": "Liability insurance: covered by your parents' policy during a first education, but check it",
+      "summary": "Private liability insurance (Privathaftpflicht) is not compulsory, but damage you cause can be very expensive. Many parents' family policies also cover adult children during their first education or degree. It ends at the latest after the education or marriage, and several insurers end it at a second degree or around 25 years old, so check your parents' contract in writing. If you are not covered, a policy for students often costs only a few euros a month. The Verbraucherzentrale recommends a sum insured of about 10 million EUR.",
+      "keywords": [
+        "haftpflicht",
+        "privathaftpflicht",
+        "liability insurance",
+        "familienhaftpflicht",
+        "mitversichert eltern",
+        "coverage by parents",
+        "haftpflichtversicherung student",
+        "zweitstudium haftpflicht",
+        "do i need liability insurance",
+        "verbraucherzentrale versicherung",
+        "10 millionen deckungssumme"
+      ],
+      "source": "https://www.verbraucherzentrale.de/node/40786"
+    },
+    "health_insurance_exemption": {
+      "area": "money",
+      "law": "§ 8 Abs. 1 Nr. 5 SGB V",
+      "title": "Privately insured students: exemption from statutory insurance must be requested within three months and is binding",
+      "summary": "If you are privately insured, you can choose at enrolment: switch to the statutory student insurance or ask a statutory health fund to be exempted so you can stay private. The exemption request has to be filed within three months after your studies start, and it is binding for the rest of your studies, you cannot go back to the statutory scheme later. Think about it carefully: the choice is only possible again when your status changes, for example when you take a job with social insurance.",
+      "keywords": [
+        "befreiung krankenversicherung",
+        "kvdS befreiung",
+        "privat krankenversichert student",
+        "pkv wechsel student",
+        "exemption health insurance",
+        "stay private insurance student",
+        "private health insurance student",
+        "gesetzlich oder privat",
+        "befreiung versicherungspflicht student",
+        "pkv student binding",
+        "wechsel pkv gkv studium"
+      ],
+      "source": "https://www.gew.de/gesundheit/krankenversicherung-fuer-studierende"
+    },
+    "eigenbedarf_hardship_objection": {
+      "area": "housing",
+      "law": "§ 573, § 574, § 574b BGB",
+      "title": "Notice for the landlord's own use: you can object because of hardship, at the latest two months before the end",
+      "summary": "A termination because of the landlord's own need must be written, signed and give a real reason. Even a valid termination can be objected to if moving out would be a hardship for you or your household, for example illness, pregnancy or not finding another flat. The objection has to reach the landlord at the latest two months before the notice period ends. The notice period is at least three months and gets longer with the years you have lived there. You cannot object to an immediate termination. Mieterverein or a lawyer can help check the notice.",
+      "keywords": [
+        "eigenbedarfskündigung widerspruch",
+        "härtefall mieter",
+        "sozialklausel",
+        "widerspruch kündigung wohnung",
+        "§ 574 bgb",
+        "objection eviction hardship",
+        "härtefall widerspruch frist",
+        "object to termination landlord",
+        "zwei monate widerspruch kündigung",
+        "eigenbedarf härtefall",
+        "eigenbedarf hardship objection"
+      ],
+      "source": "https://www.berliner-mieterverein.de/?p=44107"
+    },
+    "rent_step_index": {
+      "area": "housing",
+      "law": "§ 557a, § 557b BGB",
+      "title": "Step rent and index rent: allowed, but the rent brake still applies and a step rent is fixed in euros",
+      "summary": "A step rent (Staffelmiete) fixes future rent increases in the lease as amounts in euros, not percentages. It is allowed, but neither the starting rent nor later stages may exceed what the rent brake permits in a tight market. The usual 15 or 20 percent cap for rent increases does not apply to a step rent. An index rent (Indexmiete) ties your rent to the consumer price index, so it can rise with inflation. Check which model your lease has before you sign and what happens at the next stage.",
+      "keywords": [
+        "staffelmiete",
+        "indexmiete",
+        "step rent",
+        "graduated rent",
+        "index rent",
+        "miete steigt automatisch",
+        "mieterhöhung vertrag",
+        "inflation miete",
+        "verbraucherpreisindex miete",
+        "staffelmietvertrag",
+        "gestaffelte miete",
+        "rent increase in lease"
+      ],
+      "source": "https://www.finanztip.de/staffelmiete/"
+    },
+    "energy_price_exit": {
+      "area": "consumer",
+      "law": "§ 41 Abs. 5 EnWG",
+      "title": "Electricity or gas price change: you can cancel without notice period until it takes effect",
+      "summary": "When your energy provider changes the price during the contract, even if it lowers it, you can cancel your electricity or gas contract without a notice period until the change takes effect. The provider has to announce the change in a clear letter that points out your special termination right. If the letter is missing this reference or is not clear, the increase is not valid. You can also object to a bill later and ask for the money back. Keep your cancellation proof and have the new provider handle the switch.",
+      "keywords": [
+        "strompreiserhöhung",
+        "gaspreiserhöhung",
+        "sonderkündigung strom",
+        "sonderkündigung gas",
+        "electricity price increase",
+        "energy price rise cancel",
+        "anbieterwechsel strom",
+        "preisänderung energieversorger",
+        "strom kündigen",
+        "preiserhöhung ankündigung",
+        "§ 41 enwg",
+        "energy provider changed price"
+      ],
+      "source": "https://finanztip.de/stromanbieter-wechseln/sonderkuendigungsrecht-strom-gas/"
+    },
+    "copyright_images_papers": {
+      "area": "data",
+      "law": "§ 51 UrhG; §§ 97, 97a UrhG",
+      "title": "Photos and texts from the internet are protected: quote with credit, and ask before publishing online",
+      "summary": "Almost every picture on the internet is protected by copyright. Using one in a paper that only your lecturer sees falls under different exceptions than publishing it online. A court case about a school presentation showed that posting a photo on a public site without permission can lead to a warning letter, even for a student. A quotation is only allowed if it is needed to support your own point, keeps its original wording and names the source. If you receive a warning letter, do not sign the demand for an undertaking before getting advice, since it can be changed.",
+      "keywords": [
+        "urheberrecht",
+        "copyright",
+        "bildrechte",
+        "fotos internet",
+        "image rights",
+        "bild aus dem internet",
+        "zitat",
+        "quotation rule",
+        "abmahnung foto",
+        "photo from google",
+        "fremde bilder präsentation",
+        "bachelor arbeit bilder",
+        "cc lizenz",
+        "creative commons"
+      ],
+      "source": "https://www.ihk.de/karlsruhe/fachthemen/recht/internetrecht/bildrechte-im-internet-5762164"
+    },
+    "gym_contract": {
+      "area": "consumer",
+      "law": "§ 309 Nr. 9 BGB; § 312g BGB",
+      "title": "Gym contracts: two years at most, a monthly notice after the minimum term, and no withdrawal if you signed in the studio",
+      "summary": "Fitness studio contracts usually run for 12 or 24 months, the maximum minimum term in standard terms is two years. For contracts signed after 1 March 2022, an automatic extension is only possible for an unlimited term that you can cancel with one month's notice. If you sign in the studio itself there is normally no withdrawal right, but there is one for contracts concluded online or by phone. An early termination without notice is only possible for important reasons, a move to another town is usually not enough unless your contract says so.",
+      "keywords": [
+        "fitnessstudio",
+        "gym",
+        "mcfit",
+        "gym membership",
+        "studio vertrag",
+        "fitnessstudio kündigen",
+        "gym contract cancel",
+        "mitgliedschaft kündigen",
+        "probetraining vertrag",
+        "fitness contract minimum term",
+        "clever fit",
+        "fitnessstudio widerruf"
+      ],
+      "source": "https://www.vzhh.de/print/pdf/node/3870"
+    },
+    "semesterticket_refund": {
+      "area": "money",
+      "law": "Semesterticketverträge der Hochschulen",
+      "title": "Semesterticket: it is a solidarity ticket, a refund is only possible in listed exceptional cases",
+      "summary": "The semester ticket is based on the Deutschlandticket and costs 60 percent of its price, which is why every student has to buy it. A refund or exemption is only possible in the exceptions in your university's ticket contract, for example a hardship case, buying the ticket twice because you are enrolled at two universities, leave of absence or a disability. Often the evidence has to be handed in before the semester fee is paid or by a deadline. The semester fee is more than the ticket, and only the ticket share is refunded.",
+      "keywords": [
+        "semesterticket erstattung",
+        "semesterticket befreiung",
+        "semesterticket zurück",
+        "ticket refund student",
+        "solidarticket",
+        "deutschlandsemesterticket",
+        "semesterticket härtefall",
+        "semesterticket doppelt",
+        "semesterticket rückerstattung",
+        "semester ticket exemption",
+        "semesterticket nicht nutzen",
+        "semesterticket urlaubssemester"
+      ],
+      "source": "https://www.stura.tu-dresden.de/en/semesterticket/rueckerstattung"
+    },
+    "deutschlandticket_cancel": {
+      "area": "consumer",
+      "law": "Tarifbestimmungen Deutschlandticket",
+      "title": "Deutschlandticket subscription: cancel by the 10th of a month for the end of that month",
+      "summary": "The normal Deutschlandticket subscription runs for an unlimited time and can be cancelled monthly. Your cancellation must reach the company by the 10th of the month, and then the ticket is valid until the end of that calendar month. It differs from the Deutschlandsemesterticket, which has a fixed term for the semester and cannot be cancelled monthly. Check which one you have before you cancel, since a student can have the semester ticket as the cheaper way to ride.",
+      "keywords": [
+        "deutschlandticket kündigen",
+        "deutschlandticket abo",
+        "49 euro ticket kündigen",
+        "deutschlandticket cancel",
+        "kündigung bis 10.",
+        "ticket abo kündigen",
+        "58 euro ticket",
+        "deutschlandticket monatlich kündbar",
+        "mvv deutschlandticket kündigen",
+        "cancel subscription transport"
+      ],
+      "source": "https://dresden.vvo-online.de/doc/VVO-Kleingedrucktes-Anlage-10-Deutschlandticket.pdf"
+    },
+    "thesis_in_company": {
+      "area": "work",
+      "law": "§ 22 MiLoG",
+      "title": "Writing your thesis at a company: only the thesis work itself does not trigger minimum wage",
+      "summary": "If you write your Bachelor or Master thesis in a company and only do the work needed for the thesis, for example using the company's data and expertise, it is not a job and the minimum wage does not apply. If you also do normal work for the company, a thesis does not stop that work from being paid at least the minimum wage. Agree in writing what you do, who supervises you and whether you get paid, so that it is clear which part is thesis and which is work.",
+      "keywords": [
+        "thesis company",
+        "abschlussarbeit unternehmen",
+        "bachelorarbeit im unternehmen",
+        "masterarbeit firma",
+        "thesis at company pay",
+        "abschlussarbeit vergütung",
+        "thesis mindestlohn",
+        "thesis internship pay",
+        "praktikum abschlussarbeit",
+        "write thesis in company"
+      ],
+      "source": "https://www.ihk.de/rheinhessen/aus-und-weiterbildung/ausbildung/unternehmen/rechtsinfos-fuer-betriebe-und-azubis/mindestlohn-fuer-praktikanten-1456844"
     }
   },
   "free_help": {

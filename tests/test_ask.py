@@ -87,6 +87,19 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("I have a baby, do I get an extra child care supplement with BAföG?", "student_parent_bafoeg"),
     ("My mobile provider raised the price, can I cancel early?", "mobile_price_increase"),
     ("How do I get my Schufa report for free?", "schufa_free_copy"),
+    ("Can I get BAföG for one more semester after the standard period?", "bafoeg_flexi_semester"),
+    ("Do I need a Leistungsnachweis for BAföG after the 4th semester?", "bafoeg_performance_proof"),
+    ("Do I get BAföG for a semester abroad with Erasmus?", "bafoeg_abroad"),
+    ("Am I still covered by my parents' Haftpflichtversicherung as a student?", "liability_insurance_student"),
+    ("I am privately insured, can I switch to the statutory student insurance later?", "health_insurance_exemption"),
+    ("My landlord gave notice because of Eigenbedarf, can I object?", "eigenbedarf_hardship_objection"),
+    ("My lease has a Staffelmiete, is that allowed?", "rent_step_index"),
+    ("My electricity provider raised the price, can I cancel at once?", "energy_price_exit"),
+    ("Can I use photos from Google in my presentation or post them online?", "copyright_images_papers"),
+    ("How long can a gym contract run and can I cancel monthly?", "gym_contract"),
+    ("Can I get my Semesterticket money back?", "semesterticket_refund"),
+    ("Until when do I have to cancel my Deutschlandticket subscription?", "deutschlandticket_cancel"),
+    ("Do I get minimum wage if I write my thesis at a company?", "thesis_in_company"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
