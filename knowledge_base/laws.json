@@ -3179,6 +3179,258 @@
         "hauptmieter kündigt untermieter"
       ],
       "source": "https://www.dahag.de/c/ratgeber/mietrecht/untervermietung"
+    },
+    "household_insurance_parents": {
+      "area": "money",
+      "law": "VVG, Hausratversicherung (Außenversicherung)",
+      "title": "Contents insurance: parents' policy may cover you in a WG or dorm, but only to a limit",
+      "summary": "Students in a first degree who keep their main home with their parents and live temporarily in a shared flat or dorm room may still be covered by the parents' contents insurance through its Außenversicherung. The covered sums are limited, and once you move into your first own flat you need your own policy. Cover depends on the insurer's terms, so ask in writing. Standard contents insurance protects a bike only against burglary from a locked room, not theft on the street, which needs an extra bike module.",
+      "keywords": [
+        "hausratversicherung student",
+        "contents insurance student",
+        "außenversicherung",
+        "hausrat eltern mitversichert",
+        "home contents insurance wg",
+        "insured through parents",
+        "hausrat wg zimmer",
+        "hausratversicherung wohnheim",
+        "do i need contents insurance",
+        "laptop stolen insurance",
+        "hausrat versicherung erste wohnung",
+        "insurance for my things in flat"
+      ],
+      "source": "https://www.test.de/Protect-your-stuff-Hausratversicherung-fuer-Studis-und-WG-Bewohner-5396657-0/"
+    },
+    "overdraft_dispo": {
+      "area": "money",
+      "law": "BGB §§ 504, 505",
+      "title": "Overdraft: a Dispo is a loan, and tolerated overdraft costs more",
+      "summary": "The Dispo is an agreed overdraft limit and counts as a loan. Going beyond it is a tolerated overdraft (geduldete Überziehung, § 505 BGB), which normally carries a higher rate and gives you no right to be tolerated. If you are significantly overdrawn for more than a month the bank has to inform you about the amount, the rate and the costs; if it fails, it can claim only the repayment, not costs or interest. Banks can cut or cancel a Dispo at any time, so do not treat it as a savings buffer. Look at cheaper alternatives if you use it often.",
+      "keywords": [
+        "dispo",
+        "dispokredit",
+        "overdraft",
+        "dispozins",
+        "konto überzogen",
+        "account overdrawn",
+        "geduldete überziehung",
+        "girokonto minus",
+        "overdraft interest student",
+        "bank cancels overdraft",
+        "dispo kündigen bank",
+        "negative balance bank account"
+      ],
+      "source": "https://www.capitalo.de/lexikon/dispo"
+    },
+    "non_compete": {
+      "area": "work",
+      "law": "HGB §§ 74 ff.",
+      "title": "Non-compete after leaving: binding only in writing and with at least 50 percent compensation",
+      "summary": "A post-contract non-compete (nachvertragliches Wettbewerbsverbot) binds you only if it is agreed in writing and the employer promises a Karenzentschädigung of at least 50 percent of your last contractual pay (§ 74 Abs. 2 HGB). The ban may last at most two years and needs a legitimate business interest. Without the compensation promise the clause does not bind you. While you are employed you must not work for a competitor, but a side job that does not compete is generally fine. Have a lawyer or union look at any non-compete before you sign.",
+      "keywords": [
+        "wettbewerbsverbot",
+        "non compete",
+        "karenzentschädigung",
+        "konkurrenzklausel",
+        "can i work for competitor",
+        "nachvertragliches wettbewerbsverbot",
+        "non-compete clause contract",
+        "nebentätigkeit konkurrenz",
+        "konkurrenzverbot arbeitsvertrag",
+        "switch to competitor after quitting",
+        "competitor job ban",
+        "karenz 50 prozent"
+      ],
+      "source": "https://www.thorn-arbeitsrecht-muenchen.de/lexikon/wettbewerbsverbot"
+    },
+    "personnel_file_access": {
+      "area": "data",
+      "law": "BetrVG § 83, DSGVO Art. 15",
+      "title": "Your personnel file: you can read it, and ask what data the employer holds on you",
+      "summary": "Under § 83 BetrVG you may inspect the personnel file kept about you and bring a member of the works council. The BAG ruled (9 AZR 791/14) that this does not include a right to bring a lawyer, at least where the employer allows you to make copies. Separately, you can request information on all personal data the employer processes on you under data-protection law; one source says it has to be answered within one month and no reason is needed. Put the request in writing and note the date.",
+      "keywords": [
+        "personalakte",
+        "personnel file",
+        "einsicht personalakte",
+        "what data does my employer have",
+        "employer data about me",
+        "arbeitgeber daten auskunft",
+        "access employee file",
+        "personalakte kopie",
+        "view my hr file",
+        "dsgvo auskunft arbeitgeber",
+        "abmahnung in personalakte",
+        "hr records access"
+      ],
+      "source": "https://www.hensche.de/Einsicht_in_die_Personalakte_kein_Anspruch_auf_Beiziehung_eines_Anwalts_BAG_9AZR791-14.html"
+    },
+    "studienkolleg_bavaria": {
+      "area": "international",
+      "law": "Studienkollegordnung Bayern (BayStKO) § 6",
+      "title": "Studienkolleg in Bavaria: needed if your school certificate is not enough alone",
+      "summary": "In Bavaria the Studienkolleg (Munich for universities, Coburg for Hochschulen für angewandte Wissenschaften) prepares applicants whose foreign certificate only counts together with a passed Feststellungsprüfung. Admission needs such a certificate, an application for enrolment, and a passed entrance exam; there is no right to a place. The City of Munich says that with a permit that rests only on a university entrance qualification you must not work while applying for the Studienkolleg and during the Feststellungsprüfung. Ask the Studienkolleg and the Ausländerbehörde about your own case.",
+      "keywords": [
+        "studienkolleg",
+        "feststellungsprüfung",
+        "studienkolleg münchen",
+        "foundation course germany",
+        "studienkolleg bayern",
+        "aufnahmeprüfung studienkolleg",
+        "studienkolleg work permit",
+        "can i work while studienkolleg",
+        "hochschulzugangsberechtigung ausland",
+        "studienkolleg application",
+        "studienkolleg coburg",
+        "preparatory college germany"
+      ],
+      "source": "https://www.gesetze-bayern.de/Content/Document/BayStKO2019/true"
+    },
+    "tax_study_costs": {
+      "area": "money",
+      "law": "EStG §§ 9 Abs. 6, 10 Abs. 1 Nr. 7",
+      "title": "Study costs on your tax return: first degree is capped, second degree is not",
+      "summary": "Costs of a first degree can be deducted only as Sonderausgaben up to 6,000 euro a year, and they give no Verlustvortrag. For a Zweitstudium, according to the sources usually also a Master, costs count as Werbungskosten without a cap, and an unused loss can be carried forward to later years. You need not file a return as a student, but it can pay off, and you may file for earlier years. Typical items named are semester fees, work equipment and travel. Consider a Lohnsteuerhilfeverein or tax adviser.",
+      "keywords": [
+        "studienkosten absetzen",
+        "verlustvortrag student",
+        "werbungskosten studium",
+        "study costs tax return",
+        "sonderausgaben erststudium",
+        "6000 euro",
+        "tax deduct master degree",
+        "steuererklärung student",
+        "studiengebühren steuer",
+        "tax loss carryforward student",
+        "zweitstudium steuer",
+        "semesterbeitrag absetzen"
+      ],
+      "source": "https://www.aktuell-verein.de/wp-content/uploads/2025/01/Merkblatt-Steuererklaerung-Student-in-V25-1-Akt.pdf"
+    },
+    "bafoeg_parents_refuse": {
+      "area": "money",
+      "law": "BAföG §§ 11, 36",
+      "title": "Parents won't give information or pay: BAföG can advance the money",
+      "summary": "BAföG normally counts your parents' income. If they will not provide the information or pay the maintenance owed, you can apply for Vorausleistung (Formblatt 8, § 36 BAföG): the office pays without counting their income and tries to recover the money from them afterwards. Parent-independent BAföG exists only in specific situations, for example when the parents' whereabouts are unknown or after several years of work. Apply for it early and keep proof of your parents' refusal.",
+      "keywords": [
+        "eltern verweigern",
+        "parents refuse bafoeg",
+        "vorausleistung",
+        "bafoeg formblatt 8",
+        "parents won't pay",
+        "elternunabhängiges bafoeg",
+        "bafoeg without parents income",
+        "eltern zahlen keinen unterhalt",
+        "no contact with parents bafoeg",
+        "formblatt 3 eltern",
+        "parental income bafoeg",
+        "unterhalt nicht gezahlt student"
+      ],
+      "source": "https://www.betanet.de/bafoeg.html?pdf=1531"
+    },
+    "energy_contract_move": {
+      "area": "consumer",
+      "law": "EnWG § 41b",
+      "title": "Moving flat: electricity and gas contracts have a special termination right",
+      "summary": "When you move, electricity and gas contracts outside the basic supply can be ended with a special notice period of six weeks, and the notice may be given before the move. If the provider can supply the new address at the same terms, the contract carries on there. Moving to another flat in the same building counts as a move too. Check your contract for deviating terms, note the meter readings for both flats and tell the provider your new address.",
+      "keywords": [
+        "strom umzug kündigen",
+        "electricity contract move",
+        "gas vertrag umzug",
+        "sonderkündigungsrecht umzug strom",
+        "six weeks notice electricity",
+        "cancel electricity when moving",
+        "stromvertrag sonderkündigung",
+        "energy contract moving out",
+        "strom anmelden neue wohnung",
+        "zählerstand umzug",
+        "gasvertrag kündigen auszug",
+        "energieversorger umzug"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/node/10915"
+    },
+    "health_insurance_switch": {
+      "area": "health",
+      "law": "SGB V § 175",
+      "title": "Switching statutory health insurer: two months' notice, or earlier if the extra premium rises",
+      "summary": "You can change your statutory insurer with notice of two months to the end of a month once you have been a member for 12 months. If your insurer raises or introduces an Zusatzbeitrag you have a special right to leave even before 12 months. The new insurer usually handles the cancellation, and it must not turn you down. Cancel yourself only if you move to private insurance or abroad. Check how your insurer announces a raise so that you do not miss the deadline.",
+      "keywords": [
+        "krankenkasse wechseln",
+        "switch health insurer",
+        "zusatzbeitrag erhöhung",
+        "sonderkündigungsrecht krankenkasse",
+        "change health insurance provider",
+        "krankenkasse kündigen",
+        "bindungsfrist krankenkasse",
+        "tk aok barmer wechseln",
+        "cancel health insurance germany",
+        "krankenkasse zusatzbeitrag student",
+        "two months notice health insurance",
+        "gesetzliche krankenkasse kündigen"
+      ],
+      "source": "https://www.krankenkassen.de/krankenkasse-wechseln/kuendigung/fristen/"
+    },
+    "dual_study_rights": {
+      "area": "work",
+      "law": "BBiG, KSchG",
+      "title": "Dual study: you are an employee with labour-law rights, but the rules depend on the model",
+      "summary": "Students in a dual degree are covered by employment law, for example works council elections. Pay and holidays are set by the company contract or collective agreement, not by the university. In a study programme combined with an apprenticeship, the BBiG dismissal rules apply until the chamber exam and the Kündigungsschutzgesetz afterwards. In a practice-integrated model the BBiG generally does not apply to the study part, and pay should still be appropriate according to Bavarian model contracts. Read your Bildungsvertrag for the probation period and the repayment clauses.",
+      "keywords": [
+        "duales studium",
+        "dual study rights",
+        "dual student contract",
+        "ausbildungsintegriertes duales studium",
+        "praxisintegriertes studium",
+        "dual studierende vergütung",
+        "dual study dismissal",
+        "probezeit duales studium",
+        "studium mit vertiefter praxis",
+        "dual student pay",
+        "dual study kündigung",
+        "bildungsvertrag duales studium"
+      ],
+      "source": "https://www.boeckler.de/de/boeckler-impuls-arbeitsrecht-gilt-auch-fur-dual-studierende-45787.htm"
+    },
+    "rent_increase_response": {
+      "area": "housing",
+      "law": "BGB §§ 558, 558a, 558b",
+      "title": "Rent increase letter: you get the rest of the month plus two months to decide",
+      "summary": "A rent increase to the local comparative rent must be justified, in Munich with the Mietspiegel. You have the rest of the month you received it plus two further months to check and agree; the higher rent is then due from the next first of the month. The rent must have been unchanged for twelve months before the increase. If you do not agree, the landlord may sue for consent within three further months. Check the letter, the date of receipt and the cap, and ask a tenants' association if in doubt.",
+      "keywords": [
+        "mieterhöhung zustimmen",
+        "rent increase letter",
+        "mieterhöhungsverlangen",
+        "zustimmungsfrist mieterhöhung",
+        "mietspiegel münchen",
+        "landlord wants more rent",
+        "überlegungsfrist",
+        "do i have to agree rent increase",
+        "mieterhöhung prüfen",
+        "qualifizierter mietspiegel",
+        "rent increase munich",
+        "mieterhöhung widersprechen"
+      ],
+      "source": "https://stadt.muenchen.de/dam/jcr:23d372ad-97b2-4817-a2ca-174736da22c0/LHM%20Infoblatt%20Mieterh%C3%B6hung.pdf"
+    },
+    "registration_missing_landlord_confirmation": {
+      "area": "housing",
+      "law": "BMG § 19",
+      "title": "Registering in Munich without the landlord's confirmation: you can hand it in later",
+      "summary": "You have to register within two weeks of moving in (the federal registration rule), and the landlord must confirm your move-in in writing within two weeks (Wohnungsgeberbestätigung). If you do not have it at your appointment, the Munich Kreisverwaltungsreferat lets you sign a declaration and send the confirmation in within two weeks. If the landlord refuses or does not answer, contact the Bürgerbüro. A late registration can lead to a fine.",
+      "keywords": [
+        "wohnungsgeberbestätigung fehlt",
+        "landlord confirmation missing anmeldung",
+        "anmeldung münchen",
+        "kvr anmeldung",
+        "registration without landlord confirmation",
+        "vermieter gibt keine bestätigung",
+        "wohnungsgeberbestätigung vermieter verweigert",
+        "bürgerbüro münchen anmeldung",
+        "anmeldefrist zwei wochen",
+        "wohnung anmelden munich",
+        "move in registration deadline",
+        "erklärung fehlende wohnungsgeberbestätigung"
+      ],
+      "source": "https://stadt.muenchen.de/service/info/hauptabteilung-ii-buergerangelegenheiten/1063475/"
     }
   },
   "free_help": {

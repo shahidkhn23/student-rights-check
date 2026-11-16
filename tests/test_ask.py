@@ -148,6 +148,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("Do I get a certificate after my internship?", "internship_contract_proof"),
     ("Does my German health insurance cover me during Erasmus with the EHIC?", "study_abroad_health"),
     ("How fast can I end the sublease for a furnished room in my flat?", "sublet_furnished_notice"),
+    ("Is my stuff in a WG room covered by my parents' contents insurance?", "household_insurance_parents"),
+    ("What does the bank charge when my account goes over the Dispo limit?", "overdraft_dispo"),
+    ("Can my old employer ban me from working for a competitor after I leave?", "non_compete"),
+    ("Am I allowed to see my personnel file at work?", "personnel_file_access"),
+    ("Do I need a Studienkolleg in Bavaria before I can study?", "studienkolleg_bavaria"),
+    ("Can I deduct my study costs from tax and carry forward a loss?", "tax_study_costs"),
+    ("My parents refuse to give income details for BAföG, what can I do?", "bafoeg_parents_refuse"),
+    ("Can I cancel my electricity contract when I move to a new flat?", "energy_contract_move"),
+    ("My health insurer raised the Zusatzbeitrag, can I switch right away?", "health_insurance_switch"),
+    ("What rights do I have as a dual study student with a company contract?", "dual_study_rights"),
+    ("How long do I have to answer a rent increase letter in Munich?", "rent_increase_response"),
+    ("My landlord has not given me the Wohnungsgeberbestätigung for the Anmeldung in Munich", "registration_missing_landlord_confirmation"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
