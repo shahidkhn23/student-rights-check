@@ -1394,6 +1394,248 @@
         "abmahnung kündigung"
       ],
       "source": "https://finanztip.de/fristlose-kuendigung/"
+    },
+    "semester_fee_deadline": {
+      "area": "money",
+      "law": "Immatrikulationssatzung / Landeshochschulgesetz (varies by state and university)",
+      "title": "Semester fee: paying it on time is your re-registration, late payment costs a fee",
+      "summary": "At most universities you re-register for the next semester simply by paying the semester fee within the re-registration period, normally towards the end of the running semester. What counts is the day the money arrives, not the day you send it, so an instant transfer on the last day can still be late. After the deadline there is usually a late fee, often between 4 and 30 EUR depending on the university. If you pay nothing at all you get exmatriculated, but if you pay the fee and the late charge afterwards the exmatriculation is usually reversed. Deadlines and amounts are set by your own university.",
+      "keywords": [
+        "semester fee",
+        "semesterbeitrag",
+        "rückmeldung",
+        "rückmeldefrist",
+        "re-registration",
+        "reregister",
+        "säumnisgebühr",
+        "late fee university",
+        "exmatrikuliert",
+        "forgot to pay semester",
+        "verspätete rückmeldung",
+        "exmatriculation fee"
+      ],
+      "source": "https://www.uni-hamburg.de/campuscenter/studienorganisation/semesterstart/rueckmeldung.html"
+    },
+    "semester_ticket_price": {
+      "area": "money",
+      "law": "Semesterticketvertrag; Tarifbestimmungen Deutschlandticket",
+      "title": "Deutschland-Semesterticket: 37.80 EUR a month (226.80 EUR a semester) from winter 2026/27",
+      "summary": "The student Deutschland-Semesterticket is priced at 60 percent of the regular Deutschlandticket. The regular ticket costs 63 EUR from January 2026, so the student price rises from 34.80 EUR to 37.80 EUR a month, which is 226.80 EUR per semester from the winter semester 2026/27. Where your university has the solidarity model, you pay it with your semester fee and a refund is only possible in defined exceptional cases.",
+      "keywords": [
+        "semesterticket",
+        "semester ticket",
+        "deutschlandticket student",
+        "deutschland-semesterticket",
+        "deutschlandsemesterticket",
+        "226,80",
+        "226.80",
+        "37,80",
+        "student train ticket",
+        "ticket price semester",
+        "solidarticket",
+        "erstattung semesterticket"
+      ],
+      "source": "https://www.studierendenwerke.de/presse/pressemitteilungen/pressemitteilung/auch-den-preis-des-deutschland-semestertickets-einfrieren"
+    },
+    "kindergeld_six_months": {
+      "area": "money",
+      "law": "§ 66 Abs. 3 EStG; BFH III R 27/22",
+      "title": "Kindergeld is paid back for six months at most: apply early",
+      "summary": "Kindergeld is paid retroactively only for the last six months before the month in which your application reaches the Familienkasse, even if you were entitled for longer. The Federal Fiscal Court confirmed this limit in 2024. Months older than that are lost. So send the enrolment certificate as soon as you start studying, and apply even if you are not sure yet.",
+      "keywords": [
+        "kindergeld late",
+        "kindergeld rückwirkend",
+        "kindergeld retroactive",
+        "kindergeld six months",
+        "kindergeld sechs monate",
+        "applied for kindergeld late",
+        "familienkasse antrag",
+        "kindergeld last year",
+        "kindergeld nachzahlung",
+        "kindergeld antrag zu spät"
+      ],
+      "source": "https://www.steuertipps.de/eltern-familie-ehe/kindergeld-rueckwirkende-auszahlung-fuer-nur-6-monate-rechtens"
+    },
+    "kindergeld_gap_months": {
+      "area": "money",
+      "law": "§ 32 Abs. 4 EStG",
+      "title": "Kindergeld between school and studies: up to 4 months without a gap",
+      "summary": "Your parents keep getting Kindergeld for a gap of at most four months between two training stages, for example between finishing school and starting your degree. The gap can also fall between a finished stage and the next one, but Kindergeld stops if you are not in a place or have not applied for one. Kindergeld also runs to the end of the official training period even if you passed your final exam earlier. Your own income no longer matters in a first degree.",
+      "keywords": [
+        "kindergeld gap",
+        "kindergeld übergangszeit",
+        "between school and university",
+        "zwischen schule und studium",
+        "vier monate",
+        "4 months gap",
+        "kindergeld wartezeit",
+        "kindergeld semesterferien",
+        "kindergeld before first semester",
+        "kindergeld nach abitur",
+        "kindergeld ausbildungsende"
+      ],
+      "source": "https://www.test.de/Kindergeld-Familienkasse-muss-bis-zum-Ende-der-Ausbildungszeit-zahlen-5273177-0/"
+    },
+    "exam_final_fail": {
+      "area": "exams",
+      "law": "Art. 49 Abs. 2 Nr. 3 BayHSchG; § 10 RaPO",
+      "title": "Failed an exam for the last time: exmatriculation is the rule, but you have options",
+      "summary": "At Bavarian universities you must be exmatriculated once you have finally failed an exam that your degree requires, unless you switch to another degree (Art. 49 BayHSchG). How many retakes you get is set in your Prüfungsordnung: under the general rules for Bavarian universities of applied sciences an exam can usually be repeated once without conditions, and in many programmes a second retake follows. Some regulations allow a further attempt in a hardship case on request. You can object to the notice of final failure and later sue, and a final fail often blocks the same degree at other German universities.",
+      "keywords": [
+        "failed exam third time",
+        "drittversuch",
+        "endgültig nicht bestanden",
+        "final fail",
+        "exmatrikulation prüfung",
+        "thrown out university",
+        "zwangsexmatrikulation",
+        "härtefallantrag prüfung",
+        "fourth attempt",
+        "vierter versuch",
+        "wiederholungsprüfung",
+        "exam retake limit",
+        "nicht bestanden dritter versuch"
+      ],
+      "source": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2021-N-812?hl=true"
+    },
+    "student_insurance_no_semester_limit": {
+      "area": "health",
+      "law": "§ 5 Abs. 1 Nr. 9 SGB V",
+      "title": "Student health insurance: no 14-semester limit any more, only the age limit of 30",
+      "summary": "The compulsory student health insurance ends with the semester in which you turn 30. Until 2020 it also ended after the 14th subject semester. That limit was dropped, so a long study period alone no longer pushes you into the voluntary, more expensive insurance. In exceptional cases, such as a long illness or having a child, it can last past 30. Doctoral students are not covered by it.",
+      "keywords": [
+        "14th semester",
+        "14. fachsemester",
+        "fachsemester limit",
+        "student insurance ends",
+        "studentische krankenversicherung ende",
+        "kvds",
+        "too many semesters insurance",
+        "langzeitstudent krankenversicherung",
+        "semester limit health insurance",
+        "insurance after 30",
+        "freiwillige versicherung student"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/wissen/gesundheit-pflege/krankenversicherung/studentische-krankenversicherung-die-wichtigsten-moeglichkeiten-10352"
+    },
+    "rent_brake_complaint": {
+      "area": "housing",
+      "law": "§ 556g BGB",
+      "title": "Rent too high: send a written complaint (Rüge) to get overpaid rent back",
+      "summary": "Only after a written complaint (Rüge) to your landlord can you reclaim rent that exceeded the Mietpreisbremse. For contracts signed from 1 April 2020 you get back the overpayment from the start of the lease if you complain within 30 months of the start; if you complain later you only get money back for rent due after the complaint. For contracts from 2019 on, a simple sentence saying the rent is higher than allowed is enough. Keep paying, but state that you pay under reservation of reclaim. If several people rent the flat, one complaint works for all of them.",
+      "keywords": [
+        "rüge",
+        "mietpreisbremse rüge",
+        "complain rent too high",
+        "rent overpaid",
+        "miete zurückfordern",
+        "30 monate",
+        "30 months",
+        "vorbehalt der rückforderung",
+        "überzahlte miete",
+        "reclaim rent",
+        "rent too high refund",
+        "wg zimmer miete zu hoch"
+      ],
+      "source": "https://bmgev.de/mietrecht/tipps/mietpreisbremse"
+    },
+    "withdrawal_exceptions": {
+      "area": "consumer",
+      "law": "§§ 355, 356, 312g Abs. 2 BGB",
+      "title": "Online withdrawal: when the 14 days start and which goods are excluded",
+      "summary": "The 14 days begin when you receive the goods, and it is enough to send your withdrawal before they run out. If the shop did not properly tell you about your right, it lasts up to 12 months and 14 days. Some contracts have no right of withdrawal at all (§ 312g Abs. 2 BGB), for example goods made to your specifications, sealed hygiene products once unsealed, or software whose seal you broke. Buying in a shop is not covered by the right at all.",
+      "keywords": [
+        "custom made",
+        "maßanfertigung",
+        "individuell angefertigt",
+        "hygiene goods",
+        "hygieneartikel",
+        "widerrufsfrist",
+        "withdrawal exceptions",
+        "can't return",
+        "no return online",
+        "widerruf ausgeschlossen",
+        "sealed software",
+        "14 days start",
+        "return custom item"
+      ],
+      "source": "https://www.ihk.de/osnabrueck/recht-und-fair-play/recht/internetrecht/widerrufsrecht-im-fernabsatz-1085370"
+    },
+    "broadcast_fee_wg": {
+      "area": "money",
+      "law": "§ 2, § 4 RBStV",
+      "title": "Shared flat: the broadcasting fee is one per flat, an exempt flatmate doesn't free the others",
+      "summary": "The Rundfunkbeitrag (18.36 EUR a month) is charged per flat, not per person. If one flatmate gets BAföG and is exempt, the others still have to pay the full fee. Only if every flatmate is exempt does the flat pay nothing. An exemption only lasts for the BAföG approval period and has to be applied for again afterwards. Students who get no BAföG can only be exempt in hardship cases, for example a second degree, a late subject change or exceeding the funding period.",
+      "keywords": [
+        "wg beitrag",
+        "flatmate exempt",
+        "mitbewohner befreit",
+        "one fee per flat",
+        "pro wohnung",
+        "beitragsservice wg",
+        "18,36",
+        "bafög befreiung mitbewohner",
+        "all flatmates exempt",
+        "flatmate bafög fee"
+      ],
+      "source": "https://www.verbraucherzentrale-niedersachsen.de/wissen/digitale-welt/rundfunkbeitrag/studium-oder-ausbildung-nicht-alle-muessen-den-rundfunkbeitrag-zahlen-119825"
+    },
+    "wohngeld_exceptions": {
+      "area": "money",
+      "law": "§ 20 Abs. 2 WoGG",
+      "title": "Housing benefit exceptions: BAföG only as a loan, over the age limit, second degree",
+      "summary": "Students who could in principle get BAföG are excluded from Wohngeld, because BAföG already contains a housing part. It is possible if your BAföG is paid only as a full loan, or if you have no BAföG entitlement in principle, for example because you are over the age limit, past the funding period, in a late subject change or in a second degree. It is not possible if the only reason for missing BAföG is that your own or your parents' income is too high. A flat shared with people who are not students or trainees can also be eligible.",
+      "keywords": [
+        "bafög volldarlehen",
+        "bafög bankdarlehen",
+        "bafög only as loan",
+        "bafög as a loan",
+        "full loan bafög",
+        "second degree housing benefit",
+        "housing benefit age limit",
+        "zweitstudium unterkunft",
+        "bafög loan housing",
+        "wohngeld volldarlehen"
+      ],
+      "source": "https://studierendenwerke.de/themen/finanzierungsmoeglichkeiten/wohngeld"
+    },
+    "intl_work_20h": {
+      "area": "international",
+      "law": "§ 16b Abs. 3 AufenthG",
+      "title": "Non-EU students: the 20-hours-a-week alternative to the 140-day rule",
+      "summary": "Besides the 140 full or 280 half days a year, students from non-EU countries can alternatively work up to 20 hours a week during lecture periods, like students from the EU. In the lecture-free time more than 20 hours are allowed as long as you stay within the yearly 140-day allowance. The calculation can be tricky, so ask your Ausländerbehörde or university advice service before starting a job.",
+      "keywords": [
+        "20 hours international",
+        "20 stunden international",
+        "non-eu 20 hours",
+        "drittstaat 20 stunden",
+        "140 days or 20 hours",
+        "work during lectures",
+        "vorlesungszeit arbeiten",
+        "international student weekly hours",
+        "working hours visa student",
+        "ausländerbehörde job"
+      ],
+      "source": "https://www.make-it-in-germany.com/de/studium-ausbildung/studieren-in-deutschland/arbeit"
+    },
+    "intl_compulsory_internship": {
+      "area": "international",
+      "law": "§ 16b AufenthG",
+      "title": "Non-EU students: which internships and days count towards the 140 days",
+      "summary": "Voluntary internships count towards the 140 full or 280 half working days a year, but compulsory internships required by your study regulations do not. Days of holiday or sickness are not counted either; only days you actually work are. A half day is a workday of up to four hours. If you want to work more than the allowance you need the permission of the Ausländerbehörde before you start.",
+      "keywords": [
+        "compulsory internship international",
+        "pflichtpraktikum international",
+        "internship 140 days",
+        "praktikum 140 tage",
+        "do internships count",
+        "count working days",
+        "arbeitstage zählen",
+        "voluntary internship visa",
+        "half day four hours",
+        "praktikum aufenthaltserlaubnis"
+      ],
+      "source": "https://www.uni-saarland.de/fileadmin/upload/studieren/finanzieren/flyer/dsw_jobben-internationale-studierende.pdf"
     }
   },
   "free_help": {

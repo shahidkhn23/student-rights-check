@@ -62,6 +62,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("My flight was delayed by four hours, do I get compensation?", "flight_delay_compensation"),
     ("Do I get holiday in my voluntary internship?", "internship_holiday"),
     ("My boss fired me on the spot without notice", "termination_without_notice"),
+    ("I forgot to pay my semester fee on time, will I be exmatriculated?", "semester_fee_deadline"),
+    ("How much does the Deutschland-Semesterticket cost per semester?", "semester_ticket_price"),
+    ("I only applied for Kindergeld now, can I get it for last year?", "kindergeld_six_months"),
+    ("Do my parents get Kindergeld in the months between school and my first semester?", "kindergeld_gap_months"),
+    ("I failed my exam for the third time, am I thrown out of university?", "exam_final_fail"),
+    ("Does my student health insurance end after the 14th semester?", "student_insurance_no_semester_limit"),
+    ("How do I get overpaid rent back after a Mietpreisbremse violation?", "rent_brake_complaint"),
+    ("Can I send back custom made goods I bought online within 14 days?", "withdrawal_exceptions"),
+    ("My flatmate gets BAföG and is exempt from Rundfunkbeitrag, do I still have to pay?", "broadcast_fee_wg"),
+    ("I get BAföG only as a loan, can I apply for Wohngeld?", "wohngeld_exceptions"),
+    ("As a non-EU student can I work 20 hours a week during lectures?", "intl_work_20h"),
+    ("Does my compulsory internship count towards the 140 days for international students?", "intl_compulsory_internship"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
