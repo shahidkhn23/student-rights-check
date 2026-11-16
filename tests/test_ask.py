@@ -136,6 +136,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("Who pays the return postage for an online order?", "online_return_costs"),
     ("Netflix raised its price, is that allowed without my consent?", "streaming_price_increase"),
     ("My credit card was stolen, how much do I have to pay?", "card_loss_liability"),
+    ("Can I leave my lease early if I find three replacement tenants?", "nachmieter_no_right"),
+    ("There is mold on my bedroom wall, what should I do as a tenant?", "mold_report_landlord"),
+    ("Can my landlord charge me for the janitor's emergency service fee in the utility bill?", "betriebskosten_catalog"),
+    ("Does my student dorm contract end automatically on a fixed date?", "dorm_contract"),
+    ("How many vacation days do I get if I work three days a week as a Werkstudent?", "vacation_by_days"),
+    ("My employer wants me to sign an Aufhebungsvertrag, will I lose unemployment benefit?", "aufhebungsvertrag"),
+    ("My employer has not paid my salary, how long can I claim it?", "unpaid_wages_claim"),
+    ("Can my employer call me in for a shift on short notice with on-call work?", "on_call_work"),
+    ("Am I allowed to use ChatGPT for my Hausarbeit?", "ai_in_exams"),
+    ("Do I get a certificate after my internship?", "internship_contract_proof"),
+    ("Does my German health insurance cover me during Erasmus with the EHIC?", "study_abroad_health"),
+    ("How fast can I end the sublease for a furnished room in my flat?", "sublet_furnished_notice"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

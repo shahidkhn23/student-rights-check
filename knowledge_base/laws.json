@@ -2755,14 +2755,11 @@
         "second degree bafoeg",
         "bafoeg zweitstudium",
         "second bachelor",
-        "bafoeg master after bachelor",
         "zweites studium förderung",
         "studiengebühren zweitstudium",
         "bafoeg after dropping out",
         "bafoeg nach abbruch",
-        "funding second degree",
-        "master bafoeg anspruch",
-        "drittes studium"
+        "funding second degree"
       ],
       "source": "https://www.mystipendium.de/node/7592"
     },
@@ -2930,6 +2927,258 @@
         "wallet stolen block card"
       ],
       "source": "https://www.finanztip.de/kreditkarten/kreditkartenbetrug/"
+    },
+    "nachmieter_no_right": {
+      "area": "housing",
+      "law": "BGB § 573c, Mietvertrag",
+      "title": "Moving out early: naming three replacement tenants does not end your lease",
+      "summary": "A tenant can end an open-ended lease only with the legal notice period of three months (§ 573c BGB). The popular idea that proposing three Nachmieter lets you leave sooner is a myth. There is no general right to put forward a replacement tenant. Exceptions: your lease has a Nachmieterklausel, you agree an early release with the landlord, or you have a serious personal reason (the sources name illness or divorce) that makes the landlord accept a suitable replacement. Ask the landlord in writing before you promise anything to a new tenant.",
+      "keywords": [
+        "nachmieter",
+        "replacement tenant",
+        "nachmieterklausel",
+        "leave flat early",
+        "move out before notice period",
+        "drei nachmieter",
+        "find someone to take over my lease",
+        "ersatzmieter",
+        "early release lease",
+        "aus mietvertrag früher raus",
+        "mietvertrag übernehmen lassen",
+        "tenant takes over lease"
+      ],
+      "source": "https://www.finanztip.de/kuendigungsfrist-nachmieter/"
+    },
+    "mold_report_landlord": {
+      "area": "housing",
+      "law": "BGB §§ 536, 536c",
+      "title": "Mould in your flat: report it at once, in writing, and set a deadline",
+      "summary": "You must tell the landlord about mould without delay (§ 536c BGB). If you stay silent, you can become liable for damage that spreads. Do it in writing with a deadline to fix it, and keep photos and a ventilation log. Who pays depends on the cause: for structural defects the landlord is responsible, for wrong heating or airing the tenant is. If the landlord is idle and the mould is not your fault, rent reduction is possible under § 536 BGB. For a dispute about the cause, a tenants' association can help.",
+      "keywords": [
+        "schimmel",
+        "mould",
+        "mold in flat",
+        "schimmel wohnung",
+        "schimmel mietwohnung",
+        "mold landlord",
+        "black mold apartment",
+        "mängelanzeige schimmel",
+        "feuchtigkeit wohnung",
+        "lüften schimmel mieter",
+        "damp walls flat",
+        "schimmel miete mindern"
+      ],
+      "source": "https://bmgev.de/mietrecht/tipps/feuchtigkeit"
+    },
+    "betriebskosten_catalog": {
+      "area": "housing",
+      "law": "BetrKV §§ 1-2, BGB § 556",
+      "title": "Service charges: only listed running costs can be passed on, not admin or repairs",
+      "summary": "A landlord may pass on only the running costs listed in the Betriebskostenverordnung and agreed in your lease. Administration costs and repair or maintenance costs are not service charges and the landlord has to bear them. The BGH (VIII ZR 62/19, December 2019) held that a janitor's emergency-call flat fee is an administration cost and so cannot be charged to tenants. Check each line of your Nebenkostenabrechnung against the lease and ask to see the receipts.",
+      "keywords": [
+        "nebenkostenabrechnung prüfen",
+        "betriebskosten umlagefähig",
+        "what can landlord charge utilities",
+        "hausmeister notdienst",
+        "verwaltungskosten nicht umlegbar",
+        "service charges landlord",
+        "nebenkosten falsch",
+        "betriebskostenverordnung",
+        "nebenkosten hausmeister",
+        "admin fees landlord utility bill",
+        "repairs charged to tenant",
+        "instandhaltung nebenkosten"
+      ],
+      "source": "https://rewis.io/urteile/urteil/jhs-18-12-2019-viii-zr-6219/"
+    },
+    "dorm_contract": {
+      "area": "housing",
+      "law": "BGB § 549 Abs. 3",
+      "title": "Student dorm: fixed-term contracts and weaker tenant protection are normal",
+      "summary": "Student dorms are not ordinary rental housing under the BGB. Several tenant-protection rules do not apply, for example the need for a legitimate interest for the landlord to terminate and the limit on fixed terms without a reason. Dorm contracts are therefore often limited to a maximum stay and simply end on the date in the contract without notice. Notice terms and deposit rules sit in the Studierendenwerk's rental conditions, so read them. Many allow early notice only to the end of a semester, so ask before you sign.",
+      "keywords": [
+        "studentenwohnheim",
+        "student dorm",
+        "wohnheim mietvertrag",
+        "studierendenwerk wohnheim kündigen",
+        "dorm contract ends",
+        "wohnheim befristet",
+        "höchstwohndauer",
+        "student residence lease",
+        "dorm kündigung",
+        "wohnheimzimmer kündigen",
+        "dorm deposit",
+        "studentenwohnheim mietrecht"
+      ],
+      "source": "https://deutschesmietrecht.de/mietvertrag/887-mietrecht-im-studentenwohnheim-was-studierende-wissen-muessen.html"
+    },
+    "vacation_by_days": {
+      "area": "work",
+      "law": "Bundesurlaubsgesetz (BUrlG) § 3",
+      "title": "Part-time vacation is counted in working days, not hours",
+      "summary": "The statutory minimum is 24 days on a six-day week, which means working days per week times four. Five days a week gives 20 days, three days gives 12. It does not matter whether you work two or eight hours on each of those days, so a student who works short shifts on five days still gets the full 20. Fewer days per week reduces your entitlement proportionally. In the first six months you build up the entitlement in twelfths. Your contract may give you more.",
+      "keywords": [
+        "urlaub teilzeit tage",
+        "vacation days part time",
+        "urlaubstage werkstudent berechnen",
+        "how many vacation days three days a week",
+        "urlaub nach arbeitstagen",
+        "vacation per working days",
+        "urlaubsanspruch drei tage woche",
+        "vacation hours or days",
+        "urlaub stunden oder tage",
+        "zwölftel urlaub",
+        "urlaubsanspruch berechnen",
+        "teilzeit urlaubsanspruch"
+      ],
+      "source": "https://www.mystipendium.de/node/7931"
+    },
+    "aufhebungsvertrag": {
+      "area": "work",
+      "law": "BGB § 623, SGB III § 159",
+      "title": "Termination agreement: do not sign under pressure, it can cost you unemployment benefit",
+      "summary": "An Aufhebungsvertrag must be in writing, signed by both sides (§ 623 BGB). By signing you give up protections such as notice periods, and the Agentur für Arbeit may impose a Sperrzeit of up to 12 weeks on unemployment benefit. Nobody can force you to sign. Ask for time to think (sources suggest at least 2-3 days) and for advice from a lawyer, union or works council. Without your signature the contract carries on unchanged.",
+      "keywords": [
+        "aufhebungsvertrag",
+        "termination agreement",
+        "mutual termination",
+        "sign termination agreement",
+        "sperrzeit aufhebungsvertrag",
+        "boss asks me to sign",
+        "aufhebungsvertrag unterschreiben",
+        "einvernehmliche beendigung",
+        "employer pressures me to sign",
+        "abfindung aufhebungsvertrag",
+        "sperrzeit arbeitslosengeld",
+        "do i have to sign termination"
+      ],
+      "source": "https://www.finanztip.de/aufhebungsvertrag/"
+    },
+    "unpaid_wages_claim": {
+      "area": "work",
+      "law": "BGB §§ 195, 199, MiLoG",
+      "title": "Unpaid wages: you have three years, but contract deadlines can be much shorter",
+      "summary": "Wage claims normally expire three years after the end of the year in which they arose (§§ 195, 199 BGB). Many employment contracts add shorter Ausschlussfristen, often three to six months, in which you must claim in writing. Claims to the statutory minimum wage are not covered by such a clause (BAG 9 AZR 162/18). Remind the employer in writing, with a deadline, as soon as pay is missing. If it stays unpaid you can sue at the Arbeitsgericht or ask a union or a lawyer.",
+      "keywords": [
+        "lohn nicht gezahlt",
+        "unpaid wages",
+        "employer did not pay salary",
+        "gehalt nicht bekommen",
+        "ausschlussfrist",
+        "lohn einklagen",
+        "verfallsfrist arbeitsvertrag",
+        "wage claim deadline",
+        "employer owes me money",
+        "lohnrückstand",
+        "salary missing",
+        "arbeitgeber zahlt nicht"
+      ],
+      "source": "https://www.hensche.de/ausschlussklauseln-ohne-mindestlohn-ausnahme-sind-unwirksam-bag-9-azr-162-18.html"
+    },
+    "on_call_work": {
+      "area": "work",
+      "law": "TzBfG § 12",
+      "title": "On-call work: 20 hours count if none are agreed, and four days notice is required",
+      "summary": "Under § 12 TzBfG, if on-call work (Arbeit auf Abruf) is agreed without a set weekly time, 20 hours a week are deemed agreed. You only have to work if the employer tells you the shift at least four days ahead. A secondary source adds a minimum of three hours per call when no daily time is agreed. Ask for the hours in writing. Short notice shifts can be declined.",
+      "keywords": [
+        "arbeit auf abruf",
+        "on call work",
+        "zero hours contract",
+        "abrufarbeit",
+        "shift announced short notice",
+        "dienstplan kurzfristig",
+        "employer calls me in at short notice",
+        "keine feste arbeitszeit vertrag",
+        "20 stunden fiktion",
+        "variable hours contract",
+        "must i come at short notice",
+        "vier tage vorher"
+      ],
+      "source": "https://www.gesetze-im-internet.de/tzbfg/__12.html"
+    },
+    "ai_in_exams": {
+      "area": "exams",
+      "law": "Prüfungsordnung, Eigenständigkeitserklärung",
+      "title": "Using ChatGPT or other AI in coursework: undeclared use can count as cheating",
+      "summary": "Rules for AI tools are set by your Prüfungsordnung and the lecturer. Papers usually include an Eigenständigkeitserklärung in which you confirm you wrote the work yourself with the sources and aids you declared. Undeclared AI use is treated in many places as a Täuschungsversuch, and in a Bavarian court case a hand-in of an AI-written essay led to exclusion from an application. Check the rules for each module and declare whatever you use. Ask your lecturer if unsure.",
+      "keywords": [
+        "chatgpt hausarbeit",
+        "ai allowed in thesis",
+        "use chatgpt for assignment",
+        "ki prüfung erlaubt",
+        "ai written essay cheating",
+        "künstliche intelligenz abschlussarbeit",
+        "declare ai use",
+        "eigenständigkeitserklärung ki",
+        "chatgpt täuschungsversuch",
+        "ai detector accused",
+        "using ai for homework university",
+        "ki hausarbeit"
+      ],
+      "source": "https://www.forschung-und-lehre.de/recht/ist-chatgtp-ein-zulaessiges-hilfsmittel-in-pruefungen-5524"
+    },
+    "internship_contract_proof": {
+      "area": "work",
+      "law": "BBiG § 26, NachwG",
+      "title": "Internship paperwork: written terms, and a certificate when it ends",
+      "summary": "For a voluntary internship you are entitled to the essential contract terms in writing (Nachweisgesetz), and a written reference at the end. For a compulsory internship the employer should issue a Praktikumsbescheinigung which you need as proof for the university. No law demands a written internship contract, but it is advisable. A compulsory internship is generally unpaid and no minimum wage claim arises.",
+      "keywords": [
+        "praktikumsvertrag",
+        "internship contract",
+        "praktikumsbescheinigung",
+        "internship certificate",
+        "internship reference",
+        "pflichtpraktikum bescheinigung",
+        "praktikumszeugnis",
+        "internship in writing",
+        "no contract for internship",
+        "internship proof university",
+        "practical semester certificate",
+        "praktikum nachweis"
+      ],
+      "source": "https://www.ihk.de/braunschweig/beratung-und-service/rechtsthemen/wirtschaftsrecht-von-a-bis-z/arbeitsrecht/praktikant-4353094"
+    },
+    "study_abroad_health": {
+      "area": "health",
+      "law": "SGB V, EHIC",
+      "title": "Semester abroad: German statutory insurance covers the EU only with the EHIC",
+      "summary": "Within the EU, the EEA and Switzerland your statutory health insurance generally carries on during a semester abroad, and you use the European Health Insurance Card (EHIC). The EHIC is not a full travel insurance; for example it does not pay for a medically needed repatriation, and you may have to pay a co-payment. Outside the EU you typically need a private foreign health insurance. Erasmus partners may require proof. Ask your health insurer before you leave and keep paying your contributions.",
+      "keywords": [
+        "auslandssemester krankenversicherung",
+        "semester abroad insurance",
+        "ehic",
+        "erasmus health insurance",
+        "study abroad health cover",
+        "european health insurance card",
+        "auslandskrankenversicherung student",
+        "rücktransport versicherung",
+        "insurance outside eu student",
+        "health insurance erasmus",
+        "auslandssemester versichert",
+        "krankenkasse ausland studium"
+      ],
+      "source": "https://www.ergo.de/de/Ratgeber/reise_und_freizeit/krankenversicherung-eu"
+    },
+    "sublet_furnished_notice": {
+      "area": "housing",
+      "law": "BGB §§ 540, 553, 573c",
+      "title": "Sublet room: furnished rooms in the main tenant's flat can be ended on short notice",
+      "summary": "A sublease needs the landlord's permission first (§ 540 BGB), and a tenant can claim consent where there is a justified interest (§ 553 BGB). For an unfurnished room the normal notice is three months. If you live in the same flat and the room is furnished, the notice by the main tenant can be much shorter: it must arrive by the 15th of the month to end at the end of that month, and no reason is needed. A subtenant has a legally full tenancy against the main tenant. Put everything, including the deposit, in writing.",
+      "keywords": [
+        "untermieter kündigen",
+        "subtenant notice period",
+        "möbliertes zimmer kündigungsfrist",
+        "untermietvertrag kündigen",
+        "kündigungsfrist wg zimmer",
+        "furnished room notice",
+        "untermieter möbliert 15. des monats",
+        "kick out subtenant",
+        "wg zimmer kündigen",
+        "untermietvertrag möbliert",
+        "room in shared flat notice period",
+        "hauptmieter kündigt untermieter"
+      ],
+      "source": "https://www.dahag.de/c/ratgeber/mietrecht/untervermietung"
     }
   },
   "free_help": {
