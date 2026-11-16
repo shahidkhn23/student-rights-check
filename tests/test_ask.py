@@ -74,6 +74,19 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("I get BAföG only as a loan, can I apply for Wohngeld?", "wohngeld_exceptions"),
     ("As a non-EU student can I work 20 hours a week during lectures?", "intl_work_20h"),
     ("Does my compulsory internship count towards the 140 days for international students?", "intl_compulsory_internship"),
+    ("What is the Grundfreibetrag in 2026 and do I have to file a tax return?", "tax_allowance_2026"),
+    ("Do I have to pay Zweitwohnungsteuer in Munich as a student?", "second_home_tax_munich"),
+    ("How much is the KfW Studienkredit interest and how much can I borrow a month?", "kfw_study_loan"),
+    ("Do I still get BAföG in my Urlaubssemester?", "leave_semester_bafoeg"),
+    ("Am I allowed to write exams while I am beurlaubt?", "leave_semester_exams"),
+    ("What happens if I get caught cheating or plagiarising in my thesis?", "cheating_plagiarism"),
+    ("Can I ask for extra writing time after I already failed the exam?", "nachteilsausgleich_deadline"),
+    ("My fixed-term contract has a probation as long as the whole contract, what notice applies?", "probation_fixed_term"),
+    ("Can my employer send my job reference by email and can I get a Zwischenzeugnis?", "reference_details"),
+    ("My employer won't pay my overtime, how do I prove the hours?", "overtime_proof"),
+    ("I have a baby, do I get an extra child care supplement with BAföG?", "student_parent_bafoeg"),
+    ("My mobile provider raised the price, can I cancel early?", "mobile_price_increase"),
+    ("How do I get my Schufa report for free?", "schufa_free_copy"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
