@@ -100,6 +100,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("Can I get my Semesterticket money back?", "semesterticket_refund"),
     ("Until when do I have to cancel my Deutschlandticket subscription?", "deutschlandticket_cancel"),
     ("Do I get minimum wage if I write my thesis at a company?", "thesis_in_company"),
+    ("I cannot finish my Bachelorarbeit in time, can I get an extension?", "thesis_deadline_extension"),
+    ("Is attendance in lectures compulsory?", "attendance_obligation"),
+    ("Can I apply for a Master's before my Bachelor is finished?", "master_provisional_admission"),
+    ("My flatmate moved out and does not pay rent, am I liable for the whole rent?", "wg_joint_liability"),
+    ("Can my landlord forbid me to keep a cat?", "pets_in_flat"),
+    ("Someone emptied my bank account through phishing, will the bank refund me?", "phishing_bank_refund"),
+    ("If I quit my job myself, will I get a Sperrzeit for Arbeitslosengeld?", "quit_unemployment_block"),
+    ("Does my unused holiday expire at the end of the year?", "vacation_expiry"),
+    ("Do I get extra pay for working on Sundays and public holidays?", "sunday_holiday_pay"),
+    ("My train was 90 minutes late, how much money do I get back?", "rail_delay_compensation"),
+    ("The phone I bought on Kleinanzeigen is broken, can I get my money back from the private seller?", "private_sale_warranty"),
+    ("I am moving flat, what happens to my internet contract?", "internet_move_cancel"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

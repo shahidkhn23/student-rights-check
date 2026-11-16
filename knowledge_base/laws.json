@@ -586,7 +586,10 @@
         "limited contract",
         "until",
         "end date",
-        "lease ends"
+        "lease ends",
+        "lease befristet",
+        "leave early",
+        "befristeter mietvertrag"
       ],
       "source": "https://www.gesetze-im-internet.de/bgb/__575.html"
     },
@@ -2174,6 +2177,258 @@
         "write thesis in company"
       ],
       "source": "https://www.ihk.de/rheinhessen/aus-und-weiterbildung/ausbildung/unternehmen/rechtsinfos-fuer-betriebe-und-azubis/mindestlohn-fuer-praktikanten-1456844"
+    },
+    "thesis_deadline_extension": {
+      "area": "exams",
+      "law": "Prüfungsordnung (Bearbeitungszeit Abschlussarbeit)",
+      "title": "Thesis deadline: ask for an extension in time, otherwise a missed deadline counts as 5.0",
+      "summary": "If you miss the hand-in date of a thesis and have not asked for an extension, the work is usually graded 5.0 or non-passed. An extension needs an important reason that you are not responsible for, for example illness, and it must be requested in time in writing. A plain sick note for being unfit for work may not be enough, since the exam office decides itself whether the problem justifies more time. Extensions are often capped, at some universities at half the normal time, and an extension of the thesis does not move other deadlines. Check your study and exam regulations.",
+      "keywords": [
+        "bachelorarbeit verlängerung",
+        "masterarbeit verlängerung",
+        "thesis extension",
+        "fristverlängerung abschlussarbeit",
+        "abgabe thesis verpasst",
+        "thesis deadline missed",
+        "bearbeitungszeit verlängern",
+        "thesis krank",
+        "verlängerung bachelorarbeit krankheit",
+        "abschlussarbeit frist",
+        "extend thesis deadline",
+        "thesis ill"
+      ],
+      "source": "https://mosbach.dhbw.de/fileadmin/user_upload/dhbw/ressorts/pruefungsamt/Hinweise_zur_Verlaengerung_der_Bearbeitungszeit_Stand_Mai_2024.pdf"
+    },
+    "attendance_obligation": {
+      "area": "exams",
+      "law": "Prüfungsordnung / Studien- und Prüfungsordnung",
+      "title": "Compulsory attendance: lectures normally no, labs and seminars only if your regulations say so",
+      "summary": "A general attendance duty at universities is not planned and would not be allowed in that form, according to a Bavarian university answering the state parliament. In lectures there is usually no attendance duty. Attendance requirements are an exception for individual courses such as seminars, practicals or labs, and they should be set down in the course or exam regulations. Look up your Studien- und Prüfungsordnung and the module handbook, and if you were failed for missing a lecture, ask the Prüfungsamt or the student advisory service.",
+      "keywords": [
+        "anwesenheitspflicht",
+        "attendance",
+        "attendance mandatory",
+        "pflicht vorlesung",
+        "must i attend lectures",
+        "fehlzeiten",
+        "anwesenheitsliste",
+        "attendance list",
+        "anwesenheit praktikum",
+        "compulsory attendance",
+        "vorlesung fehlen",
+        "labor anwesenheit"
+      ],
+      "source": "https://www.bayern.landtag.de/www/ElanTextAblage_WP17/Drucksachen/Schriftliche%20Anfragen/17_0013387.pdf"
+    },
+    "master_provisional_admission": {
+      "area": "exams",
+      "law": "Zugangs- und Zulassungssatzungen der Hochschulen",
+      "title": "Master application before the Bachelor is finished: allowed, but the certificate has to follow by a deadline",
+      "summary": "At many universities you can apply for a Master's programme before your Bachelor is finished. You usually hand in a transcript showing the credits so far, and the final Bachelor certificate has to follow by a set date, for example at the latest when you re-register for the second Master semester. If the certificate does not arrive on time, the provisional admission lapses. The university normally does not check if you can finish in time, that is your responsibility, so plan your thesis and the correction time. Read the rules of the programme you are applying to.",
+      "keywords": [
+        "master bewerbung",
+        "bachelor noch nicht fertig",
+        "vorläufige zulassung",
+        "master application before bachelor",
+        "provisional admission master",
+        "bachelorzeugnis nachreichen",
+        "zeugnis nachreichen",
+        "apply master without degree",
+        "transcript of records bewerbung",
+        "übergang bachelor master",
+        "vorläufiges zeugnis"
+      ],
+      "source": "https://www.uni-giessen.de/de/studium/bewerbung/master/gruppea/gruppea_nachweisBA"
+    },
+    "wg_joint_liability": {
+      "area": "housing",
+      "law": "§ 421 BGB; §§ 535, 543 BGB",
+      "title": "Shared flat with everyone on the lease: all are liable for the whole rent and only everyone together can cancel",
+      "summary": "If all flatmates signed the lease as main tenants, they are jointly liable (Gesamtschuldner): the landlord can demand the full rent or damages from any one of them, if another does not pay. The lease can only be cancelled by all of them together, a partial cancellation by one person does not exist. Someone who just moves out stays a party to the contract and remains liable. Agree with your flatmates and the landlord how a change of flatmates works, ideally before you sign.",
+      "keywords": [
+        "wg mietvertrag",
+        "wohngemeinschaft haftung",
+        "mitbewohner zahlt nicht",
+        "flatmate does not pay rent",
+        "joint liability",
+        "gesamtschuldner",
+        "auszug wg kündigen",
+        "hauptmieter wg",
+        "flatmate moved out still liable",
+        "wg kündigen allein",
+        "exit shared flat contract",
+        "wg all main tenants"
+      ],
+      "source": "https://www.test.de/Wohngemeinschaften-Das-Wichtigste-fuers-WG-Leben-5915288-0/"
+    },
+    "pets_in_flat": {
+      "area": "housing",
+      "law": "§ 535 BGB; BGH VIII ZR 340/06, VIII ZR 329/11",
+      "title": "Pets in a rented flat: small animals always, dogs and cats usually only with the landlord's consent",
+      "summary": "Small animals like hamsters, fish or budgies belong to normal use of a flat and you do not need to ask, even if a blanket ban is in the lease. A clause that forbids all animals is invalid, according to the Federal Court of Justice. For dogs and cats the landlord can require consent, but he must look at each case, weighing the interests of both sides, and cannot refuse just by habit. Without permission he can warn you, so ask first and get the answer in writing.",
+      "keywords": [
+        "haustier",
+        "haustiere mietwohnung",
+        "hund mietwohnung",
+        "katze mietwohnung",
+        "pets rented flat",
+        "dog in flat",
+        "cat in flat",
+        "tierhaltung",
+        "kleintiere erlaubt",
+        "haustierverbot mietvertrag",
+        "pet ban lease",
+        "get a dog landlord"
+      ],
+      "source": "https://www.berliner-mieterverein.de/recht/infoblaetter/info-64-tierhaltung-in-der-mietwohnung.htm"
+    },
+    "phishing_bank_refund": {
+      "area": "consumer",
+      "law": "§§ 675u, 675v BGB",
+      "title": "Money taken from your account by fraud: your bank has to refund unauthorised payments, report it at once",
+      "summary": "If money leaves your account without your authorisation, for example after a phishing attack, the bank must refund it under § 675u BGB, usually by the end of the next business day. Report the case to the bank immediately and in writing, say clearly that it is an unauthorised payment and ask for a refund under § 675u BGB, and report it to the police. Banks often refuse by pointing to gross negligence, and then they may claim damages from you, so keep all messages and ask a Verbraucherzentrale for help if the bank refuses. With simple negligence your liability is capped at 50 EUR.",
+      "keywords": [
+        "phishing",
+        "online banking betrug",
+        "konto leergeräumt",
+        "fraud bank account",
+        "unauthorised payment",
+        "nicht autorisierte zahlung",
+        "bank erstattet nicht",
+        "tan weitergegeben",
+        "scam bank refund",
+        "unauthorized transaction",
+        "§ 675u",
+        "money stolen account",
+        "kreditkarte betrug"
+      ],
+      "source": "https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/konto-banking/konto-leergeraeumt-wer-haftet.html"
+    },
+    "quit_unemployment_block": {
+      "area": "work",
+      "law": "§ 159 SGB III",
+      "title": "Quitting or signing a termination agreement can block unemployment benefit for up to 12 weeks",
+      "summary": "If you end a job yourself or sign an Aufhebungsvertrag without an important reason, the employment agency can impose a block period (Sperrzeit) of usually 12 weeks on unemployment benefit (ALG I), because it sees the unemployment as self-caused. The block does not apply if you have an important reason that you can prove. Do not sign a termination agreement on the spot, and if you sign one, keep the normal notice period, since ending the job earlier can also pause your benefit. If you only work a side job, check with the Arbeitsagentur whether you would be entitled to ALG I at all.",
+      "keywords": [
+        "sperrzeit",
+        "arbeitslosengeld sperre",
+        "aufhebungsvertrag",
+        "aufhebungsvertrag unterschreiben",
+        "eigenkündigung",
+        "quit job unemployment",
+        "termination agreement",
+        "sign termination agreement",
+        "arbeitslosengeld eigenkündigung",
+        "12 wochen sperre",
+        "severance agreement",
+        "kündigen arbeitslosengeld"
+      ],
+      "source": "https://www.thorn-arbeitsrecht-muenchen.de/lexikon/sperrzeit"
+    },
+    "vacation_expiry": {
+      "area": "work",
+      "law": "§ 7 Abs. 3 BUrlG",
+      "title": "Unused holiday: it normally lapses at year end, but only if your employer warned you in time",
+      "summary": "Holiday not taken in the calendar year normally lapses on 31 December. It can be carried over to 31 March of the next year only for urgent operational or personal reasons. According to the Federal Labour Court and the ECJ, statutory holiday only lapses if the employer has clearly and in time told you how many days you have left, asked you to take them and warned that they expire. Without that warning your days stay. A special rule applies after long illness. Ask for your remaining days in writing.",
+      "keywords": [
+        "resturlaub",
+        "urlaub verfällt",
+        "urlaub verfall",
+        "holiday expire",
+        "unused holiday",
+        "carry over holiday",
+        "urlaub übertragen",
+        "31. märz urlaub",
+        "hinweispflicht urlaub",
+        "urlaub nicht genommen",
+        "remaining leave",
+        "urlaubstage verfallen"
+      ],
+      "source": "https://www.taxmaro.com/post/resturlaub"
+    },
+    "sunday_holiday_pay": {
+      "area": "work",
+      "law": "§§ 6, 9, 11 ArbZG",
+      "title": "Sunday, holiday and night work: time off is the law, a surcharge only for night work or by contract",
+      "summary": "There is no general legal right to extra pay for work on Sundays and public holidays. The law gives you a replacement day off: for a holiday within eight weeks. Only night work requires a compensation, extra pay or time off. A surcharge for Sundays and holidays can come from your contract, a collective agreement, a works agreement or a regular practice. If it is paid, it is tax-free up to 50 percent of the base wage on Sundays, 125 percent on holidays and 150 percent on 24 to 26 December and 1 May. Check your contract and payslip.",
+      "keywords": [
+        "sonntagszuschlag",
+        "feiertagszuschlag",
+        "nachtzuschlag",
+        "holiday pay surcharge",
+        "sunday work",
+        "feiertagsarbeit",
+        "ersatzruhetag",
+        "night shift surcharge",
+        "sonntagsarbeit",
+        "public holiday work",
+        "weihnachten arbeiten zuschlag",
+        "zuschläge steuerfrei"
+      ],
+      "source": "https://www.arag.de/rechtsschutzversicherung/arbeitsrechtsschutz/arbeiten-zwischen-weihnachten-und-silvester/"
+    },
+    "rail_delay_compensation": {
+      "area": "consumer",
+      "law": "EU-Fahrgastrechte-VO 2021/782; Eisenbahn-Verkehrsordnung",
+      "title": "Train delay of 60 minutes: 25 percent of the fare back, 50 percent from 120 minutes",
+      "summary": "If you arrive at your destination at least 60 minutes late, you get 25 percent of the fare for the single trip back, and from 120 minutes late 50 percent. The right is also there during strikes. Season tickets are compensated with flat amounts per delay, for local transport with a Deutschlandticket for example 1.50 EUR per case. Amounts below 4 EUR are not paid out. Apply with the railway company's form or online, and keep your delay proof and ticket, as there may be a deadline for your claim.",
+      "keywords": [
+        "zugverspätung",
+        "bahn verspätung",
+        "fahrgastrechte",
+        "train delay",
+        "db entschädigung",
+        "deutsche bahn erstattung",
+        "60 minuten verspätung",
+        "fahrgastrechte formular",
+        "deutschlandticket verspätung",
+        "train compensation",
+        "bahn streik erstattung",
+        "zug ausgefallen"
+      ],
+      "source": "https://www.cash-online.de/a/fahrgastrechte-im-zugverkehr-was-bahnreisende-bei-verspaetungen-wissen-muessen-703042/"
+    },
+    "private_sale_warranty": {
+      "area": "consumer",
+      "law": "§§ 434, 444 BGB",
+      "title": "Buying second-hand from a private seller: warranty can be excluded, but not for concealed defects",
+      "summary": "When you buy used from a private person, for example on Kleinanzeigen, the seller can exclude the statutory warranty with a clear sentence like no warranty or sold as seen. A copied half-sentence may not be enough. Such an exclusion does not protect a seller who knew about a defect and hid it or lied about the item, and you would have to prove that. So test the item, ask questions in writing and keep the ad text and messages. Dealers cannot exclude the warranty in the same way.",
+      "keywords": [
+        "kleinanzeigen",
+        "privatverkauf",
+        "private seller",
+        "gebraucht kaufen",
+        "gewährleistung ausschluss",
+        "unter ausschluss der gewährleistung",
+        "second hand defect",
+        "ebay kleinanzeigen mangel",
+        "buy used online",
+        "gekauft wie gesehen",
+        "arglistig verschwiegen",
+        "used goods private seller"
+      ],
+      "source": "https://www.t-online.de/finanzen/ratgeber/verbraucher/verbrauchertipps/id_100312450/gewaehrleistung-bei-privatverkauf-rechte-und-pflichten.html"
+    },
+    "internet_move_cancel": {
+      "area": "consumer",
+      "law": "§ 60 TKG",
+      "title": "Moving with an internet contract: it moves with you, you can only cancel if the provider can't deliver there",
+      "summary": "When you move, your internet provider has to continue the contract at the new address on unchanged terms, so a move does not shorten or extend the contract term. If the provider cannot deliver the service at your new address, you have a special right to cancel with one month's notice. According to the Verbraucherzentrale Niedersachsen this also applies if you move into a shared flat where the line is already used by another provider. Cancel in writing, name the move date and ask for confirmation.",
+      "keywords": [
+        "internet umzug",
+        "umzug internetvertrag",
+        "move internet contract",
+        "dsl umzug",
+        "§ 60 tkg",
+        "internet wg umzug",
+        "provider cannot deliver new address",
+        "kündigung umzug internet",
+        "wlan vertrag umzug",
+        "anschluss mitnehmen",
+        "new flat internet contract",
+        "festnetz umzug"
+      ],
+      "source": "https://www.verbraucherzentrale-niedersachsen.de/wissen/digitale-welt/mobilfunk-und-festnetz/sonderkuendigung-des-internetanschlusses-auch-bei-umzug-in-wohngemeinschaft-moeglich-120146"
     }
   },
   "free_help": {
