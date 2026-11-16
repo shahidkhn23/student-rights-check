@@ -124,6 +124,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("My bike was stolen on the street, does my home contents insurance pay?", "bike_theft_insurance"),
     ("I forgot my Deutschlandticket and got a 60 euro fine in the train", "fare_dodging_fee"),
     ("My bank terminated my current account, what notice period applies?", "bank_account_termination"),
+    ("I moved out and the landlord wants money for damage, we did a handover protocol", "handover_protocol"),
+    ("Who has to check the smoke detectors in my Munich flat?", "smoke_detectors_bavaria"),
+    ("My heating costs are not billed by consumption, can I cut 15 percent?", "heating_cost_cut"),
+    ("Do I get BAföG for a second degree?", "second_degree_bafoeg"),
+    ("When am I exmatriculated automatically, and can I apply for exmatriculation myself?", "forced_exmatriculation"),
+    ("Can I study part-time and still get BAföG?", "part_time_study"),
+    ("My residence permit expired but I applied for the extension, can I keep working?", "fiktionsbescheinigung"),
+    ("My employer wants me to repay the training costs after I quit", "training_cost_repayment"),
+    ("Do working students get a work reference when the job ends?", "work_reference_right"),
+    ("Who pays the return postage for an online order?", "online_return_costs"),
+    ("Netflix raised its price, is that allowed without my consent?", "streaming_price_increase"),
+    ("My credit card was stolen, how much do I have to pay?", "card_loss_liability"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

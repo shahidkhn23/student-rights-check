@@ -2681,6 +2681,255 @@
         "konto wechseln kündigung"
       ],
       "source": "https://finanztip.de/girokonto/girokonto-kuendigung/"
+    },
+    "handover_protocol": {
+      "area": "housing",
+      "law": "BGB (Mietrecht), Praxis Wohnungsübergabe",
+      "title": "Flat handover: write down every defect in a protocol, on move-in and move-out",
+      "summary": "There is no required form for a handover, but you should record all defects in a signed protocol when you move in and again when you move out. Damage that is not in the protocol is difficult for the landlord to claim later, and your move-in protocol shows what was already there before you came. If you cannot attend the move-out handover you may send a person you trust. Add meter readings, take photos in daylight and do not sign anything you disagree with without adding your own note.",
+      "keywords": [
+        "übergabeprotokoll",
+        "wohnungsübergabe",
+        "handover protocol",
+        "move out inspection",
+        "moving out landlord inspection",
+        "mängel protokollieren",
+        "flat handover",
+        "protokoll einzug",
+        "damage claims after moving out",
+        "landlord claims damage after move out",
+        "wohnungsabnahme",
+        "übergabe wohnung auszug"
+      ],
+      "source": "https://ergo.de/de/rechtsportal/mietrecht/auszug-mietwohnung/uebergabe-mietwohnung"
+    },
+    "smoke_detectors_bavaria": {
+      "area": "housing",
+      "law": "Bayerische Bauordnung (BayBO) Art. 46",
+      "title": "Smoke detectors in Bavaria: landlord installs, tenant usually checks them",
+      "summary": "Smoke detectors are compulsory in Bavaria: for new buildings since 2013 and for existing flats since 1 January 2018. The owner or landlord has to install them, and in Bavaria the upkeep (checking that they work) normally lies with the tenant, unless the owner takes it over. Replacing a broken detector is part of keeping the flat in repair and so is the landlord's cost. If you find none in your flat, ask the landlord in writing. Check your lease for any clause on this.",
+      "keywords": [
+        "rauchmelder",
+        "smoke detector",
+        "smoke alarm",
+        "rauchmelderpflicht bayern",
+        "rauchmelder wartung mieter",
+        "who pays smoke detector",
+        "rauchmelder kaputt",
+        "rauchwarnmelder",
+        "smoke alarm landlord",
+        "rauchmelder einbauen vermieter",
+        "smoke detector missing flat",
+        "rauchmelder pflicht"
+      ],
+      "source": "https://www.immowelt.de/ratgeber/wohnen/rauchmelder"
+    },
+    "heating_cost_cut": {
+      "area": "housing",
+      "law": "Heizkostenverordnung (HeizkostenV) § 12",
+      "title": "Heating bill not based on your consumption: you may cut your share by 15 percent",
+      "summary": "If heating and hot water are not billed by consumption although the Heizkostenverordnung requires it, you may reduce your share of these costs by 15 percent. The right cannot be excluded in the lease. The cut applies to your share shown in the bill, not to your monthly advance payments. It only takes effect once you tell the landlord that you use it. If the bill is correct but only partly wrong, a smaller cut of 3 percent may apply for missing information. Check the bill and keep a copy of your letter.",
+      "keywords": [
+        "heizkostenabrechnung kürzen",
+        "15 prozent kürzung",
+        "heating bill cut 15 percent",
+        "heizkosten nicht verbrauchsabhängig",
+        "heating costs by consumption",
+        "heizkostenverordnung",
+        "heizkosten abrechnung falsch",
+        "utility bill heating wrong",
+        "kürzungsrecht heizkosten",
+        "heating bill landlord mistake",
+        "wärmezähler fehlt",
+        "heizkostenverteiler fehlt"
+      ],
+      "source": "https://www.berliner-mieterverein.de/recht/infoblaetter/info-186-15-prozentiges-kuerzungsrecht-des-mieters-bei-nicht-verbrauchsabhaengiger-heizkostenabrechnung.htm"
+    },
+    "second_degree_bafoeg": {
+      "area": "money",
+      "law": "BAföG § 7",
+      "title": "Second degree: usually no BAföG, but a Master after a Bachelor is not one",
+      "summary": "BAföG normally supports a first degree. For a second degree you generally do not get it, with exceptions such as a change of focus, a justified change of subject or a dropped first degree. A Master after a finished Bachelor does not count as a second degree under BAföG, so you can apply for BAföG for the Master. In a second degree there may also be fees and different rules for repayment, so ask your Amt für Ausbildungsförderung before you start.",
+      "keywords": [
+        "zweitstudium",
+        "second degree bafoeg",
+        "bafoeg zweitstudium",
+        "second bachelor",
+        "bafoeg master after bachelor",
+        "zweites studium förderung",
+        "studiengebühren zweitstudium",
+        "bafoeg after dropping out",
+        "bafoeg nach abbruch",
+        "funding second degree",
+        "master bafoeg anspruch",
+        "drittes studium"
+      ],
+      "source": "https://www.mystipendium.de/node/7592"
+    },
+    "forced_exmatriculation": {
+      "area": "exams",
+      "law": "Bayerisches Hochschulrecht (BayHIG), Immatrikulations- und Rückmeldesatzung",
+      "title": "Exmatriculation: what ends your enrolment and what you can still do",
+      "summary": "In Bavaria you are exmatriculated automatically when you finish your degree, when you have finally failed a required exam, or when you do not re-register in time. You can also apply for it yourself, for example if you drop out. An exception can apply if you switch to another degree before the final fail. The exmatriculation takes effect at the end of the semester in which it is issued, and in special cases at once. If you think the final fail is wrong, you can object to that decision in time and ask about hardship rules in your Prüfungsordnung. Contact the Studierendenkanzlei or an advisory service quickly.",
+      "keywords": [
+        "exmatrikulation",
+        "exmatriculated",
+        "zwangsexmatrikulation",
+        "kicked out of university",
+        "exmatrikuliert werden",
+        "studium abbrechen exmatrikulieren",
+        "drop out of university",
+        "endgültig nicht bestanden exmatrikulation",
+        "lose student status",
+        "when am i exmatriculated automatically",
+        "exmatrikulation automatisch",
+        "exmatrikulation beantragen"
+      ],
+      "source": "https://www.bayernportal.de/dokumente/leistung/0667411816310"
+    },
+    "part_time_study": {
+      "area": "money",
+      "law": "Hochschulgesetze, Studien- und Prüfungsordnung",
+      "title": "Part-time study: needs an application and costs you BAföG",
+      "summary": "A part-time enrolment usually needs an application with an important reason such as a job, caring for a child or relatives. Whether your degree can be studied part-time is set by your study regulations. Officially studying part-time means you have no claim to BAföG, and it can affect child benefit and the length of the student health insurance as well. Ask the BAföG office, the Familienkasse and your health insurer before you switch. Taking a holiday semester does not help with BAföG either.",
+      "keywords": [
+        "teilzeitstudium",
+        "part-time study",
+        "studieren in teilzeit",
+        "study part time",
+        "teilzeit studium bafoeg",
+        "part time student bafoeg",
+        "teilzeitstudium antrag",
+        "teilzeitstudierende",
+        "work and study part time",
+        "kindergeld teilzeitstudium",
+        "teilzeit student krankenversicherung",
+        "reduce study load"
+      ],
+      "source": "https://www.arbeitsagentur.de/bildung/studium/studieren-in-teilzeit"
+    },
+    "fiktionsbescheinigung": {
+      "area": "international",
+      "law": "Aufenthaltsgesetz § 81",
+      "title": "Permit expired but extension applied: your old permit counts until the decision",
+      "summary": "If you apply for an extension of your residence permit before it expires, the old permit is treated as still valid until the Ausländerbehörde decides (Fortgeltungsfiktion, § 81 Abs. 4 AufenthG). The Fiktionsbescheinigung is the paper that shows this. You may work with it only if your earlier permit allowed work, so a student who was limited before stays limited. The application has to be filed in time, before the permit ends. Keep the proof of your application and show it to your employer.",
+      "keywords": [
+        "fiktionsbescheinigung",
+        "fiktionswirkung",
+        "can i work while permit extension",
+        "werkstudent aufenthaltstitel abgelaufen",
+        "applied for extension keep working",
+        "permit expired but applied",
+        "fortgeltungsfiktion",
+        "work with fiktionsbescheinigung",
+        "permit expired extension applied work"
+      ],
+      "source": "https://h-da.de/fileadmin/Einrichtungen/Internationales/2_Dokumente/2.2_an_die_h_da/Degree-seekers/Fiktionsbescheinigung_und_Fiktionswirkung.pdf"
+    },
+    "training_cost_repayment": {
+      "area": "work",
+      "law": "BGB §§ 305 ff. (AGB-Kontrolle)",
+      "title": "Training costs: repayment clauses are valid only under strict limits",
+      "summary": "An employer can ask you to repay training costs only if you explicitly agreed to it, the training gave you a real advantage on the job market, and you are not tied to the firm for an unreasonably long time. A clause that applies to every departure, no matter who caused it, is considered an unfair disadvantage and invalid. Too long a bonding period can make the whole clause void, and then you owe nothing. Read the clause before you sign and ask for advice from a union or Arbeitsrechtsberatung if you are asked to pay.",
+      "keywords": [
+        "rückzahlung fortbildungskosten",
+        "training costs repay",
+        "bindungsfrist",
+        "rückzahlungsklausel",
+        "employer wants money back training",
+        "fortbildung kündigen zahlen",
+        "weiterbildung kosten zurückzahlen",
+        "repay course fees employer",
+        "ausbildungskosten rückzahlen",
+        "bonding period",
+        "employer paid course quit",
+        "rückzahlungsvereinbarung"
+      ],
+      "source": "https://www.rechtslupe.de/arbeitsrecht/rueckzahlungsklauseln-fuer-fortbildungskosten-39326"
+    },
+    "work_reference_right": {
+      "area": "work",
+      "law": "Gewerbeordnung § 109",
+      "title": "Work reference: also working students, interns and minijobbers can ask for one",
+      "summary": "Everyone who works for an employer is entitled to a written reference when the job ends, and this right also covers working students, interns, minijobbers and part-timers. It is based on § 109 of the Gewerbeordnung and cannot be excluded. You have to ask for it, and a time limit in your contract or collective agreement for claims can also cover it, so do not wait. There is no general claim to an interim reference during the job, only if you have a good reason, for example a new boss or an application elsewhere.",
+      "keywords": [
+        "arbeitszeugnis anspruch",
+        "job reference",
+        "zeugnis werkstudent",
+        "praktikumszeugnis",
+        "reference letter employer",
+        "zwischenzeugnis",
+        "employer refuses reference",
+        "do interns get a reference",
+        "zeugnis minijob",
+        "arbeitszeugnis verlangen",
+        "work certificate",
+        "praktikum zeugnis anfordern"
+      ],
+      "source": "https://www.igmetall.de/ratgeber-arbeitszeugnis-13411.htm"
+    },
+    "online_return_costs": {
+      "area": "consumer",
+      "law": "BGB § 357 Abs. 5",
+      "title": "Returning online orders: who pays the return postage",
+      "summary": "For an online order you can usually withdraw within 14 days after you receive the goods. You have to pay the return postage only if the seller told you about it before the purchase, and if not the seller pays. The seller has to refund the price within 14 days after learning of your withdrawal, and may wait until the goods arrive back or you show proof you sent them. After the 14 days a return is only possible for defects. Keep the posting receipt.",
+      "keywords": [
+        "rücksendekosten",
+        "return postage",
+        "who pays return shipping",
+        "online order return costs",
+        "retoure kosten",
+        "zurücksenden online bestellung",
+        "kosten für rücksendung",
+        "return shipping fee",
+        "widerruf rücksendung",
+        "rückerstattung online shop",
+        "refund online order",
+        "return parcel costs"
+      ],
+      "source": "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/faq/indexamp_de.htm"
+    },
+    "streaming_price_increase": {
+      "area": "consumer",
+      "law": "BGB § 307 (AGB-Kontrolle), Urteil KG Berlin 15.11.2023",
+      "title": "Streaming price rises: Netflix and Spotify need your consent",
+      "summary": "The Kammergericht Berlin held on 15 November 2023 that the price adjustment clauses of Netflix and Spotify are invalid, so they cannot just raise the subscription price on their own. A higher price needs your consent, which is why you get a message to confirm it. If you do not agree you can stay on the old price or cancel, and a regional court has ruled that earlier price rises without consent were invalid, so you might try to reclaim the extra money. Check your payment history and the notice before you click.",
+      "keywords": [
+        "netflix preiserhöhung",
+        "spotify price increase",
+        "streaming price rise",
+        "abo preis erhöht",
+        "netflix price increase refund",
+        "preisanpassungsklausel",
+        "streaming abo teurer",
+        "price increase subscription consent",
+        "preiserhöhung abo zustimmen",
+        "can netflix raise price",
+        "kammergericht netflix",
+        "too much paid netflix"
+      ],
+      "source": "https://www.vzbv.de/urteile/preiserhoehungsklauseln-bei-netflix-und-spotify-sind-unwirksam"
+    },
+    "card_loss_liability": {
+      "area": "money",
+      "law": "BGB §§ 675u, 675v",
+      "title": "Lost or stolen card: you pay at most 50 euro until you report it",
+      "summary": "If your bank or credit card is lost or stolen, you liable at most for 50 euro for payments made before you report the loss, as long as you were not grossly negligent. Gross negligence is for instance a PIN written on the card. After the report you are generally not liable. Block the card at once through the bank or the free number 116 116, and report it to the police. The bank has to refund payments you did not authorise. If it refuses, you can complain to the bank's ombudsman or to BaFin.",
+      "keywords": [
+        "karte verloren",
+        "card lost",
+        "card stolen",
+        "kreditkarte gestohlen",
+        "girocard gesperrt",
+        "116 116",
+        "sperrnotruf",
+        "who pays stolen card",
+        "debit card stolen liability",
+        "bank card misuse",
+        "50 euro haftung",
+        "wallet stolen block card"
+      ],
+      "source": "https://www.finanztip.de/kreditkarten/kreditkartenbetrug/"
     }
   },
   "free_help": {
