@@ -5647,6 +5647,360 @@
         "Immatrikulationsbescheinigung"
       ],
       "source": "https://www.krankenkasseninfo.de/personengruppen/kuenstler-publizisten/"
+    },
+    "broadcast_fee_dorm_room": {
+      "area": "money",
+      "law": "Rundfunkbeitragsstaatsvertrag",
+      "title": "Dorm room: it counts as its own flat for the broadcasting fee if it has its own bell and mailbox",
+      "summary": "A room in a student hall of residence counts as a separate flat for the Rundfunkbeitrag (18.36 euro a month, billed 55.08 euro per quarter) when it can be reached from a generally accessible corridor and has its own mailbox and bell. Then every room pays its own fee. Whether a dorm room counts as a single flat or as a shared flat is not always clear, so ask the Beitragsservice if you are unsure. BAföG recipients can apply for an exemption.",
+      "keywords": [
+        "wohnheimzimmer",
+        "dorm room",
+        "student hall",
+        "eigener briefkasten klingel"
+      ],
+      "source": "https://www.vzhh.de/themen/rundfunkbeitrag/studieren-rundfunkbeitrag-zahlen"
+    },
+    "broadcast_fee_backdated": {
+      "area": "money",
+      "law": "Rundfunkbeitragsstaatsvertrag",
+      "title": "Broadcasting fee exemption: you can apply backdated for up to three years",
+      "summary": "If you received BAföG (or a comparable benefit) and did not live with your parents, you can apply for the broadcasting fee exemption retroactively, at most for three years and only for the periods in which you actually got the benefit. The exemption only applies on application and only for the approval period, so you need to renew it. Hand in a copy of the BAföG notice; being poor by income alone is not enough.",
+      "keywords": [
+        "befreiung rückwirkend",
+        "exemption backdated",
+        "retroactive exemption",
+        "three years backdated"
+      ],
+      "source": "https://www.vzhh.de/themen/rundfunkbeitrag/studieren-rundfunkbeitrag-zahlen"
+    },
+    "cancel_button_no_detour": {
+      "area": "consumer",
+      "law": "BGB § 312k; BGH I ZR 200/25",
+      "title": "Cancel button: the confirmation page may not push you toward pausing instead",
+      "summary": "In July 2026 the BGH (I ZR 200/25, case against the gym chain FitX) decided that the page you land on after clicking the online cancellation button may not contain anything that distracts from cancelling. In the case, a prominent orange button offered to pause the contract instead, which was not allowed. The cancellation process has to be simple: no detours, no retention offers on the confirmation page. If a provider ignores the rules, the consumer protection association can act against it.",
+      "keywords": [
+        "kündigungsbutton pausieren",
+        "cancel button pause offer",
+        "bgh fitx",
+        "vertrag pausieren statt kündigen",
+        "retention offer cancellation page",
+        "bestätigungsseite kündigung"
+      ],
+      "source": "https://www.ra-kotz.de/online-kuendigung-bgh-verbietet-ablenkungsangebote-auf-der-bestaetigungsseite.htm"
+    },
+    "gym_special_termination": {
+      "area": "consumer",
+      "law": "BGB § 314; BGH",
+      "title": "Gym: moving is no reason for early cancellation, long illness or long closure are",
+      "summary": "A move, even for work, does not entitle you to cancel a gym contract early (BGH, 4 May 2016, XII ZR 62/15). A permanent illness that makes training impossible can justify an extraordinary cancellation, usually with a medical certificate, and so can a closure of the studio for several months. If the studio is closed for only about four weeks, a cancellation will probably not succeed, but you do not have to pay for the closed time. Send the cancellation in a provable way.",
+      "keywords": [
+        "fitnessstudio umzug kündigung",
+        "gym move cancel early",
+        "sonderkündigung fitnessstudio",
+        "studio closed cancellation",
+        "gym illness certificate",
+        "außerordentliche kündigung gym"
+      ],
+      "source": "https://www.vzhh.de/print/pdf/node/295"
+    },
+    "viewing_fee_agent_banned": {
+      "area": "housing",
+      "law": "WoVermG",
+      "title": "Agent may not charge a viewing fee or extra charges for a rental flat",
+      "summary": "A landlord-side estate agent may not demand money from flat hunters for a viewing, registration, processing or similar extra charges. In a case before the Landgericht Stuttgart an agent asked 35 to 50 euro for each viewing; the court said no registration fees, expenses or other additional payments may be demanded on top of a commission. The commission itself is paid by whoever ordered the agent.",
+      "keywords": [
+        "besichtigungsgebühr makler",
+        "viewing fee agent",
+        "aufwandsentschädigung besichtigung",
+        "makler gebühr besichtigung",
+        "registration fee flat viewing",
+        "einschreibgebühr wohnung"
+      ],
+      "source": "https://www.abendzeitung-muenchen.de/inhalt.gerichtsurteil-mieter-muessen-keine-maklerkosten-zahlen.1d8ba56f-2e48-435b-98f0-674ae4b41978.html"
+    },
+    "broker_fee_reclaim": {
+      "area": "housing",
+      "law": "WoVermG",
+      "title": "Agent fee paid by mistake: you may be able to claim it back, up to three years",
+      "summary": "If you paid an estate agent's commission for a rental flat in breach of the Bestellerprinzip, you can refuse payment, and amounts already paid can be reclaimed for a limited time; the Berliner Mieterverein names three years. Demand the money back in writing with a deadline and keep the contract and payment proof. Association or lawyer advice helps if the agent refuses.",
+      "keywords": [
+        "maklerprovision zurückfordern",
+        "reclaim agent fee",
+        "makler provision rückzahlung",
+        "paid agent commission by mistake",
+        "maklergebühr erstatten",
+        "bestellerprinzip verstoß rückforderung"
+      ],
+      "source": "https://www.berliner-mieterverein.de/magazin/online/mm0915/091522.htm"
+    },
+    "bike_night_clause": {
+      "area": "consumer",
+      "law": "VVG; Versicherungsbedingungen",
+      "title": "Bike insurance: check for a night-time clause (22:00-06:00)",
+      "summary": "Many contents policies and bike policies contain a Nachtzeitklausel: between 22:00 and 06:00 the bike is only insured against theft if it is in your flat or a locked cellar or bike room. If your bike stands on the street at night and was stolen, the insurer may refuse. Look for this clause before you buy, and if possible choose a policy without it. Since nobody knows when it was stolen, the clause can lead to disputes.",
+      "keywords": [
+        "nachtzeitklausel",
+        "night time clause bike",
+        "fahrrad nachts versichert",
+        "bike insurance 22 6 uhr",
+        "nachtklausel fahrradversicherung",
+        "bike stolen at night insurance"
+      ],
+      "source": "https://www.berliner-mieterverein.de/magazin/online/mm0716/071622.htm"
+    },
+    "pregnancy_dismissal_notice": {
+      "area": "work",
+      "law": "MuSchG",
+      "title": "Dismissed while pregnant: tell your employer within two weeks",
+      "summary": "If you get a dismissal and you were pregnant at that time, you can inform the employer about your pregnancy within two weeks after receiving the notice, even if the employer did not know. This matters because pregnancy normally comes with special protection against dismissal. Do it in a provable way, for example with a doctor's certificate, and check the three-week deadline for a dismissal protection claim at the labour court separately.",
+      "keywords": [
+        "schwanger gekündigt",
+        "pregnant dismissed",
+        "kündigung schwangerschaft zwei wochen",
+        "pregnancy tell employer after dismissal",
+        "mutterschutz kündigung probezeit"
+      ],
+      "source": "https://www.leinetal24.de/leben/karriere/gruende-frist-kuendigung-probezeit-arbeitnehmer-arbeitgeber-zr-9636364.html"
+    },
+    "reference_exclusion_period": {
+      "area": "work",
+      "law": "Arbeitsvertrag; GewO § 109",
+      "title": "Reference: contractual exclusion periods can also cut off a correction claim",
+      "summary": "If your contract or a collective agreement has an exclusion period (Ausschlussfrist) for all claims from the employment, IG Metall says this also covers the claim to correct a reference. If you are unhappy with your reference, check the contract, ask for the correction in writing and do not wait too long. The claim to a reference as such is separate and can be lost by long delay.",
+      "keywords": [
+        "zeugnis ausschlussfrist",
+        "reference correction deadline",
+        "zeugnisänderung frist",
+        "exclusion period reference",
+        "arbeitszeugnis berichtigen ausschlussfrist"
+      ],
+      "source": "https://www.igmetall.de/ratgeber-arbeitszeugnis-13411.htm"
+    },
+    "heat_at_work": {
+      "area": "work",
+      "law": "ArbStättV; ASR A3.5",
+      "title": "Heat at work: no right to Hitzefrei, but the employer must act from 30 degrees",
+      "summary": "There is no general legal right to Hitzefrei at work. The workplace rule ASR A3.5 sets steps: above 26 degrees room temperature the employer should check and take measures such as ventilation or shading, above 30 degrees effective measures are required (for example drinks, flexible hours, fans), and above 35 degrees a room is not suitable as a workplace without special protection. There is no claim to free drinks or air conditioning. Your employer's risk assessment decides the measures.",
+      "keywords": [
+        "hitzefrei arbeit",
+        "heat at work",
+        "office too hot",
+        "26 grad büro",
+        "30 grad arbeitgeber maßnahmen",
+        "hitze arbeitsplatz",
+        "room temperature work"
+      ],
+      "source": "https://www.ihk-nuernberg.de/meldungen/details/hitzefrei-am-arbeitsplatz"
+    },
+    "works_council_hearing": {
+      "area": "work",
+      "law": "BetrVG § 102",
+      "title": "Works council: it must be heard before every dismissal, otherwise it is void",
+      "summary": "A works council can be elected in establishments with at least five permanent employees entitled to vote. Part-timers and marginally employed staff count as voters. Before any dismissal the employer has to hear the works council and tell it the reasons; a dismissal without that hearing is invalid. In a company without a works council this protection does not exist, and the three-week deadline for the labour court still applies.",
+      "keywords": [
+        "betriebsrat kündigung anhörung",
+        "works council dismissal",
+        "betriebsrat fünf mitarbeiter",
+        "dismissal without works council hearing",
+        "betriebsrat gründen",
+        "works council student worker"
+      ],
+      "source": "https://www.igmetall.de/im-betrieb/betriebsrat/das-sind-die-aufgaben-eines-betriebsrats"
+    },
+    "commuter_allowance_2026": {
+      "area": "money",
+      "law": "EStG § 9",
+      "title": "Commuting allowance 2026: 38 cent per km from the first kilometre, students count too",
+      "summary": "From 1 January 2026 the Entfernungspauschale is 0.38 euro for each full kilometre of the one-way distance from the first kilometre on (before: 0.30 euro for the first 20 km). Full-time students generally have the university as their first place of work and can only use this flat rate for the way to the university. It only has an effect on tax if all your Werbungskosten exceed the 1,230 euro lump sum. For a dual study with a training contract, other rules can apply.",
+      "keywords": [
+        "pendlerpauschale student",
+        "commuting allowance 2026",
+        "entfernungspauschale hochschule",
+        "fahrtkosten uni absetzen",
+        "38 cent kilometer",
+        "travel to university tax"
+      ],
+      "source": "https://www.vlh.de/arbeiten-pendeln/ausbildung-studium/student-oder-azubi-fahrtkosten-richtig-absetzen.html"
+    },
+    "church_leave_bavaria": {
+      "area": "money",
+      "law": "BayAVKirchStG",
+      "title": "Leaving the church in Bavaria: at the registry office, with an appointment, tax ends afterwards",
+      "summary": "In Bavaria you declare your Kirchenaustritt in person at the Standesamt (or in writing via a notary); in Munich the registry office takes visits by appointment only. It is effective when the correct declaration arrives at the office. A fee applies; one Bavarian town names 35 euro, so check the current fee. Church tax in Bavaria is 8 percent of income tax and ends with your membership. Keep the certificate for your tax return.",
+      "keywords": [
+        "kirchenaustritt bayern",
+        "leave church munich",
+        "kirchensteuer austreten",
+        "kirchenaustritt standesamt termin",
+        "church tax bavaria 8 percent",
+        "kirchenaustritt gebühr"
+      ],
+      "source": "https://stadt.muenchen.de/service/info/kirchenaustritt/1063731/n0/"
+    },
+    "naturalisation_five_years": {
+      "area": "international",
+      "law": "StAG § 10",
+      "title": "Naturalisation: five years of lawful residence, B1 German, secure income",
+      "summary": "Since the 2024 reform you can apply for German citizenship after five years of lawful, habitual residence in Germany (before: eight) and dual citizenship is allowed. Conditions include German at B1, a naturalisation test, a secured livelihood without benefits and a declaration of loyalty to the constitution. The fast track after three years was abolished in autumn 2025. Check with your local Einbürgerungsbehörde how study years count in your case.",
+      "keywords": [
+        "einbürgerung",
+        "naturalisation germany",
+        "german citizenship",
+        "staatsbürgerschaft fünf jahre",
+        "einbürgerung b1",
+        "dual citizenship germany",
+        "turbo einbürgerung"
+      ],
+      "source": "https://www.kreis-freising.de/fileadmin/user_upload/Aemter/Personenstand_und_Staatsangehoerigkeit/Voraussetzungen_f%C3%BCr_die_Einb%C3%BCrgerung__Stand_01.01.2026_.pdf"
+    },
+    "epa_opt_out": {
+      "area": "health",
+      "law": "SGB V; DigiG",
+      "title": "Electronic patient record (ePA): you get one automatically unless you object",
+      "summary": "Since 15 January 2025 every person with statutory health insurance gets an electronic patient record (ePA für alle) unless they object (opt-out). You can object at any time through the ePA app or your health fund, and an existing record is then deleted. You can also block individual practices, hospitals or pharmacies or restrict single functions. From the 15th birthday you manage your own rights. Objecting has no disadvantage for your care.",
+      "keywords": [
+        "elektronische patientenakte widerspruch",
+        "epa opt out",
+        "ePA delete",
+        "patient record object",
+        "epa widersprechen",
+        "electronic health record germany"
+      ],
+      "source": "https://www.vdek.com/presse/faq_fragen_und_antworten/elektronische-patientenakte.html"
+    },
+    "erasure_request_gdpr": {
+      "area": "data",
+      "law": "DSGVO Art. 17",
+      "title": "Erasure: ask a company to delete your data, they have one month to answer",
+      "summary": "Under Article 17 GDPR you can ask a controller to delete your personal data, for example when the purpose has ended, you withdrew consent or you objected to the processing. The company must answer your request within one month (in complex cases it can extend by two months). It may refuse for listed reasons, such as legal retention duties; then it should say which data it keeps and why. A simple letter or email is enough.",
+      "keywords": [
+        "daten löschen lassen",
+        "delete my data",
+        "recht auf löschung",
+        "right to erasure",
+        "löschantrag dsgvo",
+        "art 17 dsgvo",
+        "forgotten"
+      ],
+      "source": "https://www.ihk.de/schleswig-holstein/recht/recht-im-internet/eu-datenschutz-grundverordnung-nr8-3844352"
+    },
+    "advertising_objection": {
+      "area": "data",
+      "law": "DSGVO Art. 21",
+      "title": "Advertising: you can object to the use of your data for direct marketing",
+      "summary": "Under Article 21 GDPR you can object to processing based on legitimate interest, and for direct advertising the objection has to be respected. You can object informally by letter or email, and in the same message ask for deletion of the data. Verbraucherzentrale Niedersachsen offers a template. After the objection the company must stop sending you advertising.",
+      "keywords": [
+        "werbung widersprechen",
+        "object direct marketing",
+        "widerspruch werbung dsgvo",
+        "stop advertising mail",
+        "art 21 dsgvo",
+        "werbepost abmelden"
+      ],
+      "source": "https://www.verbraucherzentrale-niedersachsen.de/sites/default/files/medien/141/dokumente/Musterbrief%20Widerspruch%20gegen%20Datenverarbeitung%20%2B%20L%C3%B6schung.pdf"
+    },
+    "dashcam_rules": {
+      "area": "data",
+      "law": "BGH VI ZR 233/17; DSGVO",
+      "title": "Dashcam: usable as evidence in an accident case, but constant recording is not allowed",
+      "summary": "In a decision of 15 May 2018 (VI ZR 233/17) the BGH allowed dashcam recordings as evidence in a civil accident lawsuit, but it also made clear that permanent, event-independent recording of traffic violates data protection law. Data protection authorities accept at most short, event-related recordings (for example triggered by an accident) that are overwritten otherwise. Publishing recordings is a separate problem.",
+      "keywords": [
+        "dashcam erlaubt",
+        "dashcam evidence accident",
+        "dashcam beweis unfall",
+        "dashcam permanent recording",
+        "dashcam datenschutz bgh",
+        "car camera legal"
+      ],
+      "source": "https://www.lfd.niedersachsen.de/download/159641/FAQ_zu_Dashcams_im_Strassenverkehr_Stand_Juni_2024_.pdf"
+    },
+    "fixed_term_prior_job": {
+      "area": "work",
+      "law": "TzBfG § 14",
+      "title": "Fixed term without reason: not possible if you worked for the same employer before",
+      "summary": "A fixed-term contract without an objective reason is allowed for at most two years and can be extended up to three times within that period. It is not allowed if you were already employed by the same employer before, and the Federal Labour Court has held that even a gap of eight years does not automatically remove this ban (BAG 7 AZR 733/16). A previous student job at the same company can therefore matter. An invalid fixed term can lead to a permanent contract; the three-week period for a claim applies.",
+      "keywords": [
+        "sachgrundlose befristung vorbeschäftigung",
+        "fixed term without reason",
+        "befristung zwei jahre",
+        "prior employment fixed term",
+        "vorbeschäftigungsverbot werkstudent",
+        "befristet 2 jahre"
+      ],
+      "source": "https://rewis.io/service/pdf/urteile/dla-23-01-2019-7-azr-73316.pdf"
+    },
+    "advertising_calls_consent": {
+      "area": "consumer",
+      "law": "UWG § 7; TKG",
+      "title": "Advertising calls: only with your prior consent, fines up to 300,000 euro",
+      "summary": "Advertising calls to consumers are only allowed with your prior express consent, and that includes existing customers. You can withdraw consent at any time. The Bundesnetzagentur can fine companies up to 300,000 euro, and a hidden or faked number is its own offence; it fines only calls to consumers, not to businesses. Report unwanted calls with the complaint form, ideally with date, time, number and caller. Typical sources of 'consent' are competitions.",
+      "keywords": [
+        "werbeanruf beschweren",
+        "advertising calls illegal",
+        "telefonwerbung bußgeld",
+        "unwanted sales calls",
+        "bundesnetzagentur telefonwerbung",
+        "gewinnspiel einwilligung anruf"
+      ],
+      "source": "https://www.bundesnetzagentur.de/UnerlaubteTelefonwerbung"
+    },
+    "paypal_friends_family": {
+      "area": "consumer",
+      "law": "PayPal-Käuferschutz",
+      "title": "Buying second-hand: never pay with PayPal Friends & Family",
+      "summary": "A common scam on classified sites is a seller (or buyer) pushing you to pay by PayPal 'Friends and Family', claiming it is cheaper and faster. This option has no buyer protection, so if the item never arrives the money is gone. Pay only with 'goods and services' to get PayPal's buyer protection, never enter card data on links sent by the other side, and be careful with pressure and unusual requests. Consumer centres warn against this trick.",
+      "keywords": [
+        "paypal freunde familie",
+        "paypal friends and family scam",
+        "kleinanzeigen betrug paypal",
+        "käuferschutz paypal waren dienstleistungen",
+        "vinted scam",
+        "classified ad fraud"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinehandel/betrug-mit-kleinanzeigen-diese-maschen-sollten-sie-kennen-110389"
+    },
+    "patient_file_copy": {
+      "area": "health",
+      "law": "BGB § 630g; DSGVO Art. 15",
+      "title": "Patient file: you may see it and get a first copy free of charge",
+      "summary": "Under § 630g BGB you can ask your doctor or hospital for prompt access to your complete patient file, without giving a reason, and you can ask for copies. The European Court of Justice ruled in October 2023 (C-307/22) that the first copy must be free of charge because of the GDPR, even though the BGB talks about costs. Further copies can be charged. Access can be limited for significant therapeutic reasons or rights of third parties. Consumer centres provide a template letter.",
+      "keywords": [
+        "patientenakte einsehen",
+        "medical records copy",
+        "patientenakte kopie kostenlos",
+        "doctor file access",
+        "krankenakte anfordern",
+        "630g bgb",
+        "röntgenbilder anfordern"
+      ],
+      "source": "https://www.verbraucherzentrale.de/gesundheit-pflege/musterbrief-patientenakte-roentgenbilder-und-kostenaufklaerung-anfordern-74772"
+    },
+    "wohngeld_household_member": {
+      "area": "money",
+      "law": "WoGG § 20",
+      "title": "Housing benefit for a student sharing a home with someone who could not get BAföG",
+      "summary": "The benefit is calculated for the whole household. A BAföG-eligible student is normally excluded, but there is an entitlement if at least one household member could not claim BAföG or similar support in principle, for example a partner, a child of a single parent or the parents of a student. Local offices decide the individual case.",
+      "keywords": [
+        "partner not bafög eligible",
+        "haushaltsmitglied",
+        "mixed household",
+        "student with child"
+      ],
+      "source": "https://www.hamburg.de/resource/blob/190036/12ff18b345f7f011098cc2ca9f93c82e/d-wohngeld-studium-ausbildung-pdf-data.pdf"
+    },
+    "wohngeld_application_timing": {
+      "area": "money",
+      "law": "WoGG",
+      "title": "Housing benefit is paid from the month your application arrives; students need a BAföG rejection first",
+      "summary": "If the benefit is granted it is paid retroactively from the month in which the application arrived at the office, but processing often takes several weeks. As a student you first need a BAföG application and the rejection notice. A rejection only because you, your partner or your parents earn too much does not open up the benefit.",
+      "keywords": [
+        "rückwirkend",
+        "ablehnungsbescheid bafög",
+        "bearbeitungszeit",
+        "month application arrives"
+      ],
+      "source": "https://www.test.de/Wohngeld-Berechnung-Antrag-Hoehe-5550229-0/"
     }
   },
   "free_help": {
