@@ -311,6 +311,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('get a copy of my medical records from the doctor free of charge', 'patient_file_copy'),
     ('partner not BAföG eligible mixed household student Wohngeld', 'wohngeld_household_member'),
     ('Wohngeld paid from which month application and BAföG rejection notice', 'wohngeld_application_timing'),
+    ('residence permit expires if I stay abroad more than six months', 'leave_germany_six_months'),
+    ('Brückenteilzeit return to full time after reducing hours', 'bridge_part_time'),
+    ('Kündigungsschutz Elternzeit Aufsichtsbehörde Zustimmung', 'parental_leave_dismissal'),
+    ('Klarna buy now pay later instalments risk', 'bnpl_risks'),
+    ('free psychological counselling at the Studierendenwerk', 'studierendenwerk_counselling'),
+    ('what does CC BY-NC-SA mean for a Creative Commons photo', 'cc_licence_attribution'),
+    ('Grundlagen- und Orientierungsprüfung failed twice', 'gop_orientation_exam'),
+    ('I lost my Steuer-ID how do I get it again', 'tax_id_lost'),
+    ('who pays for travel vaccinations before a trip abroad', 'travel_vaccination_cost'),
+    ('police ID check because of my skin colour racial profiling', 'racial_profiling_ruling'),
+    ('must an oral exam have a Protokoll signed by the Beisitzer', 'oral_exam_record'),
+    ('Abmahnung wegen Google Fonts auf meiner Website', 'google_fonts_warning'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

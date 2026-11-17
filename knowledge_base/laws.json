@@ -6001,6 +6001,180 @@
         "month application arrives"
       ],
       "source": "https://www.test.de/Wohngeld-Berechnung-Antrag-Hoehe-5550229-0/"
+    },
+    "leave_germany_six_months": {
+      "area": "international",
+      "law": "AufenthG § 51",
+      "title": "Leaving Germany for more than six months can end your residence permit",
+      "summary": "A residence permit expires by law if you leave Germany and do not come back within six months, or within a longer period the Ausländerbehörde has set. It does not lapse the day you leave, but after the period ends, and an expired permit cannot be revived. If you plan a long semester abroad, apply for the longer period before you leave, or at the latest before the six months run out, and tell the office about your plans. Leaving for reasons that are not temporary can end the permit earlier. Exceptions exist, for example for some visas.",
+      "keywords": [
+        "sechs monate ausland aufenthaltstitel",
+        "residence permit expires abroad",
+        "aufenthaltstitel erlischt",
+        "semester abroad residence permit",
+        "wiedereinreisefrist",
+        "longer period before leaving"
+      ],
+      "source": "https://www.asyl.net/rsdb/m33343"
+    },
+    "bridge_part_time": {
+      "area": "work",
+      "law": "TzBfG § 9a",
+      "title": "Temporary part-time (Brückenteilzeit): one to five years, then back to your old hours",
+      "summary": "Since 2019 employees can ask to reduce their hours for a fixed period of one to five years and then return to the earlier working time. Conditions: you have worked for the employer for more than six months and the employer has more than 45 employees (in firms up to 200 staff a quota limits how many people can use it). The employer can refuse for operational reasons, which it must prove. During the period you cannot shorten or extend it or return early without agreement.",
+      "keywords": [
+        "brückenteilzeit",
+        "temporary part time right",
+        "befristete teilzeit rückkehr vollzeit",
+        "9a tzbfg",
+        "reduce hours then return full time"
+      ],
+      "source": "https://www.igmetall.de/service/ratgeber/brueckenteilzeit-die-arbeitszeit-befristet-reduzieren"
+    },
+    "parental_leave_dismissal": {
+      "area": "work",
+      "law": "BEEG § 18",
+      "title": "Dismissal protection during parental leave starts at registration, at most eight weeks before",
+      "summary": "From the moment you register parental leave (Elternzeit), but at the earliest eight weeks before it begins, your employer cannot dismiss you without the permission of the competent labour authority. A dismissal without that approval is void, and the three-week period to go to the labour court still runs. The protection ends with the leave. If you want to quit yourself at the end of parental leave, a special notice period of three months applies, even if your contract says longer.",
+      "keywords": [
+        "kündigungsschutz elternzeit",
+        "dismissed during parental leave",
+        "elternzeit aufsichtsbehörde zustimmung",
+        "achte wochen vor elternzeit",
+        "sonderkündigungsrecht elternzeit drei monate"
+      ],
+      "source": "https://familienportal.de/familienportal/familienleistungen/elternzeit/faq/kann-mein-arbeitgeber-mir-waehrend-der-elternzeit-kuendigen--124814"
+    },
+    "bnpl_risks": {
+      "area": "consumer",
+      "law": "BGB; Verbraucherkreditrecht",
+      "title": "Buy now, pay later is a short-term loan: pay on time or fees and credit trouble follow",
+      "summary": "Buy now, pay later (Klarna, PayPal and similar) means you get the goods now and pay later or in instalments. The payment is postponed, not cancelled, and consumer centres warn that it makes overspending easy, with fees or interest if you are late or choose instalments. Defaults can be reported and hurt your credit record. A press report says stricter consumer credit rules apply from April 2026, including BNPL and small interest-free instalment deals. Check what you owe before ordering and compare with simple invoice purchase.",
+      "keywords": [
+        "buy now pay later",
+        "klarna schulden",
+        "jetzt kaufen später zahlen",
+        "bnpl ratenkauf",
+        "paypal pay later fees",
+        "klarna rechnung ratenzahlung"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/wissen/digitale-welt/onlinedienste/buy-now-pay-later-schuldenfalle-oder-moderner-rechnungskauf-75599"
+    },
+    "studierendenwerk_counselling": {
+      "area": "health",
+      "law": "Studierendenwerksgesetz",
+      "title": "Studierendenwerk counselling is free, confidential and can be anonymous",
+      "summary": "Studierendenwerke offer psychological and social counselling for students, from exam stress to personal crises, and also advice on student finance, disability and international students. The counselling is free of charge, confidential and can be anonymous. Some places charge a small one-off registration fee (one Bavarian office names 10 euro), and cooperating centres may cover a limited number of sessions, so check your local Studierendenwerk. In an acute crisis the Telefonseelsorge (0800 1110111, 0800 1110222 or 116 123) is free at any hour.",
+      "keywords": [
+        "psychologische beratung studierendenwerk",
+        "student counselling free",
+        "psychosoziale beratung student",
+        "exam stress help",
+        "sozialberatung studierendenwerk",
+        "telefonseelsorge"
+      ],
+      "source": "https://www.studierendenwerke.de/beitrag/zwischen-kummer-und-klausuren"
+    },
+    "cc_licence_attribution": {
+      "area": "copyright",
+      "law": "Creative-Commons-Lizenzen",
+      "title": "Creative Commons licences: credit the author, link the licence and say what you changed",
+      "summary": "A Creative Commons licence lets you share and adapt the work as long as you follow its terms. For CC BY you must name the author, link to the licence and state whether you made changes; commercial use is allowed. 'NC' forbids commercial use, 'ND' means you may not publish an edited version, and 'SA' means adaptations must be shared under the same licence. The licence does not cover other rights, such as personality or data protection rights of people in a picture. Always check the exact licence version.",
+      "keywords": [
+        "creative commons",
+        "cc by nc commercial",
+        "cc by sa share alike",
+        "namensnennung lizenz"
+      ],
+      "source": "https://creativecommons.org/l%69censes/by/4.0/deed.de"
+    },
+    "gop_orientation_exam": {
+      "area": "exams",
+      "law": "Prüfungsordnung; BayHIG",
+      "title": "Orientation exam (GOP): usually one retake, failing again can end the programme",
+      "summary": "Many Bavarian degree programmes have a Grundlagen- und Orientierungsprüfung (GOP) in the first semesters. At FAU, for example, GOP-relevant exams can only be repeated once and failing the second attempt ends that subject. Exams you do not take in time can count as failed. The exact deadlines and the number of attempts are in your own Prüfungsordnung, so check it and talk to the study office before the deadline, and see the rules on illness and hardship if something got in the way.",
+      "keywords": [
+        "grundlagen- und orientierungsprüfung",
+        "gop nicht bestanden",
+        "orientation exam fail",
+        "gop wiederholen einmal",
+        "studium beendet nach gop"
+      ],
+      "source": "https://www.zfl.fau.de/studium/studienorganisation/grundlagen-und-orientierungspruefung"
+    },
+    "tax_id_lost": {
+      "area": "money",
+      "law": "AO § 139b",
+      "title": "Lost your tax ID: request it again free of charge from the Bundeszentralamt für Steuern",
+      "summary": "The 11-digit Steuer-ID is assigned automatically and stays the same for life; you do not apply for it. It appears on your tax assessment, your Lohnsteuerbescheinigung and often on your payslips. If you cannot find it, you can have it sent again through the online form of the Bundeszentralamt für Steuern (BZSt) or by letter. It is free and arrives by post, not by email. Do not mix it up with the Steuernummer of your local tax office.",
+      "keywords": [
+        "steuer-id verloren",
+        "tax id lost",
+        "steueridentifikationsnummer",
+        "steuer id neu anfordern",
+        "tax identification number germany",
+        "bzst steuer-id"
+      ],
+      "source": "https://www.steuertipps.de/steuererklaerung-finanzamt/steuernummer"
+    },
+    "travel_vaccination_cost": {
+      "area": "health",
+      "law": "SGB V § 20i",
+      "title": "Travel vaccinations: health funds pay only in some cases, ask before you get vaccinated",
+      "summary": "Statutory insurance pays the vaccinations recommended by the STIKO and for trips caused by work or training. Vaccinations for private holidays usually have to be paid by yourself, unless your fund offers them as a voluntary benefit (Satzungsleistung), and the rules differ between funds. Ask your fund before the vaccination, and expect to pay first and send in the invoice. Some vaccinations need several doses, so plan early.",
+      "keywords": [
+        "reiseimpfung kosten",
+        "travel vaccine cost",
+        "impfung krankenkasse übernimmt",
+        "stiko impfempfehlung",
+        "satzungsleistung impfung",
+        "vaccination before trip insurance"
+      ],
+      "source": "https://www.betanet.de/schutzimpfungen.html"
+    },
+    "racial_profiling_ruling": {
+      "area": "discrimination",
+      "law": "GG Art. 3; OVG NRW 5 A 294/16",
+      "title": "Police ID checks based on skin colour are unlawful (racial profiling)",
+      "summary": "The Higher Administrative Court of North Rhine-Westphalia ruled on 7 August 2018 (5 A 294/16) that an identity check by the federal police at a railway station was unlawful because skin colour was part of the reason. Skin colour may only play a role if the police can show specific indications, for example about crimes committed by a certain group, which they did not. The case shows you can challenge a check in court afterwards. Information only; speak to an advice centre about your own situation.",
+      "keywords": [
+        "racial profiling",
+        "polizeikontrolle hautfarbe",
+        "identity check skin colour",
+        "personenkontrolle diskriminierung",
+        "oVG nrw 5 a 294/16",
+        "police stop discrimination"
+      ],
+      "source": "https://www.rechtslupe.de/brennpunkt/hautfarbenbasierte-polizeikontrollen-3132918"
+    },
+    "oral_exam_record": {
+      "area": "exams",
+      "law": "Prüfungsordnung",
+      "title": "Oral exams: a record must be kept and signed by the examiners",
+      "summary": "A university oral exam has to be documented in a record (Protokoll). It lists the essential parts of the exam and the result, but it is not a word-for-word transcript of questions and answers, and it is signed by the examiner and the second person present (Beisitzer). Oral exams are usually held by at least one examiner and a knowledgeable assessor. Details such as the duration and the number of examiners depend on your Prüfungsordnung.",
+      "keywords": [
+        "mündliche prüfung protokoll",
+        "oral exam record",
+        "beisitzer mündliche prüfung",
+        "prüfungsprotokoll unterschrift",
+        "oral exam examiners number"
+      ],
+      "source": "https://www.math.uni-freiburg.de/static/pdf/lehrende/Hinweise_zur_Durchfuehrung_muendlicher_Praesenzpruefungen-D5-2022.pdf"
+    },
+    "google_fonts_warning": {
+      "area": "data",
+      "law": "DSGVO; LG München I 3 O 17493/20",
+      "title": "Website: Google Fonts loaded from Google can cause GDPR trouble, host them locally",
+      "summary": "In January 2022 the Landgericht München I (3 O 17493/20) held that loading Google Fonts dynamically from Google servers transmits the visitor's IP address to the USA without consent and awarded 100 euro damages. This led to a wave of mass warning letters, and in March 2023 the same court (4 O 13063/22) found the warning campaign abusive and denied claims. The simple fix for your portfolio website is to host the fonts locally. If you receive such a letter, do not pay in panic and get advice.",
+      "keywords": [
+        "google fonts abmahnung",
+        "google fonts dsgvo",
+        "webfonts lokal hosten",
+        "portfolio website fonts",
+        "fonts.googleapis.com letter",
+        "dynamic fonts ip address"
+      ],
+      "source": "https://der-betrieb.de/meldungen/google-fonts-abmahnwelle-war-rechtsmissbraeuchlich"
     }
   },
   "free_help": {
