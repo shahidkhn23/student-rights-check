@@ -5471,6 +5471,182 @@
         "Hinterbliebene"
       ],
       "source": "https://www.betanet.de/waisenrente.html"
+    },
+    "family_reunification_student": {
+      "area": "international",
+      "law": "AufenthG §§ 16b, 30",
+      "title": "Bringing your spouse while you study: adult, A1 German, flat and income for the whole family",
+      "summary": "Spouses can join students who hold a residence permit under section 16b AufenthG if they meet the requirements of section 30: both aged 18 or over, no sham or forced marriage, and basic German at A1 level. Your living costs must be secured for everyone moving, with enough living space and health insurance. A single shared-flat room usually does not count as enough space. Information only, check with your Ausländerbehörde.",
+      "keywords": [
+        "Familiennachzug",
+        "Ehepartner",
+        "Aufenthaltserlaubnis",
+        "Studium",
+        "A1",
+        "Wohnraum",
+        "Lebensunterhalt"
+      ],
+      "source": "https://www.studierendenwerke.de/fileadmin/user_upload/Downloads/Studieren_mit_Familie/202310_Aufenthaltsrecht_fuer_Studierende.gesch.pdf"
+    },
+    "invitation_guarantee_declaration": {
+      "area": "international",
+      "law": "AufenthG §§ 66, 68",
+      "title": "Inviting a visitor who needs a visa: the Verpflichtungserklärung makes you pay",
+      "summary": "To invite someone who needs a visa, you can sign a Verpflichtungserklärung under section 68 AufenthG at the Ausländerbehörde. It must be signed in person in writing, and you promise to cover the guest's costs, including departure costs, as set out in section 66. The authority checks your income, and in the sources checked recipients of Bürgergeld or housing benefit cannot invite guests this way. Think carefully, this is a real financial guarantee.",
+      "keywords": [
+        "Verpflichtungserklärung",
+        "Einladung",
+        "Besuchsvisum",
+        "Ausländerbehörde",
+        "Haftung",
+        "Bonität",
+        "Gast"
+      ],
+      "source": "https://www.stadt-koeln.de/service/produkte/00962/index.html"
+    },
+    "student_nursing_care_contribution": {
+      "area": "health",
+      "law": "SGB XI; SGB V",
+      "title": "Student insurance: care contribution is on top of the health fee, and rises at 23 without children",
+      "summary": "Compulsory insured students pay a health fee of 87.38 euro a month from 2026 (10.22 % of the BAföG rate) plus the fund's own Zusatzbeitrag. On top comes Pflegeversicherung: 3.6 % (about 30.78 euro) for students under 23 or with a child, and 4.2 % (about 35.91 euro) for childless students from 23. Check your insurer for the current figures.",
+      "keywords": [
+        "Pflegeversicherung",
+        "Pflegebeitrag",
+        "Studentenbeitrag",
+        "23. Geburtstag",
+        "kinderlos",
+        "Zuschlag",
+        "KVdS"
+      ],
+      "source": "https://www.betanet.de/krankenversicherung-fuer-studenten.html?pdf=758"
+    },
+    "education_credit_bildungskredit": {
+      "area": "money",
+      "law": "Bildungskredit (BVA / KfW)",
+      "title": "Bildungskredit: 100, 200 or 300 euro a month for advanced students",
+      "summary": "The federal Bildungskredit is a low-interest loan for students in advanced phases, in monthly rates of 100, 200 or 300 euro, up to 7,200 euro in total and with one advance of up to 3,600 euro possible. You apply at the Bundesverwaltungsamt and the KfW pays it out. Sources give the age limit as 35 or 36, and it can run alongside BAföG. Check current terms with the BVA.",
+      "keywords": [
+        "Bildungskredit",
+        "KfW",
+        "Bundesverwaltungsamt",
+        "Studienfinanzierung",
+        "7.200 Euro",
+        "Rate 300 Euro",
+        "Darlehen"
+      ],
+      "source": "https://www.studierendenwerke.de/themen/finanzierungsmoeglichkeiten/kredite/bildungskredit-der-bundesregierung"
+    },
+    "payment_default_30_days": {
+      "area": "consumer",
+      "law": "BGB § 286 Abs. 3",
+      "title": "Overdue invoice: default after 30 days only if the consumer was told on the invoice",
+      "summary": "Under section 286(3) BGB you fall into default at the latest 30 days after the payment became due and you received an invoice. For consumers this only applies if the invoice expressly pointed out that consequence. Without that note, a reminder is needed. The 40 euro flat fee is only for businesses, and reminder fees for private people must be reasonable and cover actual costs. Information only.",
+      "keywords": [
+        "Zahlungsverzug",
+        "30 Tage",
+        "Mahnung",
+        "Mahngebühren",
+        "Verzugszinsen",
+        "Rechnung",
+        "Kauf auf Rechnung"
+      ],
+      "source": "https://www.gerlingen.de/-/Lebenslagen/mahnung/leb5000575"
+    },
+    "rental_car_return_damage": {
+      "area": "consumer",
+      "law": "BGB § 535 ff.",
+      "title": "Rental car: document damage on pickup and return, and know what the deposit is",
+      "summary": "Take photos or video of the whole car, inside and out, at pickup and note every scratch in the handover protocol. Return it during opening hours with a staff member and ask for a return protocol. The deposit is blocked on a real credit card, usually in the name of the main driver, and debit cards are often refused. Consumer advice suggests full cover without excess. Information only.",
+      "keywords": [
+        "Mietwagen",
+        "Kaution Kreditkarte",
+        "Übergabeprotokoll",
+        "Vollkasko",
+        "Selbstbeteiligung",
+        "Kratzer",
+        "Rückgabe"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/wissen/reise-mobilitaet/unterwegs-sein/auslandsurlaub-mit-dem-mietwagen-so-vermeiden-sie-aerger-und-fallen-13796"
+    },
+    "bavaria_exam_deadlines": {
+      "area": "exams",
+      "law": "BayHIG Art. 84; RaPO",
+      "title": "Bavaria: missing exam deadlines you are responsible for counts as failed",
+      "summary": "Under Art. 84 BayHIG, if students miss the deadlines for registering for or sitting an exam for reasons they are responsible for, the parts not taken in time count as taken and failed. Study regulations at universities of applied sciences can also treat the final exam as failed once the standard period is exceeded by two semesters. Check your own Prüfungsordnung and tell the exam office early if you have a valid reason.",
+      "keywords": [
+        "Prüfungsfrist",
+        "Fristüberschreitung",
+        "nicht bestanden",
+        "Regelstudienzeit",
+        "RaPO",
+        "BayHIG",
+        "Prüfungsordnung"
+      ],
+      "source": "https://www.gesetze-bayern.de/Content/Pdf/BayHIG-84?all=False"
+    },
+    "credit_recognition_lisbon": {
+      "area": "exams",
+      "law": "Lissabon-Konvention; BayHIG Art. 86",
+      "title": "Switching university: your credits must be recognised unless there is a substantial difference",
+      "summary": "When you change university or course, the Lisbon Recognition Convention is the legal frame for recognising earlier modules. Recognition should happen unless there are essential differences in the competences, and the burden of proof is reversed: the university must show that the difference exists. You still have to cooperate with documents. Apply to the exam office of the new university.",
+      "keywords": [
+        "Anerkennung",
+        "Anrechnung",
+        "Hochschulwechsel",
+        "Lissabon-Konvention",
+        "Beweislastumkehr",
+        "wesentlicher Unterschied",
+        "Studienleistungen"
+      ],
+      "source": "https://portal.mytum.de/archiv/komp_ssz/ArchiveFolder_20210325_150056/20210325_163136/3"
+    },
+    "whatsapp_contact_sync": {
+      "area": "data",
+      "law": "DSGVO Art. 6; AG Bad Hersfeld 2017",
+      "title": "WhatsApp and your address book: uploading contacts needs their consent",
+      "summary": "WhatsApp reads your phone's address book and compares it with its database. Commentators argue that this upload of contacts' numbers needs consent from each contact. A 2017 ruling of the AG Bad Hersfeld made a parent liable for a child's phone in a family case. For purely private use the GDPR household exemption may apply, but businesses using WhatsApp with customer contacts face stricter duties. Information only.",
+      "keywords": [
+        "WhatsApp",
+        "Adressbuch",
+        "Kontakte",
+        "Haushaltsausnahme",
+        "Einwilligung",
+        "Abgleich",
+        "AG Bad Hersfeld"
+      ],
+      "source": "https://www.dr-datenschutz.de/whatsapp-und-der-datenschutz/"
+    },
+    "online_review_deletion": {
+      "area": "consumer",
+      "law": "GG Art. 5; BGB §§ 823, 1004",
+      "title": "Negative online reviews: false facts can be removed, opinions mostly stay",
+      "summary": "A review can be removed if it states provably false facts or is an insult. Pure opinions are protected by free speech even if harsh, as long as they are not abuse. Courts distinguish between facts that can be proven and subjective views. The author has to prove a negative fact that is stated about someone. Information only.",
+      "keywords": [
+        "Bewertung löschen",
+        "Google Bewertung",
+        "Tatsachenbehauptung",
+        "Meinungsäußerung",
+        "Schmähkritik",
+        "Unterlassung",
+        "1-Sterne"
+      ],
+      "source": "https://www.dahag.de/c/ratgeber/internetrecht/negative-onlinebewertung-abmahnen-oder-loeschen-lassen-so-funktioniert-es"
+    },
+    "ksk_student_freelancer": {
+      "area": "money",
+      "law": "KSVG",
+      "title": "Künstlersozialkasse: freelance creatives, with a 3,900 euro yearly minimum",
+      "summary": "Self-employed artists and publicists (for example writers, musicians, designers or game designers) can be insured through the Künstlersozialkasse, which pays about half of the contributions through public money and clients' levy. Members generally need to earn at least 3,900 euro a year, with an exception for career starters in their first three years. Students need a matriculation certificate. Check eligibility with the KSK.",
+      "keywords": [
+        "Künstlersozialkasse",
+        "KSK",
+        "Freiberufler",
+        "Berufsanfänger",
+        "3.900 Euro",
+        "Publizist",
+        "Immatrikulationsbescheinigung"
+      ],
+      "source": "https://www.krankenkasseninfo.de/personengruppen/kuenstler-publizisten/"
     }
   },
   "free_help": {

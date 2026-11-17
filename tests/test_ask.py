@@ -276,6 +276,17 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('GitHub repository without LICENSE file, can I use the code of others, ohne Lizenz', 'github_no_licence'),
     ('MIT or GPL: Copyleft, permissive licence, abgeleitetes Werk', 'mit_vs_gpl_licence'),
     ('Waisenrente Studium bis 27. Geburtstag Halbwaisenrente Hinzuverdienst', 'orphan_pension_student'),
+    ('Can my wife join me, Familiennachzug zum Studenten, A1 Nachweis und Wohnraum', 'family_reunification_student'),
+    ('Verpflichtungserklärung für Besuchsvisum, Einladung Gast, Ausländerbehörde Bonität', 'invitation_guarantee_declaration'),
+    ('Pflegeversicherung Student kinderlos 23. Geburtstag Pflegebeitrag 4,2 Prozent', 'student_nursing_care_contribution'),
+    ('Bildungskredit Bundesverwaltungsamt 300 Euro Rate Abschlag 3.600', 'education_credit_bildungskredit'),
+    ('Mahnung Zahlungsverzug 30 Tage Rechnung Verbraucher Hinweis Verzugszinsen', 'payment_default_30_days'),
+    ('Mietwagen Rückgabe Kratzer Übergabeprotokoll Kaution Kreditkarte Vollkasko', 'rental_car_return_damage'),
+    ('Prüfungsfrist überschritten Bayern BayHIG Art. 84 Prüfung gilt als nicht bestanden', 'bavaria_exam_deadlines'),
+    ('Hochschulwechsel Anerkennung Studienleistungen Lissabon-Konvention Beweislastumkehr', 'credit_recognition_lisbon'),
+    ('WhatsApp Adressbuch Kontakte Abgleich Einwilligung Haushaltsausnahme', 'whatsapp_contact_sync'),
+    ('Google Bewertung löschen lassen Tatsachenbehauptung Meinungsäußerung Schmähkritik', 'online_review_deletion'),
+    ('Künstlersozialkasse KSK Freiberufler Berufsanfänger Mindesteinkommen 3.900', 'ksk_student_freelancer'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
