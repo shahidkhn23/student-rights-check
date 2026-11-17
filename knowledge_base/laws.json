@@ -6254,7 +6254,7 @@
       "area": "international",
       "law": "PAuswG",
       "title": "ID card fee and validity in 2026",
-      "summary": "Since 7 February 2026 a German ID card costs 46 euro for applicants aged 24 and over (valid 10 years) and 27.60 euro for under 24s (valid 6 years). A provisional ID costs 10 euro. German citizens from 16 must have an ID card or a valid passport. An expired ID cannot be extended, you apply for a new one.",
+      "summary": "Since 7 February 2026 a German ID card costs 46 euro for applicants over 24 (valid 10 years) and 27.60 euro for under 24s (valid 6 years). A provisional ID costs 10 euro. German citizens from 16 must have an ID card or a valid passport. An expired ID cannot be extended, you apply for a new one.",
       "keywords": [
         "Personalausweis",
         "ID card cost",
@@ -6311,7 +6311,7 @@
       "area": "money",
       "law": "BGB § 502",
       "title": "Repaying an instalment loan early: fee cap",
-      "summary": "For an ordinary consumer loan with a fixed rate, the bank may charge a prepayment penalty (Vorfälligkeitsentschädigung) of at most 1 percent of the amount repaid early, or 0.5 percent if less than a year remains. It cannot charge it for variable-rate loans or if the contract information was inadequate, and not for interest-free financing.",
+      "summary": "For an ordinary consumer loan with a rate fixed at signing, the bank may charge a prepayment penalty (Vorfälligkeitsentschädigung) of at most 1 percent of the amount repaid early, or 0.5 percent if no more than a year remains. If the contract's information on term, termination or how the fee is calculated is inadequate, the bank loses the claim entirely. Contracts signed from 20 November 2026 fall under the new consumer credit rules, so check the date on yours.",
       "keywords": [
         "Vorfälligkeitsentschädigung",
         "prepayment penalty",
@@ -6320,7 +6320,7 @@
         "Ratenkredit",
         "consumer loan"
       ],
-      "source": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/rechtliche-ansprueche-der-kreditnehmer-6879"
+      "source": "https://www.gesetze-im-internet.de/bgb/__502.html"
     },
     "bottle_deposit_return": {
       "area": "consumer",
@@ -6356,8 +6356,8 @@
     "reminder_fees_limit": {
       "area": "consumer",
       "law": "BGB §§ 286, 309",
-      "title": "Reminder fees: only real costs, usually 2-3 euro",
-      "summary": "A creditor may only charge the costs a reminder actually causes, and only once you are in default. The reminder that first puts you in default cannot be charged. Flat fees above the expected loss are void. One lawyer quoted in a bank guide says 2 to 3 euro is acceptable if the costs are proven, and 3 euro is the most you should accept. Pay the invoice and ask for proof of anything higher.",
+      "title": "Reminder fees: only real costs, and the first reminder is free",
+      "summary": "There is no fixed legal amount. A creditor may only charge the costs a reminder actually causes, and only once you are in default, so the reminder that first puts you in default cannot be charged. The Federal Court of Justice ruled in 2019 (VIII ZR 95/18) that a flat 2.50 euro reminder fee in an energy supplier's terms was not allowed, and fees like 10 euro have been struck down. Pay the invoice itself and ask for proof of the cost behind any fee.",
       "keywords": [
         "Mahngebühren",
         "reminder fee",
