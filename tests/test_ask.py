@@ -335,6 +335,9 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('what is the maximum prepayment penalty if I repay my instalment loan early', 'early_loan_repayment_fee'),
     ('supermarket refuses my Einwegpfand can what are my rights', 'bottle_deposit_return'),
     ('my parents as guarantor instead of paying the rent deposit in cash', 'rent_guarantee_alternative'),
+    ('how much can a company charge for a payment reminder fee', 'reminder_fees_limit'),
+    ('do my parents keep Kindergeld during my Erasmus semester abroad', 'kindergeld_study_abroad'),
+    ('can my boss read my emails on the Diensthandy if private use is allowed', 'employer_email_phone_monitoring'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

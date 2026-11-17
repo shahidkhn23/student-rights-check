@@ -6352,6 +6352,50 @@
         "no money for deposit"
       ],
       "source": "https://www.test.de/Mietbuergschaft-Eltern-haften-fuer-ihre-Kinder-4880478-0/"
+    },
+    "reminder_fees_limit": {
+      "area": "consumer",
+      "law": "BGB §§ 286, 309",
+      "title": "Reminder fees: only real costs, usually 2-3 euro",
+      "summary": "A creditor may only charge the costs a reminder actually causes, and only once you are in default. The reminder that first puts you in default cannot be charged. Flat fees above the expected loss are void. One lawyer quoted in a bank guide says 2 to 3 euro is acceptable if the costs are proven, and 3 euro is the most you should accept. Pay the invoice and ask for proof of anything higher.",
+      "keywords": [
+        "Mahngebühren",
+        "reminder fee",
+        "dunning fee",
+        "Zahlungserinnerung",
+        "late payment fee",
+        "Mahnkosten"
+      ],
+      "source": "https://finanztip.de/mahngebuehren/"
+    },
+    "kindergeld_study_abroad": {
+      "area": "money",
+      "law": "EStG § 62",
+      "title": "Child benefit while studying abroad",
+      "summary": "Parents keep Kindergeld if the child keeps a home in Germany, and a short stay of one or two semesters abroad normally does not endanger it. For studies in the EU or EEA the claim generally continues unless comparable benefits are paid abroad. For multi-year studies outside Europe, the child keeps the German residence only if it mainly uses the parents' home during the break periods (BFH case law).",
+      "keywords": [
+        "Kindergeld abroad",
+        "study abroad child benefit",
+        "Auslandsstudium Kindergeld",
+        "Wohnsitz Eltern",
+        "Familienkasse Ausland"
+      ],
+      "source": "https://www.lohnsteuer-kompakt.de/steuerwissen/auslandsstudium-droht-der-verlust-des-kindergeldes/"
+    },
+    "employer_email_phone_monitoring": {
+      "area": "data",
+      "law": "DSGVO, BDSG § 26, TKG",
+      "title": "Employer checking your work email and phone",
+      "summary": "If private use of the company phone or email is allowed or tolerated, the employer may not read private messages or call lists. If private use is banned, spot checks of business use are possible but should be made transparent, for example through a works agreement. Private email content is generally off limits to the employer.",
+      "keywords": [
+        "Mitarbeiterüberwachung",
+        "work phone private use",
+        "Diensthandy",
+        "company laptop",
+        "employer read emails",
+        "Fernmeldegeheimnis"
+      ],
+      "source": "https://www.dr-datenschutz.de/mitarbeiterkontrolle-was-darf-der-arbeitgeber/"
     }
   },
   "free_help": {
