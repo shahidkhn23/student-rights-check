@@ -206,6 +206,20 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('My Gutschein has a one year expiry date, is that valid or does the voucher last three years?', 'gift_voucher_validity'),
     ('The concert was cancelled, can I get the ticket price back including presale fee?', 'event_ticket_refund'),
     ('I paid by prepayment in a Fakeshop and got nothing, what should I do and who do I contact?', 'fake_shop_prepayment'),
+    ('How long can I search for a job after finishing my degree in Germany with a graduate visa?', 'graduate_job_search_visa'),
+    ('How many hours can I work with a Chancenkarte while I search?', 'chancenkarte_search'),
+    ('My American driving licence is valid how long after I moved to Germany?', 'foreign_licence_six_months'),
+    ('My Krankenkasse raised the Zusatzbeitrag, can I switch with a Sonderkündigungsrecht?', 'health_fund_special_termination'),
+    ('How do I get a therapist appointment through 116117 Terminservicestelle?', 'psychotherapy_appointment'),
+    ('What is the Belastungsgrenze for Zuzahlung and how do I get an exemption?', 'copayment_exemption_limit'),
+    ('How much does the Krankenkasse pay for a crown with a Bonusheft Festzuschuss?', 'dental_bonus_booklet'),
+    ('Does my EHIC cover the Rücktransport on a trip abroad?', 'ehic_abroad_cover'),
+    ('Do I need a Schwerbehindertenausweis for Nachteilsausgleich in my studies?', 'severe_disability_card_study'),
+    ('Can I study in Bavaria without Abitur as a Meister?', 'study_without_abitur'),
+    ('What is a Härtefallantrag for a restricted admission degree?', 'admission_hardship_application'),
+    ('I was sick on exam day, how do I do a Prüfungsrücktritt with a Attest?', 'exam_withdrawal_illness'),
+    ('Is proctoring with biometric face recognition in online exams legal?', 'online_exam_proctoring'),
+    ('How much Unterhalt do my parents owe me as a student living away from home?', 'parent_support_student'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

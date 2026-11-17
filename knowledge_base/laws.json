@@ -4394,6 +4394,228 @@
         "shopping fraud germany"
       ],
       "source": "https://www.verbraucherzentrale.de/node/33155"
+    },
+    "graduate_job_search_visa": {
+      "area": "international",
+      "law": "§ 20 AufenthG",
+      "title": "Job-search residence permit after graduating in Germany",
+      "summary": "After a successful degree in Germany you can apply for a residence permit to look for a job. It runs up to 18 months, is not extendable for that purpose, and allows any employment while you search.",
+      "keywords": [
+        "graduate visa",
+        "18 months",
+        "job search",
+        "after degree",
+        "Arbeitsplatzsuche",
+        "Aufenthaltserlaubnis",
+        "§ 20"
+      ],
+      "source": "https://www.make-it-in-germany.com/de/visum/arten/arbeitsplatzsuche"
+    },
+    "chancenkarte_search": {
+      "area": "international",
+      "law": "§ 20a AufenthG",
+      "title": "Chancenkarte (opportunity card) job search",
+      "summary": "The Such-Chancenkarte is first issued for at most one year. While searching you may work side jobs of up to 20 hours a week. Self-employment is not allowed with it.",
+      "keywords": [
+        "Chancenkarte",
+        "opportunity card",
+        "points system",
+        "20 hours",
+        "side job",
+        "Such-Chancenkarte"
+      ],
+      "source": "https://www.make-it-in-germany.com/de/visum-aufenthalt/chancenkarte/jobsuche"
+    },
+    "foreign_licence_six_months": {
+      "area": "international",
+      "law": "§ 29 FeV",
+      "title": "Foreign non-EU driving licence: six months after moving",
+      "summary": "A driving licence from a non-EU/EEA country is valid in Germany for six months after you take up residence. After that you must convert it, which usually needs a theory and practical test unless your country is on the exemption list. EU/EEA licences stay valid.",
+      "keywords": [
+        "Führerschein",
+        "driving licence",
+        "umschreiben",
+        "Drittstaat",
+        "convert",
+        "six months",
+        "Fahrerlaubnis"
+      ],
+      "source": "https://stadt.muenchen.de/service/muenchen/1071898/"
+    },
+    "health_fund_special_termination": {
+      "area": "health",
+      "law": "§ 175 SGB V",
+      "title": "Special right to leave your health fund when the Zusatzbeitrag rises",
+      "summary": "If your Krankenkasse raises or newly charges its Zusatzbeitrag, you may switch to another fund until the end of the month in which the increase first applies. The 12-month binding period does not apply, but the two-month notice period does. Since mid-2026 funds no longer have to inform you, so watch for increases yourself.",
+      "keywords": [
+        "Zusatzbeitrag",
+        "Sonderkündigungsrecht",
+        "switch health insurance",
+        "Krankenkasse wechseln",
+        "increase",
+        "special termination"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/krankenversicherung/zusatzbeitrag-der-krankenkasse-sonderkuendigung-und-wechsel-moeglich-10581"
+    },
+    "psychotherapy_appointment": {
+      "area": "health",
+      "law": "SGB V",
+      "title": "Finding a psychotherapy appointment via 116117",
+      "summary": "The Terminservicestelle (116117, also online) arranges a first psychotherapeutic consultation (Sprechstunde) within about a week, with a wait of no more than four weeks. From there it can lead to acute treatment or further sessions. Say explicitly that you need a Sprechstunde.",
+      "keywords": [
+        "Psychotherapie",
+        "therapist",
+        "116117",
+        "Terminservicestelle",
+        "Sprechstunde",
+        "waiting time",
+        "therapy appointment"
+      ],
+      "source": "https://www.barmer.de/gesundheit-verstehen/psyche/psychische-erkrankungen/terminservicestelle-1058408"
+    },
+    "copayment_exemption_limit": {
+      "area": "health",
+      "law": "§ 62 SGB V",
+      "title": "Copayment cap and exemption",
+      "summary": "Prescription copayment is 10 percent of the price, at least 5 and at most 10 euro. Yearly copayments are capped at 2 percent of gross income (1 percent for the chronically ill). Once you reach the cap, your Krankenkasse can issue an exemption. Under-18s are generally exempt.",
+      "keywords": [
+        "Zuzahlung",
+        "Rezeptgebühr",
+        "Belastungsgrenze",
+        "exemption",
+        "prescription fee",
+        "pharmacy",
+        "Befreiung"
+      ],
+      "source": "https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/z/zuzahlungsbefreiungen"
+    },
+    "dental_bonus_booklet": {
+      "area": "health",
+      "law": "§ 55 SGB V",
+      "title": "Dental crown costs: Festzuschuss and Bonusheft",
+      "summary": "Statutory insurance pays a fixed subsidy (Festzuschuss) of 60 percent of the standard care, more with a complete Bonusheft. Reports say the base share falls to 50 percent from 2027, but a Heil- und Kostenplan approved by the fund beforehand keeps the old rate. Low-income cases can get full cost cover (Härtefall).",
+      "keywords": [
+        "Zahnersatz",
+        "Bonusheft",
+        "Festzuschuss",
+        "Heil- und Kostenplan",
+        "dentist",
+        "crown",
+        "Zahnarzt"
+      ],
+      "source": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/zahnersatz-2027-festzuschuss-sinkt-jetzt-noch-sparen-1598361.html"
+    },
+    "ehic_abroad_cover": {
+      "area": "health",
+      "law": "EU social security rules",
+      "title": "EHIC: health cover on trips abroad",
+      "summary": "The EHIC is printed on the back of your German health card. It gives access to medically necessary care in the EU/EEA, Switzerland and several other European states, on the host country's terms. It never covers a medical repatriation, so a private travel insurance is still useful.",
+      "keywords": [
+        "EHIC",
+        "European health card",
+        "Auslandskrankenversicherung",
+        "Rücktransport",
+        "travel insurance",
+        "abroad",
+        "Auslandsschutz"
+      ],
+      "source": "https://www.betanet.de/auslandsschutz.html?pdf=43"
+    },
+    "severe_disability_card_study": {
+      "area": "health",
+      "law": "§ 152 SGB IX",
+      "title": "Severe disability card and accommodations in study",
+      "summary": "The Versorgungsamt issues a Schwerbehindertenausweis on request when the degree of disability is at least 50. Accommodations in studies (Nachteilsausgleich) generally depend on proof of an impairment, not on severe disability, so you can ask for them without the card.",
+      "keywords": [
+        "Schwerbehindertenausweis",
+        "GdB",
+        "Grad der Behinderung",
+        "Nachteilsausgleich",
+        "Versorgungsamt",
+        "chronic illness",
+        "disability"
+      ],
+      "source": "https://studierendenwerke.de/themen/studieren-mit-behinderung/studium-und-pruefungen/schwerbehindertenausweis"
+    },
+    "study_without_abitur": {
+      "area": "exams",
+      "law": "BayHSchG / QualV",
+      "title": "Studying in Bavaria without Abitur",
+      "summary": "Masters and equivalent advanced vocational qualifications give general access to a degree. Others with vocational training and work experience can get subject-bound access. The rules sit in the Bavarian qualification ordinance (QualV), so check the exact requirements with your university.",
+      "keywords": [
+        "ohne Abitur",
+        "beruflich Qualifizierte",
+        "Meister",
+        "Hochschulzugang",
+        "vocational training",
+        "no Abitur",
+        "Probestudium"
+      ],
+      "source": "https://www.tum.de/studium/bewerbung/infoportal-bewerbung/bewerbung-fuer-meisterinnen-und-beruflich-qualifizierte"
+    },
+    "admission_hardship_application": {
+      "area": "exams",
+      "law": "Hochschulzulassung",
+      "title": "Hardship application for restricted-admission degrees",
+      "summary": "Places in the hardship quota go to applicants for whom a rejection would be an exceptional hardship. If recognised, you are admitted ahead of all other applicants regardless of grades or waiting time. Many universities follow hochschulstart.de's practice.",
+      "keywords": [
+        "Härtefallantrag",
+        "Härtequote",
+        "Numerus clausus",
+        "Zulassung",
+        "hochschulstart",
+        "hardship",
+        "admission"
+      ],
+      "source": "https://www.studierendenwerke.de/themen/studieren-mit-behinderung/bewerbung-und-zulassung/bachelor-und-staatsexamen/haertefallantrag-im-zulassungsverfahren"
+    },
+    "exam_withdrawal_illness": {
+      "area": "exams",
+      "law": "Prüfungsordnung",
+      "title": "Withdrawing from an exam because of illness",
+      "summary": "Report your exam inability and submit a medical certificate (Attest) without delay, ideally the same day. A plain Arbeitsunfähigkeitsbescheinigung is not enough, and exam anxiety alone does not usually count as illness. A late withdrawal is generally refused.",
+      "keywords": [
+        "Prüfungsrücktritt",
+        "Prüfungsunfähigkeit",
+        "Attest",
+        "sick note",
+        "krank Klausur",
+        "exam anxiety",
+        "unverzüglich"
+      ],
+      "source": "https://www.uni-regensburg.de/fileadmin/user_upload/bilderkatalog/ordnungen-satzungen-richtlinien/studium/behinderung-krankheit/pruefungsunfaehigkeit-durch-krankheit-merkblatt.pdf"
+    },
+    "online_exam_proctoring": {
+      "area": "exams",
+      "law": "DSGVO",
+      "title": "Online exam proctoring and biometric surveillance",
+      "summary": "In November 2025 the Thüringer Oberlandesgericht held that video surveillance of students in online exams is unlawful when biometric data is processed. Data protection authorities also criticise room scans and invasive proctoring software.",
+      "keywords": [
+        "Proctoring",
+        "online exam",
+        "Online-Prüfung",
+        "Videoüberwachung",
+        "Gesichtserkennung",
+        "room scan",
+        "biometric"
+      ],
+      "source": "https://netzpolitik.org/?p=503333"
+    },
+    "parent_support_student": {
+      "area": "money",
+      "law": "§§ 1601 ff. BGB",
+      "title": "Parental maintenance for students (Unterhalt)",
+      "summary": "Parents owe maintenance until a first vocational education ends. For a student living away from home the standard need in 2026 is 990 euro a month, of which up to 440 euro is for rent. Kindergeld is deducted.",
+      "keywords": [
+        "Unterhalt",
+        "Düsseldorfer Tabelle",
+        "990 Euro",
+        "parents pay",
+        "Eltern",
+        "Kindesunterhalt",
+        "student maintenance"
+      ],
+      "source": "https://finanztip.de/unterhalt-volljaehrige-kinder/"
     }
   },
   "free_help": {
