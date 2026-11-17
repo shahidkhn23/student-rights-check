@@ -233,6 +233,20 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('My boss sexually harassed me, can I use the Leistungsverweigerungsrecht under the AGG?', 'workplace_sexual_harassment'),
     ('How long do I have to claim compensation after discrimination in a job application, the AGG Zwei-Monats-Frist?', 'agg_two_month_deadline'),
     ('Do I have a right to Homeoffice and who pays the equipment?', 'homeoffice_no_entitlement'),
+    ('Does my employer have to record my working hours with a Stechuhr', 'working_time_recording'),
+    ('Can I be fired after I reported illegal practices as a whistleblower', 'whistleblower_protection'),
+    ('My freelancer contract looks like Scheinselbständigkeit with the Rentenversicherung', 'false_self_employment'),
+    ('How much Übungsleiterpauschale is tax-free for a student trainer in 2026', 'trainer_volunteer_allowance_2026'),
+    ('Do I need a Freistellungsauftrag for my interest and Sparer-Pauschbetrag', 'savings_allowance_freistellung'),
+    ('Does the Deutschlandstipendium reduce my BAföG', 'scholarship_and_bafoeg'),
+    ('Do I have to pay tax on my scholarship', 'scholarship_tax_free'),
+    ('What is the difference between Gewährleistung and Garantie', 'warranty_vs_guarantee'),
+    ('My suitcase was lost on my flight, how fast must I report it to the airline', 'lost_luggage_claim'),
+    ('Can I cancel my hotel booking within 14 days using the Widerrufsrecht', 'hotel_booking_no_withdrawal'),
+    ('Do I need a driving licence and insurance sticker for an e-scooter', 'escooter_basics'),
+    ('How many Promille am I allowed on an e-scooter', 'escooter_alcohol'),
+    ('Carsharing passed a Knöllchen on to me with a Bearbeitungsgebühr', 'carsharing_fines_fee'),
+    ('Is a Rechtsschutzversicherung with Wartezeit worth it as a student, am I co-insured by my parents', 'legal_insurance_students'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

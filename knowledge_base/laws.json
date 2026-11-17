@@ -4822,6 +4822,211 @@
         "Betriebsvereinbarung"
       ],
       "source": "https://www.ihk.de/duesseldorf/recht-und-steuern/recht/merkblaetter-von-a-bis-z/neuer-inhalt-7135610"
+    },
+    "working_time_recording": {
+      "area": "work",
+      "law": "§ 3 ArbSchG; BAG 1 ABR 22/21",
+      "title": "Employers must record working time",
+      "summary": "Since the Federal Labour Court decision of 13 Sept 2022 (1 ABR 22/21), employers must record start, end and duration of working time including overtime. Caveat: in a pay claim for overtime the employee still has to show the hours and that the employer ordered or accepted them.",
+      "keywords": [
+        "Arbeitszeiterfassung",
+        "Stechuhr",
+        "time recording",
+        "timesheet",
+        "overtime proof",
+        "Überstunden Nachweis"
+      ],
+      "source": "https://www.ihk.de/schwaben/produktmarken/recht-und-steuern/arbeitsrecht-und-personal/arbeitszeiterfassung-5630382"
+    },
+    "whistleblower_protection": {
+      "area": "work",
+      "law": "Hinweisgeberschutzgesetz (HinSchG)",
+      "title": "Whistleblower protection against retaliation",
+      "summary": "The HinSchG has applied since 2 July 2023. It protects people who report legal violations at work from retaliation such as dismissal. If a disadvantage follows a report, the employer has to prove it was not because of the report.",
+      "keywords": [
+        "Whistleblower",
+        "Hinweisgeber",
+        "report wrongdoing",
+        "retaliation",
+        "Repressalien",
+        "Meldestelle"
+      ],
+      "source": "https://freiheitsrechte.org/uploads/documents/Whistleblowing-in-der-Polizei/Handreichung-Allgemein.pdf"
+    },
+    "false_self_employment": {
+      "area": "work",
+      "law": "§ 7a SGB IV",
+      "title": "Freelancer or really an employee? (Scheinselbständigkeit)",
+      "summary": "The German pension insurance judges the real working conditions, not the contract label. Being bound by instructions and integrated into the client's operation point to employment. Parties can ask the DRV for a status determination under § 7a SGB IV; back payment of contributions can reach four years.",
+      "keywords": [
+        "Scheinselbständigkeit",
+        "freie Mitarbeiter",
+        "freelancer",
+        "Statusfeststellung",
+        "weisungsgebunden",
+        "Rentenversicherung"
+      ],
+      "source": "https://www.haufe-akademie.de/blog/themen/recht-datenschutz/scheinselbststaendigkeit/amp/"
+    },
+    "trainer_volunteer_allowance_2026": {
+      "area": "money",
+      "law": "§ 3 Nr. 26, 26a EStG",
+      "title": "Übungsleiter and Ehrenamt allowances 2026",
+      "summary": "From 2026 up to 3,300 euro a year (trainer, tutor, carer for a non-profit) and 960 euro a year (other volunteer work) are tax-free. Students can use them, and they can be combined with a minijob if the activities are independent.",
+      "keywords": [
+        "Übungsleiterpauschale",
+        "Ehrenamtspauschale",
+        "3300",
+        "960",
+        "Vereinstrainer",
+        "tax-free volunteer pay"
+      ],
+      "source": "https://www.vlh.de/kaufen-investieren/spenden-beitraege/ehrenamt-und-steuer-diese-freibetraege-gibt-es.html"
+    },
+    "savings_allowance_freistellung": {
+      "area": "money",
+      "law": "§ 20 Abs. 9 EStG",
+      "title": "Savings allowance and Freistellungsauftrag",
+      "summary": "Interest and dividends are tax-free up to 1,000 euro a year per person (2,000 for married couples) if you give your bank a Freistellungsauftrag. Low earners whose income stays below the basic allowance can get a Nichtveranlagungsbescheinigung instead (12,348 euro in 2026).",
+      "keywords": [
+        "Sparer-Pauschbetrag",
+        "Freistellungsauftrag",
+        "Nichtveranlagungsbescheinigung",
+        "Zinsen",
+        "Dividenden",
+        "Kapitalerträge"
+      ],
+      "source": "https://www.vlh.de/wissen-service/nichtveranlagungsbescheinigung-was-ist-das.html"
+    },
+    "scholarship_and_bafoeg": {
+      "area": "money",
+      "law": "§ 21 BAföG; Deutschlandstipendium",
+      "title": "Scholarship and BAföG together",
+      "summary": "The Deutschlandstipendium (300 euro a month) does not reduce BAföG. Several scholarships together only matter if they average more than 300 euro a month. Scholarships have to be reported to the BAföG office.",
+      "keywords": [
+        "Deutschlandstipendium",
+        "Stipendium BAföG",
+        "scholarship BAföG",
+        "300 Euro Stipendium",
+        "Anrechnung"
+      ],
+      "source": "https://www.fu-berlin.de/en/sites/deutschlandstipendium/faq/faq_kombination/bafoeg.html"
+    },
+    "scholarship_tax_free": {
+      "area": "money",
+      "law": "§ 3 Nr. 44 EStG",
+      "title": "Is a scholarship taxable?",
+      "summary": "Scholarships for scientific or artistic education are generally tax-free when paid directly by an institution, whether they cover living costs or education costs. The exemption only holds if the money is not a payment for work. Edge cases depend on the individual scholarship.",
+      "keywords": [
+        "Stipendium steuerfrei",
+        "scholarship tax",
+        "Stipendium versteuern",
+        "Steuerfreiheit Stipendium"
+      ],
+      "source": "https://wundertax.de/ratgeber-steuern/stipendium-versteuern/"
+    },
+    "warranty_vs_guarantee": {
+      "area": "consumer",
+      "law": "§§ 437, 438, 477 BGB",
+      "title": "Gewährleistung vs. Garantie",
+      "summary": "Statutory warranty (Gewährleistung) is a legal right against the seller: two years for new goods, one year can be agreed for used goods. In the first twelve months a defect is presumed to have existed at purchase. A Garantie is a voluntary extra from the maker or seller. You choose repair or replacement.",
+      "keywords": [
+        "Gewährleistung",
+        "Garantie",
+        "warranty",
+        "guarantee",
+        "Nacherfüllung",
+        "Beweislastumkehr",
+        "defect"
+      ],
+      "source": "https://www.cec-zev.eu/de/themen/e-commerce/einkaufen-im-internet/garantie-gewaehrleistung/"
+    },
+    "lost_luggage_claim": {
+      "area": "consumer",
+      "law": "Montrealer Übereinkommen",
+      "title": "Lost, damaged or delayed flight luggage",
+      "summary": "Report damage to checked baggage in writing to the airline within seven days, delay within 21 days of getting the bag back. Liability is capped at roughly 1,800 euro per passenger, not per bag (the figure moves with the exchange rate).",
+      "keywords": [
+        "Gepäck verloren",
+        "luggage",
+        "Schadensanzeige",
+        "Montrealer Übereinkommen",
+        "baggage delay",
+        "Koffer"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/reise-mobilitaet/unterwegs-sein/mein-gepaeck-ging-verloren-kam-beschaedigt-oder-verspaetet-an-27883"
+    },
+    "hotel_booking_no_withdrawal": {
+      "area": "consumer",
+      "law": "§ 312g Abs. 2 Nr. 9 BGB",
+      "title": "No 14-day withdrawal for dated hotel bookings",
+      "summary": "Hotel bookings for a fixed date have no statutory right of withdrawal, even online. Cancelling is governed by the hotel's cancellation terms; a non-refundable rate usually gives no refund. Clauses can be challenged if hidden or rigid.",
+      "keywords": [
+        "Hotel stornieren",
+        "Widerrufsrecht Hotel",
+        "Stornogebühr",
+        "non-refundable",
+        "Booking.com",
+        "hotel cancellation"
+      ],
+      "source": "https://gesetz-ratgeber.de/rechtsgebiete/reiserecht/hotelbuchung-online-rechte-stornierung"
+    },
+    "escooter_basics": {
+      "area": "consumer",
+      "law": "eKFV",
+      "title": "E-scooter: licence, age and insurance",
+      "summary": "No driving licence is needed for an e-scooter, the minimum age is 14, and a liability insurance sticker is mandatory. Only e-scooters with an operating permit are legal.",
+      "keywords": [
+        "E-Scooter",
+        "Elektro-Tretroller",
+        "Versicherungskennzeichen",
+        "e-scooter licence",
+        "Mindestalter 14",
+        "Betriebserlaubnis"
+      ],
+      "source": "https://www.adac.de/rund-ums-fahrzeug/tests/elektromobilitaet/e-scooter-alltag/"
+    },
+    "escooter_alcohol": {
+      "area": "consumer",
+      "law": "§ 24a StVG; § 316 StGB",
+      "title": "Alcohol limits on an e-scooter",
+      "summary": "The same limits as for cars apply: 0.5 to 1.09 per mille without signs of impairment is an administrative offence, 1.1 and above is a crime. Under 21 and during the probation period the limit is zero.",
+      "keywords": [
+        "E-Scooter Promille",
+        "betrunken E-Scooter",
+        "drunk e-scooter",
+        "1,1 Promille",
+        "Fahrverbot E-Scooter"
+      ],
+      "source": "https://web.de/magazine/auto/umfrage-zeigt-e-scooter-fahrer-gefaehrlichem-halbwissen-35189496"
+    },
+    "carsharing_fines_fee": {
+      "area": "consumer",
+      "law": "Carsharing-AGB",
+      "title": "Fines in carsharing and rental cars",
+      "summary": "Providers pass parking tickets and fines on to the driver and add a processing fee, roughly 5 to 20 euro depending on the provider. For a rental car the fine notice usually goes to the rental company, which identifies the driver from the contract.",
+      "keywords": [
+        "Carsharing Knöllchen",
+        "Bearbeitungsgebühr",
+        "Strafzettel Mietwagen",
+        "parking ticket carsharing",
+        "Mietwagen geblitzt"
+      ],
+      "source": "https://web.de/magazine/auto/ungeplante-zusatzkosten-knoellchen-schaeden-carsharing-32676522"
+    },
+    "legal_insurance_students": {
+      "area": "money",
+      "law": "Versicherungsvertrag",
+      "title": "Legal expenses insurance for students",
+      "summary": "Cover usually starts after a waiting period of about three months, sometimes six in employment law; traffic cover often has none. Adult unmarried children in education are often co-insured under their parents' policy, so check the policy terms first.",
+      "keywords": [
+        "Rechtsschutzversicherung",
+        "Wartezeit",
+        "legal insurance",
+        "mitversichert Eltern",
+        "Student Rechtsschutz"
+      ],
+      "source": "https://www.test.de/FAQ-Rechtsschutzversicherung-Ihre-Fragen-unsere-Antworten-4968203-0/"
     }
   },
   "free_help": {
