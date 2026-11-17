@@ -331,6 +331,10 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('how much does a new Personalausweis cost 2026', 'id_card_fee_2026'),
     ('maximum fee for a lawyer first consultation consumer', 'lawyer_first_consultation_cap'),
     ('can my future landlord ask about my religion in the Mieterselbstauskunft', 'tenant_self_disclosure_questions'),
+    ('must a public employer invite a severely disabled applicant to an interview', 'public_employer_disabled_interview'),
+    ('what is the maximum prepayment penalty if I repay my instalment loan early', 'early_loan_repayment_fee'),
+    ('supermarket refuses my Einwegpfand can what are my rights', 'bottle_deposit_return'),
+    ('my parents as guarantor instead of paying the rent deposit in cash', 'rent_guarantee_alternative'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

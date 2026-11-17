@@ -6291,6 +6291,67 @@
         "flat application"
       ],
       "source": "https://bmgev.de/mieterecho/artikel/mieterinnen-fragen-wir-antworten-me403"
+    },
+    "public_employer_disabled_interview": {
+      "area": "discrimination",
+      "law": "SGB IX § 165",
+      "title": "Severely disabled applicants: interview invitation at public employers",
+      "summary": "Public employers must invite severely disabled applicants to an interview unless they obviously lack the professional qualification. If they skip it, discrimination is presumed and compensation under the AGG can follow. Private employers and church bodies are not covered by this duty (BAG, 25 Jan 2024). You do not have to state a disability, but then you give up this right.",
+      "keywords": [
+        "severe disability",
+        "Schwerbehinderung",
+        "Vorstellungsgespräch Einladung",
+        "public employer",
+        "§ 165 SGB IX",
+        "öffentlicher Arbeitgeber"
+      ],
+      "source": "https://www.anwalt24.de/browse/document/f94ff03a-e5f9-3fc9-800c-e1f3526e2644"
+    },
+    "early_loan_repayment_fee": {
+      "area": "money",
+      "law": "BGB § 502",
+      "title": "Repaying an instalment loan early: fee cap",
+      "summary": "For an ordinary consumer loan with a fixed rate, the bank may charge a prepayment penalty (Vorfälligkeitsentschädigung) of at most 1 percent of the amount repaid early, or 0.5 percent if less than a year remains. It cannot charge it for variable-rate loans or if the contract information was inadequate, and not for interest-free financing.",
+      "keywords": [
+        "Vorfälligkeitsentschädigung",
+        "prepayment penalty",
+        "repay loan early",
+        "Sondertilgung",
+        "Ratenkredit",
+        "consumer loan"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/rechtliche-ansprueche-der-kreditnehmer-6879"
+    },
+    "bottle_deposit_return": {
+      "area": "consumer",
+      "law": "VerpackG",
+      "title": "Returning deposit bottles and cans",
+      "summary": "Most shops must take back one-way deposit bottles and cans of the material they sell and pay the 25 cent deposit, even if bought elsewhere. The container must be empty and the deposit logo recognisable. If the machine cannot read it, staff must take it by hand. Reusable bottles only need to be taken back if the shop sells that type.",
+      "keywords": [
+        "Pfand",
+        "Einwegpfand",
+        "bottle deposit",
+        "can deposit",
+        "Leergut",
+        "return machine",
+        "Pfandflasche"
+      ],
+      "source": "https://www.oekotest.de/geld-versicherungen/Probleme-bei-der-Pfandrueckgabe-Das-sind-Ihre-Rechte-_15603_1.html"
+    },
+    "rent_guarantee_alternative": {
+      "area": "housing",
+      "law": "BGB § 551",
+      "title": "Rent guarantee instead of cash deposit (parents or insurer)",
+      "summary": "Landlords may ask for at most three months' net rent as security, and a guarantee counts as security. Students often use a parental guarantee or a bank or insurer guarantee, but the landlord does not have to accept it. Parents who guarantee stay liable even after you start earning, with no claim to be released.",
+      "keywords": [
+        "Mietbürgschaft",
+        "Kautionsbürgschaft",
+        "parental guarantee",
+        "guarantor",
+        "Kautionsversicherung",
+        "no money for deposit"
+      ],
+      "source": "https://www.test.de/Mietbuergschaft-Eltern-haften-fuer-ihre-Kinder-4880478-0/"
     }
   },
   "free_help": {
