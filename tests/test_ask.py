@@ -193,6 +193,19 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("My DSL is much slower than the contract says, can I reduce the price after a Breitbandmessung?", "internet_speed_reduction"),
     ("I have two side jobs, why is the second taxed in Steuerklasse 6?", "tax_class_six_second_job"),
     ("Does my Arbeitszeugnis contain a secret code and can I get the grade corrected?", "reference_secret_code"),
+    ('My Hausrat sum insured is below 650 euro per square metre, am I underinsured and paid only partly?', 'household_contents_underinsurance'),
+    ('Does a minijobber or Werkstudent get Kurzarbeitergeld when the employer introduces short-time work?', 'short_time_work_students'),
+    ('My employer is insolvent, how long do I have to apply for Insolvenzgeld?', 'employer_insolvency_pay'),
+    ('My Dienstplan was changed at short notice, how many days ahead must the shift change be announced?', 'shift_schedule_notice'),
+    ('I fell on my way to work, is this a Wegeunfall and do I need a D-Arzt?', 'commuting_accident'),
+    ('My colleagues bully me at work, what are my rights against Mobbing and can I complain?', 'workplace_bullying'),
+    ('As a student freelancer do I need a Gewerbeanmeldung and can I use the Kleinunternehmerregelung?', 'student_self_employed'),
+    ('My bank account was garnished, how do I convert it into a P-Konto and how much is protected?', 'p_account_garnishment'),
+    ('A Inkasso company sent a letter, how do I check if the debt collector is registered and the claim has expired?', 'debt_collector_letter'),
+    ('How long can I reverse a wrong SEPA Lastschrift and what is the PayPal Käuferschutz deadline?', 'direct_debit_chargeback'),
+    ('My Gutschein has a one year expiry date, is that valid or does the voucher last three years?', 'gift_voucher_validity'),
+    ('The concert was cancelled, can I get the ticket price back including presale fee?', 'event_ticket_refund'),
+    ('I paid by prepayment in a Fakeshop and got nothing, what should I do and who do I contact?', 'fake_shop_prepayment'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

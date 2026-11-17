@@ -4121,6 +4121,279 @@
         "zeugnisberichtigungsklage"
       ],
       "source": "https://www.igmetall.de/service/ratgeber/was-beschaeftigte-ueber-das-arbeitszeugnis-wissen-sollten"
+    },
+    "household_contents_underinsurance": {
+      "area": "money",
+      "law": "VVG, Hausrat-Bedingungen",
+      "title": "Contents insurance: a sum insured below the real value means only partial payout",
+      "summary": "In contents (Hausrat) insurance the sum insured is often set at about 650 euro per square metre of living space. If it is set too low, you are underinsured and the insurer pays only part of a loss, for example half of a 1,200 euro laptop loss if the sum insured is half the real value. Many tariffs waive the underinsurance objection when you choose at least 650 euro per square metre. In a shared flat, subtenants' belongings are not automatically covered by the main tenant's policy, so check who is insured.",
+      "keywords": [
+        "unterversicherung hausrat",
+        "650 euro pro quadratmeter",
+        "versicherungssumme hausrat",
+        "unterversicherungsverzicht",
+        "contents insurance underinsured",
+        "hausrat wg untermieter versichert",
+        "hausrat versicherungssumme zu niedrig",
+        "laptop gestohlen hausrat teilweise",
+        "wohnfläche versicherungssumme",
+        "hausratversicherung student sinnvoll",
+        "home contents sum insured",
+        "wg police hausrat"
+      ],
+      "source": "https://www.allianz.de/recht-und-eigentum/hausratversicherung/student/"
+    },
+    "short_time_work_students": {
+      "area": "work",
+      "law": "SGB III §§ 95 ff.",
+      "title": "Short-time work (Kurzarbeit): minijobs and working-student jobs get no Kurzarbeitergeld",
+      "summary": "Kurzarbeitergeld is paid only to employees who pay unemployment insurance. Minijobbers, interns and normally working students are therefore excluded. In addition, an employer can introduce short-time work only with a basis in an agreement, such as a works agreement, collective agreement or your individual consent. Without a valid basis you generally keep your full pay. You are not obliged to consent just because the employer asks, but refusing can have employment consequences, so get advice before signing.",
+      "keywords": [
+        "kurzarbeit werkstudent",
+        "kurzarbeitergeld minijob",
+        "kurzarbeit zustimmung",
+        "short time work student",
+        "kurzarbeitergeld anspruch",
+        "kurzarbeit anordnen",
+        "kein kurzarbeitergeld minijob",
+        "kurzarbeit praktikant",
+        "short-time work allowance eligibility",
+        "arbeitgeber kurzarbeit einseitig",
+        "kurzarbeit betriebsrat",
+        "kurzarbeitergeld voraussetzungen"
+      ],
+      "source": "https://www.betanet.de/kurzarbeitergeld.html?pdf=1644"
+    },
+    "employer_insolvency_pay": {
+      "area": "work",
+      "law": "SGB III §§ 165, 324",
+      "title": "Employer insolvent: Insolvenzgeld covers up to three months of net pay, apply within two months",
+      "summary": "If your employer becomes insolvent and owes you pay, the Agentur für Arbeit pays Insolvenzgeld for up to the last three months before the insolvency event, equal to net pay. The application must be made within two months of the insolvency event. This is a strict deadline and the Agentur does not warn you automatically. Applying without all documents still keeps the deadline, and documents can follow. You usually need the insolvency certificate and your last payslips.",
+      "keywords": [
+        "insolvenzgeld",
+        "arbeitgeber insolvent",
+        "employer bankrupt unpaid wages",
+        "firma pleite lohn",
+        "insolvenzgeld antrag frist",
+        "zwei monate insolvenzgeld",
+        "unpaid salary insolvency",
+        "insolvenzereignis lohn",
+        "insolvency pay germany",
+        "arbeitgeber zahlt nicht insolvenz",
+        "insolvenzgeld werkstudent",
+        "insolvenzbescheinigung"
+      ],
+      "source": "https://www.arbeitsrechte.de/insolvenzgeld/"
+    },
+    "shift_schedule_notice": {
+      "area": "work",
+      "law": "GewO § 106, TzBfG § 12",
+      "title": "Shift plan changes: courts use a four-day notice period as the guideline",
+      "summary": "Once a shift plan is published it normally binds both sides. The law has no general notice period for changing it, but courts mostly use the four days that § 12 TzBfG sets for work on call as a guideline. Without an emergency or a reasonable notice period you do not have to accept short-notice changes. The four-day rule applies by law only to on-call work, which must be agreed in the contract. Contracts or collective agreements may set other rules.",
+      "keywords": [
+        "dienstplan kurzfristig geändert",
+        "schichtplan änderung vier tage",
+        "shift change short notice",
+        "dienstplan änderung ablehnen",
+        "einspringen pflicht",
+        "can employer change my shift",
+        "schicht tauschen kurzfristig",
+        "ankündigungsfrist dienstplan",
+        "rota changed last minute",
+        "dienstplan aushang verbindlich",
+        "schichtplan vier tage vorher",
+        "spontan einspringen arbeitgeber"
+      ],
+      "source": "https://www.dahag.de/c/ratgeber/arbeitsrecht/arbeitszeitgesetz/dienstplan/kurzfristige-dienstplanaenderung"
+    },
+    "commuting_accident": {
+      "area": "health",
+      "law": "SGB VII § 8",
+      "title": "Accident on the way to work counts as a work accident and is covered by statutory accident insurance",
+      "summary": "An accident on the direct way between home and your workplace is a Wegeunfall and counts as a work accident under § 8 SGB VII. Statutory accident insurance then pays treatment, and after a work or commuting accident you should see a Durchgangsarzt (D-Arzt). The way starts once you leave the building, so a fall inside the stairwell is generally not covered. Detours for private reasons or a long break can end the protection. Leisure accidents are not covered.",
+      "keywords": [
+        "wegeunfall",
+        "arbeitsunfall",
+        "accident on way to work",
+        "d-arzt",
+        "durchgangsarzt",
+        "unfall arbeitsweg versichert",
+        "berufsgenossenschaft unfall",
+        "commuting accident insurance",
+        "unfall auf dem weg zur arbeit",
+        "gesetzliche unfallversicherung werkstudent",
+        "treppenhaus sturz arbeitsweg",
+        "unfall umweg arbeit"
+      ],
+      "source": "https://www.betanet.de/arbeitsunfall.html"
+    },
+    "workplace_bullying": {
+      "area": "work",
+      "law": "AGG § 13, BetrVG § 84, BGB § 628",
+      "title": "Bullying at work: you can complain, document it and in serious cases claim damages",
+      "summary": "Employers must protect staff from bullying. You have a right to complain to the employer or the designated complaints office under § 13 AGG, with no form or deadline, and to the works council under §§ 84, 85 BetrVG where there is one. Keep a dated log and written evidence, because the burden of proof is on you in damages claims. In serious cases the employee may terminate without notice and claim damages (§ 628 Abs. 2 BGB). Get advice from a union, works council or counselling service before escalating.",
+      "keywords": [
+        "mobbing am arbeitsplatz",
+        "workplace bullying",
+        "mobbing tagebuch",
+        "beschwerderecht arbeitgeber",
+        "bullied by boss",
+        "mobbing betriebsrat",
+        "schmerzensgeld mobbing",
+        "beschwerdestelle agg",
+        "kollegen mobben mich",
+        "harassment at work germany",
+        "fristlose kündigung mobbing",
+        "mobbing werkstudent"
+      ],
+      "source": "https://www.anwaltonline.com/arbeitsrecht/tipps/215/"
+    },
+    "student_self_employed": {
+      "area": "money",
+      "law": "UStG § 19, GewO § 14",
+      "title": "Freelancing as a student: register a business, small-business VAT rule applies up to 25,000 euro",
+      "summary": "Students can work self-employed. A trade must be registered with the Gewerbeamt, with a fee of roughly 15 to 65 euro depending on the municipality. The Kleinunternehmerregelung (§ 19 UStG) exempts you from VAT if turnover was at most 25,000 euro in the previous year and is expected to stay under 100,000 euro this year, and then you must not show VAT on invoices. Health insurance matters: family insurance has a monthly profit limit, about 565 euro according to ING, and above it you need your own student insurance.",
+      "keywords": [
+        "kleinunternehmer student",
+        "gewerbe anmelden student",
+        "freelancer student steuer",
+        "kleinunternehmerregelung 25000",
+        "selbstständig neben studium",
+        "student side business register",
+        "gewerbeanmeldung kosten",
+        "umsatzsteuer kleinunternehmer rechnung",
+        "freiberuflich student krankenversicherung",
+        "kleingewerbe student",
+        "gewerbeamt anmeldung",
+        "freelance student vat"
+      ],
+      "source": "https://www.ing.de/wissen/freiberuflich-student/"
+    },
+    "p_account_garnishment": {
+      "area": "money",
+      "law": "ZPO §§ 899-902",
+      "title": "Account seized: convert to a P-Konto within a month, about 1,590 euro per month stays protected",
+      "summary": "If a creditor garnishes your account, the bank blocks it. Everyone has a right to convert a current account into a Pfändungsschutzkonto (P-Konto), even if it is overdrawn or already garnished. If you do it within a month of the garnishment order being served, the protection works retroactively. The bank has up to four business days to convert it. From 1 July 2026 the monthly basic protected amount is about 1,590 euro. Only one P-Konto per person is allowed, and a joint account must be split.",
+      "keywords": [
+        "p-konto",
+        "pfändungsschutzkonto",
+        "kontopfändung",
+        "account garnished",
+        "konto gepfändet student",
+        "grundfreibetrag p-konto",
+        "pfändung girokonto umwandeln",
+        "pfändungsfreibetrag 1590",
+        "bank blocks account",
+        "garnishment protected account",
+        "gemeinschaftskonto pfändung",
+        "p-konto vier wochen"
+      ],
+      "source": "https://www.sparkasse.de/geld-leichter-verstehen/p/p-konto-ohne-pfaendung-wird-gelddass-ueber-dem-freibetrag-liegtohne-probleme-ausgezahlt-weil-schutz-des-p-kontos-tritt-ja-erst-ein-wenn-konto-gepfaendet-ist.html"
+    },
+    "debt_collector_letter": {
+      "area": "money",
+      "law": "BGB §§ 195, 286, RDG",
+      "title": "Letter from a debt collector: check the claim, the registration and the three-year limitation",
+      "summary": "A debt collector can charge costs only for a justified claim where you are in default. You can check for free at rechtsdienstleistungsregister.de whether the firm is registered. Ordinary claims generally expire three years after the end of the year in which they arose, but you must actively invoke limitation, and a court order extends it to 30 years. Do not ignore the letter. Dispute unjustified claims in writing, and ask a Schuldnerberatung or Verbraucherzentrale if you cannot pay.",
+      "keywords": [
+        "inkasso brief",
+        "debt collector letter",
+        "inkassokosten",
+        "inkasso widerspruch",
+        "verjährung schulden drei jahre",
+        "rechtsdienstleistungsregister",
+        "collection agency germany",
+        "inkassounternehmen seriös",
+        "forderung verjährt",
+        "schuldnerberatung kostenlos",
+        "inkasso ohne mahnung",
+        "zahlungsverzug inkasso"
+      ],
+      "source": "https://www.test.de/Inkasso-Keine-Angst-vorm-Eintreiber-1139939-2139939/"
+    },
+    "direct_debit_chargeback": {
+      "area": "money",
+      "law": "BGB § 675x, SEPA-Bedingungen",
+      "title": "Wrong direct debit: reverse it within 8 weeks, 13 months if you never authorised it",
+      "summary": "You can have a SEPA direct debit returned by your bank within eight weeks of the debit without giving a reason. If you never authorised it, you can claim a refund up to 13 months after the debit. For card payments a chargeback through your card issuer is often possible, usually within about eight weeks, in some cases longer. PayPal buyer protection must be requested within 180 days of payment and applies to goods and services, not friends-and-family payments. Act quickly and keep proof.",
+      "keywords": [
+        "lastschrift zurückbuchen",
+        "sepa rücklastschrift acht wochen",
+        "paypal käuferschutz",
+        "chargeback kreditkarte",
+        "nicht autorisierte lastschrift 13 monate",
+        "reverse direct debit",
+        "paypal 180 tage",
+        "money back wrong debit",
+        "unberechtigte abbuchung",
+        "rückbuchung bank frist",
+        "friends and family paypal",
+        "kreditkarte rückbuchung"
+      ],
+      "source": "https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/sepa-lastschrift/lastschrift-zurueckbuchen.html"
+    },
+    "gift_voucher_validity": {
+      "area": "consumer",
+      "law": "BGB §§ 195, 199, 307",
+      "title": "Gift vouchers: generally valid for three years, a too-short expiry may be invalid",
+      "summary": "A voucher generally expires only through limitation of three years, counted from the end of the year in which it was issued (§§ 195, 199 BGB). Shorter expiry dates can be agreed, but according to the Verbraucherzentrale a period that is too short is invalid and the voucher then stays redeemable until limitation. A Munich regional court ruled against Amazon's one-year limit for gift vouchers. If the period expired validly before three years, you may have a claim for the money value according to the Verbraucherzentrale. If the issuer becomes insolvent, you can only register a claim.",
+      "keywords": [
+        "gutschein verfall",
+        "gift voucher expiry",
+        "gutschein abgelaufen",
+        "gutschein drei jahre gültig",
+        "gutschein einlösen frist",
+        "voucher expired germany",
+        "geschenkgutschein verjährung",
+        "gutschein ein jahr gültig unwirksam",
+        "erlebnisgutschein",
+        "gutschein restguthaben",
+        "gutschein insolvenz",
+        "gutschein auszahlen lassen"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/wissen/vertraege-reklamation/kundenrechte/gutscheine-auf-dem-gabentisch-10499"
+    },
+    "event_ticket_refund": {
+      "area": "consumer",
+      "law": "BGB § 275, § 346",
+      "title": "Cancelled or postponed event: you can claim the ticket price back from the organiser",
+      "summary": "If a concert or event is cancelled, the buyer generally has a claim to a refund of the ticket price, and the Verbraucherzentralen also see a right to a refund when the date is moved. Presale offices often handle the refund for the organiser, so ask there first, then the organiser. A court found that withholding presale fees after cancellation was not allowed in the case against Eventim. Tickets bought on resale platforms carry extra risk, so claim against the organiser or platform with proof of payment.",
+      "keywords": [
+        "konzert abgesagt ticket",
+        "concert cancelled refund",
+        "veranstaltung verlegt erstattung",
+        "ticket rückerstattung",
+        "eventim vorverkaufsgebühr",
+        "festival abgesagt geld zurück",
+        "zweitmarkt ticket",
+        "resale ticket risk",
+        "vorverkaufsstelle erstattung",
+        "event postponed ticket money back",
+        "ticketbörse viagogo",
+        "konzert verschoben rückgabe"
+      ],
+      "source": "https://www.verbraucherzentrale.de/aktuelle-meldungen/vertraege-reklamation/verlegte-veranstaltungen-urteil-und-musterklage-gegen-eventim-46263"
+    },
+    "fake_shop_prepayment": {
+      "area": "consumer",
+      "law": "StGB § 263, Zahlungsdiensterecht",
+      "title": "Fake online shop: contact your bank at once, report it and secure evidence",
+      "summary": "Be suspicious when an online shop forces prepayment. If you paid a fake shop, act fast, because what you can recover depends on the payment method: debit, card and payment services allow reversals, while a bank transfer to a scammer is hard to retrieve. Contact your bank immediately, take screenshots of the shop and print all documents, and report the case to the police. The Verbraucherzentrale offers a free Fakeshop-Finder to check shop URLs and an emergency check.",
+      "keywords": [
+        "fakeshop",
+        "fake shop online",
+        "betrug onlineshop vorkasse",
+        "fakeshop finder",
+        "online scam refund",
+        "ware nicht geliefert vorkasse",
+        "fake-shop anzeige",
+        "scam website paid",
+        "überweisung betrüger geld zurück",
+        "onlineshop impressum fehlt",
+        "betrügerischer shop bank",
+        "shopping fraud germany"
+      ],
+      "source": "https://www.verbraucherzentrale.de/node/33155"
     }
   },
   "free_help": {
