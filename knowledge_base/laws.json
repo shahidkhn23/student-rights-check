@@ -6175,6 +6175,122 @@
         "dynamic fonts ip address"
       ],
       "source": "https://der-betrieb.de/meldungen/google-fonts-abmahnwelle-war-rechtsmissbraeuchlich"
+    },
+    "temp_agency_equal_pay": {
+      "area": "work",
+      "law": "AÜG § 8",
+      "title": "Temp agency work: equal pay after nine months",
+      "summary": "Agency (Leiharbeit/Zeitarbeit) workers are entitled to the same pay as comparable permanent staff of the client company after nine months of uninterrupted assignment. A sector collective agreement may deviate only during the first nine months. Gaps of more than three months restart the clock, according to one HR source.",
+      "keywords": [
+        "temp agency",
+        "Zeitarbeit",
+        "Leiharbeit",
+        "agency worker",
+        "equal pay nine months",
+        "Entleiher"
+      ],
+      "source": "https://www.thorn-arbeitsrecht-muenchen.de/lexikon/arbeitnehmerueberlassung"
+    },
+    "police_certificate_fee": {
+      "area": "work",
+      "law": "BZRG §§ 30 ff.",
+      "title": "Certificate of good conduct (Führungszeugnis): cost and fee waiver",
+      "summary": "A Führungszeugnis costs 13 euro and can be requested online from the Bundesamt für Justiz (with an eID) or at the registration office. People without means or volunteers can apply for a fee waiver with proof. The requesting employer decides how old the certificate may be; three months is common.",
+      "keywords": [
+        "Führungszeugnis",
+        "certificate of good conduct",
+        "police clearance",
+        "criminal record certificate",
+        "Bundesamt für Justiz"
+      ],
+      "source": "https://stadt.muenchen.de/service/info/1064433/"
+    },
+    "deregister_leaving_germany": {
+      "area": "international",
+      "law": "BMG § 17",
+      "title": "Deregistering when you leave Germany",
+      "summary": "You only have to deregister (Abmeldung) if you move abroad, give up a second home, or have no new home in Germany. It must be done within two weeks after moving out, and can be done up to one week before. A move within Germany needs no deregistration.",
+      "keywords": [
+        "Abmeldung",
+        "deregister",
+        "leave Germany",
+        "move abroad",
+        "Abmeldebestätigung",
+        "second home"
+      ],
+      "source": "https://www.bayernportal.de/dokumente/leistung/846323559210"
+    },
+    "erasmus_grant_amount": {
+      "area": "international",
+      "law": "Erasmus+",
+      "title": "Erasmus+ study grant: amount and top-up",
+      "summary": "The Erasmus+ monthly grant for a semester abroad currently lies between 540 and 600 euro depending on the destination country, according to one university. Students with fewer opportunities can apply for an extra 250 euro per month. Your international office pays it out and sends a grant agreement first.",
+      "keywords": [
+        "Erasmus grant",
+        "Erasmus+ Förderung",
+        "semester abroad grant",
+        "top-up 250",
+        "Mobilitätsstipendium",
+        "grant agreement"
+      ],
+      "source": "https://www.uni-bamberg.de/auslandsamt/studieren-im-ausland/ich-moechte-ins-ausland/wohin/erasmus/"
+    },
+    "dooring_bike_accident": {
+      "area": "consumer",
+      "law": "StVO § 14, BGB",
+      "title": "Cyclist hit by an opening car door (dooring)",
+      "summary": "Drivers must take the utmost care when opening a door. In a 2022 ruling (LG Köln, 5 O 372/20) a cyclist got full compensation: when a collision happens right when a door opens, there is a presumption that the driver is at fault. The court said cyclists only need about 50 cm distance to parked cars. Individual cases can differ.",
+      "keywords": [
+        "dooring",
+        "car door",
+        "cyclist collision",
+        "Autotür",
+        "parked car door accident",
+        "Radfahrer Schmerzensgeld"
+      ],
+      "source": "https://www.wbs.legal/verkehrsrecht/radfahrer-kollidiert-mit-autotuer-volle-verantwortung-des-autofahrers-61973/"
+    },
+    "id_card_fee_2026": {
+      "area": "international",
+      "law": "PAuswG",
+      "title": "ID card fee and validity in 2026",
+      "summary": "Since 7 February 2026 a German ID card costs 46 euro for applicants aged 24 and over (valid 10 years) and 27.60 euro for under 24s (valid 6 years). A provisional ID costs 10 euro. German citizens from 16 must have an ID card or a valid passport. An expired ID cannot be extended, you apply for a new one.",
+      "keywords": [
+        "Personalausweis",
+        "ID card cost",
+        "renew ID card",
+        "provisional ID",
+        "identity card fee"
+      ],
+      "source": "https://www.bundestag.de/resource/blob/1156478/WD-3-085-25.pdf"
+    },
+    "lawyer_first_consultation_cap": {
+      "area": "money",
+      "law": "RVG § 34",
+      "title": "Lawyer's first consultation: fee cap for consumers",
+      "summary": "If you are a consumer, a lawyer may charge at most 190 euro plus VAT (about 226.10 euro) for a first consultation unless you agreed otherwise. For further advice the cap is 250 euro plus VAT. Employees asking about employment issues count as consumers.",
+      "keywords": [
+        "Erstberatung",
+        "first consultation lawyer",
+        "lawyer fee cap",
+        "Anwaltskosten",
+        "190 euro"
+      ],
+      "source": "https://www.anwalt.org/anwaltskosten/"
+    },
+    "tenant_self_disclosure_questions": {
+      "area": "housing",
+      "law": "BGB, DSGVO",
+      "title": "Landlord questionnaire: which questions are allowed",
+      "summary": "In a tenant self-disclosure (Mieterselbstauskunft) landlords may ask about income, job, household size and pets. Questions about religion, ethnic origin, politics or family planning are not allowed. Allowed questions must be answered truthfully. Several tenant associations say untrue answers to improper questions have no legal consequences.",
+      "keywords": [
+        "Mieterselbstauskunft",
+        "tenant questionnaire",
+        "self-disclosure",
+        "improper questions",
+        "flat application"
+      ],
+      "source": "https://bmgev.de/mieterecho/artikel/mieterinnen-fragen-wir-antworten-me403"
     }
   },
   "free_help": {

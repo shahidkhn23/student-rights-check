@@ -323,6 +323,14 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('police ID check because of my skin colour racial profiling', 'racial_profiling_ruling'),
     ('must an oral exam have a Protokoll signed by the Beisitzer', 'oral_exam_record'),
     ('Abmahnung wegen Google Fonts auf meiner Website', 'google_fonts_warning'),
+    ('do agency workers get the same pay as permanent staff after nine months', 'temp_agency_equal_pay'),
+    ('how much does a Führungszeugnis cost', 'police_certificate_fee'),
+    ('do I need to deregister when I leave Germany for good', 'deregister_leaving_germany'),
+    ('how much is the Erasmus+ grant per month', 'erasmus_grant_amount'),
+    ('cyclist hit by a car door who is at fault', 'dooring_bike_accident'),
+    ('how much does a new Personalausweis cost 2026', 'id_card_fee_2026'),
+    ('maximum fee for a lawyer first consultation consumer', 'lawyer_first_consultation_cap'),
+    ('can my future landlord ask about my religion in the Mieterselbstauskunft', 'tenant_self_disclosure_questions'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
