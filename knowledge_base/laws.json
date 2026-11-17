@@ -5279,6 +5279,198 @@
         "§ 7 UWG"
       ],
       "source": "https://www.ihk.de/hannover/hauptnavigation/recht/e-business-recht/newsletter-rechtliche-voraussetzungen-5205352"
+    },
+    "renovation_clause_traps": {
+      "area": "housing",
+      "law": "BGB § 307; BGH VIII ZR 361/03",
+      "title": "Renovation clauses: fixed deadlines, quota and \"always repaint on exit\" clauses are usually void",
+      "summary": "Many rental contracts push cosmetic repairs onto the tenant. Clauses with rigid deadline plans (for example every 3, 5 or 7 years regardless of condition), fixed cost quotas if you leave early, or a duty to hand the flat back freshly renovated no matter what are generally ineffective under BGH case law. Wording like \"in der Regel\" turns a deadline into a rebuttable presumption, which is treated differently. Where a clause is void, the landlord bears the cost of cosmetic repairs. Information only, not individual legal advice.",
+      "keywords": [
+        "Schönheitsreparaturen",
+        "starre Fristen",
+        "Quotenklausel",
+        "Endrenovierung",
+        "Renovierungspflicht",
+        "Mietvertrag Klausel",
+        "unwirksam"
+      ],
+      "source": "https://www.miet-check.de/Mietblog/2026/05/03/schoenheitsreparaturen-im-mietvertrag-unwirksame-klauseln/"
+    },
+    "renovation_clause_craftsman_colour": {
+      "area": "housing",
+      "law": "BGB § 307; BGH VIII ZR 294/09",
+      "title": "Renovation duty: a contractor-only clause is void, and so is a colour rule during the tenancy",
+      "summary": "Even where a renovation duty exists, a pre-printed clause that forces you to hire a professional firm is void, and you may do the work yourself as long as the result is properly done. A rule that doors or ceilings may only be painted white during the tenancy is also void, while a colour requirement at move-out can be possible. Information only.",
+      "keywords": [
+        "Fachfirma",
+        "Fachbetrieb",
+        "Farbvorgabe",
+        "weiß streichen",
+        "selbst renovieren",
+        "Renovierung",
+        "Vermieter"
+      ],
+      "source": "https://www.gegen-hartz.de/?p=245979"
+    },
+    "munich_conversion_notice_block": {
+      "area": "housing",
+      "law": "BGB § 577a; Bayerische Mieterschutzverordnung",
+      "title": "Munich: ten-year block on own-use notice after a flat is converted and sold",
+      "summary": "If a rented flat is converted into a condominium and sold, the landlord cannot give notice for personal use during a block period. Federal law sets three years, but states may extend it to up to ten years in tight housing markets, and Bavaria did so for Munich. A notice given during the block period is void and does not become valid when the period ends. Check the conversion date and the flat's address against the Bavarian regulation. Information only.",
+      "keywords": [
+        "Kündigungssperrfrist",
+        "Umwandlung",
+        "Eigentumswohnung",
+        "Eigenbedarf München",
+        "zehn Jahre",
+        "Mieterschutzverordnung",
+        "Sperrfrist"
+      ],
+      "source": "https://www.ra-kotz.de/eigenbedarfskuendigung-gescheitert-sperrfrist-fuer-mieter.htm"
+    },
+    "pay_information_right": {
+      "area": "work",
+      "law": "EntgTranspG §§ 10, 12",
+      "title": "Pay transparency: asking what colleagues of the other sex earn",
+      "summary": "Under the Entgelttransparenzgesetz, employees in establishments with regularly more than 200 employees can ask for the criteria behind their pay and the median pay of a comparison group of the other sex doing the same or equal-value work. A comparison group of at least six people is required. The EU pay transparency directive is reported to lower the threshold to 100 from 7 June 2026, so check the current law. Information only.",
+      "keywords": [
+        "Entgelttransparenzgesetz",
+        "Auskunftsanspruch",
+        "Gender Pay Gap",
+        "Gehalt vergleichen",
+        "Vergleichsgruppe",
+        "gleiche Bezahlung",
+        "Median"
+      ],
+      "source": "https://anwalt-leverkusen.de/aktuelles/detail/gehaltsunterschiede-aufdecken-haben-sie-einen-anspruch-auf-hoeheren-lohn.html?pdf=18"
+    },
+    "headscarf_workplace": {
+      "area": "discrimination",
+      "law": "AGG; EuGH C-804/18, C-341/19",
+      "title": "Headscarf at work: a neutrality ban is only allowed under strict conditions",
+      "summary": "The EU Court of Justice ruled on 15 July 2021 that a blanket ban on visible religious signs at work is indirect discrimination on grounds of religion, but it can be justified if the employer shows a real need for neutrality, for example because of customer expectations, and applies the policy consistently to all signs. Banning only the headscarf is still hard to justify. Information only.",
+      "keywords": [
+        "Kopftuch",
+        "Kopftuchverbot",
+        "religiöse Symbole",
+        "Neutralität",
+        "Arbeitgeber",
+        "Religion",
+        "EuGH"
+      ],
+      "source": "https://www.lto.de/recht/hintergruende/h/eugh-c14822-kopftuch-verbot-oeffentlicher-arbeitgeber"
+    },
+    "bildungsurlaub_bavaria": {
+      "area": "work",
+      "law": "Landesgesetze zur Bildungsfreistellung",
+      "title": "Paid education leave: not in Bavaria, five days a year in most other states",
+      "summary": "There is no federal law on Bildungsurlaub. 14 of 16 states give employees paid time off for training, usually five working days a year or ten over two years, but Bavaria and Saxony have no statutory entitlement. A union source says Saxony is due to get one from 2027. If you work in Bavaria you can still ask your employer. Rules differ by state, so check where you work.",
+      "keywords": [
+        "Bildungsurlaub",
+        "Bildungszeit",
+        "Bildungsfreistellung",
+        "Weiterbildung",
+        "Bayern",
+        "fünf Tage",
+        "Seminar"
+      ],
+      "source": "https://www.allianz.de/recht-und-eigentum/rechtsschutzversicherung/arbeitsrecht/bildungsurlaub/"
+    },
+    "disabled_dismissal_protection": {
+      "area": "work",
+      "law": "SGB IX §§ 168 ff.",
+      "title": "Severe disability: dismissal needs the Integrationsamt's prior consent",
+      "summary": "For severely disabled employees (and those with an equivalence status), the employer needs the prior consent of the Integrationsamt before giving notice, once the employment has lasted more than six months. Notice without that consent is void. The protection only applies if the status is proven or applied for in time, so tell your employer promptly after receiving notice. It does not rule out dismissal, only adds a hurdle. Information only.",
+      "keywords": [
+        "Schwerbehinderung",
+        "Integrationsamt",
+        "Sonderkündigungsschutz",
+        "Gleichstellung",
+        "Zustimmung",
+        "Kündigung",
+        "GdB"
+      ],
+      "source": "https://www.advocado.de/index.php/ratgeber/arbeitsrecht/kuendigung/kuendigung-bei-schwerbehinderung-und-kuendigungsschutz.html"
+    },
+    "business_transfer_objection": {
+      "area": "work",
+      "law": "BGB § 613a",
+      "title": "Business transfer: your job moves to the buyer, but you can object within one month",
+      "summary": "When a business or part of it is transferred, employment contracts pass to the new owner by law. Employees must be informed in text form about the date, reason, legal consequences and planned measures. You can object in writing within one month after receiving that information. If the information was missing or wrong, the objection period does not start. An objection means you stay with the old employer, which may then dismiss you. Information only.",
+      "keywords": [
+        "Betriebsübergang",
+        "613a",
+        "Widerspruch",
+        "Betriebserwerber",
+        "Unterrichtung",
+        "Arbeitgeberwechsel",
+        "Monatsfrist"
+      ],
+      "source": "https://www.iww.de/bbp/unternehmensberatung/arbeitsrecht-die-ordnungsgemaesse-unterrichtung-der-arbeitnehmer-ueber-den-betriebsuebergang-f74185"
+    },
+    "meme_pastiche": {
+      "area": "copyright",
+      "law": "UrhG §§ 51, 51a",
+      "title": "Memes: not automatically legal, but parody and pastiche can cover them",
+      "summary": "A meme built from someone else's image or film still is a use of a protected work. Since 7 June 2021 section 51a UrhG allows caricature, parody and pastiche of published works, and memes can in individual cases count as pastiche, but \"memes are always allowed\" is a common mistake. The classic quotation right in § 51 needs a genuine quotation purpose. Pictured people also have rights to their own image. Information only.",
+      "keywords": [
+        "Meme",
+        "Pastiche",
+        "Parodie",
+        "Karikatur",
+        "51a UrhG",
+        "Zitatrecht",
+        "Standbild"
+      ],
+      "source": "https://www.it-recht-kanzlei.de/ki-memes-online-werbung-urheberrecht-uwg.html"
+    },
+    "github_no_licence": {
+      "area": "copyright",
+      "law": "UrhG § 69a ff.",
+      "title": "Code on GitHub without a licence: you may not copy, change or share it",
+      "summary": "Software published without a licence is still protected by copyright. According to GitHub, without a licence the default copyright applies, so nobody may reproduce, distribute or make derivative works of it. For your own repositories, add a LICENSE file so others know what they may do. Information only.",
+      "keywords": [
+        "GitHub",
+        "Lizenz",
+        "LICENSE",
+        "Repository",
+        "ohne Lizenz",
+        "Quellcode",
+        "Urheberrecht Software"
+      ],
+      "source": "https://docs.github.com/de/enterprise-server@3.17/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository"
+    },
+    "mit_vs_gpl_licence": {
+      "area": "copyright",
+      "law": "MIT-Lizenz; GPL",
+      "title": "MIT vs GPL: permissive licence versus copyleft",
+      "summary": "The MIT licence is permissive: you may use and change the code, even in proprietary software, as long as you keep the original licence notice. The GPL has a copyleft effect: derived works must also be released under the GPL with open source code. Licences can be incompatible, so check before combining code. Information only.",
+      "keywords": [
+        "MIT",
+        "GPL",
+        "Copyleft",
+        "Open Source",
+        "permissiv",
+        "Lizenzvermerk",
+        "abgeleitetes Werk"
+      ],
+      "source": "https://rechtecheck.de/open-source-software-lizenzierung-und-rechtliche-aspekte/"
+    },
+    "orphan_pension_student": {
+      "area": "money",
+      "law": "SGB VI § 48",
+      "title": "Orphan's pension: paid up to 27 while you study, and your earnings do not count",
+      "summary": "Orphan's pension from the statutory pension insurance is normally paid until 18. It can continue up to the 27th birthday during school, vocational training, a degree or a voluntary service, where training takes more than 20 hours a week. According to one counselling source, orphans may earn without limit without it reducing the pension. Check with the Deutsche Rentenversicherung for your case. Information only.",
+      "keywords": [
+        "Waisenrente",
+        "Halbwaisenrente",
+        "27. Geburtstag",
+        "Studium",
+        "Rentenversicherung",
+        "Hinzuverdienst",
+        "Hinterbliebene"
+      ],
+      "source": "https://www.betanet.de/waisenrente.html"
     }
   },
   "free_help": {

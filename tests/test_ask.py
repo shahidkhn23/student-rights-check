@@ -264,6 +264,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('Is there debt advice for students under 25 from AWO in Munich', 'youth_debt_counselling_munich'),
     ('How long until Restschuldbefreiung after a Privatinsolvenz', 'insolvency_discharge_three_years'),
     ('A shop sends me newsletters without Einwilligung, is that allowed', 'newsletter_consent'),
+    ('My contract says paint every five years Schönheitsreparaturen starre Fristen Quotenklausel, is it void', 'renovation_clause_traps'),
+    ('Mietvertrag Renovierung nur durch Fachfirma und Türen nur weiß streichen Farbvorgabe', 'renovation_clause_craftsman_colour'),
+    ('Eigenbedarf nach Umwandlung in Eigentumswohnung in München, Kündigungssperrfrist zehn Jahre', 'munich_conversion_notice_block'),
+    ('Entgelttransparenzgesetz Auskunftsanspruch Vergleichsgruppe Median Gehalt Kollegen anderes Geschlecht', 'pay_information_right'),
+    ('Can my employer ban the Kopftuch, religiöse Symbole Neutralität EuGH', 'headscarf_workplace'),
+    ('Bildungsurlaub in Bayern, Bildungsfreistellung fünf Tage Weiterbildung', 'bildungsurlaub_bavaria'),
+    ('Kündigung bei Schwerbehinderung Integrationsamt Zustimmung Sonderkündigungsschutz Gleichstellung', 'disabled_dismissal_protection'),
+    ('Betriebsübergang 613a Widerspruch Monatsfrist Unterrichtung neuer Arbeitgeber', 'business_transfer_objection'),
+    ('Is a meme legal with a film Standbild, Pastiche Parodie 51a UrhG', 'meme_pastiche'),
+    ('GitHub repository without LICENSE file, can I use the code of others, ohne Lizenz', 'github_no_licence'),
+    ('MIT or GPL: Copyleft, permissive licence, abgeleitetes Werk', 'mit_vs_gpl_licence'),
+    ('Waisenrente Studium bis 27. Geburtstag Halbwaisenrente Hinzuverdienst', 'orphan_pension_student'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
