@@ -188,6 +188,11 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ("Can I go to the Arbeitsgericht without a lawyer using the Rechtsantragstelle?", "labor_court_no_lawyer"),
     ("How do I get a Beratungshilfeschein for a cheap lawyer?", "legal_aid_beratungshilfe"),
     ("How long can a company keep my application documents after a rejection?", "applicant_data_deletion"),
+    ("A phone call and confirmation SMS gave me an electricity contract I never wanted, can I revoke?", "cold_call_energy_contract"),
+    ("The hotel on my package holiday was dirty, do I have to report the Reisemangel to the guide?", "package_tour_defects"),
+    ("My DSL is much slower than the contract says, can I reduce the price after a Breitbandmessung?", "internet_speed_reduction"),
+    ("I have two side jobs, why is the second taxed in Steuerklasse 6?", "tax_class_six_second_job"),
+    ("Does my Arbeitszeugnis contain a secret code and can I get the grade corrected?", "reference_secret_code"),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

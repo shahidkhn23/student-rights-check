@@ -4016,6 +4016,111 @@
         "applicant data retention"
       ],
       "source": "https://www.haufe.de/compliance/management-praxis/aufbewahrung-wie-lange-duerfen-bewerberdaten-gespeichert-werden_230130_261218.html"
+    },
+    "cold_call_energy_contract": {
+      "area": "consumer",
+      "law": "UWG § 7, BGB § 355",
+      "title": "Energy contract pushed on you by phone: revoke in writing within 14 days",
+      "summary": "Advertising calls without your prior express consent are prohibited, but a contract can still come into existence if you confirm an offer, for example by replying to a confirmation SMS. If a power or gas contract was pushed on you, you can generally revoke it in writing within 14 days, and you should also revoke the authorisation to cancel your old supplier. Send the revocation in a provable way. Unwanted calls can be reported to the Bundesnetzagentur. Do not give meter numbers or bank details on the phone.",
+      "keywords": [
+        "untergeschobener energievertrag",
+        "strom gasvertrag telefon untergeschoben",
+        "cold call energy contract",
+        "sms bestätigung stromvertrag",
+        "stromvertrag widerrufen telefon",
+        "werbeanruf vertrag",
+        "unwanted phone contract electricity",
+        "kündigungsbestätigung alter versorger",
+        "cold calls bundesnetzagentur melden",
+        "gas contract by phone revoke",
+        "versorger wechsel ohne auftrag",
+        "ungewollter anbieterwechsel strom"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/energie/probleme-mit-vertraegen-und-rechnungen/was-tun-wenn-ihnen-ein-energievertrag-untergeschoben-wurde-38431"
+    },
+    "package_tour_defects": {
+      "area": "consumer",
+      "law": "BGB §§ 651i, 651m, 651o",
+      "title": "Package holiday defects: report them at once, then claim a price reduction",
+      "summary": "On a package holiday your contract is with the tour operator. If promised services are missing or different, you must report the defect to the operator or the local tour guide without delay (§ 651o BGB) and give a reasonable time to fix it. Without that notice you can lose the price reduction and damages. Document it with photos and ask for written confirmation of the complaint. If the defect is not fixed, the price is reduced for the time it lasted. There is no fixed hour limit for the notice, but it must be prompt.",
+      "keywords": [
+        "reisemangel",
+        "pauschalreise mangel",
+        "mängelanzeige reise",
+        "package holiday defect",
+        "reisepreis minderung",
+        "hotel dirty complaint holiday",
+        "reiseleitung beschwerde",
+        "tour operator complaint",
+        "minderung pauschalreise",
+        "651o bgb",
+        "urlaub zimmer mangelhaft",
+        "holiday refund defect"
+      ],
+      "source": "https://www.verbraucherzentrale.nrw/wissen/reise-mobilitaet/hotels-und-ferienhaeuser/baulaerm-ungeziefer-schlechte-verpflegung-reisemaengel-im-pauschalurlaub-100926"
+    },
+    "internet_speed_reduction": {
+      "area": "consumer",
+      "law": "TKG §§ 57, 59",
+      "title": "Internet slower than promised: you may reduce the price or terminate, number porting is free",
+      "summary": "Under the Telekommunikationsgesetz, if your internet is regularly or clearly much slower than the contract says, you can reduce your payments or terminate extraordinarily. You must prove it, for fixed lines and mobile with the measurement of the Bundesnetzagentur. Taking your phone number to a new provider must be free, and the new provider leads the switch. Your service may not be cut for longer than one working day during a provider switch.",
+      "keywords": [
+        "internet zu langsam",
+        "minderung internet",
+        "breitbandmessung",
+        "slow internet reduce price",
+        "bundesnetzagentur messung",
+        "dsl langsamer als vertrag",
+        "rufnummernmitnahme kostenlos",
+        "number porting free",
+        "anbieterwechsel unterbrechung",
+        "außerordentliche kündigung internet",
+        "mobilfunk minderung app",
+        "speed below contract"
+      ],
+      "source": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879"
+    },
+    "tax_class_six_second_job": {
+      "area": "money",
+      "law": "EStG, Lohnsteuer",
+      "title": "Several side jobs: only one gets your tax class, the others use class 6",
+      "summary": "Single students are normally in tax class 1. If you have more than one job, the second and further jobs are taxed in class 6, where no allowances are applied. Tax withheld this way can often be reclaimed through a tax return if your annual income stays under the basic allowance. The basic allowance is 12,348 euro for 2026 according to student tax guides. A tax return can be filed voluntarily, with up to four years to do so.",
+      "keywords": [
+        "steuerklasse 6",
+        "zweiter nebenjob steuer",
+        "two side jobs tax",
+        "steuerklasse student",
+        "lohnsteuer zurückholen nebenjob",
+        "second job tax class",
+        "grundfreibetrag 12348",
+        "student tax class one",
+        "mehrere minijobs steuer",
+        "werkstudent zwei jobs",
+        "freiwillige steuererklärung vier jahre",
+        "steuer-id arbeitgeber student"
+      ],
+      "source": "https://www.steuerklassen.com/steuerfreibetrag/studenten/"
+    },
+    "reference_secret_code": {
+      "area": "work",
+      "law": "GewO § 109",
+      "title": "Job reference: must be clear and true, secret codes are banned, claim lasts three years",
+      "summary": "Under § 109 GewO every employee, including working students, interns and minijobbers, has a right to a written reference. A qualified reference must be clear and understandable and may not contain hidden signals or secret codes. The average grade is generally treated as satisfactory. Typical phrasing such as 'stets zu unserer vollsten Zufriedenheit' reads as the best grade. The claim usually expires after three years, but contract or collective deadlines can be much shorter, so ask early. If wording is wrong, ask in writing for a correction before going to court.",
+      "keywords": [
+        "arbeitszeugnis geheimcode",
+        "zeugnis formulierung note",
+        "zeugnis berichtigen",
+        "reference grade wording",
+        "vollsten zufriedenheit",
+        "praktikumszeugnis",
+        "zeugnis verjährung drei jahre",
+        "work reference secret code",
+        "werkstudent zeugnis anspruch",
+        "zeugnis ausschlussfrist",
+        "zeugnis note schlecht",
+        "zeugnisberichtigungsklage"
+      ],
+      "source": "https://www.igmetall.de/service/ratgeber/was-beschaeftigte-ueber-das-arbeitszeugnis-wissen-sollten"
     }
   },
   "free_help": {
