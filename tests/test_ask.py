@@ -220,6 +220,19 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('I was sick on exam day, how do I do a Prüfungsrücktritt with a Attest?', 'exam_withdrawal_illness'),
     ('Is proctoring with biometric face recognition in online exams legal?', 'online_exam_proctoring'),
     ('How much Unterhalt do my parents owe me as a student living away from home?', 'parent_support_student'),
+    ('Can the court give me a Räumungsfrist before the Zwangsräumung and what is Vollstreckungsschutz?', 'eviction_deadline_protection'),
+    ('My landlord announced a Modernisierung, how much notice and what is the Härteeinwand?', 'modernisation_notice_duty'),
+    ('Can I reduce rent because of Baulärm from a construction site next door?', 'construction_noise_rent_cut'),
+    ('How do I get Google to remove search results about me under the right to be forgotten?', 'search_result_delisting'),
+    ('Does a cookie banner need an Alles ablehnen button on the first level?', 'cookie_reject_button'),
+    ('A company had a Datenleck, can I claim Schadensersatz for loss of control under Art. 82?', 'data_breach_victim_rights'),
+    ('Is a video doorbell camera allowed or does it film the Gehweg of the neighbours?', 'doorbell_camera_rules'),
+    ('Can I use a Bildzitat in my university presentation with Creative Commons attribution?', 'image_quote_presentation'),
+    ('Who owns the copyright of a picture generated with Midjourney by AI?', 'ai_image_copyright'),
+    ('Do I need an Impressum for my private blog with affiliate links?', 'imprint_duty_website'),
+    ('My boss sexually harassed me, can I use the Leistungsverweigerungsrecht under the AGG?', 'workplace_sexual_harassment'),
+    ('How long do I have to claim compensation after discrimination in a job application, the AGG Zwei-Monats-Frist?', 'agg_two_month_deadline'),
+    ('Do I have a right to Homeoffice and who pays the equipment?', 'homeoffice_no_entitlement'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected

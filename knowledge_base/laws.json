@@ -4616,6 +4616,212 @@
         "student maintenance"
       ],
       "source": "https://finanztip.de/unterhalt-volljaehrige-kinder/"
+    },
+    "eviction_deadline_protection": {
+      "area": "housing",
+      "law": "§§ 721, 765a ZPO",
+      "title": "Eviction: Räumungsfrist and enforcement protection",
+      "summary": "A landlord needs a court judgment before any Zwangsräumung. You can ask the court for a Räumungsfrist until the end of the oral hearing; it should not exceed one year. In extreme hardship you can apply for Vollstreckungsschutz under § 765a ZPO, reportedly at least two weeks before the eviction date.",
+      "keywords": [
+        "Zwangsräumung",
+        "Räumungsklage",
+        "Räumungsfrist",
+        "Vollstreckungsschutz",
+        "eviction",
+        "Gerichtsvollzieher"
+      ],
+      "source": "https://www.immobilienscout24.de/eigentuemer/ratgeber/vermietung/kuendigung/zwangsraeumung.html"
+    },
+    "modernisation_notice_duty": {
+      "area": "housing",
+      "law": "§§ 555c, 555d, 559 BGB",
+      "title": "Modernisation: three-month notice and hardship objection",
+      "summary": "A landlord must announce modernisation in text form at least three months before work starts. You must tolerate it if the notice is proper, but can raise a hardship objection in text form by the end of the month after you receive it. Up to 8 percent of the costs can be passed on as rent.",
+      "keywords": [
+        "Modernisierung",
+        "Modernisierungsankündigung",
+        "Duldungspflicht",
+        "Härteeinwand",
+        "Modernisierungsumlage",
+        "renovation",
+        "landlord works"
+      ],
+      "source": "https://www.berlin.de/sen/wohnen/wissen-fuer-mieter/berliner-mietratgeber/modernisierung/"
+    },
+    "construction_noise_rent_cut": {
+      "area": "housing",
+      "law": "§ 536 BGB",
+      "title": "Rent reduction for construction noise",
+      "summary": "Considerable noise from construction in your own building can be a defect that allows rent reduction. For a neighbouring building site, the BGH held it generally is no defect when the landlord has no claim against the builder. Report the noise to the landlord and keep a noise log.",
+      "keywords": [
+        "Baulärm",
+        "Mietminderung",
+        "Baustelle",
+        "Lärmprotokoll",
+        "construction noise",
+        "noise log",
+        "neighbouring site"
+      ],
+      "source": "https://www.berliner-mieterverein.de/?p=91784"
+    },
+    "search_result_delisting": {
+      "area": "data",
+      "law": "Art. 17 DSGVO",
+      "title": "Having personal search results removed from Google",
+      "summary": "Under Art. 17 GDPR you can ask a search engine to delist results about you via its removal form. The operator balances your rights against public interest. Delisting is possible when the content is manifestly inaccurate.",
+      "keywords": [
+        "Recht auf Vergessenwerden",
+        "Google Löschung",
+        "Suchergebnisse",
+        "delisting",
+        "right to be forgotten",
+        "Löschantrag"
+      ],
+      "source": "https://www.it-recht-kanzlei.de/loeschung-daten-internet-suchmaschine.html"
+    },
+    "cookie_reject_button": {
+      "area": "data",
+      "law": "§ 25 TDDDG",
+      "title": "Cookie banners need a 'reject all' button",
+      "summary": "Non-essential cookies need your active consent under § 25 TDDDG. According to the VG Hannover, a site with an 'accept all' button must offer an equally visible 'reject all' button on the first level, otherwise consent is invalid.",
+      "keywords": [
+        "Cookie-Banner",
+        "Alles ablehnen",
+        "Einwilligung",
+        "TDDDG",
+        "cookie consent",
+        "tracking",
+        "VG Hannover"
+      ],
+      "source": "https://www.wbs.legal/it-und-internet-recht/datenschutzrecht/vg-hannover-zu-einwilligungsbutton-cookie-banner-brauchen-alles-ablehnen-schaltflaeche-82973/"
+    },
+    "data_breach_victim_rights": {
+      "area": "data",
+      "law": "Art. 82 DSGVO",
+      "title": "After a data breach: damages and next steps",
+      "summary": "The BGH has held that even a loss of control over personal data can be non-material damage justifying compensation under Art. 82 GDPR. Check what was leaked, change passwords, request a free Schufa self-disclosure once a year and report identity theft to the police.",
+      "keywords": [
+        "Datenleck",
+        "Datenpanne",
+        "Identitätsdiebstahl",
+        "Schadensersatz",
+        "data breach",
+        "Schufa Selbstauskunft",
+        "Kontrollverlust"
+      ],
+      "source": "https://www.verbraucherzentrale-niedersachsen.de/wissen/digitale-welt/datenschutz/cyberangriffe-datenpannen-richtig-reagieren-bei-einem-datenleck-119921"
+    },
+    "doorbell_camera_rules": {
+      "area": "data",
+      "law": "DSGVO",
+      "title": "Video doorbells and neighbours' cameras",
+      "summary": "A video doorbell is only uncritical under the household exemption if the camera is activated by pressing the bell. Filming public streets and pavements is regularly unlawful. If a neighbour's camera films you, you can complain to the data protection authority or claim injunction in civil court.",
+      "keywords": [
+        "Türklingel Kamera",
+        "Klingelkamera",
+        "Videoüberwachung",
+        "Nachbar Kamera",
+        "video doorbell",
+        "Haushaltsausnahme",
+        "Dashcam"
+      ],
+      "source": "https://www.lda.brandenburg.de/sixcms/media.php/9/Faltblatt_Video%C3%BCberwachung_Web.pdf"
+    },
+    "image_quote_presentation": {
+      "area": "copyright",
+      "law": "§§ 51, 63 UrhG",
+      "title": "Using images in a uni presentation: image quotation",
+      "summary": "A quoted image must serve to explain your own content with a real engagement with it, merely decorative images do not count, and the source must be named. Images under a Creative Commons licence need attribution and the licence notice.",
+      "keywords": [
+        "Bildzitat",
+        "Zitatrecht",
+        "§ 51 UrhG",
+        "Creative Commons",
+        "Präsentation Bild",
+        "Quellenangabe",
+        "image quote"
+      ],
+      "source": "https://uni-goettingen.de/de/126523.html"
+    },
+    "ai_image_copyright": {
+      "area": "copyright",
+      "law": "UrhG",
+      "title": "Copyright in AI-generated images",
+      "summary": "German copyright needs a human creator, so purely AI-generated images generally have no copyright protection. The tool's terms of service can still restrict commercial use, and an output too similar to a protected work can infringe it.",
+      "keywords": [
+        "KI Bild",
+        "AI generated image",
+        "Midjourney",
+        "Urheberrecht KI",
+        "kommerzielle Nutzung",
+        "AGB",
+        "künstliche Intelligenz"
+      ],
+      "source": "https://www.e-recht24.de/ki/13543-ki-bilder-erstellen-rechtliches.html"
+    },
+    "imprint_duty_website": {
+      "area": "consumer",
+      "law": "§ 5 DDG",
+      "title": "Impressum duty for websites and social media",
+      "summary": "A purely private website needs no Impressum, but running ads, affiliate links or promoting products makes it business-like under § 5 DDG. The same applies to social media accounts used for promotion. A missing Impressum risks Abmahnung and fines.",
+      "keywords": [
+        "Impressum",
+        "Impressumspflicht",
+        "DDG",
+        "Blog",
+        "Instagram",
+        "Affiliate",
+        "Abmahnung"
+      ],
+      "source": "https://www.it-recht-kanzlei.de/mobile-de-impressum-abmahnung.html"
+    },
+    "workplace_sexual_harassment": {
+      "area": "discrimination",
+      "law": "§§ 3, 13, 14, 15 AGG",
+      "title": "Sexual harassment at work: your AGG rights",
+      "summary": "Sexual harassment is unlawful discrimination under § 3 AGG, even one incident can count. You may complain (§ 13), and if the employer takes no or obviously unsuitable measures you may stop work without losing pay (§ 14). Compensation and damages are possible (§ 15).",
+      "keywords": [
+        "sexuelle Belästigung",
+        "Leistungsverweigerungsrecht",
+        "Beschwerderecht",
+        "AGG",
+        "harassment at work",
+        "Arbeitsplatz",
+        "Belästigung"
+      ],
+      "source": "https://www.betriebsrat.de/news/gesundheit/sexuelle-belaestigung-am-arbeitsplatz-20549"
+    },
+    "agg_two_month_deadline": {
+      "area": "discrimination",
+      "law": "§ 15 Abs. 4 AGG",
+      "title": "Two-month deadline for discrimination claims",
+      "summary": "Compensation and damages claims under the AGG must be asserted against the employer in writing within two months. For a rejected application the clock starts when you learn of the discrimination (BAG 8 AZR 160/11). Missing it generally ends the claim.",
+      "keywords": [
+        "Diskriminierung Bewerbung",
+        "Zwei-Monats-Frist",
+        "Entschädigung",
+        "Ausschlussfrist",
+        "job rejection",
+        "AGG Frist",
+        "Absage"
+      ],
+      "source": "https://www.dbb.de/arbeitnehmende/rechtsprechung/arbeitsvertragsrecht/diskriminierung-zwei-monate.html"
+    },
+    "homeoffice_no_entitlement": {
+      "area": "work",
+      "law": "ArbStättV",
+      "title": "No general right to home office",
+      "summary": "There is no statutory right to work from home, and an employer cannot order it either. It can arise from the contract, a collective agreement or a works agreement. For formal Telearbeit the employer generally provides and pays the equipment under the ArbStättV.",
+      "keywords": [
+        "Homeoffice",
+        "Home Office Anspruch",
+        "Telearbeit",
+        "mobile Arbeit",
+        "work from home",
+        "Ausstattung",
+        "Betriebsvereinbarung"
+      ],
+      "source": "https://www.ihk.de/duesseldorf/recht-und-steuern/recht/merkblaetter-von-a-bis-z/neuer-inhalt-7135610"
     }
   },
   "free_help": {
