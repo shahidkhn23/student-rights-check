@@ -5027,6 +5027,258 @@
         "Student Rechtsschutz"
       ],
       "source": "https://www.test.de/FAQ-Rechtsschutzversicherung-Ihre-Fragen-unsere-Antworten-4968203-0/"
+    },
+    "blue_card_salary_2026": {
+      "area": "international",
+      "law": "§ 18g AufenthG",
+      "title": "EU Blue Card salary thresholds 2026",
+      "summary": "For 2026 the regular Blue Card needs 50,700 euro gross a year (4,225 a month). Shortage occupations and recent graduates use the lower threshold of 45,934.20 euro, which needs Federal Employment Agency approval. The thresholds are updated every year.",
+      "keywords": [
+        "Blaue Karte",
+        "Blue Card",
+        "Mindestgehalt",
+        "salary threshold",
+        "Engpassberuf",
+        "45934",
+        "50700"
+      ],
+      "source": "https://www.rtpartner.de/immigration/blaue-karte-eu-mindestgehalt-2026/"
+    },
+    "settlement_permit_blue_card": {
+      "area": "international",
+      "law": "§ 18c Abs. 2 AufenthG",
+      "title": "Permanent residence for Blue Card holders",
+      "summary": "Blue Card holders can get a Niederlassungserlaubnis after 27 months of qualified work and pension contributions, or after 21 months with German at B1 level. German at A1 is enough for the 27-month route.",
+      "keywords": [
+        "Niederlassungserlaubnis Blaue Karte",
+        "permanent residence",
+        "27 Monate",
+        "21 Monate",
+        "B1",
+        "settlement permit"
+      ],
+      "source": "https://www.make-it-in-germany.com/de/ankommen-bleiben/dauerhaft-in-deutschland/niederlassungserlaubnis"
+    },
+    "settlement_permit_german_graduate": {
+      "area": "international",
+      "law": "§ 18c Abs. 1 AufenthG",
+      "title": "Permanent residence for skilled workers with a German degree",
+      "summary": "Skilled workers can apply for a Niederlassungserlaubnis under § 18c. Anyone who finished a German degree or vocational training needs only two years with a skilled-worker permit and 24 months of pension contributions. Otherwise three years and 36 months apply.",
+      "keywords": [
+        "Niederlassungserlaubnis Fachkraft",
+        "German degree",
+        "inländisches Studium",
+        "24 Monate Rentenbeiträge",
+        "unbefristet",
+        "Aufenthaltstitel Absolvent"
+      ],
+      "source": "https://www.mth-partner.de/die-niederlassungserlaubnis-fuer-fachkraefte-und-inhaber-der-blauen-karte-eu/"
+    },
+    "night_work_tax_free_rates": {
+      "area": "work",
+      "law": "§ 3b EStG",
+      "title": "Tax-free night, Sunday and holiday surcharges",
+      "summary": "Surcharges paid on top of base pay for work actually done are tax-free up to 25 percent for night work (20:00-06:00), 40 percent for 00:00-04:00 if the shift began before midnight, 50 percent on Sundays and 125 percent on public holidays (150 percent on 24, 25, 26 December and 1 May).",
+      "keywords": [
+        "Nachtzuschlag",
+        "Sonntagszuschlag",
+        "Feiertagszuschlag",
+        "§ 3b",
+        "steuerfreie Zuschläge",
+        "night shift tax free"
+      ],
+      "source": "https://www.haufe.de/personal/entgelt/lohnabrechnung-steuerfreie-oster-und-feiertagszuschlaege_78_231084.html"
+    },
+    "night_work_surcharge_right": {
+      "area": "work",
+      "law": "§ 6 ArbZG",
+      "title": "Right to a night work surcharge or time off",
+      "summary": "Night workers are entitled to an appropriate surcharge or compensating time off under the Working Time Act. The tax-free rates in § 3b EStG are not an entitlement to that amount, and collective agreements can regulate it.",
+      "keywords": [
+        "Nachtarbeit Anspruch",
+        "angemessener Zuschlag",
+        "Freizeitausgleich",
+        "night work entitlement",
+        "ArbZG Nachtarbeitnehmer"
+      ],
+      "source": "https://www.taxmaro.com/post/nachtzuschlag"
+    },
+    "changing_clothes_paid": {
+      "area": "work",
+      "law": "BAG 5 AZR 678/11; 5 AZR 245/17",
+      "title": "Is changing into work clothes paid time?",
+      "summary": "If the employer requires work clothes to be put on at the workplace, changing is paid working time. Conspicuous uniforms that cannot reasonably be worn on the commute also count. A contract can in some cases exclude pay for changing time.",
+      "keywords": [
+        "Umkleidezeit",
+        "Dienstkleidung",
+        "changing time",
+        "uniform",
+        "Arbeitskleidung umziehen",
+        "auffällige Dienstkleidung"
+      ],
+      "source": "https://www.kanzlei-hasselbach.de/blog/umziehen-arbeitszeit/"
+    },
+    "exam_inspection_right": {
+      "area": "exams",
+      "law": "§ 29 VwVfG",
+      "title": "Right to inspect your graded exam",
+      "summary": "Students can view their exam file: the questions, their own answers and the examiner's assessment. Notes are allowed, copies usually only with a legitimate interest, and many universities allow viewing only after grading is finished. Deadlines and details come from the exam regulations.",
+      "keywords": [
+        "Klausureinsicht",
+        "Prüfungseinsicht",
+        "inspect exam",
+        "Einsichtnahme",
+        "Prüfungsakte",
+        "Bewertung prüfen"
+      ],
+      "source": "https://www.mach.kit.edu/download/MACH/Handreichung_Einsicht.pdf"
+    },
+    "plagiarism_consequences": {
+      "area": "exams",
+      "law": "Prüfungsordnung; Hochschulgesetze",
+      "title": "What happens if you plagiarise",
+      "summary": "Plagiarism counts as an attempt to cheat. The exam is normally graded failed, serious cases can mean exclusion from retakes and a finally failed exam, and some states allow expulsion or fines. The exact rules depend on the exam regulations and state law.",
+      "keywords": [
+        "Plagiat",
+        "plagiarism",
+        "Täuschungsversuch",
+        "Hausarbeit nicht bestanden",
+        "Wiederholungsprüfung ausgeschlossen"
+      ],
+      "source": "https://www.uni-muenster.de/EvTheol/studium/plagiatsvermeidung/index.html"
+    },
+    "ai_use_exam_cheating": {
+      "area": "exams",
+      "law": "VG Kassel 25.02.2026",
+      "title": "Unauthorised AI use in exams",
+      "summary": "The Kassel administrative court ruled on 25 Feb 2026 that using AI in an exam without permission can lead to a fail. In the cases there, a bachelor thesis and a master paper were marked failed and the students were permanently excluded from retakes. It depended on what the exam regulations said.",
+      "keywords": [
+        "KI Prüfung",
+        "ChatGPT Hausarbeit",
+        "unerlaubte KI",
+        "AI cheating",
+        "KI Täuschung",
+        "VG Kassel"
+      ],
+      "source": "https://www.jura.cc/rechtstipps/harte-sanktionen-bei-ki-nutzung-in-pruefungsarbeiten-urteil-des-vg-kassel/"
+    },
+    "exmatriculation_consequences": {
+      "area": "exams",
+      "law": "Landeshochschulgesetze",
+      "title": "What exmatriculation means",
+      "summary": "Leaving the register ends your student status, with effects on health insurance, BAföG and child benefit. Universities can exmatriculate you officially, for example for unpaid fees after the re-registration deadline.",
+      "keywords": [
+        "Exmatrikulation",
+        "exmatriculation",
+        "Rückmeldefrist",
+        "Semesterbeitrag nicht gezahlt",
+        "Studierendenstatus",
+        "Zwangsexmatrikulation"
+      ],
+      "source": "https://www.frankfurt-university.de/de/studium/studienorganisation/exmatrikulation/"
+    },
+    "sick_pay_werkstudent": {
+      "area": "work",
+      "law": "§ 3 EntgFG",
+      "title": "Sick pay for working students",
+      "summary": "Working students and minijobbers are entitled to up to six weeks of continued pay from the employer when sick. After that the health insurer's sick pay (Krankengeld) can follow.",
+      "keywords": [
+        "Lohnfortzahlung Werkstudent",
+        "Entgeltfortzahlung",
+        "sick pay",
+        "krank Werkstudent",
+        "sechs Wochen"
+      ],
+      "source": "https://iqb.de/karrieremagazin/studium/rechte-und-pflichten-von-werkstudenten"
+    },
+    "sick_pay_waiting_krankengeld": {
+      "area": "work",
+      "law": "§ 3 EntgFG; § 47 SGB V",
+      "title": "Waiting period and Krankengeld amount",
+      "summary": "In the first four weeks of a new job there is no employer sick pay. After six weeks the health insurer pays Krankengeld of 70 percent of gross pay, capped at 90 percent of net.",
+      "keywords": [
+        "Wartezeit vier Wochen",
+        "Krankengeld",
+        "neuer Job krank",
+        "70 Prozent",
+        "Entgeltfortzahlung Wartezeit",
+        "sick pay new job"
+      ],
+      "source": "https://www.datev.de/web/de/berufsgruppenuebergreifend/ratgeber/lohn-und-gehalt/krankengeld-oder-entgeltfortzahlung"
+    },
+    "contraception_under_22": {
+      "area": "health",
+      "law": "§ 24a SGB V",
+      "title": "Contraception costs covered until 22",
+      "summary": "Statutory insurers cover prescription contraceptives such as the pill or an IUD for people under 22 if a doctor writes a Kassenrezept. From 18 a legal co-payment applies. Private prescriptions are not reimbursed.",
+      "keywords": [
+        "Verhütung Kosten",
+        "Pille Krankenkasse",
+        "contraception cost",
+        "Spirale",
+        "unter 22",
+        "Kassenrezept"
+      ],
+      "source": "https://www.barmer.de/leistungen-beratung/leistungen-a-z/empfaengnisverhuetung-10364"
+    },
+    "munich_debt_counselling": {
+      "area": "money",
+      "law": "§ 16a SGB II; § 305 InsO",
+      "title": "Free debt counselling in Munich",
+      "summary": "The City of Munich runs a debt and insolvency counselling service with a hotline. It covers budget planning, talks with creditors and help applying for consumer insolvency, and it charges no fees.",
+      "keywords": [
+        "Schuldnerberatung München",
+        "debt counselling",
+        "Insolvenzberatung",
+        "Schulden",
+        "Pfändungsfreigrenze",
+        "Verbraucherinsolvenz"
+      ],
+      "source": "https://stadt.muenchen.de/service/suche/bestandsaufnahme/"
+    },
+    "youth_debt_counselling_munich": {
+      "area": "money",
+      "law": "Jugendschuldnerberatung",
+      "title": "Debt advice for students under 25 in Munich",
+      "summary": "AWO Munich runs a youth debt counselling service for people aged 25 or younger who are in school, university, training or unemployed. It helps with unpaid bills, losing track of debts and trouble with creditors.",
+      "keywords": [
+        "Jugendschuldnerberatung",
+        "AWO München",
+        "Schulden Student",
+        "unbezahlte Rechnungen",
+        "debt help students"
+      ],
+      "source": "https://story.unibw.de/sites/default/files/media/downloads/Flyer%20Jugendschuldnerberatung.pdf"
+    },
+    "insolvency_discharge_three_years": {
+      "area": "money",
+      "law": "§ 287 InsO",
+      "title": "Debt discharge after three years",
+      "summary": "Through consumer insolvency a person is freed from remaining debts after three years. An out-of-court settlement plan with creditors is tried first, and if creditors refuse the insolvency procedure follows.",
+      "keywords": [
+        "Restschuldbefreiung",
+        "Privatinsolvenz",
+        "drei Jahre",
+        "Schuldenbereinigungsplan",
+        "debt discharge",
+        "consumer insolvency"
+      ],
+      "source": "https://www.test.de/Ueberschuldung-Mahnbescheid-Vollstreckungsbescheid-Gerichtsvollzieher-4141446-5702025/"
+    },
+    "newsletter_consent": {
+      "area": "data",
+      "law": "§ 7 UWG; Art. 6 DSGVO",
+      "title": "Advertising emails need your consent",
+      "summary": "Newsletters and advertising emails are generally allowed only with the recipient's consent. An exception for existing customers exists under § 7 Abs. 3 UWG. Double opt-in is the safest way for senders to prove consent, and you can object at any time.",
+      "keywords": [
+        "Newsletter Einwilligung",
+        "Double-Opt-In",
+        "Werbe-E-Mail",
+        "Spam",
+        "unsubscribe",
+        "§ 7 UWG"
+      ],
+      "source": "https://www.ihk.de/hannover/hauptnavigation/recht/e-business-recht/newsletter-rechtliche-voraussetzungen-5205352"
     }
   },
   "free_help": {
