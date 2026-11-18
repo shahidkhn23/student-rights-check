@@ -148,6 +148,17 @@ In Germany, legal advice on an individual case is regulated by the Rechtsdienstl
 
 More detail in [docs/LEGAL.md](docs/LEGAL.md).
 
+## How the rules are verified
+
+Every rule in `knowledge_base/laws.json` has a source link (law text, a court or ministry page, a consumer or tenant association, a university or city page). A rule is added only after I read that source and wrote the summary from it, and each rule gets a test question that must find it. When a source did not back a detail, I removed or softened the detail instead of keeping it: a recent review of 15 new rules changed the wording of 11 of them (for example a fee cap that the page did not state, and a court ruling that was only first instance). The file header records the last review date.
+
+## Limits
+
+- **Information, not advice.** It describes what the law generally says. It cannot judge your individual case.
+- **Laws change.** Amounts and rules (minimum wage, ID card fees, consumer credit rules from 20 November 2026) are dated; check the source link before relying on them.
+- **Bavaria for exams.** University rules are verified for Bavaria only; housing values marked Munich are Munich-specific.
+- **Keyword search, not understanding.** Retrieval is BM25 over the rules, so unusual wording can miss. When nothing scores high enough, the tool says it has no verified answer.
+
 ## Run it
 
 ```bash
