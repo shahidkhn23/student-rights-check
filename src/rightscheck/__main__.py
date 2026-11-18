@@ -28,7 +28,7 @@ def cmd_check(args) -> int:
     print(json.dumps(report, ensure_ascii=False, indent=2) if args.json else to_markdown(report))
     if args.ai:
         print("\n## AI explanation\n")
-        print(explain(text, report, args.lang) or "Set ANTHROPIC_API_KEY to get a plain-language explanation.")
+        print(explain(text, report, args.lang) or "Set GROQ_API_KEY to get a plain-language explanation.")
     return 0
 
 
@@ -37,7 +37,7 @@ def cmd_ask(args) -> int:
     print(json.dumps(a, ensure_ascii=False, indent=2) if args.json else answer_markdown(a))
     if args.ai and a["found"]:
         print("\n## AI explanation\n")
-        print(explain_answer(a, args.lang) or "Set ANTHROPIC_API_KEY to get a plain-language explanation.")
+        print(explain_answer(a, args.lang) or "Set GROQ_API_KEY to get a plain-language explanation.")
     return 0
 
 
@@ -55,15 +55,11 @@ def cmd_topics(args) -> int:
 
 
 def cmd_agent(args) -> int:
-    from .agent import anthropic_model, groq_model, run_agent
-    if os.getenv("GROQ_API_KEY"):
-        model = groq_model
-    elif os.getenv("ANTHROPIC_API_KEY"):
-        model = anthropic_model
-    else:
-        print("The agent needs GROQ_API_KEY (free) or ANTHROPIC_API_KEY. Without a key, use 'check' and 'ask'.",
-              file=sys.stderr)
+    from .agent import groq_model, run_agent
+    if not os.getenv("GROQ_API_KEY"):
+        print("The agent needs a free GROQ_API_KEY. Without a key, use 'check' and 'ask'.", file=sys.stderr)
         return 1
+    model = groq_model
     document = read_document(args.file) if args.file else None
     out = run_agent(args.message, document, model=model)
     if args.trace:
@@ -91,10 +87,10 @@ def main(argv=None) -> int:
     a.add_argument("question")
     for sp in (c, a):
         sp.add_argument("--json", action="store_true", help="structured output")
-        sp.add_argument("--ai", action="store_true", help="plain-language AI explanation (needs ANTHROPIC_API_KEY)")
+        sp.add_argument("--ai", action="store_true", help="plain-language AI explanation (needs GROQ_API_KEY)")
         sp.add_argument("--lang", default="English", help="language for the AI explanation")
     sub.add_parser("topics", help="list every right the tool knows")
-    g = sub.add_parser("agent", help="AI agent that decides which tools to use (needs GROQ_API_KEY or ANTHROPIC_API_KEY)")
+    g = sub.add_parser("agent", help="AI agent that decides which tools to use (needs GROQ_API_KEY)")
     g.add_argument("message")
     g.add_argument("--file", help="contract or letter to check")
     g.add_argument("--trace", action="store_true", help="show which tools the agent called")

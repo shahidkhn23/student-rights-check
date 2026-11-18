@@ -43,20 +43,8 @@ TOOLS = [
 LAW_REF = re.compile(r"(?:§+|Art\.)\s*\d+[a-z]?", re.I)
 
 
-def anthropic_model(system: str, messages: list, tools: list) -> dict:
-    """One call to the Claude Messages API. Needs ANTHROPIC_API_KEY."""
-    payload = {"model": os.getenv("RIGHTSCHECK_MODEL", "claude-haiku-5-5"), "max_tokens": 2000,
-               "system": system, "messages": messages, "tools": tools}
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages", data=json.dumps(payload).encode(),
-        headers={"x-api-key": os.environ["ANTHROPIC_API_KEY"], "anthropic-version": "2023-06-01",
-                 "content-type": "application/json"})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return json.loads(r.read())
-
-
 def to_openai(system: str, messages: list, tools: list) -> dict:
-    """Convert the agent's Anthropic-style conversation to the OpenAI chat format (used by Groq)."""
+    """Convert the agent's tool-use conversation to the OpenAI chat format (used by Groq)."""
     out = [{"role": "system", "content": system}]
     for m in messages:
         c = m["content"]
@@ -110,7 +98,8 @@ def ungrounded_refs(text: str, sources: list[str]) -> list[str]:
     return [ref for ref in LAW_REF.findall(text) if _norm(ref) not in allowed]
 
 
-def run_agent(message: str, document: str | None = None, model=anthropic_model, max_steps: int = 6) -> dict:
+def run_agent(message: str, document: str | None = None, model=None, max_steps: int = 6) -> dict:
+    model = model or groq_model
     index = RightsIndex()
     trace, results = [], []
 

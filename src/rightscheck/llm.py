@@ -44,24 +44,24 @@ Rules you must follow:
 
 
 def _call(system: str, user: str) -> str | None:
-    key = os.getenv("ANTHROPIC_API_KEY")
+    key = os.getenv("GROQ_API_KEY")
     if not key:
         return None
     payload = {
-        "model": os.getenv("RIGHTSCHECK_MODEL", "claude-haiku-5-5"),
+        "model": os.getenv("RIGHTSCHECK_MODEL", "openai/gpt-oss-120b"),
         "max_tokens": 1500,
-        "system": system,
-        "messages": [{"role": "user", "content": user}],
+        "temperature": 0.2,
+        "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
     }
     req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
+        "https://api.groq.com/openai/v1/chat/completions",
         data=json.dumps(payload).encode(),
-        headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "User-Agent": "rightscheck/0.4"},
     )
     try:
         with urllib.request.urlopen(req, timeout=60) as r:
             data = json.loads(r.read())
-        return "".join(b.get("text", "") for b in data.get("content", []))
+        return data["choices"][0]["message"].get("content") or ""
     except Exception as e:  # network error, bad key ... fall back to the verified answer
         return f"(AI explanation unavailable: {e.__class__.__name__}. Showing the verified answer only.)"
 
@@ -72,30 +72,7 @@ def explain_answer(answer: dict, language: str = "English") -> str | None:
 
 
 def explain(document: str, report: dict, language: str = "English") -> str | None:
-    key = os.getenv("ANTHROPIC_API_KEY")
-    if not key:
-        return None
-    payload = {
-        "model": os.getenv("RIGHTSCHECK_MODEL", "claude-haiku-5-5"),
-        "max_tokens": 1500,
-        "system": SYSTEM_PROMPT,
-        "messages": [{
-            "role": "user",
-            "content": (
-                f"Answer language: {language}\n\n"
-                f"<document>\n{document[:15000]}\n</document>\n\n"
-                f"<findings>\n{json.dumps(report, ensure_ascii=False, indent=2)}\n</findings>"
-            ),
-        }],
-    }
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=json.dumps(payload).encode(),
-        headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.loads(r.read())
-        return "".join(b.get("text", "") for b in data.get("content", []))
-    except Exception as e:  # network error, bad key ... fall back to the rule-based report
-        return f"(AI explanation unavailable: {e.__class__.__name__}. Showing the verified report only.)"
+    return _call(SYSTEM_PROMPT, (
+        f"Answer language: {language}\n\n"
+        f"<document>\n{document[:15000]}\n</document>\n\n"
+        f"<findings>\n{json.dumps(report, ensure_ascii=False, indent=2)}\n</findings>"))
