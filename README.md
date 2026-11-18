@@ -112,7 +112,7 @@ A wrong answer here costs a student real money or an exam attempt. So the work i
 
 Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 350 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
 
-Real run on 14 Nov 2026 (an open-weight 120B model through an OpenAI-compatible API, started from the "live run" workflow in GitHub Actions), shortened:
+Real run on 14 Nov 2026 (an open-weight 120B model through an chat-completions compatible API, started from the "live run" workflow in GitHub Actions), shortened:
 
 ```
 $ python -m rightscheck agent "Is this okay? Write my landlord a short message." --file samples/wg_mietvertrag.txt --trace
@@ -135,7 +135,7 @@ Allgemeine rechtliche Informationen, keine Rechtsberatung für Ihren Einzelfall.
 
 The safety rule is enforced in code, not only in the prompt: every law reference (`§ …`, `Art. …`) in the answer must appear in a tool result. If the model cites something no tool returned, it gets one chance to fix it; after that the agent shows the verified tool results instead. There is also a step limit, and unknown tool names are rejected.
 
-The agent tests (`tests/test_agent.py`) use a scripted fake model, so they run offline: tool use, the retry on an invented paragraph, the fallback, missing document, unknown tool and the step limit. The live agent works with any OpenAI-compatible API: set `LLM_API_KEY`, `LLM_BASE_URL` and `LLM_MODEL`. No key is needed for `check` and `ask`.
+The agent tests (`tests/test_agent.py`) use a scripted fake model, so they run offline: tool use, the retry on an invented paragraph, the fallback, missing document, unknown tool and the step limit. The live agent works with any chat-completions compatible API: set `LLM_API_KEY`, `LLM_BASE_URL` and `LLM_MODEL`. No key is needed for `check` and `ask`.
 
 ## Staying legal: information, not legal advice
 
@@ -170,7 +170,7 @@ python -m rightscheck topics                                        # everything
 python -m rightscheck ask "Can I work 25 hours as a Werkstudent?"   # ask a question
 python -m rightscheck check samples/werkstudent_vertrag.txt         # check a contract
 python -m rightscheck check my_contract.pdf --json                  # structured JSON
-export LLM_API_KEY=... LLM_BASE_URL=https://<host>/v1 LLM_MODEL=<model>   # any OpenAI-compatible API
+export LLM_API_KEY=... LLM_BASE_URL=https://<host>/v1 LLM_MODEL=<model>   # any chat-completions compatible API
 python -m rightscheck agent "Is this okay? Write my landlord a message." --file samples/wg_mietvertrag.txt --trace
 python -m rightscheck ask "Was passiert wenn ich krank bin?" --ai --lang Deutsch
 pytest                                                              # run the tests

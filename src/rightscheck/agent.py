@@ -44,8 +44,8 @@ TOOLS = [
 LAW_REF = re.compile(r"(?:§+|Art\.)\s*\d+[a-z]?", re.I)
 
 
-def to_openai(system: str, messages: list, tools: list) -> dict:
-    """Convert the agent's tool-use conversation to the OpenAI chat format (used by most hosted models)."""
+def to_chat_format(system: str, messages: list, tools: list) -> dict:
+    """Convert the agent's tool-use conversation to the chat-completions format (used by most hosted models)."""
     out = [{"role": "system", "content": system}]
     for m in messages:
         c = m["content"]
@@ -67,8 +67,8 @@ def to_openai(system: str, messages: list, tools: list) -> dict:
                                                          "parameters": t["input_schema"]}} for t in tools]}
 
 
-def from_openai(message: dict) -> dict:
-    """Convert an OpenAI-style reply back to the agent's content blocks."""
+def from_chat_format(message: dict) -> dict:
+    """Convert an chat-style reply back to the agent's content blocks."""
     blocks = [{"type": "text", "text": message["content"]}] if message.get("content") else []
     for c in message.get("tool_calls") or []:
         blocks.append({"type": "tool_use", "id": c["id"], "name": c["function"]["name"],
@@ -77,18 +77,18 @@ def from_openai(message: dict) -> dict:
 
 
 def llm_model(system: str, messages: list, tools: list) -> dict:
-    """One call to any OpenAI-compatible chat API (see llm.settings for the environment variables)."""
+    """One call to any chat-completions compatible chat API (see llm.settings for the environment variables)."""
     cfg = settings()
     if not cfg:
         raise RuntimeError("LLM_API_KEY, LLM_BASE_URL and LLM_MODEL must be set")
     key, url, model = cfg
-    payload = {"model": model, "max_tokens": 2000, "temperature": 0.2, **to_openai(system, messages, tools)}
+    payload = {"model": model, "max_tokens": 2000, "temperature": 0.2, **to_chat_format(system, messages, tools)}
     req = urllib.request.Request(
         url, data=json.dumps(payload).encode(),
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
                  "User-Agent": "rightscheck/0.4"})
     with urllib.request.urlopen(req, timeout=90) as r:
-        return from_openai(json.loads(r.read())["choices"][0]["message"])
+        return from_chat_format(json.loads(r.read())["choices"][0]["message"])
 
 
 def _norm(ref: str) -> str:

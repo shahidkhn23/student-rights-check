@@ -58,7 +58,7 @@ def cmd_agent(args) -> int:
     from .agent import llm_model, run_agent
     from .llm import settings
     if not settings():
-        print("The agent needs LLM_API_KEY, LLM_BASE_URL and LLM_MODEL (any OpenAI-compatible API). "
+        print("The agent needs LLM_API_KEY, LLM_BASE_URL and LLM_MODEL (any chat-completions compatible API). "
               "Without them, use 'check' and 'ask'.", file=sys.stderr)
         return 1
     model = llm_model

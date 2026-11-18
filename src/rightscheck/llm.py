@@ -46,7 +46,7 @@ Rules you must follow:
 def settings() -> tuple[str, str, str] | None:
     """(api key, chat-completions URL, model) from the environment, or None if not configured.
 
-    Works with any OpenAI-compatible endpoint:
+    Works with any chat-completions compatible endpoint:
       LLM_API_KEY, LLM_BASE_URL (e.g. https://host/v1), LLM_MODEL
     """
     key, base, model = (os.getenv(n) for n in ("LLM_API_KEY", "LLM_BASE_URL", "LLM_MODEL"))

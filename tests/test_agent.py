@@ -76,17 +76,17 @@ def test_ungrounded_refs():
     assert ungrounded_refs("§ 573c BGB", ['{"law": "§ 551 BGB"}']) == ["§ 573c"]
 
 
-def test_openai_format_roundtrip():
-    """The OpenAI-format adapter converts tool calls and results both ways without losing anything."""
-    from rightscheck.agent import TOOLS, from_openai, to_openai
-    reply = from_openai({"content": None, "tool_calls": [{"id": "c1", "type": "function", "function": {
+def test_chat_format_roundtrip():
+    """The chat-format adapter converts tool calls and results both ways without losing anything."""
+    from rightscheck.agent import TOOLS, from_chat_format, to_chat_format
+    reply = from_chat_format({"content": None, "tool_calls": [{"id": "c1", "type": "function", "function": {
         "name": "search_rights", "arguments": '{"question": "Kaution"}'}}]})
     assert reply["content"] == [{"type": "tool_use", "id": "c1", "name": "search_rights",
                                  "input": {"question": "Kaution"}}]
     convo = [{"role": "user", "content": "Wie hoch darf die Kaution sein?"},
              {"role": "assistant", "content": reply["content"]},
              {"role": "user", "content": [{"type": "tool_result", "tool_use_id": "c1", "content": "{...}"}]}]
-    req = to_openai("sys", convo, TOOLS)
+    req = to_chat_format("sys", convo, TOOLS)
     assert [m["role"] for m in req["messages"]] == ["system", "user", "assistant", "tool"]
     assert req["messages"][2]["tool_calls"][0]["function"]["name"] == "search_rights"
     assert req["messages"][3]["tool_call_id"] == "c1"
