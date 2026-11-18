@@ -6282,7 +6282,7 @@
       "area": "housing",
       "law": "BGB, DSGVO",
       "title": "Landlord questionnaire: which questions are allowed",
-      "summary": "In a tenant self-disclosure (Mieterselbstauskunft) landlords may ask about income, job, household size and pets. Questions about religion, ethnic origin, politics or family planning are not allowed. Allowed questions must be answered truthfully. Several tenant associations say untrue answers to improper questions have no legal consequences.",
+      "summary": "In a tenant self-disclosure (Mieterselbstauskunft) landlords may ask about job, income and household size. Questions about religion, party membership, health or family planning are not allowed. You must answer allowed questions truthfully, and false answers to them can cost you the contract or the tenancy. An untrue answer to a question that was not allowed has no legal consequences, according to several legal guides.",
       "keywords": [
         "Mieterselbstauskunft",
         "tenant questionnaire",
@@ -6290,13 +6290,13 @@
         "improper questions",
         "flat application"
       ],
-      "source": "https://bmgev.de/mieterecho/artikel/mieterinnen-fragen-wir-antworten-me403"
+      "source": "https://jurawelt.com/mieterselbstauskunft-wonach-vermieter-fragen-duerfen/"
     },
     "public_employer_disabled_interview": {
       "area": "discrimination",
       "law": "SGB IX § 165",
       "title": "Severely disabled applicants: interview invitation at public employers",
-      "summary": "Public employers must invite severely disabled applicants to an interview unless they obviously lack the professional qualification. If they skip it, discrimination is presumed and compensation under the AGG can follow. Private employers and church bodies are not covered by this duty (BAG, 25 Jan 2024). You do not have to state a disability, but then you give up this right.",
+      "summary": "Public employers must invite severely disabled applicants to an interview (SGB IX § 165 sentence 3), unless the applicant obviously lacks the professional qualification. If they skip the invitation, discrimination is usually presumed and compensation under the AGG can follow. The duty applies only to public employers. A church body under public law is not one, so it does not have to invite (BAG, 25 Jan 2024, 8 AZR 318/22).",
       "keywords": [
         "severe disability",
         "Schwerbehinderung",
@@ -6305,7 +6305,7 @@
         "§ 165 SGB IX",
         "öffentlicher Arbeitgeber"
       ],
-      "source": "https://www.anwalt24.de/browse/document/f94ff03a-e5f9-3fc9-800c-e1f3526e2644"
+      "source": "https://www.anwalt24.de/urteile/bag/2024-01-25/8-azr-318_22"
     },
     "early_loan_repayment_fee": {
       "area": "money",
@@ -6342,7 +6342,7 @@
       "area": "housing",
       "law": "BGB § 551",
       "title": "Rent guarantee instead of cash deposit (parents or insurer)",
-      "summary": "Landlords may ask for at most three months' net rent as security, and a guarantee counts as security. Students often use a parental guarantee or a bank or insurer guarantee, but the landlord does not have to accept it. Parents who guarantee stay liable even after you start earning, with no claim to be released.",
+      "summary": "Landlords may ask for at most three months' net rent as security. A parental guarantee is also capped at that level, and a guarantee and a cash deposit together may not exceed it. A landlord does not have to accept a bank or insurer guarantee. Parents who guarantee for a student stay liable even after the student starts earning, and there is no right to be released from the guarantee.",
       "keywords": [
         "Mietbürgschaft",
         "Kautionsbürgschaft",
@@ -6351,7 +6351,7 @@
         "Kautionsversicherung",
         "no money for deposit"
       ],
-      "source": "https://www.test.de/Mietbuergschaft-Eltern-haften-fuer-ihre-Kinder-4880478-0/"
+      "source": "https://www.berliner-mieterverein.de/?p=48955"
     },
     "reminder_fees_limit": {
       "area": "consumer",
@@ -6372,13 +6372,15 @@
       "area": "money",
       "law": "EStG § 62",
       "title": "Child benefit while studying abroad",
-      "summary": "Parents keep Kindergeld if the child keeps a home in Germany, and a short stay of one or two semesters abroad normally does not endanger it. For studies in the EU or EEA the claim generally continues unless comparable benefits are paid abroad. For multi-year studies outside Europe, the child keeps the German residence only if it mainly uses the parents' home during the break periods (BFH case law).",
+      "summary": "Kindergeld generally continues for a child studying in another EU or EEA country. Outside the EU/EEA the child must keep its residence in Germany. For a stay of about one year, Kindergeld usually continues. A longer stay can end the German residence, as the Lower Saxony Finance Court held (5 K 168/17, 7 Jan 2020), at least if the child does not spend its free time mainly at the parents' home. Short visits of two or three weeks a year are generally not enough. Keep proof, such as flight tickets.",
       "keywords": [
         "Kindergeld abroad",
         "study abroad child benefit",
         "Auslandsstudium Kindergeld",
         "Wohnsitz Eltern",
-        "Familienkasse Ausland"
+        "Familienkasse Ausland",
+        "Kindergeld Erasmus",
+        "parents keep Kindergeld semester abroad"
       ],
       "source": "https://www.lohnsteuer-kompakt.de/steuerwissen/auslandsstudium-droht-der-verlust-des-kindergeldes/"
     },
@@ -6386,7 +6388,7 @@
       "area": "data",
       "law": "DSGVO, BDSG § 26, TKG",
       "title": "Employer checking your work email and phone",
-      "summary": "If private use of the company phone or email is allowed or tolerated, the employer may not read private messages or call lists. If private use is banned, spot checks of business use are possible but should be made transparent, for example through a works agreement. Private email content is generally off limits to the employer.",
+      "summary": "If private use of the company laptop or email is banned, the employer may check compliance, but only by spot checks, not permanent monitoring. If private use is allowed or tolerated, the employer counts as a telecoms provider and private emails fall under telecommunications secrecy, and connection data may only be recorded with your consent. Checking the content of private emails is generally excluded unless there is an initial suspicion of a crime or serious breach of duty. Total surveillance is generally disproportionate. Systems that can monitor behaviour need the works council's co-determination (BetrVG § 87). The source article dates from 2020.",
       "keywords": [
         "Mitarbeiterüberwachung",
         "work phone private use",
