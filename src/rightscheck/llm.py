@@ -43,18 +43,31 @@ Rules you must follow:
 """
 
 
-def _call(system: str, user: str) -> str | None:
-    key = os.getenv("GROQ_API_KEY")
-    if not key:
+def settings() -> tuple[str, str, str] | None:
+    """(api key, chat-completions URL, model) from the environment, or None if not configured.
+
+    Works with any OpenAI-compatible endpoint:
+      LLM_API_KEY, LLM_BASE_URL (e.g. https://host/v1), LLM_MODEL
+    """
+    key, base, model = (os.getenv(n) for n in ("LLM_API_KEY", "LLM_BASE_URL", "LLM_MODEL"))
+    if not (key and base and model):
         return None
+    return key, base.rstrip("/") + "/chat/completions", model
+
+
+def _call(system: str, user: str) -> str | None:
+    cfg = settings()
+    if not cfg:
+        return None
+    key, url, model = cfg
     payload = {
-        "model": os.getenv("RIGHTSCHECK_MODEL", "openai/gpt-oss-120b"),
+        "model": model,
         "max_tokens": 1500,
         "temperature": 0.2,
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
     }
     req = urllib.request.Request(
-        "https://api.groq.com/openai/v1/chat/completions",
+        url,
         data=json.dumps(payload).encode(),
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "User-Agent": "rightscheck/0.4"},
     )

@@ -76,8 +76,8 @@ def test_ungrounded_refs():
     assert ungrounded_refs("§ 573c BGB", ['{"law": "§ 551 BGB"}']) == ["§ 573c"]
 
 
-def test_groq_format_roundtrip():
-    """The Groq adapter converts tool calls and results both ways without losing anything."""
+def test_openai_format_roundtrip():
+    """The OpenAI-format adapter converts tool calls and results both ways without losing anything."""
     from rightscheck.agent import TOOLS, from_openai, to_openai
     reply = from_openai({"content": None, "tool_calls": [{"id": "c1", "type": "function", "function": {
         "name": "search_rights", "arguments": '{"question": "Kaution"}'}}]})

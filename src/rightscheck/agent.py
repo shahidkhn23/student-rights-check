@@ -18,6 +18,7 @@ import urllib.request
 
 from . import check
 from .ask import RightsIndex, answer
+from .llm import settings
 
 SYSTEM = """You help students in Germany understand their rights and documents.
 - Always use the tools. If a document is attached, call check_document. For questions, call search_rights.
@@ -44,7 +45,7 @@ LAW_REF = re.compile(r"(?:§+|Art\.)\s*\d+[a-z]?", re.I)
 
 
 def to_openai(system: str, messages: list, tools: list) -> dict:
-    """Convert the agent's tool-use conversation to the OpenAI chat format (used by Groq)."""
+    """Convert the agent's tool-use conversation to the OpenAI chat format (used by most hosted models)."""
     out = [{"role": "system", "content": system}]
     for m in messages:
         c = m["content"]
@@ -75,13 +76,16 @@ def from_openai(message: dict) -> dict:
     return {"content": blocks or [{"type": "text", "text": ""}]}
 
 
-def groq_model(system: str, messages: list, tools: list) -> dict:
-    """One call to Groq (free tier, OpenAI-compatible API). Needs GROQ_API_KEY."""
-    payload = {"model": os.getenv("RIGHTSCHECK_MODEL", "openai/gpt-oss-120b"), "max_tokens": 2000,
-               "temperature": 0.2, **to_openai(system, messages, tools)}
+def llm_model(system: str, messages: list, tools: list) -> dict:
+    """One call to any OpenAI-compatible chat API (see llm.settings for the environment variables)."""
+    cfg = settings()
+    if not cfg:
+        raise RuntimeError("LLM_API_KEY, LLM_BASE_URL and LLM_MODEL must be set")
+    key, url, model = cfg
+    payload = {"model": model, "max_tokens": 2000, "temperature": 0.2, **to_openai(system, messages, tools)}
     req = urllib.request.Request(
-        "https://api.groq.com/openai/v1/chat/completions", data=json.dumps(payload).encode(),
-        headers={"Authorization": f"Bearer {os.environ['GROQ_API_KEY']}", "Content-Type": "application/json",
+        url, data=json.dumps(payload).encode(),
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
                  "User-Agent": "rightscheck/0.4"})
     with urllib.request.urlopen(req, timeout=90) as r:
         return from_openai(json.loads(r.read())["choices"][0]["message"])
@@ -99,7 +103,7 @@ def ungrounded_refs(text: str, sources: list[str]) -> list[str]:
 
 
 def run_agent(message: str, document: str | None = None, model=None, max_steps: int = 6) -> dict:
-    model = model or groq_model
+    model = model or llm_model
     index = RightsIndex()
     trace, results = [], []
 
