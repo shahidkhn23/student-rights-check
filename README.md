@@ -178,7 +178,7 @@ pytest                                                              # run the te
 
 ## Quality
 
-- **360 tests**: every sample contract, number parsing, 329 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
+- **360 tests**: every sample contract, number parsing, 328 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
 - **Precision test:** a fair contract (`samples/fairer_vertrag.txt`) must produce zero warnings, and an unrelated question must get no answer. A tool that warns about everything or answers everything is useless.
 - **Integrity tests:** every rule has an area, a source link and keywords; every answer only contains text from the verified knowledge base.
 
