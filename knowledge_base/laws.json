@@ -8285,6 +8285,93 @@
     "software download widerruf"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__356.html"
+  },
+  "phone_contract_twelve_month_offer": {
+   "area": "consumer",
+   "law": "§ 56 Abs. 1 TKG",
+   "title": "Phone and internet provider must also offer you a contract of 12 months or less",
+   "summary": "The initial term of a consumer contract with a telecom provider may not exceed 24 months, and before signing the provider must also offer you a contract with an initial term of no more than 12 months.",
+   "keywords": [
+    "provider must offer 12 month contract",
+    "shorter contract term offer",
+    "12 monate laufzeit angebot pflicht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tkg_2021/__56.html"
+  },
+  "phone_renewal_notice_duty": {
+   "area": "consumer",
+   "law": "§ 56 Abs. 3 TKG",
+   "title": "Before an automatic renewal the provider must tell you in good time",
+   "summary": "If a telecom contract renews automatically, the provider must inform you in good time on a durable medium about the renewal, how to prevent it by cancelling on time, and your right to cancel the renewed contract with one month notice.",
+   "keywords": [
+    "provider must inform before renewal",
+    "automatic renewal information durable medium",
+    "verlängerung hinweispflicht anbieter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tkg_2021/__56.html"
+  },
+  "phone_early_exit_devices": {
+   "area": "consumer",
+   "law": "§ 56 Abs. 4 TKG",
+   "title": "Ending a phone contract early: the provider may only claim the value of devices you keep",
+   "summary": "When early termination is allowed, the provider may not demand compensation beyond the value of retained devices, which cannot exceed the pro-rata value agreed at signing or the remaining fees. After you pay it the provider must free the devices, at no cost, from restrictions on use in other networks.",
+   "keywords": [
+    "keep phone early termination compensation",
+    "simlock free after paying",
+    "device value compensation provider",
+    "endgerät entsperren kosten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tkg_2021/__56.html"
+  },
+  "phone_email_access_after_end": {
+   "area": "consumer",
+   "law": "§ 56 Abs. 5 TKG",
+   "title": "After your internet contract ends you keep access to your provider email for a reasonable time",
+   "summary": "Internet access providers must make sure, free of charge, that you keep access for a reasonable period after the contract ends to emails under the provider's mail domain, and can forward them to another address.",
+   "keywords": [
+    "provider email after contract ends",
+    "email address internet provider cancelled",
+    "e-mail adresse nach vertragsende"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tkg_2021/__56.html"
+  },
+  "terms_change_notice_three_months": {
+   "area": "consumer",
+   "law": "§ 57 Abs. 1–2 TKG",
+   "title": "Provider changes your telecom contract: you get 1 to 2 months notice and three months to cancel",
+   "summary": "If standard terms let the provider change the contract unilaterally and it does so, you can terminate without notice period and at no cost. The provider must notify you one to two months before the change takes effect, in a clear way on a durable medium, naming the change, the date and your termination right. You can terminate within three months after receiving a proper notice, but not before the change takes effect.",
+   "keywords": [
+    "provider changes contract terms cancel",
+    "three months to terminate after notice",
+    "notice one to two months before change",
+    "vertragsänderung kündigung drei monate"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tkg_2021/__57.html"
+  },
+  "order_for_payment_not_checked": {
+   "area": "consumer",
+   "law": "§ 692 Abs. 1 Nr. 2 ZPO",
+   "title": "A Mahnbescheid does not mean the claim is justified: the court did not check it",
+   "summary": "The payment order must state that the court has not checked whether the applicant is entitled to the claim, ask you to pay within two weeks of service or tell the court whether and how far you dispute the claim, and warn that an enforcement order can follow.",
+   "keywords": [
+    "mahnbescheid court has not checked",
+    "payment order claim not examined",
+    "mahnbescheid ungeprüft",
+    "court did not verify claim"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__692.html"
+  },
+  "enforcement_order_equals_default_judgment": {
+   "area": "consumer",
+   "law": "§ 700 Abs. 1 ZPO",
+   "title": "A Vollstreckungsbescheid has the force of a default judgment",
+   "summary": "An enforcement order (Vollstreckungsbescheid) has the same effect as a default judgment that has been declared provisionally enforceable. If an objection (Einspruch) is filed, the court transfers the case to the court named in the payment order.",
+   "keywords": [
+    "vollstreckungsbescheid same as default judgment",
+    "enforcement order effect",
+    "vollstreckungsbescheid wirkung versäumnisurteil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__700.html"
   }
  },
  "free_help": {
