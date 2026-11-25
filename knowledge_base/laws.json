@@ -10240,6 +10240,286 @@
     "3 muschg fehlgeburt"
    ],
    "source": "https://www.gesetze-im-internet.de/muschg_2018/__3.html"
+  },
+  "wisszeitvg_six_years_before_phd": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 WissZeitVG",
+   "title": "University research staff without a doctorate: fixed-term contracts allowed up to six years in total",
+   "summary": "Fixed-term employment contracts of scientific and artistic staff who have not completed a doctorate are allowed for up to six years if the temporary employment serves their own scientific or artistic qualification.",
+   "keywords": [
+    "wissenschaftszeitvertragsgesetz sechs jahre befristung",
+    "fixed term research assistant six years germany",
+    "wissenschaftlicher mitarbeiter befristet promotion",
+    "university contract limit before doctorate",
+    "2 wisszeitvg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html"
+  },
+  "wisszeitvg_counts_all_earlier_university_contracts": {
+   "area": "work",
+   "law": "§ 2 Abs. 3 WissZeitVG",
+   "title": "For the six-year limit, all earlier fixed-term jobs at German universities over a quarter of full time count",
+   "summary": "All earlier fixed-term employment with a German university or research institution of more than a quarter of the regular working time, and comparable civil-service and private service contracts, count towards the permitted fixed-term duration.",
+   "keywords": [
+    "wisszeitvg anrechnung befristete verträge viertel arbeitszeit",
+    "which previous contracts count six year limit",
+    "befristungsdauer anrechnen hochschule",
+    "earlier research jobs count fixed term limit",
+    "2 abs 3 wisszeitvg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/wisszeitvg/__2.html"
+  },
+  "inheritance_passes_automatically_but_can_be_refused": {
+   "area": "consumer",
+   "law": "§ 1942 BGB",
+   "title": "An inheritance passes to the heir automatically, but he can refuse it",
+   "summary": "The estate passes to the called heir by operation of law, without prejudice to the right to disclaim it. The state, as statutory heir, cannot disclaim.",
+   "keywords": [
+    "erbschaft ausschlagen anfall",
+    "inheritance passes automatically can refuse",
+    "erbe automatisch ausschlagen recht",
+    "do i have to accept inheritance germany",
+    "1942 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1942.html"
+  },
+  "inheritance_refusal_within_six_weeks": {
+   "area": "consumer",
+   "law": "§ 1944 Abs. 1 BGB",
+   "title": "You can disclaim an inheritance only within six weeks",
+   "summary": "The disclaimer of an inheritance can only be made within six weeks.",
+   "keywords": [
+    "erbschaft ausschlagen sechs wochen",
+    "refuse inheritance deadline germany",
+    "ausschlagungsfrist erbe schulden",
+    "inherited debts disclaim how long",
+    "1944 abs 1 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1944.html"
+  },
+  "inheritance_deadline_starts_with_knowledge": {
+   "area": "consumer",
+   "law": "§ 1944 Abs. 2 BGB",
+   "title": "The six weeks start when you know about the inheritance and why you are heir, not before the court announces a will",
+   "summary": "The period starts when the heir learns of the inheritance and the reason for his calling. If the heir is called by a will or inheritance contract, the period does not start before the probate court announces it.",
+   "keywords": [
+    "ausschlagungsfrist beginn kenntnis testament bekanntgabe",
+    "when do six weeks inheritance start",
+    "erbe frist beginnt nachlassgericht",
+    "will announced inheritance deadline start",
+    "1944 abs 2 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1944.html"
+  },
+  "inheritance_accepted_when_deadline_passes": {
+   "area": "consumer",
+   "law": "§ 1943 BGB",
+   "title": "Miss the deadline or accept the inheritance and you can no longer refuse it",
+   "summary": "The heir can no longer disclaim the inheritance once he has accepted it or once the prescribed period has passed; when the period expires the inheritance is deemed accepted.",
+   "keywords": [
+    "erbschaft angenommen frist verstrichen",
+    "inheritance deemed accepted deadline passed",
+    "annahme erbschaft nicht mehr ausschlagen",
+    "accepted inheritance by mistake can refuse",
+    "1943 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "inheritance_contest_acceptance_six_weeks": {
+   "area": "consumer",
+   "law": "§ 1954 Abs. 1 BGB",
+   "title": "If acceptance or disclaimer of an inheritance can be contested, you have six weeks",
+   "summary": "If the acceptance or the disclaimer of an inheritance can be avoided, the avoidance can be declared only within six weeks.",
+   "keywords": [
+    "erbschaft anfechten sechs wochen annahme ausschlagung",
+    "contest inheritance acceptance deadline",
+    "anfechtungsfrist erbausschlagung",
+    "revoke inheritance refusal six weeks",
+    "1954 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/cgi-bin/htsearch?config=Gesamt_bmjhome2005&words=bgb&page=62"
+  },
+  "fine_notice_objection_two_weeks": {
+   "area": "consumer",
+   "law": "§ 67 Abs. 1 OWiG",
+   "title": "Fine notice (Bußgeldbescheid): you have two weeks after delivery to object in writing",
+   "summary": "The person concerned can object to a fine notice within two weeks of service, in writing or recorded at the authority that issued it.",
+   "keywords": [
+    "bußgeldbescheid einspruch zwei wochen",
+    "speeding ticket objection deadline germany",
+    "einspruch bußgeld frist zustellung",
+    "how to object fine notice",
+    "67 owig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__67.html"
+  },
+  "fine_notice_objection_can_be_limited": {
+   "area": "consumer",
+   "law": "§ 67 Abs. 2 OWiG",
+   "title": "You can limit your objection to a fine notice to certain points",
+   "summary": "The objection to a fine notice can be limited to specific points of complaint.",
+   "keywords": [
+    "einspruch beschränken bußgeld beschwerdepunkte",
+    "limit objection fine notice points",
+    "einspruch nur gegen höhe",
+    "object only to fine amount",
+    "67 abs 2 owig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__67.html"
+  },
+  "fine_notice_warns_of_worse_decision": {
+   "area": "consumer",
+   "law": "§ 66 Abs. 2 OWiG",
+   "title": "A fine notice must warn you that it becomes final without objection and that an objection can lead to a worse decision",
+   "summary": "The fine notice must state that it becomes final and enforceable if no objection under § 67 is filed, and that after an objection a decision less favourable to the person concerned can also be made.",
+   "keywords": [
+    "bußgeldbescheid hinweis nachteiligere entscheidung",
+    "objection fine can make it worse",
+    "einspruch risiko höhere strafe",
+    "fine notice becomes final no objection",
+    "66 owig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__66.html"
+  },
+  "authority_decision_objection_one_month": {
+   "area": "consumer",
+   "law": "§ 70 Abs. 1 VwGO",
+   "title": "Authority decision (Verwaltungsakt): file your objection (Widerspruch) within one month of notification",
+   "summary": "The objection must be raised within one month after the administrative act was announced to the person affected, in writing, in electronic form, or recorded at the authority that issued it.",
+   "keywords": [
+    "widerspruch frist ein monat bescheid",
+    "object to authority decision deadline germany",
+    "widerspruch einlegen behörde bescheid",
+    "bafög bescheid widerspruch frist",
+    "70 vwgo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwgo/__70.html"
+  },
+  "objection_clock_needs_correct_instruction": {
+   "area": "consumer",
+   "law": "§ 58 Abs. 1 VwGO",
+   "title": "The objection period only starts if the notice tells you how, where and by when to object",
+   "summary": "The period for an appeal or other remedy only starts to run if the party was informed in writing or electronically about the remedy, the authority or court where it must be filed, its seat and the deadline.",
+   "keywords": [
+    "rechtsbehelfsbelehrung fehlt frist beginnt nicht",
+    "notice without appeal instructions deadline",
+    "belehrung rechtsbehelf frist läuft nicht",
+    "authority forgot to explain objection",
+    "58 abs 1 vwgo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html"
+  },
+  "missing_appeal_instruction_one_year": {
+   "area": "consumer",
+   "law": "§ 58 Abs. 2 VwGO",
+   "title": "If the appeal instruction was missing or wrong, you have one year",
+   "summary": "If the instruction was omitted or wrongly given, the remedy can only be filed within one year of service, notification or announcement, unless filing within the year was impossible through force majeure or a written instruction said no remedy exists.",
+   "keywords": [
+    "rechtsbehelfsbelehrung falsch ein jahr",
+    "wrong appeal instruction one year",
+    "widerspruch jahresfrist belehrung unterblieben",
+    "late objection no instruction year",
+    "58 abs 2 vwgo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html"
+  },
+  "lawsuit_one_month_after_objection_decision": {
+   "area": "consumer",
+   "law": "§ 74 Abs. 1 VwGO",
+   "title": "After the objection is rejected, sue within one month of service of the decision",
+   "summary": "An action to annul an administrative act must be filed within one month after service of the objection decision.",
+   "keywords": [
+    "klage nach widerspruchsbescheid ein monat",
+    "sue after objection rejected deadline",
+    "anfechtungsklage frist verwaltungsgericht",
+    "verwaltungsgericht klage frist widerspruchsbescheid",
+    "74 vwgo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwgo/VwGO.pdf"
+  },
+  "deadline_missed_apply_within_two_weeks": {
+   "area": "consumer",
+   "law": "§ 60 Abs. 2 VwGO",
+   "title": "Missed an authority or court deadline through no fault of yours: apply for reinstatement within two weeks",
+   "summary": "The application for reinstatement must be filed within two weeks after the obstacle ceases; for missed deadlines to justify certain appeals the period is one month.",
+   "keywords": [
+    "wiedereinsetzung frist zwei wochen",
+    "missed deadline reinstatement germany",
+    "versäumte frist hindernis wegfall",
+    "late filing excuse court deadline",
+    "60 vwgo wiedereinsetzung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwgo/VwGO.pdf"
+  },
+  "legal_aid_court_conditions": {
+   "area": "consumer",
+   "law": "§ 114 Abs. 1 ZPO",
+   "title": "Court cost aid (Prozesskostenhilfe): if you cannot pay, and the case has enough chance and is not frivolous",
+   "summary": "A party who, given his personal and economic circumstances, cannot pay the costs of litigation at all, only in part or only in instalments receives Prozesskostenhilfe on application if the intended claim or defence has sufficient prospects of success.",
+   "keywords": [
+    "prozesskostenhilfe voraussetzungen",
+    "court costs help low income germany",
+    "pkh antrag erfolgsaussicht",
+    "cannot afford lawsuit costs",
+    "114 zpo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html"
+  },
+  "legal_aid_court_use_assets": {
+   "area": "consumer",
+   "law": "§ 115 Abs. 3 ZPO",
+   "title": "For Prozesskostenhilfe you must use your assets where that is reasonable",
+   "summary": "The party has to use his assets as far as this is reasonable; § 90 SGB XII applies accordingly.",
+   "keywords": [
+    "prozesskostenhilfe vermögen einsetzen",
+    "court aid savings must use",
+    "pkh schonvermögen",
+    "legal aid savings assets germany",
+    "115 abs 3 zpo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/ZPO.pdf"
+  },
+  "legal_aid_court_not_if_cheap": {
+   "area": "consumer",
+   "law": "§ 115 Abs. 4 ZPO",
+   "title": "No Prozesskostenhilfe if the litigation costs would not exceed four monthly instalments",
+   "summary": "Prozesskostenhilfe is not granted if the costs of litigation are expected not to exceed four monthly instalments and the amounts to be paid from assets.",
+   "keywords": [
+    "prozesskostenhilfe vier monatsraten",
+    "court aid refused small case",
+    "pkh nicht bewilligt geringe kosten",
+    "legal aid small claim costs",
+    "115 abs 4 zpo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/ZPO.pdf"
+  },
+  "legal_advice_aid_conditions": {
+   "area": "consumer",
+   "law": "§ 1 Abs. 1 BerHG",
+   "title": "Advice aid (Beratungshilfe): you cannot pay, no other help is reasonable, and it is not frivolous",
+   "summary": "Help for exercising rights outside court proceedings is granted on application if the person seeking advice cannot raise the necessary means, no other reasonable help is available, and using the aid does not appear frivolous.",
+   "keywords": [
+    "beratungshilfe voraussetzungen",
+    "free legal advice conditions germany",
+    "beratungshilfe mutwillig andere möglichkeiten",
+    "cheap lawyer advice low income",
+    "1 berhg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/berathig/__1.html"
+  },
+  "legal_advice_aid_not_during_court_case": {
+   "area": "consumer",
+   "law": "Anlage 1 BerHFV",
+   "title": "Advice aid only if no court case is running or was run in the same matter",
+   "summary": "Advice aid can only be granted if no court proceeding was or is being conducted in the same matter, which the applicant must expressly affirm. Someone who wants representation in court proceedings can get Prozesskostenhilfe instead.",
+   "keywords": [
+    "beratungshilfe gerichtliches verfahren ausgeschlossen",
+    "advice aid unavailable if lawsuit running",
+    "beratungshilfe antrag formular versichern",
+    "legal advice form same matter court",
+    "berhfv anlage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/berhfv/anlage_1.html"
   }
  },
  "free_help": {
