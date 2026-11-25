@@ -203,3 +203,7 @@ pytest                                                              # run the te
 Shahid Saleem · B.Sc. Artificial Intelligence, TH Rosenheim · [github.com/shahidkhn23](https://github.com/shahidkhn23)
 
 _Disclaimer: Student Rights Check provides general legal information, not legal advice. It does not replace a lawyer or an advice service._
+
+## License
+
+All rights reserved. The code is public so it can be read and evaluated, but it may not be copied, modified or used commercially without permission. See [LICENSE](LICENSE).
