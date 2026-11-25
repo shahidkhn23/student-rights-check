@@ -12690,6 +12690,199 @@
     "arbeitsverhältnis"
    ],
    "source": "https://www.gesetze-im-internet.de/kschg/__12.html"
+  },
+  "pain_money_for_injury_to_body_or_health": {
+   "area": "consumer",
+   "law": "§ 253 Abs. 2 BGB",
+   "title": "Pain and suffering money after an injury",
+   "summary": "If someone must pay damages for injury to body, health, freedom or sexual self-determination, a fair compensation in money can also be claimed for non-financial harm.",
+   "keywords": [
+    "Schmerzensgeld",
+    "fair compensation injury body health",
+    "non-financial harm",
+    "billige entschädigung in geld",
+    "Verletzung des Körpers"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html?06566da5_page=9&859db596_page=4"
+  },
+  "damaged_property_vat_only_if_paid": {
+   "area": "consumer",
+   "law": "§ 249 Abs. 2 BGB",
+   "title": "VAT on repair costs after property damage",
+   "summary": "When property is damaged, the money claimed for repair includes VAT only if and to the extent it was actually incurred. With a fictitious repair bill, VAT is not paid out.",
+   "keywords": [
+    "VAT repair costs damaged property",
+    "Umsatzsteuer tatsächlich angefallen",
+    "fiktive Abrechnung",
+    "Sachschaden Mehrwertsteuer",
+    "Gutachten Schaden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html?06566da5_page=9&859db596_page=4"
+  },
+  "no_parking_five_metres_before_junction": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 3 StVO",
+   "title": "Where parking is not allowed",
+   "summary": "Parking is not allowed within 5 m before and after junctions, measured from the points where the kerb lines meet, or 8 m where a bike path runs next to the road. It is also banned in front of driveways and where it blocks marked parking spaces.",
+   "keywords": [
+    "parking forbidden 5 metres junction",
+    "Parken Kreuzung 5 m",
+    "Grundstückseinfahrt zuparken",
+    "Parkverbot Einmündung",
+    "wo darf ich nicht parken"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__12.html"
+  },
+  "stopping_banned_fire_service_access": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 1 StVO; BKatV",
+   "title": "Fire service access and no stopping zones",
+   "summary": "Stopping is not allowed on narrow or blind stretches, in sharp bends, on railway crossings, or in front of and in official fire service access routes. Parking in a fire access costs 55 euros, and 100 euros if it holds up a rescue vehicle on call.",
+   "keywords": [
+    "fire service access parking fine",
+    "Feuerwehrzufahrt parken 55 Euro",
+    "Rettungsfahrzeug behindert 100 Euro",
+    "Halten unzulässig enge Straßenstelle",
+    "Bahnübergang halten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf"
+  },
+  "parking_means_leaving_car_or_over_three_minutes": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 2 StVO",
+   "title": "When stopping counts as parking",
+   "summary": "Whoever leaves their vehicle or stops longer than three minutes is parking, not just stopping.",
+   "keywords": [
+    "stopping versus parking three minutes",
+    "Halten oder Parken drei Minuten",
+    "leave vehicle parks",
+    "wer sein Fahrzeug verlässt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/StVO.pdf"
+  },
+  "green_arrow_stop_first_then_turn_right": {
+   "area": "consumer",
+   "law": "§ 37 StVO",
+   "title": "Green arrow sign at a red light",
+   "summary": "Turning right on red is only allowed after stopping if a green-arrow sign sits to the right of the red light. A green arrow signal means traffic is released only in the arrow's direction.",
+   "keywords": [
+    "green arrow turn right on red",
+    "Grünpfeil Schild anhalten",
+    "rechts abbiegen bei Rot",
+    "green arrow sign stop first",
+    "Lichtzeichen Grünpfeil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__37.html"
+  },
+  "red_light_over_one_second_fine_and_ban": {
+   "area": "consumer",
+   "law": "§ 37 StVO; BKatV Nr. 132.3",
+   "title": "Running a red light that was red for over a second",
+   "summary": "Driving through a red phase that had already lasted longer than one second carries a regular fine of 200 euros and a one-month driving ban. A pedestrian ignoring a red signal pays 5 euros.",
+   "keywords": [
+    "red light fine 200 euro driving ban",
+    "rote Ampel länger als 1 Sekunde",
+    "Rotlichtverstoß Fahrverbot ein Monat",
+    "Fußgänger rot 5 Euro",
+    "Rotphase"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf"
+  },
+  "phone_at_the_wheel_only_hands_free": {
+   "area": "consumer",
+   "law": "§ 23 Abs. 1a StVO",
+   "title": "Phone use while driving",
+   "summary": "A driver may use a phone or similar device only if it is not picked up or held and either voice control is used or a glance at it is brief and fits traffic conditions. Navigation devices, tablets and media players count as such devices too.",
+   "keywords": [
+    "phone while driving",
+    "Handyverbot am Steuer",
+    "Mobiltelefon halten Auto",
+    "hands free",
+    "Navigationsgerät benutzen Fahrer",
+    "elektronisches Gerät rechtswidrig benutzt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/StVO.pdf"
+  },
+  "product_maker_liable_for_defect_injury": {
+   "area": "consumer",
+   "law": "§ 1 ProdHaftG",
+   "title": "Producer liability for defective products",
+   "summary": "If a product defect kills or injures someone or damages property, the producer must pay compensation. For property damage it applies only to another item normally meant for private use, and the injured person has to prove the defect, the damage and the link.",
+   "keywords": [
+    "product liability defective product injury",
+    "Produkthaftung Hersteller",
+    "Beweislast Geschädigter Fehler",
+    "Akku explodiert Schaden",
+    "defect caused harm producer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/__1.html"
+  },
+  "product_liability_property_damage_500_euro_excess": {
+   "area": "consumer",
+   "law": "§ 11 ProdHaftG",
+   "title": "Your own share for property damage under product liability",
+   "summary": "In the case of damage to property, the injured party bears the first 500 euros of the damage themselves.",
+   "keywords": [
+    "500 euro deductible product liability",
+    "Selbstbeteiligung Sachbeschädigung",
+    "Produkthaftungsgesetz 500 Euro",
+    "own share property damage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html"
+  },
+  "product_liability_claim_negotiations_pause_limitation": {
+   "area": "consumer",
+   "law": "§ 12 ProdHaftG",
+   "title": "Limitation in product liability claims",
+   "summary": "While the parties negotiate about the damages, the limitation period is paused until one side refuses to continue. Otherwise the BGB limitation rules apply.",
+   "keywords": [
+    "product liability limitation negotiations",
+    "Verjährung Produkthaftung",
+    "Verhandlungen Hemmung Hersteller",
+    "Hemmung bis Fortsetzung verweigert"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/__12.html"
+  },
+  "insurance_contract_basic_duties": {
+   "area": "consumer",
+   "law": "§ 1 VVG",
+   "title": "What an insurance contract obliges each side to do",
+   "summary": "The insurer commits to cover a defined risk by paying a benefit when the agreed insured event happens. The policyholder must pay the agreed premium.",
+   "keywords": [
+    "insurance contract duties",
+    "Versicherungsvertrag Pflichten",
+    "Prämie zahlen",
+    "Versicherungsfall Leistung",
+    "insurer covers risk premium"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__1.html"
+  },
+  "insurance_application_questions_must_be_answered_truthfully": {
+   "area": "consumer",
+   "law": "§ 19 VVG",
+   "title": "Truthful answers before taking out insurance",
+   "summary": "Before making the contract declaration, the policyholder must disclose known risk circumstances the insurer asked about in text form. The insurer can only use remedies for a breach if it pointed out the consequences in a separate text-form notice, and not if it already knew the facts.",
+   "keywords": [
+    "pre-contractual disclosure insurance",
+    "vorvertragliche Anzeigepflicht",
+    "Gesundheitsfragen Versicherung",
+    "separate Mitteilung Folgen",
+    "Antrag Fragen wahrheitsgemäß"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__19.html"
+  },
+  "insurer_one_month_to_react_to_false_answers": {
+   "area": "consumer",
+   "law": "§ 21 VVG",
+   "title": "Insurer must act within one month",
+   "summary": "The insurer has to assert its rights after a breach of the duty to disclose within one month in writing, counted from when it learned of the breach.",
+   "keywords": [
+    "insurer one month rescind false information",
+    "Rücktritt Versicherer Monatsfrist",
+    "Anzeigepflichtverletzung Frist",
+    "Kenntnis Verletzung schriftlich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__21.html"
   }
  },
  "free_help": {
