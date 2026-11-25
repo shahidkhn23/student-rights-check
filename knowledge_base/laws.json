@@ -7772,6 +7772,220 @@
     "fired authority approval parental"
    ],
    "source": "https://www.gesetze-im-internet.de/beeg/__18.html"
+  },
+  "minors_working_hours_8_40": {
+   "area": "work",
+   "law": "§ 8 JArbSchG",
+   "title": "Under 18: at most 8 hours a day and 40 hours a week",
+   "summary": "Young people under 18 may not work more than eight hours a day or 40 hours a week. Around public holidays hours can be shifted so the five-week average stays at 40, but a day may not exceed 8.5 hours.",
+   "keywords": [
+    "17 year old hours a day",
+    "minor 8 hours a day",
+    "teen 40 hours week",
+    "jugendarbeitsschutz hours",
+    "under 18 working hours"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_breaks": {
+   "area": "work",
+   "law": "§ 11 JArbSchG",
+   "title": "Under 18: 30 minutes break after 4.5 hours, 60 after 6",
+   "summary": "Young workers get a 30-minute break when work lasts more than 4.5 hours and 60 minutes when it lasts more than six. Only blocks of at least 15 minutes count, and they may not work more than 4.5 hours without a break.",
+   "keywords": [
+    "minor break 30 minutes",
+    "under 18 break 60 minutes",
+    "teen break 4.5 hours"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_daily_rest_12h": {
+   "area": "work",
+   "law": "§ 13 JArbSchG",
+   "title": "Under 18: at least 12 hours of rest between shifts",
+   "summary": "After finishing work, a person under 18 needs at least twelve consecutive hours free before the next shift.",
+   "keywords": [
+    "minor 12 hours rest",
+    "under 18 rest between shifts",
+    "teen rest period"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_night_work": {
+   "area": "work",
+   "law": "§ 14 JArbSchG",
+   "title": "Under 18: work only between 6:00 and 20:00, with sector exceptions",
+   "summary": "In general young people may only work between 6:00 and 20:00. Over-16s may work until 22:00 in hospitality and fairground work, and until 23:00 in multi-shift operations. In bakeries over-16s may start from 5:00.",
+   "keywords": [
+    "minor night work",
+    "under 18 work until 22",
+    "teen restaurant late shift",
+    "16 year old hospitality hours"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_five_day_week_weekends": {
+   "area": "work",
+   "law": "§§ 15–17 JArbSchG",
+   "title": "Under 18: five-day week, and weekends mostly off",
+   "summary": "Young workers may work only five days a week. Saturdays and Sundays are off except in listed sectors such as hospitality, healthcare, retail and bakeries, and at least two Saturdays and two Sundays a month must stay free. If they work a Saturday or Sunday they get a free workday in the same week.",
+   "keywords": [
+    "minor work saturday",
+    "under 18 sunday work",
+    "teen weekend work",
+    "five day week minors"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_holidays_24_31_dec": {
+   "area": "work",
+   "law": "§ 18 JArbSchG",
+   "title": "Under 18: no work on public holidays, and not after 14:00 on 24 and 31 December",
+   "summary": "Young people may not work on public holidays or after 14:00 on 24 and 31 December. Exceptions follow the Sunday sectors, but never on 25 December, 1 January, Easter Sunday or 1 May.",
+   "keywords": [
+    "minor christmas eve work",
+    "under 18 public holiday",
+    "teen 31 december 14:00"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_paid_leave_days": {
+   "area": "work",
+   "law": "§ 19 JArbSchG",
+   "title": "Under 18: at least 25 to 30 working days of paid leave",
+   "summary": "Minimum paid leave depends on age on 1 January: under 16 at least 30 working days, under 17 at least 27, under 18 at least 25. Leave should fall in school holidays; otherwise one extra day for each school day attended.",
+   "keywords": [
+    "minor annual leave days",
+    "under 18 vacation days",
+    "16 year old holiday days",
+    "jugendurlaub"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_vocational_school": {
+   "area": "work",
+   "law": "§ 9 JArbSchG",
+   "title": "Under 18: employer must release you for school, and school time counts as work time",
+   "summary": "Employers must release young people for vocational school. No work before classes that start before 9:00, and on a school day with more than five lessons only once a week. School time counts toward working hours and pay may not be cut for it.",
+   "keywords": [
+    "berufsschule release",
+    "minor school day work",
+    "teen school counts as work time"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "minors_holiday_job_15": {
+   "area": "work",
+   "law": "§ 5 JArbSchG",
+   "title": "Holiday job at 15: allowed for at most four weeks a year",
+   "summary": "Children under 15 may not be employed. Young people of 15 who are still in full-time schooling may work during school holidays for at most four weeks per calendar year.",
+   "keywords": [
+    "ferienjob 15",
+    "holiday job age",
+    "four weeks school holidays",
+    "minimum age work"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html"
+  },
+  "modernisation_rent_eight_percent": {
+   "area": "housing",
+   "law": "§ 559 Abs. 1 BGB",
+   "title": "After modernisation the landlord can add 8% of the costs per year",
+   "summary": "A landlord who has carried out qualifying modernisation may raise the annual rent by 8% of the costs spent on the flat. Costs that would only have been ordinary repairs do not count, and costs of work covering several flats must be split fairly.",
+   "keywords": [
+    "modernisation rent increase 8 percent",
+    "landlord renovation cost rent",
+    "8 prozent modernisierung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__559.html"
+  },
+  "modernisation_rent_cap_per_sqm": {
+   "area": "housing",
+   "law": "§ 559 Abs. 3a BGB",
+   "title": "Modernisation rent rise is capped at 3 euro per square metre in six years",
+   "summary": "Within six years the monthly rent may rise by no more than 3 euro per square metre of living space through modernisation, or 2 euro if the rent before was below 7 euro per square metre.",
+   "keywords": [
+    "modernisation cap 3 euro",
+    "rent increase cap six years modernisation",
+    "2 euro per square metre cap"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__559.html"
+  },
+  "modernisation_hardship_deadline": {
+   "area": "housing",
+   "law": "§ 559 Abs. 4–6 BGB",
+   "title": "Modernisation hardship: it only counts if you raised it in time",
+   "summary": "A modernisation rent increase is barred to the extent it would be a hardship for the tenant that is not justified even after weighing the landlord's interests. Hardship counts only if raised in time, and any agreement that makes this worse for the tenant is void.",
+   "keywords": [
+    "modernisation hardship tenant",
+    "renovation increase unaffordable",
+    "härtefall modernisierung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__559.html"
+  },
+  "rent_brake_thirty_months": {
+   "area": "housing",
+   "law": "§ 556g Abs. 2 BGB",
+   "title": "Rent brake: complain within 30 months or only rent after the complaint comes back",
+   "summary": "You can reclaim rent that exceeded the rent brake only after you have objected to the violation. If you object more than 30 months after the tenancy began, or after it ended, you only get back rent that fell due after the objection arrived.",
+   "keywords": [
+    "rent brake 30 months",
+    "thirty months after tenancy began",
+    "complain after 30 months"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556g.html"
+  },
+  "rent_brake_landlord_information_duty": {
+   "area": "housing",
+   "law": "§ 556g Abs. 1a BGB",
+   "title": "Rent brake: the landlord must tell you before signing why the rent is higher",
+   "summary": "Before the contract is signed the landlord must volunteer information if he relies on an exception: the previous rent, recent modernisation, first letting after 1 October 2014, or first letting after comprehensive modernisation. Without it he cannot rely on that exception until he provides it properly, in text form.",
+   "keywords": [
+    "landlord must disclose previous rent",
+    "vormiete auskunft",
+    "exception rent brake information",
+    "first letting 2014",
+    "tell me before signing"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556g.html"
+  },
+  "sperrzeit_job_refusal_tiers": {
+   "area": "money",
+   "law": "§ 159 Abs. 1 SGB III",
+   "title": "Refusing a job the agency offers: block of 3, then 6, then 12 weeks",
+   "summary": "If you refuse or obstruct a job the employment agency offers without a good reason, unemployment benefit is blocked for three weeks the first time, six weeks the second time and twelve weeks after that.",
+   "keywords": [
+    "refuse job offer agency",
+    "refused job offered",
+    "three six twelve weeks block",
+    "job offer decline benefit blocked"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_3/__159.html"
+  },
+  "sperrzeit_late_registration": {
+   "area": "money",
+   "law": "§ 159 Abs. 1, 6 SGB III",
+   "title": "Missing an appointment or registering late: one week of blocked benefit",
+   "summary": "Missing an agency appointment after a warning, or registering late as job-seeking, leads to a block of one week.",
+   "keywords": [
+    "missed appointment arbeitsagentur",
+    "late job seeker registration",
+    "meldeversäumnis one week"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_3/__159.html"
+  },
+  "alg_short_qualifying_period": {
+   "area": "money",
+   "law": "§ 142 Abs. 2 SGB III",
+   "title": "Short fixed-term jobs: six months of insured work can be enough for Arbeitslosengeld",
+   "summary": "Normally you need twelve months of insured employment in the reference period. If you do not reach that, six months is enough when most of your employment days came from jobs fixed for at most 14 weeks in advance, and your pay in the last twelve months did not exceed 1.5 times the Bezugsgröße.",
+   "keywords": [
+    "six months arbeitslosengeld",
+    "short fixed-term jobs unemployment",
+    "verkürzte anwartschaftszeit",
+    "14 weeks jobs"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_3/__142.html"
   }
  },
  "free_help": {
