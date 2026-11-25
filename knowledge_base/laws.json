@@ -6598,6 +6598,111 @@
     "tenant fault"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__571.html"
+  },
+  "landlord_lock_change_forbidden": {
+   "area": "housing",
+   "law": "§ 858 Abs. 1 BGB",
+   "title": "Landlord changing your locks or cutting you out of the flat is forbidden self-help",
+   "summary": "Taking away someone's possession against their will, or disturbing it, is unlawful (verbotene Eigenmacht) unless a statute allows it. For a tenant this means a landlord may not change the locks, remove your things or block your access to push you out, even if you owe rent. He needs a court judgment and a bailiff for an eviction.",
+   "keywords": [
+    "locked out",
+    "lock changed",
+    "schloss ausgetauscht",
+    "landlord changed locks",
+    "verbotene eigenmacht",
+    "cannot enter flat",
+    "besitzstörung",
+    "changed the locks",
+    "locked out of room"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__858.html"
+  },
+  "possessor_self_help_flat": {
+   "area": "housing",
+   "law": "§ 859 BGB",
+   "title": "What you may do if someone unlawfully takes or disturbs your possession",
+   "summary": "A possessor may use force to fend off unlawful interference with his possession. If a movable item is taken, he may take it back from the culprit caught in the act or pursued. For land, he may regain possession by removing the wrongdoer, but only immediately after the dispossession. The text speaks of land (Grundstück), so whether this carries over to a rented flat is a question for a lawyer, and delay ends the right.",
+   "keywords": [
+    "self help",
+    "selbsthilfe",
+    "stolen back",
+    "take back",
+    "immediately after",
+    "force",
+    "own property taken",
+    "besitz",
+    "verbotene eigenmacht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__859.html"
+  },
+  "tenant_hardship_objection_replacement_flat": {
+   "area": "housing",
+   "law": "§ 574 Abs. 1 und 2 BGB",
+   "title": "Termination can be objected to if no reasonable replacement flat can be found",
+   "summary": "A tenant can object to a landlord's termination and ask for the tenancy to continue if ending it would be a hardship for him, his family or his household that cannot be justified even considering the landlord's interests. A hardship also exists if suitable replacement housing cannot be found on reasonable terms. This does not apply where the landlord has grounds for immediate termination.",
+   "keywords": [
+    "hardship",
+    "härte",
+    "no replacement flat",
+    "cannot find flat",
+    "widerspruch kündigung",
+    "continue tenancy",
+    "housing shortage",
+    "munich",
+    "ersatzwohnraum",
+    "objection termination"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__574.html"
+  },
+  "hardship_only_reasons_in_letter_count": {
+   "area": "housing",
+   "law": "§ 574 Abs. 3 und 4 BGB",
+   "title": "Only the reasons named in the termination letter count in the hardship weighing",
+   "summary": "When the court weighs the landlord's interests against your hardship, only the reasons stated in his termination letter are considered. The exception is reasons that arose later. An agreement that is worse for the tenant than these rules is invalid.",
+   "keywords": [
+    "reasons in letter",
+    "kündigungsschreiben gründe",
+    "eigenbedarf reason",
+    "weighing interests",
+    "interessenabwägung",
+    "later reasons",
+    "härtefall"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__574.html"
+  },
+  "objection_form_and_deadline": {
+   "area": "housing",
+   "law": "§ 574b Abs. 1 und 2 BGB",
+   "title": "Objection to termination: text form, at least two months before the lease ends",
+   "summary": "Your objection to a landlord's termination must be declared in text form, for example a letter or email, and on request you should give the reasons without delay. It must reach the landlord at least two months before the tenancy ends. If it comes later, the landlord can refuse to continue the tenancy.",
+   "keywords": [
+    "widerspruch",
+    "objection deadline",
+    "two months before",
+    "textform",
+    "email objection",
+    "how to object",
+    "frist widerspruch",
+    "vermieter kündigung widersprechen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__574b.html"
+  },
+  "objection_late_at_first_hearing": {
+   "area": "housing",
+   "law": "§ 574b Abs. 2 Satz 2 BGB",
+   "title": "Landlord did not tell you about the objection right: you can still object in court",
+   "summary": "If the landlord did not point out in good time before the objection deadline that you may object, and the form and deadline for it, you can still declare your objection at the first hearing of the eviction lawsuit.",
+   "keywords": [
+    "missed deadline",
+    "too late objection",
+    "eviction lawsuit",
+    "räumungsklage",
+    "first hearing",
+    "hinweis widerspruchsrecht",
+    "court date",
+    "räumungsrechtsstreit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__574b.html"
   }
  },
  "free_help": {
