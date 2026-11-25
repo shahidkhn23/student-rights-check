@@ -6703,6 +6703,192 @@
     "räumungsrechtsstreit"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__574b.html"
+  },
+  "agg_indirect_discrimination": {
+   "area": "discrimination",
+   "law": "§ 3 Abs. 2 AGG",
+   "title": "Indirect discrimination: a neutral-looking rule that hits one group harder",
+   "summary": "Indirect discrimination exists when rules, criteria or procedures that look neutral put people with a protected characteristic at a particular disadvantage compared with others. It is only allowed if the rule serves a legitimate aim and the means are appropriate and necessary. The protected grounds are race or ethnic origin, sex, religion or belief, disability, age and sexual identity.",
+   "keywords": [
+    "indirect discrimination",
+    "mittelbare benachteiligung",
+    "neutral rule",
+    "apparently neutral",
+    "disadvantage group",
+    "unfair rule",
+    "requirement",
+    "language requirement",
+    "dress code"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__3.html"
+  },
+  "agg_harassment_definition": {
+   "area": "discrimination",
+   "law": "§ 3 Abs. 3 AGG",
+   "title": "Harassment linked to a protected ground counts as discrimination",
+   "summary": "Unwanted behaviour connected to a protected ground (such as origin, religion, disability, age, sex or sexual identity) is discrimination if it aims at or results in violating your dignity and creating an environment of intimidation, hostility, degradation, humiliation or insult. Racist or demeaning jokes and remarks at work or at university can fall under this.",
+   "keywords": [
+    "harassment",
+    "belästigung",
+    "racist jokes",
+    "insults",
+    "mobbing",
+    "hostile environment",
+    "degrading remarks",
+    "demeaning",
+    "discriminating comments"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__3.html"
+  },
+  "agg_compensation_cap_three_salaries": {
+   "area": "discrimination",
+   "law": "§ 15 Abs. 2 AGG",
+   "title": "Compensation for a discriminatory rejection is capped at three monthly salaries",
+   "summary": "If you were rejected for a job because of discrimination, you can claim appropriate money compensation for the non-material harm. If you would not have been hired even with a fair selection, the compensation may not exceed three monthly salaries. The claim must be asserted in writing within two months.",
+   "keywords": [
+    "compensation amount",
+    "entschädigung höhe",
+    "three months salary",
+    "drei monatsgehälter",
+    "how much compensation",
+    "rejected application discrimination",
+    "job rejection payout"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__15.html"
+  },
+  "agg_everyday_claims_remove_and_damages": {
+   "area": "discrimination",
+   "law": "§ 21 Abs. 1 bis 4 AGG",
+   "title": "Discriminated against as a customer or tenant: stop it, damages and compensation",
+   "summary": "If you are discriminated against in everyday dealings such as shops, services, or renting, you can demand that the disadvantage is removed and, if more is feared, sue to stop it happening again. The other side must compensate material damage unless it is not responsible, and you can ask for appropriate money for non-material harm. An agreement that departs from the ban cannot be relied on against you.",
+   "keywords": [
+    "discriminated in shop",
+    "club refused entry",
+    "door policy",
+    "diskriminierung kunde",
+    "unterlassung",
+    "schadensersatz diskriminierung",
+    "refused service",
+    "restaurant refused",
+    "disco entry"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__21.html"
+  },
+  "agg_everyday_two_month_deadline": {
+   "area": "discrimination",
+   "law": "§ 21 Abs. 5 AGG",
+   "title": "Everyday discrimination claims (shops, services, renting): two months",
+   "summary": "Claims after discrimination in everyday dealings must be asserted within two months. Unlike job claims, the law does not require this to be in writing, but writing it down helps you prove it. After the deadline you can only claim if you were not at fault for missing it.",
+   "keywords": [
+    "two months",
+    "zwei monate",
+    "deadline",
+    "frist diskriminierung",
+    "how long to claim",
+    "not in writing",
+    "flat rejected deadline",
+    "service refused deadline"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__21.html"
+  },
+  "agg_housing_social_mix_exception": {
+   "area": "discrimination",
+   "law": "§ 19 Abs. 3 AGG",
+   "title": "Landlords may justify different treatment to keep a balanced resident mix",
+   "summary": "When renting out housing, different treatment is allowed in view of creating and keeping socially stable resident structures, balanced settlement structures and balanced economic, social and cultural conditions. Landlords sometimes cite this to justify refusals, but it is an exception and it does not allow turning someone down simply because of origin.",
+   "keywords": [
+    "social mix",
+    "ausgewogene bewohnerstruktur",
+    "landlord excuse",
+    "rejected viewing",
+    "no foreigners",
+    "refused because of name",
+    "wohnungsbewerbung abgelehnt",
+    "balanced tenant structure"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__19.html"
+  },
+  "rent_increase_waiting_period": {
+   "area": "housing",
+   "law": "§ 558 Abs. 1 BGB",
+   "title": "Rent increase to the local comparative rent: only after 15 months without change",
+   "summary": "A landlord can demand your consent to a rise up to the local comparative rent only if the rent has been unchanged for 15 months at the date the increase is meant to take effect. The request itself can come at the earliest one year after the last increase. Raises for modernisation or running costs do not count towards this.",
+   "keywords": [
+    "15 months",
+    "fünfzehn monate",
+    "how often rent increase",
+    "mieterhöhung wartefrist",
+    "one year since last increase",
+    "too soon",
+    "new tenant rent rise",
+    "raise rent again"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__558.html"
+  },
+  "rent_increase_comparative_rent_six_years": {
+   "area": "housing",
+   "law": "§ 558 Abs. 2 BGB",
+   "title": "Local comparative rent: rents agreed or changed in the last six years",
+   "summary": "The local comparative rent (ortsübliche Vergleichsmiete) is formed from the usual rents in the municipality or a comparable one for flats of similar type, size, fittings, condition and location, including energy quality, that were agreed or changed in the last six years. Flats where the rent is fixed by law or a subsidy are left out.",
+   "keywords": [
+    "ortsübliche vergleichsmiete",
+    "comparative rent",
+    "six years",
+    "sechs jahre",
+    "mietspiegel",
+    "comparable flats",
+    "what is local rent",
+    "vergleichsmiete"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__558.html"
+  },
+  "rent_increase_only_by_law_or_agreement": {
+   "area": "housing",
+   "law": "§ 557 BGB",
+   "title": "A landlord can raise the rent only by agreement or in the ways the law lists",
+   "summary": "During the tenancy the parties can agree on a higher rent, including a step rent or an index rent. Otherwise the landlord can demand an increase only under §§ 558 to 560 (local comparative rent, modernisation, running costs), unless an increase was excluded by agreement or by the circumstances. A deal that is worse for the tenant is invalid.",
+   "keywords": [
+    "mieterhöhung erlaubt",
+    "can landlord just raise",
+    "mieterhöhung ohne zustimmung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__557.html"
+  },
+  "rent_increase_landlord_has_three_months_to_sue": {
+   "area": "housing",
+   "law": "§ 558b Abs. 2 BGB",
+   "title": "If you do not agree to a rent increase, the landlord must sue within three more months",
+   "summary": "If you do not agree to the increase by the end of the second calendar month after receiving the request, the landlord can sue for your consent. He has to file the lawsuit within three further months. If his request had formal defects, he can fix them in the court case, and you then get the same consideration period again.",
+   "keywords": [
+    "refuse consent",
+    "zustimmungsklage",
+    "landlord sues rent",
+    "three months",
+    "drei monate klage",
+    "sue for consent",
+    "landlord sues",
+    "consent lawsuit",
+    "how many months to sue"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__558b.html"
+  },
+  "step_rent_rules": {
+   "area": "housing",
+   "law": "§ 557a Abs. 1 bis 3 BGB",
+   "title": "Step rent (Staffelmiete): in writing, in euros, at least a year apart",
+   "summary": "A step rent must be agreed in writing, and each rent or each increase has to be given as an amount of money. The rent must stay unchanged at least one year between steps, and during the step rent no increase under §§ 558 to 559b is possible. The tenant's right to terminate can be excluded for at most four years from signing.",
+   "keywords": [
+    "staffelmiete",
+    "step rent",
+    "graduated rent",
+    "fixed increases",
+    "rent schedule",
+    "four years",
+    "vier jahre kündigungsausschluss",
+    "kündigungsverzicht",
+    "yearly increase contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__557a.html"
   }
  },
  "free_help": {
