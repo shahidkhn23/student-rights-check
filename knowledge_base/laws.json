@@ -11946,6 +11946,222 @@
     "hiring foreigner without permit"
    ],
    "source": "https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.epub"
+  },
+  "police_questioning_right_to_remain_silent": {
+   "area": "discrimination",
+   "law": "§ 136 Abs. 1 StPO",
+   "title": "Questioned as a suspect: you must be told the charge and that you may stay silent and talk to a lawyer first",
+   "summary": "At the start of questioning the suspect must be told which act is alleged and which penal provisions may apply. They must be told they are free to comment on the accusation or not to say anything, and can consult a defence lawyer of their choice at any time, even before questioning. If they want a lawyer, they must be given information that makes contacting one easier, including lawyer emergency services.",
+   "keywords": [
+    "recht zu schweigen beschuldigter",
+    "right to remain silent police questioning",
+    "anwalt vor vernehmung",
+    "136 stpo",
+    "belehrung beschuldigter",
+    "police interview lawyer first",
+    "anwaltlicher notdienst"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__136.html"
+  },
+  "suspect_may_apply_for_court_appointed_lawyer": {
+   "area": "discrimination",
+   "law": "§ 136 Abs. 1 StPO; § 140 StPO",
+   "title": "A suspect can ask for evidence in their favour and, in serious cases, for a court-appointed defence lawyer",
+   "summary": "The suspect must also be told they may request individual pieces of evidence in their favour and, where the conditions of § 140 StPO are met, apply for a court-appointed defence lawyer (Pflichtverteidiger).",
+   "keywords": [
+    "pflichtverteidiger beantragen",
+    "court appointed defence lawyer",
+    "beweiserhebung beantragen beschuldigter",
+    "140 stpo",
+    "free lawyer criminal case"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/BJNR006290950.epub"
+  },
+  "suspect_must_be_heard_before_investigation_ends": {
+   "area": "discrimination",
+   "law": "§ 163a Abs. 1 StPO",
+   "title": "Before the investigation ends the suspect must be heard; in simple cases a written statement is enough",
+   "summary": "The suspect has to be questioned before the investigation is concluded, unless the proceedings end in a discontinuation. In simple matters it is enough to give the suspect the chance to respond in writing.",
+   "keywords": [
+    "anhörung beschuldigter schriftlich äußern",
+    "written statement suspect simple cases",
+    "163a stpo",
+    "anhörungsbogen polizei",
+    "suspect questionnaire police"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__163a.html"
+  },
+  "statements_by_force_or_deception_unusable": {
+   "area": "discrimination",
+   "law": "§ 136a Abs. 3 StPO",
+   "title": "Statements obtained by forbidden interrogation methods can never be used, even if you agree",
+   "summary": "The ban on forbidden interrogation methods applies regardless of the suspect consent. Statements obtained in breach of it may not be used as evidence even if the suspect agrees to their use.",
+   "keywords": [
+    "verbotene vernehmungsmethoden",
+    "forbidden interrogation methods",
+    "136a stpo",
+    "confession under pressure unusable",
+    "beweisverwertungsverbot aussage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__136a.html"
+  },
+  "criminal_complaint_deadline_three_months": {
+   "area": "discrimination",
+   "law": "§ 77b Abs. 1, 2 StGB",
+   "title": "Offences prosecuted only on request, such as trespass: file the complaint within three months of learning of the act and offender",
+   "summary": "An offence that is only prosecuted on request is not prosecuted if the entitled person does not file the request within three months. The period starts at the end of the day on which they learn of the act and the offender. If it ends on a weekend or holiday it runs to the next working day.",
+   "keywords": [
+    "strafantrag frist drei monate",
+    "criminal complaint deadline three months",
+    "77b stgb",
+    "antragsdelikt strafantrag stellen",
+    "hausfriedensbruch strafantrag",
+    "insult complaint deadline"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__77b.html"
+  },
+  "private_prosecution_for_insult_trespass_damage": {
+   "area": "discrimination",
+   "law": "§ 374 Abs. 1 StPO",
+   "title": "For trespass, insult and property damage you can bring a private prosecution yourself",
+   "summary": "Trespass (§ 123 StGB), insult (§§ 185 to 189 StGB, unless aimed at certain political bodies) and damage to property (§ 303 StGB) are among the offences that can be pursued by private prosecution.",
+   "keywords": [
+    "privatklage beleidigung",
+    "private prosecution insult",
+    "privatklagedelikt",
+    "374 stpo",
+    "sachbeschädigung privatklage",
+    "sue for insult yourself"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/BJNR006290950.html"
+  },
+  "insult_penalty_up_to_one_year": {
+   "area": "discrimination",
+   "law": "§ 185 StGB",
+   "title": "Insulting someone can mean up to a year in prison or a fine; online or public insults can be punished more heavily",
+   "summary": "Insult is punished with imprisonment of up to one year or a fine. If it is committed publicly, in a meeting, by spreading content or by an assault, the penalty is higher.",
+   "keywords": [
+    "beleidigung strafe",
+    "insult penalty germany",
+    "185 stgb",
+    "online beleidigung strafbar",
+    "beleidigung öffentlich",
+    "verbreiten eines inhalts beleidigung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/BJNR001270871.html"
+  },
+  "minijob_short_term_three_months_or_70_days": {
+   "area": "money",
+   "law": "§ 8 Abs. 1 Nr. 2 SGB IV",
+   "title": "Short-term employment: limited to three months or 70 working days a year, unless it is a main profession above the earnings limit",
+   "summary": "A job counts as marginal if it is limited by nature or by prior contract to at most three months or 70 working days within a calendar year, unless it is done professionally and the earnings exceed the marginal limit.",
+   "keywords": [
+    "kurzfristige beschäftigung drei monate 70 tage",
+    "short term employment 70 days",
+    "8 abs 1 nr 2 sgb iv",
+    "ferienjob sozialversicherungsfrei",
+    "seasonal job exempt social security"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_4/__8.html"
+  },
+  "marginal_earnings_limit_formula": {
+   "area": "money",
+   "law": "§ 8 Abs. 1a SGB IV",
+   "title": "The Minijob limit is the minimum wage times 130 divided by three, rounded up",
+   "summary": "The marginal earnings limit is calculated by multiplying the minimum wage by 130, dividing by three and rounding up to full euros. The Federal Ministry of Labour announces it in the Federal Gazette.",
+   "keywords": [
+    "geringfügigkeitsgrenze berechnung",
+    "minijob limit formula minimum wage 130",
+    "mindestlohn mal 130 geteilt durch drei",
+    "dynamische minijobgrenze",
+    "8 abs 1a sgb iv berechnung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.epub"
+  },
+  "minijob_pension_opt_out_application": {
+   "area": "money",
+   "law": "§ 6 Abs. 1b SGB VI",
+   "title": "Minijobbers can apply in writing to be released from pension insurance",
+   "summary": "People in marginal employment are exempted from compulsory pension insurance on request. The exemption request is made to the employer in writing or electronically, and the employer reports it to the collection office.",
+   "keywords": [
+    "befreiung rentenversicherung minijob antrag",
+    "minijob opt out pension application",
+    "6 abs 1b sgb vi",
+    "befreiungsantrag arbeitgeber",
+    "minijob rentenversicherungsfrei werden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html"
+  },
+  "heating_cost_split_50_to_70_percent_consumption": {
+   "area": "housing",
+   "law": "§ 7 Abs. 1 HeizkostenV",
+   "title": "Central heating: 50 to 70 percent of the costs must be split by your measured consumption",
+   "summary": "Of the costs of operating the central heating system, at least 50 and at most 70 percent must be distributed according to the heat consumption recorded for each user. The same range applies to the central hot water system.",
+   "keywords": [
+    "heizkosten verbrauch 50 70 prozent",
+    "heating cost split consumption",
+    "7 heizkostenv",
+    "grundkosten verbrauchskosten heizung",
+    "warmwasser verbrauchsabhängig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/heizkostenv/__7.html"
+  },
+  "advance_utility_payments_only_reasonable": {
+   "area": "housing",
+   "law": "§ 556 Abs. 2 BGB",
+   "title": "Advance payments for utility costs may only be agreed in a reasonable amount",
+   "summary": "Parties can agree that utility costs are charged as a flat rate or as advance payments, but advance payments may only be agreed in an appropriate amount.",
+   "keywords": [
+    "nebenkostenvorauszahlung angemessen",
+    "reasonable advance utility payment",
+    "556 abs 2 bgb",
+    "vorauszahlung zu hoch nebenkosten",
+    "pauschale oder vorauszahlung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556.html"
+  },
+  "minimum_wage_due_last_banking_day_next_month": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 MiLoG",
+   "title": "Minimum wage must be paid on the agreed date, at the latest the last bank working day of the following month",
+   "summary": "The employer must pay the minimum wage at the agreed due date, and at the latest on the last bank working day (Frankfurt am Main) of the month following the month in which the work was done.",
+   "keywords": [
+    "mindestlohn fälligkeit",
+    "minimum wage payment deadline",
+    "letzter bankarbeitstag folgemonat",
+    "2 milog",
+    "when must wages be paid latest",
+    "lohn spätestens zahlen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/milog/BJNR134810014.html"
+  },
+  "minimum_wage_2027_increase": {
+   "area": "work",
+   "law": "§ 1 MiLoV5",
+   "title": "The minimum wage rises to 14.60 euros gross per hour on 1 January 2027",
+   "summary": "The Fifth Minimum Wage Adjustment Ordinance sets the minimum wage at 13.90 euros gross per hour from 1 January 2026 and 14.60 euros from 1 January 2027.",
+   "keywords": [
+    "mindestlohn 2027",
+    "minimum wage 2027 14,60",
+    "mindestlohn erhöhung januar 2027",
+    "milov5",
+    "14.60 euro per hour"
+   ],
+   "source": "https://www.gesetze-im-internet.de/milov5/BJNR10C0A0025.html"
+  },
+  "labour_court_payment_order_one_week": {
+   "area": "work",
+   "law": "§ 46a Abs. 3 ArbGG",
+   "title": "Payment order (Mahnbescheid) from the labour court: the period to react is one week, not two",
+   "summary": "In the labour court payment order procedure the period named in the Mahnbescheid is one week.",
+   "keywords": [
+    "mahnbescheid arbeitsgericht eine woche",
+    "labour court payment order one week",
+    "46a arbgg",
+    "arbeitsgericht mahnverfahren frist",
+    "wage claim payment order labour court"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbgg/__46a.html"
   }
  },
  "free_help": {
