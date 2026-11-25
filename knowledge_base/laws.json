@@ -11571,6 +11571,252 @@
     "garnishment excess wages tenths"
    ],
    "source": "https://www.gesetze-im-internet.de/zpo/__850c.html"
+  },
+  "car_driving_half_per_mille_offence": {
+   "area": "consumer",
+   "law": "§ 24a Abs. 1 StVG",
+   "title": "Driving a car with 0.5 per mille (0.25 mg/l breath) or more is an administrative offence even without any error",
+   "summary": "It is an offence to drive a motor vehicle on the road with 0.25 mg/l or more alcohol in the breath, 0.5 per mille or more in the blood, or an amount of alcohol in the body that leads to such a value. Both intentional and negligent driving count.",
+   "keywords": [
+    "0,5 promille grenze auto",
+    "half per mille car driving limit",
+    "alcohol breath 0.25 mg/l",
+    "drink driving fine car",
+    "24a abs 1 stvg",
+    "promillegrenze ordnungswidrigkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__24a.html"
+  },
+  "thc_blood_limit_3_5_ng": {
+   "area": "consumer",
+   "law": "§ 24a Abs. 1a StVG",
+   "title": "Driving with 3.5 ng/ml THC or more in the blood serum is an administrative offence",
+   "summary": "It is an offence to drive a motor vehicle on the road with 3.5 ng/ml or more tetrahydrocannabinol (THC) in the blood serum.",
+   "keywords": [
+    "thc grenzwert autofahren",
+    "cannabis driving limit ng/ml",
+    "3,5 ng/ml thc",
+    "24a abs 1a stvg",
+    "thc blood serum driving fine",
+    "cannabis fahren bluttest"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__24a.html"
+  },
+  "driving_under_drug_effect_offence": {
+   "area": "consumer",
+   "law": "§ 24a Abs. 2 StVG",
+   "title": "Driving under the effect of an intoxicating substance listed in the annex is an offence",
+   "summary": "It is an offence to drive a motor vehicle on the road under the effect of an intoxicating substance named in the annex of § 24a StVG. An effect exists when a listed substance is detected in the blood serum.",
+   "keywords": [
+    "drogen am steuer ordnungswidrigkeit",
+    "driving under drugs annex substance",
+    "24a abs 2 stvg",
+    "berauschende mittel anlage",
+    "substance detected blood driving"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__24a.html"
+  },
+  "driving_ban_usually_for_24a_offence": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 3 BKatV",
+   "title": "Offences under § 24a StVG (alcohol or drugs while driving) usually come with a driving ban",
+   "summary": "For § 24a StVG offences the Bußgeldkatalog-Verordnung says a driving ban is usually imposed, with the duration set out in the catalogue entries.",
+   "keywords": [
+    "regelfahrverbot promille",
+    "driving ban alcohol drugs usually",
+    "bkatv 4 abs 3",
+    "fahrverbot 24a stvg",
+    "bußgeldkatalog fahrverbot alkohol"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/__4.html"
+  },
+  "warning_fee_5_to_55_euro": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 3 BKatV",
+   "title": "A traffic warning fee (Verwarnungsgeld) is a fixed amount between 5 and 55 euros",
+   "summary": "The Verwarnungsgeld is set at 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 or 55 euros. For trivial offences a warning without any fee is possible.",
+   "keywords": [
+    "verwarnungsgeld höhe",
+    "warning fee traffic 55 euro",
+    "parkverstoß verwarnung",
+    "verwarnung ohne verwarnungsgeld",
+    "bkatv 3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf"
+  },
+  "penalty_points_count_from_offence_date_once_final": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 2 StVG",
+   "title": "Penalty points arise when you commit the offence, but only once the decision is legally final",
+   "summary": "Points in the Fahreignungs-Bewertungssystem arise with the commission of the criminal or administrative offence, provided it is penalised with legal effect.",
+   "keywords": [
+    "punkte flensburg rechtskräftig",
+    "penalty points final decision",
+    "fahreignungsregister punkte entstehen",
+    "4 stvg punkte tatzeitpunkt",
+    "points offence date flensburg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__4.html"
+  },
+  "fahreignungsseminar_point_deduction_once_in_five_years": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 7 StVG",
+   "title": "A points seminar removes points only once within five years",
+   "summary": "Attending a Fahreignungsseminar leads to a deduction of points only once within five years.",
+   "keywords": [
+    "fahreignungsseminar punktabzug",
+    "points seminar deduction five years",
+    "seminar flensburg points",
+    "punkte abbauen seminar einmal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html"
+  },
+  "new_licence_wipes_earlier_points": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 3 StVG",
+   "title": "When you are granted a new driving licence, points from earlier legally final decisions no longer count",
+   "summary": "If a driving licence is issued, points for decisions that became final before the issue are no longer considered and are deleted.",
+   "keywords": [
+    "neue fahrerlaubnis punkte gelöscht",
+    "new licence points deleted",
+    "punkte vor erteilung",
+    "fahrerlaubnis neu punkte weg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/StVG.pdf"
+  },
+  "freedom_of_opinion_art_5": {
+   "area": "discrimination",
+   "law": "Art. 5 Abs. 1 und 2 GG",
+   "title": "Everyone may express and spread their opinion freely, but general laws, youth protection and personal honour set limits",
+   "summary": "Article 5 of the Basic Law protects expressing opinions in words, writing and images, and informing oneself from generally accessible sources. Press freedom is guaranteed and there is no censorship. These rights are limited by general laws, youth protection rules and the right of personal honour.",
+   "keywords": [
+    "meinungsfreiheit grundgesetz",
+    "freedom of expression germany basic law",
+    "art 5 gg",
+    "zensur verbot",
+    "free speech limits personal honour",
+    "pressefreiheit garantiert"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/BJNR000010949.html"
+  },
+  "freedom_of_science_and_teaching_art_5_3": {
+   "area": "exams",
+   "law": "Art. 5 Abs. 3 GG",
+   "title": "Art, science, research and teaching are free, but teaching does not release you from loyalty to the constitution",
+   "summary": "The Basic Law declares art and science, research and teaching free. Freedom of teaching does not exempt from loyalty to the constitution.",
+   "keywords": [
+    "wissenschaftsfreiheit",
+    "academic freedom basic law",
+    "freiheit der lehre treue verfassung",
+    "art 5 abs 3 gg",
+    "research and teaching free"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/BJNR000010949.html"
+  },
+  "secrecy_of_letters_and_telecoms_art_10": {
+   "area": "data",
+   "law": "Art. 10 GG",
+   "title": "Letters, post and telecommunications are protected by the Basic Law and may be restricted only by a law",
+   "summary": "The privacy of correspondence, posts and telecommunications is inviolable. Restrictions may be ordered only on the basis of a law.",
+   "keywords": [
+    "briefgeheimnis fernmeldegeheimnis",
+    "privacy of correspondence telecommunications",
+    "art 10 gg",
+    "post und fernmeldegeheimnis",
+    "phone secrecy law restriction"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/GG.pdf"
+  },
+  "old_age_basic_security_who_qualifies": {
+   "area": "money",
+   "law": "§ 41 Abs. 2, § 19 Abs. 2 SGB XII",
+   "title": "Grundsicherung im Alter: for people past the age limit or permanently fully disabled adults who cannot cover their living costs",
+   "summary": "Grundsicherung im Alter und bei Erwerbsminderung goes to people who reached the age limit, or who are at least 18 and permanently fully unable to work, if they cannot cover their necessary living costs from their own income and assets. People born before 1 January 1947 reach the age limit at 65.",
+   "keywords": [
+    "grundsicherung im alter",
+    "basic income old age germany",
+    "erwerbsminderung grundsicherung sozialhilfe",
+    "41 sgb xii",
+    "permanently fully disabled benefit",
+    "altersgrenze grundsicherung",
+    "basic security old age",
+    "reduced earning capacity",
+    "altersgrenze erreicht erwerbsgemindert"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_12/__41.html"
+  },
+  "social_assistance_earnings_30_percent_deducted": {
+   "area": "money",
+   "law": "§ 82 Abs. 3 SGB XII",
+   "title": "In Sozialhilfe and Grundsicherung 30 percent of your work income is not counted",
+   "summary": "For Hilfe zum Lebensunterhalt and Grundsicherung im Alter und bei Erwerbsminderung, 30 percent of income from employment or self-employment is deducted when income is counted.",
+   "keywords": [
+    "freibetrag erwerbseinkommen sozialhilfe",
+    "earnings allowance deducted income counting",
+    "82 abs 3 sgb xii",
+    "sozialhilfe arbeitseinkommen absetzen",
+    "work income not counted",
+    "how much of my work income",
+    "income not counted social assistance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_12/__82.html"
+  },
+  "tax_assessment_four_year_limit": {
+   "area": "money",
+   "law": "§ 169 Abs. 2 AO",
+   "title": "Finanzamt limitation: four years to set or change your tax; ten years for evasion, five for reckless understatement",
+   "summary": "The limitation period for setting or changing a tax is four years for ordinary taxes (one year for excise taxes). It is ten years where tax was evaded and five years where it was recklessly understated.",
+   "keywords": [
+    "festsetzungsverjährung steuer",
+    "four years limitation period finanzamt",
+    "steuer ändern frist",
+    "169 ao",
+    "steuerhinterziehung zehn jahre",
+    "how long can finanzamt go back"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/__169.html"
+  },
+  "copyright_injunction_even_before_first_repeat": {
+   "area": "copyright",
+   "law": "§ 97 Abs. 1 UrhG",
+   "title": "Copyright holders can demand removal and a cease-and-desist even if the infringement only threatens for the first time",
+   "summary": "Anyone who unlawfully infringes copyright can be required to remove the impairment and, where repetition is a risk, to stop. The injunction claim also exists where a first-time infringement is merely threatening.",
+   "keywords": [
+    "unterlassungsanspruch urheberrecht erstmalig",
+    "copyright cease and desist first offence",
+    "97 abs 1 urhg",
+    "beseitigung unterlassung urheberrechtsverletzung",
+    "threatened infringement injunction"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__97.html"
+  },
+  "copyright_damages_licence_fee_basis": {
+   "area": "copyright",
+   "law": "§ 97 Abs. 2 UrhG",
+   "title": "Copyright damages can be calculated as the licence fee you would have had to pay",
+   "summary": "Someone who infringes intentionally or negligently owes damages. The claim can also be calculated from the fee the infringer would have had to pay if they had asked for permission to use the right.",
+   "keywords": [
+    "lizenzanalogie schadensersatz",
+    "copyright damages licence analogy",
+    "97 abs 2 urhg",
+    "fotoklau schadensersatz lizenz",
+    "how much damages photo use without permission"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__97.html"
+  },
+  "incidental_work_in_background_allowed": {
+   "area": "copyright",
+   "law": "§ 57 UrhG",
+   "title": "Protected works that only show up as incidental background in your photo or video may be used",
+   "summary": "Reproducing, distributing and publicly showing works is permitted if they are incidental accessories next to the actual subject of the reproduction or presentation.",
+   "keywords": [
+    "unwesentliches beiwerk",
+    "incidental background artwork photo",
+    "57 urhg",
+    "poster in background video",
+    "copyright background object photo allowed"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html"
   }
  },
  "free_help": {
