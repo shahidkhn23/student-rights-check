@@ -9517,6 +9517,132 @@
     "23 sgb v"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_5/__23.html"
+  },
+  "fare_evasion_is_a_crime": {
+   "area": "consumer",
+   "law": "§ 265a StGB",
+   "title": "Riding without a ticket on purpose is a crime: up to one year in prison or a fine",
+   "summary": "Anyone who obtains transport by a means of transport, or entry to an event or facility, intending not to pay the fee, is punished with up to one year in prison or a fine. Attempt is punishable too.",
+   "keywords": [
+    "schwarzfahren strafbar",
+    "fare dodging criminal offence germany",
+    "erschleichen von leistungen",
+    "travelling without ticket prison fine",
+    "265a stgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__265a.html"
+  },
+  "misleading_ads_unfair": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 1 UWG",
+   "title": "Misleading advertising about price, features or availability is unfair competition",
+   "summary": "A misleading commercial practice is unfair if it can make the consumer take a decision he would not otherwise have taken. It covers false information about main features, availability, benefits, risks and the price or how it is calculated.",
+   "keywords": [
+    "irreführende werbung",
+    "misleading advertisement rights consumer",
+    "werbung täuscht preis verfügbarkeit",
+    "false claims shop advert germany",
+    "5 uwg irreführung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uwg_2004/__5.html"
+  },
+  "price_cut_ads_burden_of_proof": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 4 UWG",
+   "title": "Advertised price cut: if disputed, the shop must prove it really charged the old price",
+   "summary": "If it is disputed whether and for how long the old price was demanded, the burden of proof lies with whoever advertised the price reduction.",
+   "keywords": [
+    "preisherabsetzung werbung beweislast",
+    "fake sale old price proof",
+    "statt preis durchgestrichen unwahr",
+    "shop must prove previous price",
+    "rabatt werbung höherer preis verlangt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uwg_2004/__5.html"
+  },
+  "insolvency_application_needs_discharge_request": {
+   "area": "money",
+   "law": "§ 287 Abs. 1 InsO",
+   "title": "Debt discharge (Restschuldbefreiung) only happens if you apply for it, ideally with the insolvency application",
+   "summary": "Discharge of remaining debts requires an application by the debtor, which should be joined with the application to open insolvency proceedings. If it is filed separately, it must be submitted within two weeks after the court's notice.",
+   "keywords": [
+    "restschuldbefreiung antrag zwei wochen",
+    "how to get debts discharged germany application",
+    "verbraucherinsolvenz antrag restschuldbefreiung",
+    "insolvency apply discharge deadline",
+    "287 abs 1 inso"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__287.html"
+  },
+  "insolvency_discharge_blocked_if_recent": {
+   "area": "money",
+   "law": "§ 287a Abs. 2 InsO",
+   "title": "No new debt discharge if you got one in the last 11 years or lost one for misconduct in the last 5",
+   "summary": "An application for discharge is inadmissible if the debtor was granted discharge in the last eleven years before the insolvency application, or was refused it under § 297 in the last five years.",
+   "keywords": [
+    "restschuldbefreiung sperrfrist elf jahre",
+    "second insolvency allowed again",
+    "zweite insolvenz restschuldbefreiung sperre",
+    "how long wait before another debt discharge",
+    "287a inso unzulässig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__287a.html"
+  },
+  "consumer_insolvency_application_contents": {
+   "area": "money",
+   "law": "§ 305 Abs. 1 InsO",
+   "title": "Consumer insolvency application: you must hand in lists of assets, income, creditors and debts",
+   "summary": "The debtor's application must include the discharge request or a statement that none is sought, a list of assets and income with a summary, a list of creditors and a list of claims against him, with a declaration that the information is correct and complete.",
+   "keywords": [
+    "verbraucherinsolvenz unterlagen gläubigerverzeichnis",
+    "what documents for personal insolvency germany",
+    "vermögensverzeichnis insolvenzantrag",
+    "creditor list insolvency application",
+    "305 inso eröffnungsantrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__305.html"
+  },
+  "creditors_must_list_their_claims_on_request": {
+   "area": "money",
+   "law": "§ 305 Abs. 2 InsO",
+   "title": "Creditors must give you a written statement of their claims for your insolvency application, at their cost",
+   "summary": "When the debtor asks, creditors are obliged to give him, at their own cost, a written statement of their claims against him to prepare the list of claims.",
+   "keywords": [
+    "gläubiger forderungsaufstellung schuldner verlangen",
+    "creditor must provide statement of debt insolvency",
+    "schuldenbescheinigung gläubiger kostenlos",
+    "request debt statement from creditor",
+    "forderungsverzeichnis vorbereitung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__305.html"
+  },
+  "work_costs_deduct_as_werbungskosten": {
+   "area": "money",
+   "law": "§ 9 Abs. 1 EStG",
+   "title": "Costs of earning income count as Werbungskosten and reduce your taxable income",
+   "summary": "Werbungskosten are expenses to acquire, secure and preserve income. They are deducted in the income category in which they arise. They include the costs of trips between home and the first place of work.",
+   "keywords": [
+    "werbungskosten absetzen",
+    "which work expenses deduct tax germany",
+    "berufskosten steuererklärung",
+    "tax deductible costs for job",
+    "9 estg werbungskosten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__9.html"
+  },
+  "employee_flat_deduction_1230": {
+   "area": "money",
+   "law": "§ 9a EStG",
+   "title": "Employees get a flat Werbungskosten allowance of 1,230 euro without receipts",
+   "summary": "For income from employment, a flat employee allowance (Arbeitnehmer-Pauschbetrag) of 1,230 euro is deducted automatically; itemising only pays off if your costs are higher.",
+   "keywords": [
+    "arbeitnehmerpauschbetrag 1230",
+    "tax allowance without receipts employee",
+    "pauschbetrag werbungskosten arbeitnehmer",
+    "do I need receipts for small work expenses",
+    "9a estg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__9a.html"
   }
  },
  "free_help": {
