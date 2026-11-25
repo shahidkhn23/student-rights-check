@@ -6889,6 +6889,169 @@
     "yearly increase contract"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__557a.html"
+  },
+  "course_materials_15_percent": {
+   "area": "copyright",
+   "law": "§ 60a UrhG",
+   "title": "Course materials: teachers may share up to 15 percent of a published work",
+   "summary": "For teaching at educational institutions such as universities, up to 15 percent of a published work may be copied, distributed and made available online for non-commercial purposes, for the course participants and for examiners. This is why professors upload chapters of books to the learning platform but not whole books. Splitting a work into parts to get around the limit is not allowed.",
+   "keywords": [
+    "moodle",
+    "chapter upload",
+    "skript",
+    "lecture slides copyright",
+    "15 percent",
+    "15 prozent",
+    "semesterapparat",
+    "scan book chapter",
+    "copy textbook",
+    "pdf of whole book",
+    "learning platform"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__60a.html"
+  },
+  "withdrawal_no_reason_send_in_time": {
+   "area": "consumer",
+   "law": "§ 355 Abs. 1 bis 3 BGB",
+   "title": "Withdrawal from an online purchase needs no reason, and sending it in time is enough",
+   "summary": "The withdrawal does not have to give any reason, and it is enough that you send it within the deadline. The period is 14 days. After a withdrawal, what each side received has to be given back without delay.",
+   "keywords": [
+    "no reason",
+    "keine begründung",
+    "withdrawal letter",
+    "send in time",
+    "widerruf absenden",
+    "14 tage",
+    "return goods without reason",
+    "how to withdraw",
+    "postmark"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__355.html"
+  },
+  "withdrawal_missing_info_twelve_months": {
+   "area": "consumer",
+   "law": "§ 356 Abs. 4 BGB",
+   "title": "Withdrawal right ends at the latest 12 months and 14 days after the start date",
+   "summary": "The right to withdraw from a distance or doorstep contract expires at the latest twelve months and fourteen days after the point in time when the period would have begun. If the seller never gave proper information about the right to withdraw, the 14 days do not start running, so the right can last well beyond two weeks until that outer limit.",
+   "keywords": [
+    "no withdrawal instructions",
+    "widerrufsbelehrung fehlt",
+    "twelve months",
+    "12 monate",
+    "missing information",
+    "seller did not inform",
+    "too late to withdraw",
+    "fristende widerruf",
+    "never told me about my right to withdraw",
+    "how long can I still withdraw",
+    "right to withdraw expires"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__356.html"
+  },
+  "gdpr_answer_deadline_extension": {
+   "area": "data",
+   "law": "Art. 12 Abs. 3 DSGVO",
+   "title": "A company must answer your data request within one month; two more months only with notice",
+   "summary": "The controller has to act on your request, for example for access or erasure, without delay and at the latest within one month of receiving it. The period can be extended by a further two months only where necessary because of complexity or the number of requests, and the controller must tell you about the extension and the reasons within the first month.",
+   "keywords": [
+    "one month",
+    "ein monat",
+    "how long company answer",
+    "extension",
+    "fristverlängerung",
+    "drei monate",
+    "no reply data request",
+    "company ignores gdpr",
+    "dsgvo antwort frist"
+   ],
+   "source": "https://www.edpb.europa.eu/system/files/2025-07/edpb_guidelines_202201_data_subject_rights_access_v2_de.pdf"
+  },
+  "student_permit_needs_admission": {
+   "area": "international",
+   "law": "§ 16b Abs. 1 AufenthG",
+   "title": "Student residence permit: you need admission from the university first",
+   "summary": "A residence permit for full-time study is granted once the state or state-recognised university, or a comparable institution, has admitted you. The stay also covers preparatory measures such as a language course or Studienkolleg and a compulsory internship. A language certificate is only required if the admission procedure did not test your language and the preparatory measure will not provide it.",
+   "keywords": [
+    "student visa",
+    "admission letter",
+    "zulassung",
+    "aufenthaltserlaubnis studium",
+    "apply student permit",
+    "language certificate",
+    "preparatory course",
+    "study permit requirements",
+    "zulassungsbescheid"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+  },
+  "student_permit_two_years_validity": {
+   "area": "international",
+   "law": "§ 16b Abs. 2 AufenthG",
+   "title": "Student permit: normally two years at first issue and at each renewal",
+   "summary": "The residence permit for study is valid for two years as a rule, both when first issued and when renewed, and it should not be shorter than one year. If the study lasts less than two years, it is issued only for that time. It is extended if the study purpose has not been reached yet but can still be reached within a reasonable time, and the university may be asked about this.",
+   "keywords": [
+    "how long is student permit",
+    "validity",
+    "gültigkeit aufenthaltserlaubnis",
+    "two years",
+    "zwei jahre",
+    "extend student permit",
+    "verlängerung studium",
+    "one year permit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+  },
+  "student_permit_nine_months_new_admission": {
+   "area": "international",
+   "law": "§ 16b Abs. 6 AufenthG",
+   "title": "Lost your place through no fault of your own: up to nine months to find another university",
+   "summary": "Before a student permit is withdrawn, revoked or shortened because of reasons you are not responsible for, you must be given up to nine months to apply for admission at another institution. This can matter if a university closes or your admission falls away without your fault.",
+   "keywords": [
+    "lost admission",
+    "university closed",
+    "nine months",
+    "neun monate",
+    "another university",
+    "withdrawal of permit",
+    "new university",
+    "zulassung verloren",
+    "exmatriculated permit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+  },
+  "student_permit_part_time_or_language_without_admission": {
+   "area": "international",
+   "law": "§ 16b Abs. 5 AufenthG",
+   "title": "Permit also possible for part-time study, language course or prep internship without admission yet",
+   "summary": "A student permit can also be granted if you are admitted on a condition not tied to a preparatory course, to a part-time programme, or conditionally with a Studienkolleg place you cannot prove yet. It can also be granted for a language course without university admission, or for a preparatory internship the company has committed to. In the internship case the permit allows the internship.",
+   "keywords": [
+    "part time study permit",
+    "teilzeitstudium",
+    "language course without admission",
+    "sprachkurs ohne zulassung",
+    "preparatory internship",
+    "studienvorbereitendes praktikum",
+    "conditional admission",
+    "bedingte zulassung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+  },
+  "language_course_permit_20_hours": {
+   "area": "international",
+   "law": "§ 16f Abs. 1 und 3 AufenthG",
+   "title": "Permit for a language course (not preparing for study): work up to 20 hours a week",
+   "summary": "A residence permit can be granted for a language course that is not preparation for studies. Such a permit allows you to work up to 20 hours per week. Permits for a student exchange or for school attendance do not allow gainful employment.",
+   "keywords": [
+    "language course visa",
+    "sprachkurs visum",
+    "work during language course",
+    "20 hours",
+    "sprachkurs arbeiten",
+    "german course permit",
+    "exchange student work",
+    "schüleraustausch"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html"
   }
  },
  "free_help": {
