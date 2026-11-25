@@ -10520,6 +10520,252 @@
     "berhfv anlage"
    ],
    "source": "https://www.gesetze-im-internet.de/berhfv/anlage_1.html"
+  },
+  "speed_limit_50_in_town": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 3 Nr. 1 StVO",
+   "title": "Inside built-up areas the maximum speed for all motor vehicles is 50 km/h",
+   "summary": "Even under the best conditions, the permitted maximum speed inside closed built-up areas is 50 km/h for all motor vehicles, unless a sign allows more.",
+   "keywords": [
+    "höchstgeschwindigkeit innerorts 50",
+    "speed limit inside town germany",
+    "geschlossene ortschaft tempo 50",
+    "how fast can i drive in city germany",
+    "3 abs 3 stvo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__3.html"
+  },
+  "drive_to_stop_within_sight": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 1 StVO",
+   "title": "You may only drive so fast that you can stop within the distance you can see",
+   "summary": "A driver may only go so fast that the vehicle is always under control, and the speed must fit the road, traffic, visibility and weather. You may only drive so fast that you can stop within the visible stretch.",
+   "keywords": [
+    "fahren auf sicht",
+    "sichtfahrgebot geschwindigkeit anpassen",
+    "speed must match weather road visibility",
+    "drive on sight stopping distance germany",
+    "3 abs 1 stvo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__3.html"
+  },
+  "fog_snow_rain_under_50_metres_visibility": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 1 Satz 3 StVO",
+   "title": "If fog, snow or rain limits visibility to under 50 m, do not drive faster than 50 km/h",
+   "summary": "If visibility through fog, snowfall or rain is less than 50 m, you must not drive faster than 50 km/h unless an even lower speed is required.",
+   "keywords": [
+    "nebel sichtweite 50 meter geschwindigkeit",
+    "fog visibility 50 metres speed limit",
+    "schneefall regen sicht unter 50 m",
+    "bad weather max speed germany",
+    "nebel tempo 50"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__3.html"
+  },
+  "snow_chains_speed_limit_50": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 4 StVO",
+   "title": "With snow chains the maximum speed is 50 km/h",
+   "summary": "The permitted top speed for motor vehicles with snow chains is 50 km/h even under the best conditions.",
+   "keywords": [
+    "schneeketten höchstgeschwindigkeit",
+    "snow chains speed limit germany",
+    "schneekette tempo 50",
+    "winter chains max speed",
+    "3 abs 4 stvo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html"
+  },
+  "debtor_in_default_after_reminder": {
+   "area": "consumer",
+   "law": "§ 286 Abs. 1 BGB",
+   "title": "A debtor who does not pay after a reminder (Mahnung) after the due date is in default",
+   "summary": "If the debtor does not perform after a reminder from the creditor that comes after the performance is due, he is in default through the reminder. A lawsuit or a served payment order counts like a reminder.",
+   "keywords": [
+    "mahnung verzug schuldner",
+    "when am i in default payment germany",
+    "zahlungsverzug mahnung fällig",
+    "reminder letter default consequences",
+    "286 abs 1 bgb",
+    "schuldner gerät in verzug",
+    "owes me money default reminder",
+    "creditor reminder after due date",
+    "lawsuit or payment order counts as reminder"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__286.html"
+  },
+  "default_without_reminder_cases": {
+   "area": "consumer",
+   "law": "§ 286 Abs. 2 BGB",
+   "title": "No reminder is needed if a calendar date was agreed or the debtor seriously refuses to pay",
+   "summary": "A reminder is unnecessary if a time was set by the calendar, if an event must come first and a reasonable time after it can be counted from the calendar, if the debtor seriously and finally refuses, or if special reasons justify immediate default.",
+   "keywords": [
+    "verzug ohne mahnung kalender",
+    "payment date fixed default without reminder",
+    "ernsthaft endgültig verweigert zahlung",
+    "default without warning germany",
+    "286 abs 2 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "liability_stricter_during_default": {
+   "area": "consumer",
+   "law": "§ 287 BGB",
+   "title": "While in default you are liable for any negligence and even for chance events",
+   "summary": "During default the debtor is liable for every negligence and also for chance regarding the performance, unless the damage would have happened even with timely performance.",
+   "keywords": [
+    "verzug haftung zufall fahrlässigkeit",
+    "default makes liability stricter",
+    "schuldner verzug verantwortlich zufall",
+    "late payment liable accident",
+    "287 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__287.html"
+  },
+  "package_tour_withdraw_any_time_before_start": {
+   "area": "consumer",
+   "law": "§ 651h Abs. 1 BGB",
+   "title": "You can withdraw from a package tour at any time before it starts, but the operator can demand reasonable compensation",
+   "summary": "Before the trip starts the traveller can withdraw from the contract at any time. The operator then loses the claim to the agreed price but can demand reasonable compensation.",
+   "keywords": [
+    "pauschalreise rücktritt jederzeit entschädigung",
+    "cancel package holiday before departure",
+    "reiserücktritt stornogebühren",
+    "withdraw package tour germany fee",
+    "651h abs 1 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651h.html"
+  },
+  "package_tour_cancellation_fee_calculation": {
+   "area": "consumer",
+   "law": "§ 651h Abs. 2 BGB",
+   "title": "Cancellation flat fees must be reasonable; without them it is the price minus savings and re-use",
+   "summary": "The contract can set reasonable flat compensation, based on the time between withdrawal and start, expected savings of the operator and expected income from using the services otherwise. Without flat rates the compensation is the trip price minus the operator's saved expenses and what he earns by other use.",
+   "keywords": [
+    "stornogebühr pauschalreise angemessen",
+    "cancellation fee package tour how calculated",
+    "entschädigungspauschale reiseveranstalter ersparte aufwendungen",
+    "reiserücktritt kosten berechnung",
+    "651h abs 2 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651h.html"
+  },
+  "package_tour_transfer_to_other_traveller": {
+   "area": "consumer",
+   "law": "§ 651e Abs. 1 BGB",
+   "title": "You can let another person take over your package tour; a notice up to seven days before the start is always in time",
+   "summary": "Within a reasonable period before the start the traveller can declare on a durable medium that a third party takes over his rights and duties; the declaration is in any case in time if it reaches the operator no later than seven days before the start.",
+   "keywords": [
+    "pauschalreise ersatzreisender",
+    "transfer holiday booking to another person",
+    "reise übertragen sieben tage",
+    "substitute traveller package tour",
+    "651e bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651e.html"
+  },
+  "package_tour_terminate_for_serious_defect": {
+   "area": "consumer",
+   "law": "§ 651l Abs. 1 BGB",
+   "title": "If a defect seriously impairs the package tour, you can terminate the contract",
+   "summary": "If the package tour is considerably impaired by a travel defect, the traveller can terminate the contract.",
+   "keywords": [
+    "reisemangel kündigung erheblich",
+    "terminate holiday serious defect",
+    "pauschalreise kündigen mangel",
+    "hotel terrible leave trip refund",
+    "651l bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651l.html"
+  },
+  "right_to_social_benefit_advice": {
+   "area": "money",
+   "law": "§ 14 SGB I",
+   "title": "Everyone has a right to advice on their rights and duties under social law, from the responsible agency",
+   "summary": "Everyone is entitled to advice about his rights and duties under the Social Code. The benefit providers to whom the rights are to be asserted or the duties performed are responsible for the advice.",
+   "keywords": [
+    "beratungsanspruch sozialleistungen",
+    "right to advice social benefits germany",
+    "jobcenter krankenkasse beratung pflicht",
+    "sozialgesetzbuch beratung anspruch",
+    "14 sgb i"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html"
+  },
+  "disability_definition_six_months": {
+   "area": "health",
+   "law": "§ 2 Abs. 1 SGB IX",
+   "title": "\"Disabled\" means impairments that, with barriers, may hinder equal participation for likely more than six months",
+   "summary": "People with disabilities have physical, mental, intellectual or sensory impairments that, in interaction with attitude- and environment-related barriers, can very probably hinder equal participation in society for longer than six months. An impairment exists if the bodily and health state differs from what is typical for the age.",
+   "keywords": [
+    "behinderung definition sechs monate",
+    "what counts as disability germany",
+    "menschen mit behinderungen begriff sgb ix",
+    "disability longer than six months",
+    "2 abs 1 sgb ix",
+    "person with disabilities legal definition",
+    "menschen mit behinderungen sind menschen",
+    "impairment typical for age",
+    "barriers equal participation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_9_2018/__2.html"
+  },
+  "severe_disability_gdb_50": {
+   "area": "health",
+   "law": "§ 2 Abs. 2 SGB IX",
+   "title": "You count as severely disabled with a degree of disability (GdB) of at least 50",
+   "summary": "People are severely disabled in the sense of part 3 if they have a degree of disability of at least 50 and live, usually reside or are employed in Germany.",
+   "keywords": [
+    "schwerbehindert grad 50",
+    "severely disabled degree of disability 50",
+    "gdb 50 schwerbehinderung",
+    "when am i schwerbehindert",
+    "2 abs 2 sgb ix"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html"
+  },
+  "gdb_scale_ten_to_hundred": {
+   "area": "health",
+   "law": "Anlage zu § 2 VersMedV, Nr. 1.1",
+   "title": "The degree of disability (GdB) is graded in tens from 10 to 100",
+   "summary": "The degree of disability (GdB) gives the impairment of participation in steps of ten from 10 to 100, regardless of the cause of the health disorder.",
+   "keywords": [
+    "gdb zehnergrade",
+    "degree of disability scale 10 to 100",
+    "grad der behinderung abgestuft",
+    "versorgungsmedizin verordnung gdb",
+    "versmedv 1.1"
+   ],
+   "source": "https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html"
+  },
+  "insurance_contract_withdrawal_14_days": {
+   "area": "consumer",
+   "law": "§ 8 Abs. 1, 4 VVG",
+   "title": "Insurance contracts: withdraw within 14 days in text form, without giving reasons",
+   "summary": "The policyholder can withdraw his declaration within 14 days. The withdrawal must be in text form to the insurer, needs no reasons, and sending it in time is enough. The right ends at the latest twelve months and 14 days after the contract was concluded.",
+   "keywords": [
+    "versicherung widerruf 14 tage",
+    "cancel insurance after signing germany",
+    "vvg widerrufsrecht versicherungsnehmer",
+    "withdraw insurance contract text form",
+    "8 vvg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html"
+  },
+  "consumer_building_contract_withdrawal": {
+   "area": "consumer",
+   "law": "§ 356e BGB",
+   "title": "For consumer building contracts the withdrawal period only starts after proper instruction",
+   "summary": "For a consumer building contract the withdrawal period does not begin before the contractor has instructed the consumer about the right of withdrawal. The right ends at the latest twelve months and 14 days after the start of the period.",
+   "keywords": [
+    "verbraucherbauvertrag widerruf",
+    "withdraw from building contract germany",
+    "bauvertrag widerrufsbelehrung frist",
+    "house construction contract withdrawal",
+    "356e bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__356e.html"
   }
  },
  "free_help": {
