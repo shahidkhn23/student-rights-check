@@ -7253,6 +7253,371 @@
     "schutzfrist vor geburt"
    ],
    "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "break_split_and_six_hour_limit": {
+   "area": "work",
+   "law": "§ 4 ArbZG",
+   "title": "Breaks must be fixed in advance, can be split in 15-minute parts, and never after more than six hours",
+   "summary": "Rest breaks have to be fixed in advance: at least 30 minutes for work of more than six up to nine hours, and 45 minutes for more than nine hours. They may be split into portions of at least 15 minutes each. Employees may not work longer than six hours in a row without a break.",
+   "keywords": [
+    "split break",
+    "pausen aufteilen",
+    "15 minutes break",
+    "six hours without break",
+    "sechs stunden ohne pause",
+    "break fixed in advance",
+    "pause im voraus",
+    "coffee break counts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "hospitality_rest_period_one_hour_shorter": {
+   "area": "work",
+   "law": "§ 5 Abs. 2 ArbZG",
+   "title": "Hotels and restaurants: the 11-hour rest can be one hour shorter if it is made up",
+   "summary": "In certain sectors including hospitality (Gaststätten) the daily rest period of eleven hours can be shortened by up to one hour. Each shortening has to be compensated within a month or four weeks by extending another rest period to at least twelve hours.",
+   "keywords": [
+    "hotel rest period",
+    "ruhezeit gastronomie",
+    "10 hours rest",
+    "clopening",
+    "late shift early shift",
+    "restaurant 10 hours",
+    "zehn stunden ruhezeit",
+    "kurze ruhezeit hotel"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "night_worker_health_check_and_transfer": {
+   "area": "work",
+   "law": "§ 6 ArbZG",
+   "title": "Night workers: free health checks and a right to move to day work in some cases",
+   "summary": "Night workers may ask for free health check-ups, offered at least every three years and yearly from age 50. On request the employer must move them to a day job if the night work endangers their health, if they care for a child under twelve without other care, or care for a seriously ill relative, unless urgent operational needs prevent it.",
+   "keywords": [
+    "night worker",
+    "nachtarbeitnehmer",
+    "health check night",
+    "transfer to day shift",
+    "tagarbeit wechseln",
+    "night shift health",
+    "nachtschicht gesundheit",
+    "childcare night shift"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "fifteen_free_sundays_substitute_day": {
+   "area": "work",
+   "law": "§ 11 ArbZG",
+   "title": "At least 15 Sundays a year free, and a substitute day after Sunday work",
+   "summary": "Employees must have at least 15 work-free Sundays per year. If you work on a Sunday you have to get a substitute rest day within two weeks, and for a public holiday that falls on a weekday within eight weeks.",
+   "keywords": [
+    "free sundays",
+    "15 sonntage",
+    "freie sonntage",
+    "ersatzruhetag",
+    "sunday work compensation",
+    "day off after sunday",
+    "feiertag ersatz",
+    "works every sunday"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "overtime_records_two_years": {
+   "area": "work",
+   "law": "§ 16 Abs. 2 ArbZG",
+   "title": "Employers must record working time above eight hours a day and keep it two years",
+   "summary": "Employers have to record the working time that goes beyond the eight hours a day set in § 3 and keep a list of employees who agreed to longer working hours. These records must be kept for at least two years. This helps if you later claim overtime.",
+   "keywords": [
+    "overtime records",
+    "aufzeichnung arbeitszeit",
+    "time tracking",
+    "two years",
+    "zwei jahre aufbewahren",
+    "prove overtime",
+    "überstunden nachweis",
+    "stundenzettel"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "managers_exempt_from_working_time_act": {
+   "area": "work",
+   "law": "§ 18 ArbZG",
+   "title": "The Working Time Act does not cover senior managers, and under-18s have their own law",
+   "summary": "The Working Time Act does not apply to leitende Angestellte as defined in the Works Constitution Act, to chief physicians, to heads of public authorities with their own personnel powers, to certain live-in carers and church staff. Workers under 18 fall under the Youth Employment Protection Act.",
+   "keywords": [
+    "leitende angestellte",
+    "senior manager overtime",
+    "exempt working time",
+    "geschäftsführer arbeitszeit",
+    "under 18 work hours",
+    "jugendarbeitsschutz",
+    "not covered arbzg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html"
+  },
+  "vacation_partial_one_twelfth": {
+   "area": "work",
+   "law": "§ 5 BUrlG",
+   "title": "Joining or leaving mid-year: one twelfth of the annual holiday per full month",
+   "summary": "If you do not complete the six-month waiting period, leave before completing it, or leave in the first half of the calendar year after completing it, you get one twelfth of the annual holiday for each full month of employment. Fractions of at least half a day are rounded up to a full day.",
+   "keywords": [
+    "one twelfth",
+    "ein zwölftel",
+    "teilurlaub",
+    "started mid year",
+    "joined in july",
+    "quit in june",
+    "urlaub anteilig",
+    "leaving job holiday days",
+    "rounded up half day"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/BJNR000020963.html"
+  },
+  "vacation_block_twelve_days": {
+   "area": "work",
+   "law": "§ 7 Abs. 1 und 2 BUrlG",
+   "title": "Holiday: your wishes count, and one part must be at least 12 consecutive working days",
+   "summary": "The employer has to consider your holiday wishes unless urgent business reasons or the wishes of colleagues with social priority stand against them. Holiday should be granted in one block. If it is split because of urgent reasons and your entitlement is more than twelve working days, one part must cover at least twelve consecutive working days.",
+   "keywords": [
+    "holiday wishes",
+    "urlaubswunsch",
+    "two weeks in a row",
+    "zusammenhängender urlaub",
+    "12 days",
+    "split holiday",
+    "employer refuses holiday",
+    "urlaub ablehnen",
+    "summer holiday block"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/BJNR000020963.html"
+  },
+  "vacation_payout_on_leaving": {
+   "area": "work",
+   "law": "§ 7 Abs. 4 BUrlG",
+   "title": "Holiday that cannot be taken before the job ends must be paid out",
+   "summary": "If holiday can no longer be granted because the employment ends, wholly or partly, it has to be paid out (Urlaubsabgeltung). Leave granted by a previous employer in the same calendar year is deducted, and the employer must give you a certificate of the leave granted or paid out when the job ends.",
+   "keywords": [
+    "urlaubsabgeltung",
+    "unused holiday payout",
+    "paid out holiday",
+    "leaving job unused days",
+    "resturlaub auszahlen",
+    "holiday certificate",
+    "urlaubsbescheinigung",
+    "new employer holiday already taken"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/BJNR000020963.html"
+  },
+  "holiday_pay_thirteen_week_average": {
+   "area": "work",
+   "law": "§ 11 BUrlG",
+   "title": "Holiday pay is your average pay of the last 13 weeks, without overtime pay",
+   "summary": "Holiday pay is calculated from your average earnings over the 13 weeks before the holiday begins, not counting overtime pay. It has to be paid before the holiday starts. Benefits in kind that are not continued during holiday must be compensated in cash.",
+   "keywords": [
+    "urlaubsentgelt",
+    "holiday pay calculation",
+    "13 weeks",
+    "13 wochen",
+    "average pay holiday",
+    "paid before holiday",
+    "shift pay holiday",
+    "variable pay holiday",
+    "werkstudent holiday pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/BJNR000020963.html"
+  },
+  "no_paid_side_job_during_holiday": {
+   "area": "work",
+   "law": "§ 8 BUrlG",
+   "title": "During your holiday you may not take paid work that defeats its purpose",
+   "summary": "Employees may not do paid work during their holiday that conflicts with the purpose of the holiday, which is recovery. Preventive or rehabilitation treatment is not counted against holiday if you are entitled to continued sick pay for it.",
+   "keywords": [
+    "side job during holiday",
+    "nebenjob urlaub",
+    "work on holiday",
+    "urlaub arbeiten",
+    "second job vacation",
+    "kur urlaub",
+    "rehab holiday days",
+    "erwerbstätigkeit urlaub"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/BJNR000020963.html"
+  },
+  "employer_must_give_written_terms_by_deadlines": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 NachwG",
+   "title": "Written contract terms: name, pay and hours on day one, more by day seven, the rest in a month",
+   "summary": "The employer has to write down the essential terms, sign them and hand them over. On the first day of work you must get the parties, pay and working hours. By the seventh calendar day after the agreed start you get start date, duration if fixed-term, workplace, job description, probation, and on-call and overtime terms. All other items follow within one month.",
+   "keywords": [
+    "day one",
+    "erster arbeitstag",
+    "written terms deadline",
+    "nachweis frist",
+    "seven days",
+    "siebten tag",
+    "one month",
+    "job without contract",
+    "no contract paper",
+    "arbeitsvertrag schriftlich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
+  },
+  "written_terms_must_name_dismissal_deadline": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 Satz 7 NachwG",
+   "title": "The written terms must also cover notice periods and the deadline to sue against dismissal",
+   "summary": "The record has to include probation, pay and due dates, working hours, breaks, shifts, leave, further training, pension provider and the termination procedure. For termination it must state the written-form requirement, the notice periods and the deadline to file a dismissal protection suit, plus a general reference to applicable collective or works agreements.",
+   "keywords": [
+    "what must be in contract",
+    "pflichtangaben arbeitsvertrag",
+    "notice periods stated",
+    "kündigungsfrist angabe",
+    "contract missing information",
+    "arbeitsvertrag fehlt",
+    "probation stated",
+    "key terms list"
+   ],
+   "source": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
+  },
+  "contract_changes_in_writing_by_effective_day": {
+   "area": "work",
+   "law": "§ 3 NachwG",
+   "title": "Changes to your essential terms must be given in writing by the day they take effect",
+   "summary": "A change in the essential contract terms has to be notified to you in writing at the latest on the day it takes effect. A signed written amendment contract fulfils this duty. Changes that result from laws or collective agreements are exempt.",
+   "keywords": [
+    "change of contract",
+    "vertragsänderung",
+    "new hours",
+    "employer changes pay",
+    "arbeitszeit geändert",
+    "change in writing",
+    "schriftlich mitteilen",
+    "amended terms",
+    "changed my working hours",
+    "tell me in writing",
+    "takes effect",
+    "essential terms change"
+   ],
+   "source": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
+  },
+  "missing_written_terms_fine": {
+   "area": "work",
+   "law": "§ 4 Abs. 2 NachwG",
+   "title": "Employers who skip, delay or botch the written terms can be fined up to 2,000 euros",
+   "summary": "Not handing over a required essential term, not handing it over correctly, completely or in time, is an administrative offence. It can be punished with a fine of up to 2,000 euros. Employers also cannot deviate from the Act to the employee's disadvantage.",
+   "keywords": [
+    "fine employer",
+    "bußgeld arbeitgeber",
+    "2000 euro",
+    "no contract fine",
+    "employer penalty",
+    "report employer contract",
+    "verstoß nachweisgesetz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
+  },
+  "dismissal_late_suit_two_weeks": {
+   "area": "work",
+   "law": "§ 5 KSchG",
+   "title": "Missed the three weeks through no fault of your own: apply within two weeks, at most six months late",
+   "summary": "A late dismissal suit may be admitted if, despite all reasonable care, you could not file within three weeks. The application has to be made within two weeks after the obstacle ends and no later than six months after the missed deadline. Pregnant women who learn of the pregnancy only after the deadline for reasons they are not responsible for are also covered.",
+   "keywords": [
+    "missed deadline",
+    "late lawsuit",
+    "nachträgliche zulassung",
+    "verspätete klage",
+    "sick missed deadline",
+    "abroad letter",
+    "too late dismissal",
+    "klagefrist verpasst",
+    "did not get letter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "dismissal_add_reasons_until_hearing": {
+   "area": "work",
+   "law": "§ 6 KSchG",
+   "title": "Once you sued in time, you can add other reasons why the dismissal is invalid until the hearing",
+   "summary": "If you filed in time claiming that the dismissal was not valid, you can rely on further reasons of invalidity until the end of the oral hearing at the first-instance court, even if you did not name them within the three weeks.",
+   "keywords": [
+    "additional reasons",
+    "weitere unwirksamkeitsgründe",
+    "add argument",
+    "lawsuit new reasons",
+    "klage ergänzen",
+    "verlängerte anrufungsfrist",
+    "pregnancy reason later"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "dismissal_court_severance_cap": {
+   "area": "work",
+   "law": "§§ 9, 10 KSchG",
+   "title": "If the court ends the job against severance: up to 12 monthly salaries, more for long service",
+   "summary": "If continued employment is unreasonable, the court can dissolve the employment against severance of up to twelve monthly earnings. The cap is fifteen monthly earnings for employees aged 50 or over with at least 15 years of service, and eighteen for those aged 55 or over with at least 20 years.",
+   "keywords": [
+    "abfindung gericht",
+    "severance cap",
+    "twelve monthly salaries",
+    "zwölf monatsverdienste",
+    "court severance",
+    "how much severance",
+    "auflösung gegen abfindung",
+    "kündigungsschutzklage abfindung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "statutory_severance_half_month_per_year": {
+   "area": "work",
+   "law": "§ 1a KSchG",
+   "title": "Operational dismissal with severance offer: half a monthly pay per year of service",
+   "summary": "For a dismissal for operational reasons, if the notice states that you can claim severance if you do not sue within three weeks, and you do not sue, you are entitled to 0.5 monthly earnings for every year of service. A period of more than six months in the last year is rounded up to a full year.",
+   "keywords": [
+    "abfindungsangebot",
+    "half a month per year",
+    "halbes monatsgehalt",
+    "severance offer letter",
+    "operational dismissal severance",
+    "betriebsbedingt abfindung",
+    "severance formula",
+    "abfindung berechnen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "social_selection_criteria": {
+   "area": "work",
+   "law": "§ 1 Abs. 3 KSchG",
+   "title": "Operational dismissals: the employer must weigh service, age, dependants and disability",
+   "summary": "When dismissing for operational reasons the employer has to take into account length of service, age, maintenance duties and severe disability when choosing whom to let go. Employees with special skills or needed for a balanced workforce structure may be left out of the selection. The employee has to prove that the selection was unfair.",
+   "keywords": [
+    "sozialauswahl",
+    "who gets fired first",
+    "layoff selection",
+    "betriebsbedingte kündigung",
+    "length of service",
+    "unterhaltspflichten",
+    "fired before colleague",
+    "redundancy order"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "small_firm_threshold_and_part_timers": {
+   "area": "work",
+   "law": "§ 23 Abs. 1 KSchG",
+   "title": "Dismissal protection threshold: five or fewer, or ten for newer hires; part-timers count less",
+   "summary": "The general dismissal protection does not apply where five or fewer employees are regularly employed, excluding trainees. For employees hired after 31 December 2003 it applies only once the establishment regularly employs more than ten. Part-time employees count as 0.5 up to 20 hours a week and 0.75 up to 30 hours.",
+   "keywords": [
+    "small company",
+    "kleinbetrieb",
+    "how many employees",
+    "part timers count",
+    "teilzeit zählt",
+    "10 employees",
+    "five employees",
+    "firm size dismissal",
+    "mitarbeiterzahl kündigungsschutz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
   }
  },
  "free_help": {
