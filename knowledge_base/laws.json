@@ -11232,6 +11232,174 @@
     "556e abs 2 bgb"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "tax_assessment_objection_one_month": {
+   "area": "money",
+   "law": "§ 355 Abs. 1 AO",
+   "title": "Tax assessment: file your objection (Einspruch) within one month of notification",
+   "summary": "An objection against a tax administrative act must be filed within one month after the act was announced.",
+   "keywords": [
+    "steuerbescheid einspruch ein monat",
+    "tax bill objection deadline germany",
+    "einspruchsfrist finanzamt",
+    "appeal tax assessment finanzamt",
+    "355 ao"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/__355.html"
+  },
+  "tax_return_due_seven_months_after_year": {
+   "area": "money",
+   "law": "§ 149 Abs. 2 AO",
+   "title": "Tax return for a calendar year is due seven months after the year ends, unless the tax laws say otherwise",
+   "summary": "Unless tax laws provide otherwise, returns for a calendar year are due at the latest seven months after the end of the calendar year. Returns prepared with a tax adviser follow a longer deadline.",
+   "keywords": [
+    "steuererklärung abgabefrist sieben monate",
+    "when is tax return due germany",
+    "abgabefrist einkommensteuererklärung 31 juli",
+    "tax filing deadline 31 july",
+    "149 abs 2 ao"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/AO.pdf"
+  },
+  "late_filing_surcharge_quarter_percent": {
+   "area": "money",
+   "law": "§ 152 AO",
+   "title": "Late tax return: surcharge of 0.25 percent of the tax per started month, at least 25 euros",
+   "summary": "For returns relating to a calendar year, the late-filing surcharge is 0.25 percent of the assessed tax for each started month of delay, and at least 25 euros per started month.",
+   "keywords": [
+    "verspätungszuschlag steuererklärung prozent",
+    "late tax return penalty germany",
+    "verspätungszuschlag 25 euro monat",
+    "finanzamt zuschlag zu spät abgegeben",
+    "152 ao"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/__152.html"
+  },
+  "late_filing_surcharge_automatic_after_14_months": {
+   "area": "money",
+   "law": "§ 152 Abs. 2 AO",
+   "title": "A late-filing surcharge is mandatory if the return is not filed within 14 months after the year",
+   "summary": "A late-filing surcharge must be set if a return for a calendar year is not filed within 14 months after the end of the year, or if it is not filed by the date set in an order under § 149 para 4.",
+   "keywords": [
+    "verspätungszuschlag 14 monate pflicht",
+    "tax return 14 months automatic penalty",
+    "steuererklärung nicht abgegeben zuschlag zwingend",
+    "finanzamt anordnung abgabe frist zuschlag",
+    "152 abs 2 ao"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/__152.html"
+  },
+  "late_filing_surcharge_exceptions": {
+   "area": "money",
+   "law": "§ 152 Abs. 2 AO",
+   "title": "No late-filing surcharge if the deadline was extended or the tax is set at zero or less",
+   "summary": "No surcharge is imposed if the tax office extended the filing deadline, if the tax is assessed at zero euros or a negative amount, or if the assessed tax does not exceed advance payments and withheld tax to be credited.",
+   "keywords": [
+    "verspätungszuschlag ausnahme steuer null",
+    "no late penalty refund tax return",
+    "fristverlängerung kein verspätungszuschlag",
+    "tax refund late filing no surcharge",
+    "152 abs 2 ausnahmen ao"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ao_1977/__152.html"
+  },
+  "non_compete_needs_signed_written_document": {
+   "area": "work",
+   "law": "§ 74 Abs. 1 HGB",
+   "title": "A post-employment non-compete needs written form and a signed copy handed to the employee",
+   "summary": "An agreement that restricts the employee's business activity after the employment ends requires written form and a document signed by the employer containing the agreed terms, handed to the employee.",
+   "keywords": [
+    "wettbewerbsverbot schriftform urkunde aushändigen",
+    "non compete written signed copy employee",
+    "wettbewerbsverbot unterschrieben arbeitgeber",
+    "competition ban agreement form",
+    "74 abs 1 hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/HGB.pdf"
+  },
+  "non_compete_compensation_paid_monthly": {
+   "area": "work",
+   "law": "§ 74b Abs. 1 HGB",
+   "title": "Non-compete compensation must be paid at the end of each month",
+   "summary": "The compensation owed to the employee for the non-compete period under § 74 para 2 must be paid at the end of each month.",
+   "keywords": [
+    "karenzentschädigung monatlich zahlen",
+    "non compete compensation monthly payment",
+    "wettbewerbsverbot entschädigung monatsende",
+    "garden leave pay monthly germany",
+    "74b hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__74b.html"
+  },
+  "payslip_not_needed_if_nothing_changed": {
+   "area": "work",
+   "law": "§ 108 Abs. 2 GewO",
+   "title": "The employer need not issue a new payslip if nothing changed since the last proper one",
+   "summary": "The duty to give a pay statement does not apply if the details have not changed compared with the last proper statement.",
+   "keywords": [
+    "gehaltsabrechnung entfällt unverändert",
+    "no new payslip if unchanged",
+    "entgeltabrechnung pflicht keine änderung",
+    "payslip every month required germany",
+    "108 abs 2 gewo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewo/__108.html"
+  },
+  "extra_pay_certificate_on_request": {
+   "area": "work",
+   "law": "§ 108 Abs. 3 GewO",
+   "title": "You can ask your employer for an additional pay certificate for other purposes",
+   "summary": "For other purposes than the social-law ones, the employee can demand a further pay certificate (Entgeltbescheinigung) limited to the details in the pay statement under paragraph 1.",
+   "keywords": [
+    "entgeltbescheinigung verlangen arbeitgeber",
+    "pay certificate request employer",
+    "verdienstbescheinigung für vermieter",
+    "income proof from employer germany",
+    "108 abs 3 gewo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html"
+  },
+  "minors_restaurants_rules": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 1 JuSchG",
+   "title": "Under-16s in restaurants and pubs: only with a parent or guardian, or for a meal or drink between 5:00 and 23:00",
+   "summary": "Children and young people under 16 may only be allowed in restaurants if accompanied by a custodial or authorised person, or if they have a meal or drink between 5:00 and 23:00. Teenagers 16 and over may not stay without such accompaniment between 24:00 and 5:00.",
+   "keywords": [
+    "jugendschutz gaststätte unter 16",
+    "minors restaurant pub rules germany",
+    "jugendliche gaststätte nach 24 uhr",
+    "teenagers bar night germany",
+    "4 jugendschutzgesetz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/__4.html"
+  },
+  "minors_nightclub_not_allowed": {
+   "area": "consumer",
+   "law": "§ 4 Abs. 3 JuSchG",
+   "title": "Children and young people may not be admitted to night bars, nightclubs and similar venues",
+   "summary": "Children and young people may not be allowed to stay in establishments run as night bars or nightclubs, or in comparable entertainment venues.",
+   "keywords": [
+    "nachtclub jugendliche verbot",
+    "minors nightclub ban germany",
+    "nachtbar zutritt jugendschutz",
+    "under 18 club entry rules",
+    "4 abs 3 jugendschutzgesetz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/BJNR273000002.html"
+  },
+  "film_age_ratings_five_levels": {
+   "area": "consumer",
+   "law": "§ 14 JuSchG",
+   "title": "Films and games carry one of five labels: no age limit, 6, 12, 16, or no youth release",
+   "summary": "Films and games are labelled \"Freigegeben ohne Altersbeschränkung\", \"ab sechs Jahren\", \"ab zwölf Jahren\", \"ab sechzehn Jahren\" or \"Keine Jugendfreigabe\".",
+   "keywords": [
+    "fsk freigabe stufen",
+    "film age rating levels germany",
+    "altersfreigabe spiele kennzeichnung",
+    "fsk 0 6 12 16 18",
+    "14 jugendschutzgesetz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/BJNR273000002.html"
   }
  },
  "free_help": {
