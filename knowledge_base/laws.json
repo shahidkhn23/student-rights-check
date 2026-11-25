@@ -11400,6 +11400,177 @@
     "14 jugendschutzgesetz"
    ],
    "source": "https://www.gesetze-im-internet.de/juschg/BJNR273000002.html"
+  },
+  "goods_agreed_features_count_as_defect_standard": {
+   "area": "consumer",
+   "law": "§ 434 Abs. 2 BGB",
+   "title": "Bought item must have the agreed features, suit the agreed use and come with the agreed accessories and manuals",
+   "summary": "Under the subjective requirements, an item is free of defects if it has the agreed quality, suits the use assumed in the contract, and is delivered with the agreed accessories and instructions, including assembly and installation instructions. Quality covers type, quantity, functionality, compatibility and interoperability.",
+   "keywords": [
+    "agreed quality",
+    "vereinbarte beschaffenheit",
+    "missing accessories",
+    "missing manual",
+    "subjektive anforderungen sachmangel",
+    "item does not match listing description",
+    "434 abs 2"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__434.html"
+  },
+  "legal_defect_third_party_rights_on_item": {
+   "area": "consumer",
+   "law": "§ 435 BGB",
+   "title": "Legal defect: you bought an item that a third party can claim rights to",
+   "summary": "An item is free of legal defects if third parties cannot assert any rights against the buyer, or only rights the buyer took over in the contract. A right wrongly entered in the land register counts as a legal defect too.",
+   "keywords": [
+    "rechtsmangel",
+    "third party claims rights on purchased item",
+    "stolen goods bought",
+    "land register entry wrong",
+    "legal defect purchase",
+    "435 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__435.html"
+  },
+  "consumer_sale_includes_bundled_service": {
+   "area": "consumer",
+   "law": "§ 474 Abs. 1 BGB",
+   "title": "Consumer sale: buying goods from a trader still counts even if a service comes with it",
+   "summary": "Consumer sales are contracts where a consumer buys goods from a trader. It is still a consumer sale if the contract also covers a service by the trader besides selling the goods.",
+   "keywords": [
+    "verbrauchsgüterkauf definition",
+    "goods plus installation service consumer sale",
+    "trader sells goods with service",
+    "474 bgb",
+    "is it a consumer sale"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__474.html"
+  },
+  "smart_goods_software_updates_owed": {
+   "area": "consumer",
+   "law": "§ 475b BGB",
+   "title": "Smartphone or smart TV: the seller must make sure you get the updates needed to keep it working",
+   "summary": "For goods with digital elements, the seller must ensure the buyer receives updates needed to keep the item in conformity, for the period the buyer can reasonably expect given the type and purpose of the goods and the circumstances.",
+   "keywords": [
+    "software updates smartphone seller",
+    "security updates how long",
+    "475b bgb",
+    "no more updates defect"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__475b.html"
+  },
+  "seller_recourse_against_supplier_no_deadline": {
+   "area": "consumer",
+   "law": "§ 445a Abs. 2 BGB",
+   "title": "Seller who had to take an item back can claim against the supplier without setting a new deadline",
+   "summary": "A seller who sold a new item and had to take it back because of a defect, or who granted a price reduction, does not have to set the usually required deadline before using the buyer rights against the own supplier.",
+   "keywords": [
+    "rückgriff des verkäufers",
+    "seller recourse supplier",
+    "445a bgb",
+    "retailer claim against wholesaler",
+    "supply chain recourse defect"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__445a.html"
+  },
+  "digital_product_must_match_agreed_features": {
+   "area": "consumer",
+   "law": "§ 327e Abs. 2 BGB",
+   "title": "Paid app or streaming service: it must have the agreed features, work for the agreed use and come with agreed support",
+   "summary": "A digital product meets the subjective requirements if it has the agreed quality, including quantity, functionality, compatibility and interoperability, suits the use assumed in the contract, and is provided with the agreed accessories, instructions and customer service.",
+   "keywords": [
+    "produktmangel digital",
+    "paid app does not work as advertised",
+    "digital product defect agreed features",
+    "327e bgb",
+    "software promised functions missing",
+    "customer service agreed digital"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327e.html"
+  },
+  "digital_product_defect_presumed_within_year": {
+   "area": "consumer",
+   "law": "§ 327k Abs. 1 BGB",
+   "title": "Paid digital product shows a fault within a year: it is presumed to have been faulty from the start",
+   "summary": "If a digital product deviates from the requirements within one year of being provided, it is presumed to have been defective when provided.",
+   "keywords": [
+    "beweislastumkehr digitale produkte",
+    "digital product fault first year presumption",
+    "327k bgb",
+    "app defect burden of proof trader",
+    "download broken within a year"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327k.html"
+  },
+  "digital_product_legal_defect_third_party_rights": {
+   "area": "consumer",
+   "law": "§ 327g BGB",
+   "title": "Digital product with a legal defect: you cannot use it without infringing someone else rights",
+   "summary": "A digital product is free of legal defects if the consumer can use it according to the subjective or objective requirements without infringing third-party rights.",
+   "keywords": [
+    "rechtsmangel digitales produkt",
+    "software infringes third party rights",
+    "327g bgb",
+    "digital content licence problem"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327g.html"
+  },
+  "digital_product_trader_proves_delivery": {
+   "area": "consumer",
+   "law": "§ 327b Abs. 6 BGB",
+   "title": "Dispute whether the paid digital product was ever delivered: the trader must prove it",
+   "summary": "Unlike the general rule, the trader carries the burden of proof that a digital product was provided as required.",
+   "keywords": [
+    "bereitstellung digitaler produkte",
+    "trader must prove digital delivery",
+    "327b bgb",
+    "download link never arrived",
+    "digital product provision proof"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327b.html"
+  },
+  "bundle_contract_digital_part_rules": {
+   "area": "consumer",
+   "law": "§ 327a Abs. 1 BGB",
+   "title": "Package deal with physical goods and a digital service: the digital rules apply to the digital part",
+   "summary": "The digital product rules also apply to consumer contracts that, between the same parties, cover digital products together with other goods or services (package contract). They apply only to the parts of the contract concerning the digital products.",
+   "keywords": [
+    "paketvertrag",
+    "bundle contract digital and physical",
+    "327a bgb",
+    "tv with streaming subscription bundle",
+    "mixed contract digital part"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327a.html"
+  },
+  "wage_garnishment_threshold_2026": {
+   "area": "money",
+   "law": "§ 850c ZPO; Pfändungsfreigrenzenbekanntmachung 2026",
+   "title": "Wage garnishment: from July 2026 net earnings up to 1,587.40 euro a month cannot be seized",
+   "summary": "From 1 July 2026 the unseizable amount under § 850c ZPO rises from 1,555.00 to 1,587.40 euro per month (365.33 per week, 73.06 per day).",
+   "keywords": [
+    "lohnpfändung freigrenze",
+    "garnishment threshold monthly wage",
+    "pfändungsfreigrenze 2026",
+    "850c zpo",
+    "how much wage protected from seizure",
+    "unpfändbarer betrag arbeitseinkommen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/BJNR0500A0026.html"
+  },
+  "garnishment_above_threshold_three_tenths_protected": {
+   "area": "money",
+   "law": "§ 850c Abs. 3 ZPO",
+   "title": "Wage above the garnishment threshold: three tenths of the excess stays unseizable, more with dependants",
+   "summary": "If earnings exceed the basic threshold, three tenths of the excess is unseizable. For a debtor who provides maintenance, a further two tenths are unseizable for the first person and one more tenth for each of the second to fifth person.",
+   "keywords": [
+    "pfändung mehrverdienst drei zehntel",
+    "dependants garnishment protection",
+    "unterhaltspflicht pfändung lohn",
+    "850c abs 3 zpo",
+    "garnishment excess wages tenths"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__850c.html"
   }
  },
  "free_help": {
