@@ -11817,6 +11817,135 @@
     "copyright background object photo allowed"
    ],
    "source": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html"
+  },
+  "basic_supplier_must_supply_every_household": {
+   "area": "consumer",
+   "law": "§ 36 Abs. 1 EnWG",
+   "title": "The local default energy supplier must supply every household customer, on the same published terms and prices",
+   "summary": "In each network area the basic supplier (Grundversorger) must publish general terms and prices and supply every household customer on those terms. It may not distinguish by the time the basic supply contract was formed.",
+   "keywords": [
+    "grundversorger pflicht",
+    "default energy supplier must supply",
+    "grundversorgung haushaltskunden",
+    "36 enwg",
+    "new customer same price as old customer basic supply"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__36.html"
+  },
+  "basic_supply_contract_two_weeks_notice": {
+   "area": "consumer",
+   "law": "§ 20 Abs. 1 StromGVV",
+   "title": "Electricity basic supply contract: you can cancel with two weeks notice",
+   "summary": "The basic supply contract for electricity can be terminated with two weeks notice. The supplier can only cancel if it has no duty to supply you under the Energy Act.",
+   "keywords": [
+    "grundversorgungsvertrag kündigen zwei wochen",
+    "basic electricity contract notice period",
+    "stromgvv 20",
+    "grundversorger kündigung frist",
+    "cancel default electricity tariff"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html"
+  },
+  "energy_provider_switch_24_hours_2026": {
+   "area": "consumer",
+   "law": "§ 20a Abs. 2 EnWG",
+   "title": "Switching energy supplier: since January 2026 the technical switch must happen within 24 hours on any working day",
+   "summary": "When switching supplier, the new supplier must promptly confirm in text form whether and when it can start supply. From January 2026 the technical switching process must be completed within 24 hours and be possible every working day. If the switch is late, the end customer can claim compensation from the party responsible.",
+   "keywords": [
+    "lieferantenwechsel 24 stunden",
+    "switch energy supplier 24 hours",
+    "20a enwg",
+    "anbieterwechsel strom dauer",
+    "energy supplier switch delay compensation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__20a.html"
+  },
+  "energy_contract_text_form_and_confirmation": {
+   "area": "consumer",
+   "law": "§ 41b Abs. 1 EnWG",
+   "title": "Energy supply contract outside basic supply: cancellation needs text form and the supplier must confirm within a week",
+   "summary": "Energy supply contracts with household customers outside the basic supply, and their cancellation by the supplier, need text form. The supplier must confirm the customer cancellation in text form within one week of receipt, stating the end of the contract.",
+   "keywords": [
+    "kündigungsbestätigung energieversorger eine woche",
+    "energy contract cancellation confirmation one week",
+    "41b abs 1 enwg",
+    "strom kündigung textform",
+    "supplier confirms cancellation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__41b.html"
+  },
+  "young_adult_youth_welfare_help_until_21": {
+   "area": "money",
+   "law": "§ 41 SGB VIII",
+   "title": "Youth welfare help for young adults normally runs until 21, longer in justified cases",
+   "summary": "Help for young adults under the child and youth welfare law is generally granted only until age 21. In justified individual cases it should be continued beyond that for a limited period. The help is designed like help for young people, with the young adult taking the place of the parents or child.",
+   "keywords": [
+    "jugendhilfe junge volljährige 21",
+    "youth welfare after 18 care leaver",
+    "hilfe für junge volljährige",
+    "41 sgb viii",
+    "jugendamt hilfe über 18",
+    "care leaver support germany"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html"
+  },
+  "youth_welfare_aftercare_after_help_ends": {
+   "area": "money",
+   "law": "§ 41a SGB VIII",
+   "title": "After youth welfare help ends, young adults still get counselling and support on becoming independent",
+   "summary": "Young adults are advised and supported within an appropriate period after the help ends, to the extent necessary and in an understandable form. The period and scope should be recorded in the help plan, and the youth welfare office should regularly make contact.",
+   "keywords": [
+    "nachbetreuung jugendhilfe",
+    "aftercare youth welfare",
+    "41a sgb viii",
+    "verselbständigung beratung nach ende der hilfe",
+    "care leaver aftercare youth office"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_8/__41a.html"
+  },
+  "mortgage_loan_withdrawal_expires_12_months_14_days": {
+   "area": "money",
+   "law": "§ 495 BGB; Art. 247 EGBGB Anlage 8",
+   "title": "Mortgage loan withdrawal right expires at the latest 12 months and 14 days after the contract",
+   "summary": "The right to withdraw from a real-estate consumer loan contract expires at the latest twelve months and 14 days after the contract was concluded, or after the later date when the borrower received a copy of the application or contract.",
+   "keywords": [
+    "immobiliardarlehen widerruf erlischt",
+    "withdraw mortgage loan deadline",
+    "widerrufsrecht darlehen zwölf monate 14 tage",
+    "495 bgb",
+    "baufinanzierung widerruf frist",
+    "widerrufsjoker"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "foreigner_work_allowed_with_residence_title_unless_banned": {
+   "area": "international",
+   "law": "§ 4a Abs. 1 AufenthG",
+   "title": "With a residence title you may work unless a law forbids it; a title must show whether work is allowed",
+   "summary": "Foreigners with a residence title may take up gainful activity unless a law prohibits it, and the activity may be limited by law. Every residence title must show whether gainful activity is allowed and whether restrictions apply. Restrictions from the Federal Employment Agency must be entered in the title.",
+   "keywords": [
+    "aufenthaltstitel erwerbstätigkeit gestattet",
+    "residence permit shows work allowed",
+    "4a aufenthg",
+    "nebenbeschäftigung vermerk aufenthaltstitel",
+    "may i work with my residence permit",
+    "erwerbstätigkeit nicht gestattet"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/AufenthG.pdf"
+  },
+  "employer_may_hire_foreigner_only_with_title": {
+   "area": "international",
+   "law": "§ 4a Abs. 5 AufenthG",
+   "title": "Employers may hire a foreigner only if they hold a residence title with no ban or restriction on that work",
+   "summary": "A foreigner may only be employed or commissioned for paid services if they have a residence title and no relevant ban or restriction applies. A foreigner without a residence title may only be employed under the conditions of paragraph 4.",
+   "keywords": [
+    "arbeitgeber aufenthaltstitel prüfen",
+    "employer must check residence permit",
+    "4a abs 5 aufenthg",
+    "beschäftigung ohne aufenthaltstitel",
+    "hiring foreigner without permit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.epub"
   }
  },
  "free_help": {
