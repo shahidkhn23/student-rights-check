@@ -4202,7 +4202,9 @@
     "rota changed last minute",
     "dienstplan aushang verbindlich",
     "schichtplan vier tage vorher",
-    "spontan einspringen arbeitgeber"
+    "spontan einspringen arbeitgeber",
+    "dienstplan changed at short notice",
+    "how many days ahead shift change announced"
    ],
    "source": "https://www.dahag.de/c/ratgeber/arbeitsrecht/arbeitszeitgesetz/dienstplan/kurzfristige-dienstplanaenderung"
   },
@@ -8858,6 +8860,145 @@
     "consumable medical aid costs"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_5/__33.html"
+  },
+  "safety_costs_not_on_employees": {
+   "area": "work",
+   "law": "§ 3 Abs. 3 ArbSchG",
+   "title": "The employer pays for workplace safety measures, he may not pass the cost on to you",
+   "summary": "Costs of occupational safety and health measures under the Occupational Safety Act may not be imposed on employees by the employer.",
+   "keywords": [
+    "who pays for safety shoes",
+    "arbeitsschutz kosten arbeitnehmer",
+    "protective equipment employer cost",
+    "schutzkleidung kosten abziehen",
+    "safety gear deducted from wages"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbschg/__3.html"
+  },
+  "safety_complaint_to_authority": {
+   "area": "work",
+   "law": "§ 17 Abs. 2 ArbSchG",
+   "title": "If your employer ignores a safety complaint, you can go to the authority",
+   "summary": "If employees have concrete reasons to think that the employer's measures and equipment do not ensure safety and health at work, and the employer does not remedy their complaints, they can turn to the competent authority.",
+   "keywords": [
+    "report employer unsafe workplace",
+    "gewerbeaufsichtsamt beschwerde",
+    "unsafe working conditions authority complaint",
+    "arbeitsschutzbehörde melden",
+    "employer ignores safety complaint"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbschg/__17.html"
+  },
+  "risk_assessment_duty": {
+   "area": "work",
+   "law": "§ 5 ArbSchG",
+   "title": "The employer must assess the risks of each job to decide which protective measures are needed",
+   "summary": "The employer has to determine which occupational safety measures are necessary by assessing the risks that the work involves for employees. The assessment follows the type of activity, and for similar working conditions the assessment of one workplace or activity is enough.",
+   "keywords": [
+    "gefährdungsbeurteilung pflicht",
+    "risk assessment workplace employer",
+    "employer must evaluate hazards",
+    "arbeitsbedingungen beurteilen",
+    "hazard assessment job"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbschg/__5.html"
+  },
+  "sick_pay_starts_after_four_weeks": {
+   "area": "work",
+   "law": "§ 3 Abs. 3 EntgFG",
+   "title": "Sick pay from your employer only starts after four uninterrupted weeks in the job",
+   "summary": "The right to continued pay during illness arises only after the employment has lasted four weeks without interruption. Before that, the employer owes no sick pay and the health insurance fund may step in instead.",
+   "keywords": [
+    "sick in first weeks of new job",
+    "entgeltfortzahlung wartezeit vier wochen",
+    "ill during probation first month pay",
+    "erkrankt erste woche neuer job lohn",
+    "four weeks before sick pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/entgfg/__3.html"
+  },
+  "sick_pay_bonus_cut_quarter": {
+   "area": "work",
+   "law": "§ 4a EntgFG",
+   "title": "Employers may cut a special bonus for sick days, but by no more than a quarter of a day's pay per day",
+   "summary": "An agreement may reduce extra payments on top of regular pay (special bonuses) for days of illness. The cut may not exceed one quarter of the average daily earnings per day of illness.",
+   "keywords": [
+    "christmas bonus cut sick days",
+    "sonderzahlung kürzung krankheit",
+    "kürzung weihnachtsgeld krank",
+    "bonus reduced because sick",
+    "4a entgfg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/entgfg/__4a.html"
+  },
+  "holiday_waiting_period_six_months": {
+   "area": "work",
+   "law": "§ 4 BUrlG",
+   "title": "The full holiday entitlement is earned for the first time after six months in the job",
+   "summary": "The full annual leave entitlement is acquired for the first time after the employment has existed for six months. Before that only a partial entitlement arises.",
+   "keywords": [
+    "holiday in first six months",
+    "urlaub wartezeit sechs monate",
+    "new job vacation days probation",
+    "urlaubsanspruch probezeit",
+    "wartezeit urlaub volle anspruch"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/__4.html"
+  },
+  "holiday_half_day_rounds_up": {
+   "area": "work",
+   "law": "§ 5 Abs. 2 BUrlG",
+   "title": "Partial holiday days of half a day or more are rounded up to a full day",
+   "summary": "Fractions of holiday days that amount to at least half a day are rounded up to full days.",
+   "keywords": [
+    "urlaubstage aufrunden halber tag",
+    "round up fraction vacation days",
+    "bruchteil urlaub aufrunden",
+    "half vacation day rounding",
+    "fractions of holiday days rounded up"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/__5.html"
+  },
+  "holiday_rules_cannot_be_waived": {
+   "area": "work",
+   "law": "§ 13 BUrlG",
+   "title": "You cannot be forced to give up statutory holiday: only collective agreements may deviate",
+   "summary": "The holiday rules of the federal holiday act cannot be changed to the employee's disadvantage, except where the law allows deviation by collective agreement.",
+   "keywords": [
+    "contract waives vacation",
+    "urlaubsverzicht arbeitsvertrag unwirksam",
+    "unabdingbarkeit urlaub",
+    "waive statutory holiday contract",
+    "arbeitsvertrag weniger urlaub"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/__13.html"
+  },
+  "holiday_pay_before_departure": {
+   "area": "work",
+   "law": "§ 11 Abs. 2 BUrlG",
+   "title": "Holiday pay must be paid out before the holiday starts",
+   "summary": "The pay for the holiday period has to be paid out before the employee starts the holiday.",
+   "keywords": [
+    "when is holiday pay paid",
+    "urlaubsentgelt vor antritt auszahlen",
+    "holiday pay before leave starts",
+    "urlaubsgeld fälligkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/burlg/__11.html"
+  },
+  "working_hours_added_across_employers": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 ArbZG",
+   "title": "Working for two employers: the hours are added up for the legal limits, breaks do not count",
+   "summary": "Working time is the time from the start to the end of work without the rest breaks. Hours worked for several employers must be added together when applying the working time limits.",
+   "keywords": [
+    "two jobs working time limit",
+    "mehrere arbeitgeber arbeitszeit zusammenrechnen",
+    "second job hours 8 hour limit",
+    "minijob und werkstudent stunden zusammen",
+    "are breaks working time"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbzg/__2.html"
   }
  },
  "free_help": {
