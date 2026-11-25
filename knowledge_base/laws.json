@@ -8372,6 +8372,133 @@
     "vollstreckungsbescheid wirkung versäumnisurteil"
    ],
    "source": "https://www.gesetze-im-internet.de/zpo/__700.html"
+  },
+  "tenant_right_accessibility_ev_burglar_solar": {
+   "area": "housing",
+   "law": "§ 554 BGB",
+   "title": "You can ask the landlord to allow barrier-free changes, EV charging, burglar protection or plug-in solar",
+   "summary": "A tenant can demand that the landlord allows structural changes that serve use by people with disabilities, charging electric vehicles, burglar protection or electricity from plug-in solar devices. There is no claim if the change is unreasonable for the landlord even after weighing the tenant's interests. The tenant can agree to provide special security, and clauses that disadvantage the tenant are void.",
+   "keywords": [
+    "wallbox landlord permission",
+    "plug-in solar balcony landlord",
+    "barrier-free conversion tenant",
+    "steckersolargerät vermieter erlauben",
+    "burglar protection tenant allowed"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__554.html"
+  },
+  "landlord_lien_scope": {
+   "area": "housing",
+   "law": "§ 562 BGB",
+   "title": "Landlord lien: only on your things that can be seized, and not for future claims",
+   "summary": "The landlord has a lien on the tenant's belongings brought into the flat for claims from the tenancy, but not on things that cannot be seized. It cannot be asserted for future compensation claims or for rent later than the current and following rental year.",
+   "keywords": [
+    "vermieterpfandrecht",
+    "landlord lien belongings",
+    "landlord keep my things unpaid rent",
+    "pfandrecht eingebrachte sachen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__562.html"
+  },
+  "landlord_lien_removal": {
+   "area": "housing",
+   "law": "§ 562a BGB",
+   "title": "Landlord lien ends when your belongings leave the property, unless removed behind his back",
+   "summary": "The landlord's lien ends when the things are removed from the property, unless this happens without his knowledge or against his objection. He cannot object if the removal fits ordinary living circumstances.",
+   "keywords": [
+    "moving out belongings landlord lien ends",
+    "remove furniture landlord objects",
+    "pfandrecht erlischt entfernung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__562a.html"
+  },
+  "landlord_lien_other_creditors": {
+   "area": "housing",
+   "law": "§ 562d BGB",
+   "title": "When another creditor seizes your things, the landlord lien covers only the last year of rent",
+   "summary": "If a thing subject to the landlord's lien is seized for another creditor, the lien cannot be asserted against that creditor for rent for a period earlier than the last year before the seizure.",
+   "keywords": [
+    "creditor seizes my things landlord lien",
+    "pfändung dritte vermieterpfandrecht",
+    "last year rent seizure"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__562d.html"
+  },
+  "tenant_preemption_condominium": {
+   "area": "housing",
+   "law": "§ 577 BGB",
+   "title": "Your flat is sold after conversion into a condominium: you have a right of first refusal",
+   "summary": "If rented flats are sold to a third party after condominium ownership was created, or is meant to be created, after you got the flat, the tenant has a right of first refusal. It does not apply if the landlord sells to a family member or a member of his household. The seller or the buyer must tell you the contract terms together with information about the right, and you exercise it by a written declaration to the seller. On the tenant's death it passes to those who enter the lease.",
+   "keywords": [
+    "vorkaufsrecht mieter",
+    "right of first refusal tenant",
+    "flat sold converted condominium",
+    "eigentumswohnung verkauft mieter vorkauf"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__577.html"
+  },
+  "landlord_easier_termination_two_flat_house": {
+   "area": "housing",
+   "law": "§ 573a BGB",
+   "title": "Landlord living in a house with up to two flats can end your lease without a reason, with 3 extra months",
+   "summary": "A landlord who lives in the building (no more than two flats) can terminate a flat lease without a legitimate interest, but the notice period grows by three months. The same applies to rooms inside the landlord's own flat. The letter must state that the termination relies on this rule.",
+   "keywords": [
+    "landlord lives in house no reason termination",
+    "einliegerwohnung kündigung",
+    "two flat house termination without reason",
+    "573a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__573a.html"
+  },
+  "landlord_no_termination_for_rent_increase": {
+   "area": "housing",
+   "law": "§ 573 Abs. 1 BGB",
+   "title": "The landlord cannot end your lease just to raise the rent",
+   "summary": "A landlord can only terminate a residential lease if he has a legitimate interest in ending it, and termination for the purpose of a rent increase is excluded.",
+   "keywords": [
+    "kündigung zum zwecke der mieterhöhung",
+    "terminate lease to raise the rent",
+    "termination for the purpose of a rent increase"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__573.html"
+  },
+  "landlord_reasons_must_be_in_letter": {
+   "area": "housing",
+   "law": "§ 573 Abs. 3 BGB",
+   "title": "Landlord notice: the reasons must be written in the letter, later reasons only count if new",
+   "summary": "The reasons for the landlord's legitimate interest must be stated in the termination letter. Other reasons are only considered if they arose afterwards.",
+   "keywords": [
+    "landlord notice reasons in letter",
+    "termination letter no reason given",
+    "kündigungsschreiben begründung vermieter",
+    "reasons arose later termination"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__573.html"
+  },
+  "tenant_return_subtenant": {
+   "area": "housing",
+   "law": "§ 546 Abs. 2 BGB",
+   "title": "If you sublet, the landlord can reclaim the flat from your subtenant when the lease ends",
+   "summary": "If the tenant let a third person use the rented property, the landlord can also demand it back from that third person after the tenancy ended.",
+   "keywords": [
+    "subtenant must leave when lease ends",
+    "landlord claim flat from subtenant",
+    "untermieter rückgabe"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__546.html"
+  },
+  "rent_paid_in_advance_sale": {
+   "area": "housing",
+   "law": "§ 566b BGB",
+   "title": "Paid rent in advance to the old landlord and the flat was sold: only the current month is safe",
+   "summary": "If the landlord disposed of the rent before ownership passed, that disposition is valid for the calendar month running at the time of transfer. A disposition for a later period must be accepted by the buyer only if he knew about it at the time ownership passed.",
+   "keywords": [
+    "rent paid in advance flat sold",
+    "new owner rent prepaid",
+    "vorausverfügung miete verkauf",
+    "buyer knows prepaid rent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__566b.html"
   }
  },
  "free_help": {
