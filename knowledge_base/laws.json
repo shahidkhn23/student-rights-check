@@ -10024,6 +10024,222 @@
     "314 abs 1 bgb"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__314.html"
+  },
+  "parttime_request_employer_must_discuss": {
+   "area": "work",
+   "law": "§ 8 Abs. 3 TzBfG",
+   "title": "Asked to cut your hours: your employer must discuss it with you and aim for an agreement",
+   "summary": "The employer has to discuss the desired reduction of working time with the employee with the aim of reaching an agreement, and has to reach agreement with the employee on how the working time is distributed.",
+   "keywords": [
+    "arbeitszeit verringern erörtern arbeitgeber",
+    "employer must discuss reduced hours request",
+    "teilzeitwunsch gespräch einvernehmen",
+    "part time request meeting employer",
+    "8 abs 3 tzbfg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/TzBfG.pdf"
+  },
+  "parttime_request_refusal_grounds": {
+   "area": "work",
+   "law": "§ 8 Abs. 4 TzBfG",
+   "title": "The employer may refuse a part-time request only for operational reasons, such as serious disruption or disproportionate cost",
+   "summary": "An operational reason exists in particular if the reduction substantially impairs the organisation, the workflow or safety in the company or causes disproportionate costs. Collective agreements can set the grounds for refusal.",
+   "keywords": [
+    "teilzeit ablehnen betrieblicher grund",
+    "when can employer refuse part time",
+    "betriebliche gründe organisation arbeitsablauf sicherheit",
+    "reduce hours refused disproportionate costs",
+    "8 abs 4 tzbfg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "parttime_request_decision_one_month_before": {
+   "area": "work",
+   "law": "§ 8 Abs. 5 TzBfG",
+   "title": "The employer must answer your part-time request in text form at least one month before the start, or your wishes may apply",
+   "summary": "The employer must tell the employee his decision on the reduction and its distribution in text form at the latest one month before the desired start. If no agreement on distribution was reached and the employer has not rejected the desired distribution in text form by then, the distribution is deemed set as the employee wishes.",
+   "keywords": [
+    "teilzeit antwort ein monat vorher textform",
+    "employer silent on part time request deemed approved",
+    "arbeitszeitverteilung gilt als festgelegt",
+    "no answer reduced hours request",
+    "8 abs 5 tzbfg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/__8.html"
+  },
+  "bridge_part_time_needs_over_45_staff": {
+   "area": "work",
+   "law": "§ 9a TzBfG",
+   "title": "Temporary part-time (Brückenteilzeit) only if your employer usually has more than 45 employees",
+   "summary": "An employee has a right to a temporary reduction of working time only if the employer usually employs more than 45 employees.",
+   "keywords": [
+    "brückenteilzeit 45 arbeitnehmer",
+    "temporary part time small company no right",
+    "brückenteilzeit kleinbetrieb",
+    "how many employees for brückenteilzeit",
+    "9a tzbfg 45"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/__9a.html"
+  },
+  "bridge_part_time_quota_45_to_200": {
+   "area": "work",
+   "law": "§ 9a Abs. 2 TzBfG",
+   "title": "Employers with 46 to 200 staff may refuse Brückenteilzeit once enough colleagues already have it",
+   "summary": "An employer with usually more than 45 but not more than 200 employees can also refuse a request if, at the desired start, a quota of employees already works reduced hours: at least four for more than 45 to 60 employees, five for more than 60 to 75, six for more than 75 to 90, seven for more than 90 to 105 employees, and so on.",
+   "keywords": [
+    "brückenteilzeit zumutbarkeitsgrenze",
+    "brückenteilzeit ablehnen schon vier mitarbeiter",
+    "temporary part time refused quota colleagues",
+    "9a abs 2 tzbfg staffel",
+    "brückenteilzeit mittlere betriebe"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/__9a.html"
+  },
+  "care_emergency_ten_days_off": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 PflegeZG",
+   "title": "A relative suddenly needs care: you may stay away from work up to ten working days",
+   "summary": "Employees have the right to stay away from work for up to ten working days if this is necessary to organise appropriate care or ensure care for a close relative in need of care in an acute care situation.",
+   "keywords": [
+    "pflegefall angehöriger zehn tage freistellung",
+    "sudden care situation relative days off work",
+    "kurzzeitige arbeitsverhinderung",
+    "take time off to organise care for parent",
+    "2 pflegezg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflegezg/__2.html"
+  },
+  "care_emergency_tell_employer_certificate": {
+   "area": "work",
+   "law": "§ 2 Abs. 2 PflegeZG",
+   "title": "Care emergency: tell your employer at once how long you will be away and show a certificate if asked",
+   "summary": "Employees must inform the employer without delay of their absence and its expected duration. On request the employer must be shown a medical certificate or a certificate from a nursing professional on the relative's need for care and the necessity of the measures.",
+   "keywords": [
+    "pflegefall arbeitgeber informieren bescheinigung",
+    "care leave employer certificate request",
+    "pflegebedürftigkeit bescheinigung vorlegen",
+    "notify employer care emergency",
+    "2 abs 2 pflegezg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflegezg/__2.html"
+  },
+  "care_leave_not_for_tiny_employers": {
+   "area": "work",
+   "law": "§ 3 Abs. 1 PflegeZG",
+   "title": "Up to six months of care leave (Pflegezeit) only against employers with more than 15 employees",
+   "summary": "The right to be fully or partly released from work to care for a close relative at home (Pflegezeit) does not exist against employers who usually have 15 or fewer employees.",
+   "keywords": [
+    "pflegezeit 15 beschäftigte",
+    "care leave small employer no right",
+    "pflegezeit kleinbetrieb anspruch",
+    "long care leave employer size",
+    "3 pflegezg",
+    "company with ten employees care leave six months",
+    "pflegezeit sechs monate kleiner arbeitgeber"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflegezg/PflegeZG.pdf"
+  },
+  "care_leave_combined_24_months": {
+   "area": "work",
+   "law": "§ 4 PflegeZG",
+   "title": "Care leave plus family care leave together may not exceed 24 months per relative",
+   "summary": "Pflegezeit and Familienpflegezeit together may not exceed a total of 24 months for each close relative in need of care.",
+   "keywords": [
+    "pflegezeit familienpflegezeit 24 monate",
+    "care leave maximum 24 months",
+    "höchstdauer pflegezeit",
+    "how long can i take care leave",
+    "4 pflegezg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html"
+  },
+  "care_leave_dismissal_protection": {
+   "area": "work",
+   "law": "§ 5 Abs. 1 PflegeZG",
+   "title": "Care leave: no dismissal from the announcement, at most twelve weeks before it starts",
+   "summary": "The employer may not terminate the employment from the announcement, but at most twelve weeks before the announced start, until the end of the short-term absence under § 2 or the release under § 3.",
+   "keywords": [
+    "pflegezeit kündigungsschutz zwölf wochen",
+    "dismissed during care leave",
+    "kündigung pflegezeit ankündigung",
+    "care leave job protection",
+    "5 pflegezg",
+    "fired once i announce care leave",
+    "announce pflegezeit dismissal twelve weeks"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html"
+  },
+  "family_care_leave_min_15_hours": {
+   "area": "work",
+   "law": "§ 2 FPfZG",
+   "title": "Family care leave: up to 24 months of reduced hours, at least 15 hours a week, only at employers with more than 25 staff",
+   "summary": "Employees are partly released from work for up to 24 months to care for a close relative at home. The reduced weekly working time must be at least 15 hours, averaged over up to a year. The claim does not exist against employers who usually employ 25 or fewer employees, not counting trainees.",
+   "keywords": [
+    "familienpflegezeit 15 stunden 25 beschäftigte",
+    "family care leave minimum hours",
+    "familienpflegezeit anspruch",
+    "reduce hours care relative 24 months",
+    "2 fpfzg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/fpfzg/__2.html"
+  },
+  "care_support_allowance_ten_days": {
+   "area": "work",
+   "law": "§ 44a SGB XI",
+   "title": "During a care emergency absence you can get Pflegeunterstützungsgeld for up to ten working days a year",
+   "summary": "Employees who take short-term leave under § 2 PflegeZG and get neither continued pay from the employer nor sickness benefit for a sick child have a claim to compensation for lost pay (Pflegeunterstützungsgeld) for up to ten working days per calendar year. If several employees claim for the same relative, the total is limited to ten days.",
+   "keywords": [
+    "pflegeunterstützungsgeld zehn arbeitstage",
+    "care support allowance lost pay care emergency",
+    "ausgleich entgangenes arbeitsentgelt pflege",
+    "who pays during care leave days",
+    "44a sgb xi",
+    "money while away sudden care situation",
+    "pflegeunterstützungsgeld bekomme ich geld"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_11/__44a.html"
+  },
+  "employer_must_protect_life_and_health_618": {
+   "area": "work",
+   "law": "§ 618 Abs. 1 BGB",
+   "title": "The employer must arrange workplace, equipment and work so you are protected against danger to life and health",
+   "summary": "The employer must set up and maintain the rooms, devices and equipment he has to provide, and regulate services under his direction, so that the employee is protected against danger to life and health as far as the nature of the service permits.",
+   "keywords": [
+    "arbeitgeber schutzpflicht gesundheit arbeitsplatz",
+    "employer duty of care safe workplace",
+    "fürsorgepflicht räume geräte",
+    "workplace danger employer responsible",
+    "618 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__618.html"
+  },
+  "minijob_hours_must_be_recorded": {
+   "area": "work",
+   "law": "§ 17 Abs. 1 MiLoG",
+   "title": "Minijob: your employer must record start, end and length of each workday within seven days and keep it two years",
+   "summary": "Employers of marginally employed workers (minijobbers) must record the start, end and duration of the daily working time at the latest by the end of the seventh calendar day after the work and keep the records for at least two years.",
+   "keywords": [
+    "minijob arbeitszeit aufzeichnen pflicht",
+    "minijob employer must record working hours",
+    "stundenaufzeichnung geringfügig beschäftigte",
+    "keep time records two years minijob",
+    "17 milog"
+   ],
+   "source": "https://www.gesetze-im-internet.de/milog/__17.html"
+  },
+  "miscarriage_protection_eight_weeks_from_week_20": {
+   "area": "work",
+   "law": "§ 3 Abs. 2 MuSchG",
+   "title": "After a miscarriage from the 20th week of pregnancy, the maternity protection period lasts eight weeks",
+   "summary": "The protection period after a miscarriage lasts six weeks from the 17th week of pregnancy and eight weeks from the 20th week of pregnancy.",
+   "keywords": [
+    "fehlgeburt mutterschutz schutzfrist",
+    "maternity protection after miscarriage weeks",
+    "fehlgeburt 20 schwangerschaftswoche acht wochen",
+    "miscarriage work ban period",
+    "3 muschg fehlgeburt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/__3.html"
   }
  },
  "free_help": {
