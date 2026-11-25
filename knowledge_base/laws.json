@@ -8999,6 +8999,242 @@
     "are breaks working time"
    ],
    "source": "https://www.gesetze-im-internet.de/arbzg/__2.html"
+  },
+  "employer_notice_grows_with_service": {
+   "area": "work",
+   "law": "§ 622 Abs. 2 BGB",
+   "title": "If the employer ends the job, notice grows with service: one month after 2 years up to seven months after 20",
+   "summary": "When the employer gives notice, the period depends on how long the employment has lasted at the company: one month to the end of a calendar month after two years, two months after five, three after eight, four after ten, five after twelve, six after fifteen and seven months after twenty years.",
+   "keywords": [
+    "employer notice period length of service",
+    "kündigungsfrist arbeitgeber betriebszugehörigkeit",
+    "how long notice after ten years",
+    "staffel kündigungsfrist zwei monate fünf jahre",
+    "notice seven months twenty years"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__622.html"
+  },
+  "extraordinary_dismissal_two_weeks_from_knowledge": {
+   "area": "work",
+   "law": "§ 626 Abs. 2 BGB",
+   "title": "Dismissal without notice must come within two weeks of learning the facts, and you can ask for the reason in writing",
+   "summary": "A termination for good cause can only be declared within two weeks. The period starts when the person entitled to terminate learns of the facts that justify it. On request, the terminating party must give the reason in writing without delay.",
+   "keywords": [
+    "fristlose kündigung zwei wochen frist",
+    "summary dismissal too late",
+    "employer waited month before firing for cause",
+    "kündigungsgrund schriftlich verlangen",
+    "626 abs 2"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__626.html"
+  },
+  "no_punishment_for_asserting_rights": {
+   "area": "work",
+   "law": "§ 612a BGB",
+   "title": "The employer may not disadvantage you for lawfully asserting your rights",
+   "summary": "An employer may not put an employee at a disadvantage in an agreement or measure because the employee lawfully exercises his rights.",
+   "keywords": [
+    "fired for demanding my rights",
+    "maßregelungsverbot arbeitgeber",
+    "retaliation employer after asking holiday pay",
+    "benachteiligung rechte ausüben",
+    "612a bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__612a.html"
+  },
+  "freelance_notice_by_pay_period": {
+   "area": "work",
+   "law": "§ 621 BGB",
+   "title": "Freelance service contract without fixed notice: the period follows how the fee is calculated",
+   "summary": "For service relationships that are not employment and have no agreed notice period, the notice depends on the pay period. If the remuneration is measured by months, notice must be given at the latest on the 15th of a month to end at the close of that month.",
+   "keywords": [
+    "freelancer contract termination notice",
+    "dienstvertrag kündigungsfrist monatlich 15.",
+    "freier mitarbeiter kündigen",
+    "honorar monatlich kündigung bis zum 15",
+    "621 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__621.html"
+  },
+  "default_interest_five_points": {
+   "area": "money",
+   "law": "§ 288 Abs. 1 BGB",
+   "title": "If you pay late, default interest is five percentage points above the base rate",
+   "summary": "A money debt bears interest during default. The default rate is five percentage points above the base interest rate per year. Nine points apply only between transactions in which no consumer is involved.",
+   "keywords": [
+    "verzugszinsen höhe verbraucher",
+    "late payment interest rate germany",
+    "basiszinssatz plus fünf prozent",
+    "interest on overdue invoice",
+    "288 bgb verzugszinsen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__288.html"
+  },
+  "no_40_euro_flat_against_consumers": {
+   "area": "money",
+   "law": "§ 288 Abs. 5 BGB",
+   "title": "The 40 euro late-payment flat fee does not apply to consumers",
+   "summary": "A creditor can claim a flat 40 euro in addition to default interest only when the debtor in default is not a consumer. The rule on this flat fee is not applicable against a consumer.",
+   "keywords": [
+    "40 euro pauschale mahnung privatperson",
+    "verzugspauschale verbraucher",
+    "40 euro late fee consumer",
+    "mahnkosten pauschale 40 euro"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__288.html"
+  },
+  "no_fee_for_card_or_sepa_payment": {
+   "area": "consumer",
+   "law": "§ 270a BGB",
+   "title": "Shops may not charge extra for paying by SEPA direct debit, bank transfer or card",
+   "summary": "An agreement that obliges the debtor to pay a fee for using a SEPA basic direct debit, SEPA company direct debit, SEPA transfer or a payment card is void.",
+   "keywords": [
+    "surcharge card payment",
+    "aufpreis kartenzahlung unzulässig",
+    "zuschlag lastschrift überweisung verboten",
+    "shop charges fee paying by card",
+    "270a bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__270a.html"
+  },
+  "unusual_terms_not_binding_doubt_against_user": {
+   "area": "consumer",
+   "law": "§ 305c BGB",
+   "title": "Unusual small-print clauses do not count, and doubts are read against the company that wrote them",
+   "summary": "Terms in general conditions that are so unusual by the circumstances, especially by the look of the contract, that the other party need not expect them, do not become part of the contract. Doubts in interpreting general conditions go against the party that uses them.",
+   "keywords": [
+    "überraschende klausel agb",
+    "hidden clause terms and conditions unusual",
+    "agb zweifel zu lasten verwender",
+    "small print surprise clause not valid",
+    "305c"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__305c.html"
+  },
+  "invalid_clause_contract_survives": {
+   "area": "consumer",
+   "law": "§ 306 Abs. 1, 2 BGB",
+   "title": "If a clause in the terms is void, the rest of the contract stays valid and the statute fills the gap",
+   "summary": "If general conditions are not part of the contract or are invalid, the contract otherwise remains in force. The content then follows the statutory rules.",
+   "keywords": [
+    "unwirksame klausel vertrag bleibt wirksam",
+    "invalid clause whole contract void",
+    "agb unwirksam gesetzliche regelung",
+    "what if one clause is illegal",
+    "306 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__306.html"
+  },
+  "no_liability_waiver_for_injury_in_terms": {
+   "area": "consumer",
+   "law": "§ 309 Nr. 7 BGB",
+   "title": "Small print cannot exclude liability for injuries to life, body or health",
+   "summary": "In general terms, a clause is invalid that excludes or limits liability for damage from injury to life, body or health caused by negligent breach by the user of the terms, or by intentional or negligent breach by his legal representative or helper. Limits for gross fault are also covered by the same rule.",
+   "keywords": [
+    "haftungsausschluss körperverletzung agb",
+    "waiver of liability injury invalid",
+    "sports club waiver unwirksam",
+    "haftung ausschluss verletzung gesundheit klausel",
+    "309 nr 7"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__309.html"
+  },
+  "no_contract_penalty_in_terms_for_late_payment": {
+   "area": "consumer",
+   "law": "§ 309 Nr. 6 BGB",
+   "title": "Terms cannot promise the company a contract penalty if you pay late, do not accept or leave the contract",
+   "summary": "A clause in general terms is invalid if it promises the user a contract penalty for non-acceptance or late acceptance of the service, for default in payment, or for the other party withdrawing from the contract.",
+   "keywords": [
+    "vertragsstrafe agb zahlungsverzug",
+    "contract penalty clause consumer",
+    "vertragsstrafe klausel unwirksam kunde",
+    "penalty if i cancel terms conditions",
+    "309 nr 6"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__309.html"
+  },
+  "terms_cannot_waive_reminder_or_deadline": {
+   "area": "consumer",
+   "law": "§ 309 Nr. 4 BGB",
+   "title": "Terms cannot let a company skip the reminder or deadline it must normally give you",
+   "summary": "A clause in general terms is invalid that frees the user from the legal duty to send a reminder to the other party or to set a deadline for performance or later fulfilment.",
+   "keywords": [
+    "agb mahnung entbehrlich klausel",
+    "terms waive reminder deadline invalid",
+    "fristsetzung ausschließen agb",
+    "without reminder default clause"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__309.html"
+  },
+  "withdraw_from_contract_after_deadline_for_performance": {
+   "area": "consumer",
+   "law": "§ 323 BGB",
+   "title": "Withdrawing from a contract for poor performance: set a reasonable deadline first, unless exceptions apply",
+   "summary": "If the other side does not perform or performs badly, you can withdraw after setting a reasonable deadline without success. The deadline is not needed if the debtor seriously and finally refuses, or if special circumstances justify immediate withdrawal. No withdrawal is possible if the breach is insignificant.",
+   "keywords": [
+    "rücktritt vom vertrag frist setzen",
+    "withdraw from contract bad performance deadline",
+    "fristsetzung nacherfüllung rücktritt",
+    "seller refuses perform withdraw",
+    "323 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__323.html"
+  },
+  "distance_contract_definition": {
+   "area": "consumer",
+   "law": "§ 312c BGB",
+   "title": "A distance contract is concluded only through remote means such as email, phone or messages",
+   "summary": "A distance contract is one where the trader and the consumer use only means of distance communication for negotiations and conclusion, unless the contract is not concluded within an organised distance sales system. Means include letters, catalogues, phone calls, emails, text messages, broadcast and digital services.",
+   "keywords": [
+    "what is a distance contract",
+    "fernabsatzvertrag definition",
+    "fernkommunikationsmittel sms email telefon",
+    "bestellung per telefon widerruf fernabsatz",
+    "312c"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312c.html"
+  },
+  "online_shop_info_becomes_contract": {
+   "area": "consumer",
+   "law": "§ 312d Abs. 1 BGB",
+   "title": "What the shop tells you before you buy online becomes part of the contract",
+   "summary": "In distance and off-premises contracts, the trader must inform the consumer as required by Article 246a of the introductory act. The information given becomes part of the contract unless the parties expressly agree otherwise.",
+   "keywords": [
+    "pre-contract information shop contract",
+    "vorvertragliche informationen vertragsinhalt",
+    "webshop angaben verbindlich",
+    "312d bgb informationspflichten",
+    "shop description binding"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312d.html"
+  },
+  "webshop_must_let_you_fix_input_errors": {
+   "area": "consumer",
+   "law": "§ 312i Abs. 1 BGB",
+   "title": "Online shops must let you spot and fix input errors, confirm your order and save the terms",
+   "summary": "A trader who sells online must give appropriate technical means to recognise and correct input errors before the order is placed, state the required information in time, confirm receipt of the order without delay by electronic means, and make it possible to retrieve and save the contract terms including the general conditions at conclusion.",
+   "keywords": [
+    "mistyped order online shop correct",
+    "eingabefehler bestellung berichtigen",
+    "bestellbestätigung pflicht webshop",
+    "save agb at order",
+    "312i bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312i.html"
+  },
+  "digital_products_consumer_scope": {
+   "area": "consumer",
+   "law": "§ 327 BGB",
+   "title": "Consumer rules for apps, downloads and online services apply when you pay a price, including digital value",
+   "summary": "The special rules for digital products apply to consumer contracts under which a trader provides digital content or digital services for a price. A price also includes a digital representation of value. Digital content means data created and supplied in digital form.",
+   "keywords": [
+    "digital product consumer rights",
+    "digitale inhalte verbraucherrechte preis",
+    "app subscription defects law",
+    "327 bgb digitale produkte",
+    "buy software online consumer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__327.html"
   }
  },
  "free_help": {
