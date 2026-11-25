@@ -387,7 +387,7 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('may I take a paid side job while I am on holiday', 'no_paid_side_job_during_holiday'),
     ('my employer gave me nothing on the first day, what must he hand over by day seven and after a month', 'employer_must_give_written_terms_by_deadlines'),
     ('must the written contract terms mention the notice period and the deadline to sue against dismissal', 'written_terms_must_name_dismissal_deadline'),
-    ('my employer changed my working hours, does he have to tell me in writing by the day it applies', 'contract_changes_in_writing_by_effective_day'),
+    ('does a change of my essential contract terms have to be notified in writing by the day it takes effect', 'contract_changes_in_writing_by_effective_day'),
     ('what fine can an employer get for not giving me the written key terms', 'missing_written_terms_fine'),
     ('I missed the three weeks for the dismissal suit because I was prevented, how long to apply for a late suit', 'dismissal_late_suit_two_weeks'),
     ('I already filed in time can I add more reasons why my dismissal is invalid at the hearing', 'dismissal_add_reasons_until_hearing'),
