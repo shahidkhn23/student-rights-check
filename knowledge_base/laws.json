@@ -8609,6 +8609,255 @@
     "pflicht zur krankenfürsorge"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__617.html"
+  },
+  "tenant_damages_and_self_repair": {
+   "area": "housing",
+   "law": "§ 536a BGB",
+   "title": "Defect in your flat: damages, and you can fix it yourself if the landlord is late or it is urgent",
+   "summary": "The tenant can claim damages if a defect existed at signing, arose later because of something the landlord is responsible for, or the landlord is late fixing it. The tenant may fix the defect himself and demand the necessary costs if the landlord is in default or if immediate repair is needed to preserve the property.",
+   "keywords": [
+    "landlord late repair tenant pays",
+    "schadensersatz mangel vermieter",
+    "mangel selbst beseitigen kosten",
+    "536a",
+    "emergency repair flat reimbursement"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__536a.html"
+  },
+  "tenant_other_expenses_and_removal_right": {
+   "area": "housing",
+   "law": "§ 539 BGB",
+   "title": "Other money you spent on the flat, and fixtures you installed: what you can claim or take with you",
+   "summary": "Expenses on the rented property that the landlord does not owe under the defect rule can be reclaimed under the rules for management without authority. The tenant may also remove any installation he added to the property.",
+   "keywords": [
+    "took my shelves kitchen when moving out",
+    "wegnahmerecht einrichtung mieter",
+    "reimbursement improvements tenant paid",
+    "einbauküche mitnehmen mieter",
+    "539 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__539.html"
+  },
+  "landlord_buyout_of_removal_right": {
+   "area": "housing",
+   "law": "§ 552 BGB",
+   "title": "The landlord can stop you removing fixtures by paying fair compensation, unless you have a good reason",
+   "summary": "The landlord can prevent the tenant from exercising his right to remove installations by paying reasonable compensation, unless the tenant has a legitimate interest in taking them away.",
+   "keywords": [
+    "landlord pays compensation instead of removal",
+    "wegnahmerecht abwenden entschädigung",
+    "landlord wants to keep installed fixtures",
+    "552 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__552.html"
+  },
+  "landlord_injunction_after_warning": {
+   "area": "housing",
+   "law": "§ 541 BGB",
+   "title": "Using the flat against the lease: after a written warning the landlord can sue to make you stop",
+   "summary": "If the tenant keeps using the property in breach of the contract despite a warning from the landlord, the landlord can sue for an injunction to stop it.",
+   "keywords": [
+    "landlord warning breach of lease use",
+    "abmahnung vermieter unterlassung",
+    "vertragswidriger gebrauch mietwohnung",
+    "541 bgb",
+    "landlord sues stop using flat"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__541.html"
+  },
+  "utility_costs_default_by_living_area": {
+   "area": "housing",
+   "law": "§ 556a Abs. 1 BGB",
+   "title": "Utility costs are split by living area unless the lease says otherwise, and metered use by consumption",
+   "summary": "Unless the parties agreed otherwise, operating costs are divided by each flat's share of the living area. Costs that depend on measured consumption or measured causation by the tenants must be divided by a key that reflects the different use.",
+   "keywords": [
+    "how are utility costs split between flats",
+    "umlageschlüssel wohnfläche",
+    "nebenkosten verteilung quadratmeter",
+    "verbrauchsabhängige abrechnung mieter",
+    "556a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556a.html"
+  },
+  "agg_protected_grounds_scope": {
+   "area": "discrimination",
+   "law": "§ 1, § 2 Abs. 1 AGG",
+   "title": "The AGG protects against discrimination on six listed grounds, from application to career progress",
+   "summary": "The equal treatment act aims to prevent or remove discrimination on grounds of race or ethnic origin, gender, religion or belief, disability, age or sexual identity. It covers conditions for access to employed and self-employed work including selection criteria and hiring conditions, whatever the field or position, and career advancement. It also reaches areas such as social protection and health services.",
+   "keywords": [
+    "which grounds does the agg protect",
+    "allgemeines gleichbehandlungsgesetz geschützte merkmale",
+    "agg six grounds",
+    "what counts as discrimination law germany",
+    "agg anwendungsbereich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__1.html"
+  },
+  "agg_lower_pay_protective_rules_no_excuse": {
+   "area": "discrimination",
+   "law": "§ 8 Abs. 2 AGG",
+   "title": "Lower pay for the same work cannot be justified by saying a protective rule applies to you",
+   "summary": "Agreeing on lower pay for equal or equivalent work because of a protected ground is not justified by the fact that special protective rules exist for that ground.",
+   "keywords": [
+    "lower pay same work protective rule",
+    "gleiche arbeit weniger lohn schutzvorschrift",
+    "equal pay excuse special protection",
+    "8 agg vergütung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__8.html"
+  },
+  "agg_age_differences_allowed_if_justified": {
+   "area": "discrimination",
+   "law": "§ 10 AGG",
+   "title": "Age-based differences are allowed only for a legitimate aim and with proportionate means",
+   "summary": "Different treatment because of age is permitted if it is objectively and reasonably justified by a legitimate aim and the means are appropriate and necessary. Examples listed include special conditions to help integrate young or older workers, and a maximum hiring age based on the training the job needs or a reasonable working time before retirement.",
+   "keywords": [
+    "too old for the job discrimination",
+    "altersgrenze einstellung zulässig",
+    "age limit job application germany",
+    "altersdiskriminierung rechtfertigung",
+    "10 agg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__10.html"
+  },
+  "agg_employer_prevention_duty": {
+   "area": "discrimination",
+   "law": "§ 12 AGG",
+   "title": "The employer must actively prevent discrimination and act against employees who discriminate",
+   "summary": "The employer must take the measures needed to protect employees from discrimination, including preventive ones. Suitable training of staff counts as fulfilling the duty. If employees breach the ban on discrimination, the employer must take suitable, necessary and proportionate action such as a warning, transfer or dismissal. The law and the contact points for complaints must be made known in the workplace.",
+   "keywords": [
+    "employer must prevent discrimination",
+    "arbeitgeber pflichten diskriminierung schutz",
+    "agg schulung arbeitgeber",
+    "colleague discriminates what must employer do",
+    "12 agg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__12.html"
+  },
+  "agg_right_to_complain_at_work": {
+   "area": "discrimination",
+   "law": "§ 13 Abs. 1 AGG",
+   "title": "You can complain to the right office at work if you feel discriminated against, and must get an answer",
+   "summary": "Employees have the right to complain to the responsible bodies of the workplace, company or office if they feel disadvantaged for a protected reason by the employer, superiors, colleagues or third parties. The complaint must be examined and the result communicated to the employee.",
+   "keywords": [
+    "agg beschwerdestelle",
+    "beschwerde diskriminierung betrieb",
+    "where to complain discrimination at work",
+    "beschwerderecht arbeitnehmer 13 agg",
+    "complaint office employer result"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__13.html"
+  },
+  "agg_no_retaliation_for_complaint": {
+   "area": "discrimination",
+   "law": "§ 16 AGG",
+   "title": "The employer may not punish you, or your supporters and witnesses, for using your discrimination rights",
+   "summary": "The employer may not disadvantage employees because they assert their rights under the equal treatment act. The same protection applies to people who support the employee or testify as witnesses.",
+   "keywords": [
+    "retaliation after discrimination complaint",
+    "maßregelungsverbot agg",
+    "fired for complaining discrimination",
+    "benachteiligung zeuge agg",
+    "16 agg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__16.html"
+  },
+  "copyright_lasts_70_years": {
+   "area": "copyright",
+   "law": "§ 64 UrhG",
+   "title": "Copyright expires 70 years after the author dies, then the work is free to use",
+   "summary": "The author's copyright ends seventy years after his death. After that the work is in the public domain, apart from separate rights such as those of later editors or photographers.",
+   "keywords": [
+    "when does copyright expire",
+    "urheberrecht schutzfrist 70 jahre",
+    "public domain germany years",
+    "gemeinfrei wann",
+    "author died copyright duration"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__64.html"
+  },
+  "private_copy_limits": {
+   "area": "copyright",
+   "law": "§ 53 Abs. 1 UrhG",
+   "title": "Private copies: single copies for yourself are allowed, but not from an obviously illegal source",
+   "summary": "A natural person may make single copies of a work for private use on any medium as long as the copies serve no direct or indirect commercial purpose and the source is not obviously unlawfully produced or made available. The copies may not be distributed or used for public performance.",
+   "keywords": [
+    "is it legal to copy a cd for myself",
+    "privatkopie erlaubt",
+    "download from illegal source private copy",
+    "kopie für privaten gebrauch",
+    "53 urhg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__53.html"
+  },
+  "research_copies_15_75_percent": {
+   "area": "copyright",
+   "law": "§ 60c UrhG",
+   "title": "Research: up to 15 % shared with a research group, up to 75 % for your own, small works in full",
+   "summary": "For non-commercial scientific research, up to 15 percent of a work may be reproduced and shared with a defined group of people for their own research, or with individual third parties checking the quality of the research. Up to 75 percent may be reproduced for one's own research. Illustrations, single articles from a journal, other short works and out-of-print works may be used in full.",
+   "keywords": [
+    "copy chapters for my thesis",
+    "wissenschaftliche forschung kopieren prozent",
+    "75 percent book own research",
+    "forschungsgruppe 15 prozent teilen",
+    "60c urhg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__60c.html"
+  },
+  "copyright_of_work_created_in_a_job": {
+   "area": "copyright",
+   "law": "§ 43 UrhG",
+   "title": "What you create in your job: the copyright rules still apply, unless the job says otherwise",
+   "summary": "The rules on authors' rights also apply when the author created the work to fulfil duties from an employment or service relationship, as far as the content or nature of the employment does not require something different.",
+   "keywords": [
+    "who owns what i create at work",
+    "urheberrecht arbeitnehmer werk",
+    "copyright employee work employer",
+    "werkstudent code gehört wem",
+    "43 urhg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__43.html"
+  },
+  "software_use_without_extra_licence": {
+   "area": "copyright",
+   "law": "§ 69d Abs. 1 UrhG",
+   "title": "Authorised users of a program may do the copying needed for normal use, unless the contract says otherwise",
+   "summary": "Unless special contract terms say otherwise, the acts of reproduction and alteration of a computer program do not need the rights holder's consent when they are necessary for the intended use of the program, including error correction, by anyone entitled to use a copy.",
+   "keywords": [
+    "may i install software on two devices",
+    "softwarelizenz bestimmungsgemäße benutzung",
+    "69d urhg",
+    "fix bug in licensed program allowed",
+    "programm vervielfältigung erlaubt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__69d.html"
+  },
+  "prescription_copayment_5_to_10_euro": {
+   "area": "health",
+   "law": "§ 31 Abs. 3, § 61 SGB V",
+   "title": "Prescription drugs for adults: 10 % copayment, at least 5 and at most 10 euro, never more than the price",
+   "summary": "Insured people aged 18 or over pay a copayment for each prescribed drug or dressing covered by statutory insurance. It is 10 percent of the retail price, at least 5 euro and at most 10 euro, but never more than the cost of the product.",
+   "keywords": [
+    "how much do i pay for prescription",
+    "rezeptgebühr höhe",
+    "zuzahlung medikamente 5 10 euro",
+    "pharmacy copay statutory insurance",
+    "31 sgb v zuzahlung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__61.html"
+  },
+  "consumable_aids_copayment_15_monthly": {
+   "area": "health",
+   "law": "§ 33, § 61 SGB V",
+   "title": "Consumable medical aids: 10 % copayment, capped at 15 euro for the whole month's supply",
+   "summary": "For aids that are used up, such as certain care and incontinence supplies, the copayment is 10 percent of the amount the health fund pays, with a maximum of 15 euro for the entire monthly need.",
+   "keywords": [
+    "hilfsmittel zum verbrauch zuzahlung",
+    "monthly aids copay statutory insurance",
+    "verbandmaterial zuzahlung 15 euro",
+    "consumable medical aid costs"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__33.html"
   }
  },
  "free_help": {
