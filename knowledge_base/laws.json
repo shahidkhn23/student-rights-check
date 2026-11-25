@@ -9898,6 +9898,132 @@
     "7 wogg ausschluss"
    ],
    "source": "https://www.gesetze-im-internet.de/wogg/__7.html"
+  },
+  "usury_contract_void": {
+   "area": "consumer",
+   "law": "§ 138 Abs. 2 BGB",
+   "title": "Exploitative deals (usury) are void: obvious imbalance plus exploiting your weakness, inexperience or hardship",
+   "summary": "A legal transaction is void if someone, by exploiting the other's predicament, inexperience, lack of judgment or considerable weakness of will, has promised or granted to himself or a third party financial advantages that are in obvious disproportion to the performance.",
+   "keywords": [
+    "wucher vertrag nichtig",
+    "exploited unfair price contract void",
+    "auffälliges missverhältnis zwangslage",
+    "predatory deal inexperience void germany",
+    "138 abs 2 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__138.html"
+  },
+  "contract_against_good_morals_void": {
+   "area": "consumer",
+   "law": "§ 138 Abs. 1 BGB",
+   "title": "A contract that offends common decency (gute Sitten) is void",
+   "summary": "A legal transaction that violates good morals is void.",
+   "keywords": [
+    "sittenwidriger vertrag nichtig",
+    "immoral contract void germany",
+    "verstoß gegen die guten sitten",
+    "contract against public morals invalid",
+    "138 abs 1 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__138.html"
+  },
+  "contract_against_statutory_ban_void": {
+   "area": "consumer",
+   "law": "§ 134 BGB",
+   "title": "A contract that breaks a legal prohibition is void unless the law says otherwise",
+   "summary": "A legal transaction that violates a statutory prohibition is void, unless the law provides otherwise.",
+   "keywords": [
+    "gesetzliches verbot nichtig vertrag",
+    "contract illegal void germany",
+    "vertrag verstößt gegen gesetz",
+    "illegal agreement not enforceable",
+    "134 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__134.html"
+  },
+  "void_clause_whole_contract_void_unless": {
+   "area": "consumer",
+   "law": "§ 139 BGB",
+   "title": "If one part of a deal is void, the whole deal is void unless it would have been made without that part",
+   "summary": "If part of a legal transaction is void, the whole transaction is void, unless it can be assumed that it would have been made without the void part.",
+   "keywords": [
+    "teilnichtigkeit vertrag",
+    "one clause void whole contract",
+    "unwirksame klausel ganzer vertrag",
+    "partial invalidity contract germany",
+    "139 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__139.html"
+  },
+  "void_deal_may_count_as_another": {
+   "area": "consumer",
+   "law": "§ 140 BGB",
+   "title": "A void deal counts as another deal if it meets that deal's requirements and the parties would have wanted it",
+   "summary": "If a void legal transaction meets the requirements of another legal transaction, the latter applies if it can be assumed that the parties would have wanted it had they known of the nullity.",
+   "keywords": [
+    "umdeutung nichtiges rechtsgeschäft",
+    "void contract converted into another",
+    "nichtigkeit umdeuten",
+    "invalid termination counts as ordinary",
+    "140 bgb umdeutung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__140.html"
+  },
+  "unordered_goods_exception_mistaken_delivery": {
+   "area": "consumer",
+   "law": "§ 241a Abs. 2 BGB",
+   "title": "Unordered goods: legal claims stay possible if it was a mistaken delivery you recognised or should have recognised",
+   "summary": "Legal claims are not excluded if the item was not meant for the recipient or was delivered under the mistaken idea of an order, and the recipient recognised this or could have recognised it with the care required in business.",
+   "keywords": [
+    "falsche lieferung irrtum nachbar paket behalten",
+    "parcel delivered by mistake keep it",
+    "unbestellte ware irrtümlich geliefert",
+    "wrong delivery must return germany",
+    "241a abs 2"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__241a.html"
+  },
+  "unordered_goods_terms_cannot_waive": {
+   "area": "consumer",
+   "law": "§ 241a Abs. 3 BGB",
+   "title": "Shops cannot change the unordered goods rule to your disadvantage, even by tricks",
+   "summary": "Rules on unordered deliveries may not be deviated from to the consumer's disadvantage, and they apply even when circumvented by other arrangements.",
+   "keywords": [
+    "unbestellte leistungen agb abweichen",
+    "shop terms cannot change unordered rule",
+    "umgehung verbraucherschutz unbestellte",
+    "no contract from silence germany consumer",
+    "241a abs 3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__241a.html"
+  },
+  "important_reason_dismissal_give_reason_in_writing": {
+   "area": "work",
+   "law": "§ 626 Abs. 2 Satz 3 BGB",
+   "title": "Fired for an important reason: you can demand the reason in writing, and it must come without delay",
+   "summary": "The person who gives notice for an important reason must, on request, tell the other side the reason for the termination in writing without delay.",
+   "keywords": [
+    "fristlose kündigung grund schriftlich verlangen",
+    "summary dismissal reason in writing request",
+    "kündigungsgrund mitteilen unverzüglich",
+    "ask employer for dismissal reason germany",
+    "626 abs 2 satz 3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__626.html"
+  },
+  "continuing_contract_important_reason_no_notice": {
+   "area": "consumer",
+   "law": "§ 314 Abs. 1 BGB",
+   "title": "Any ongoing contract can be ended without notice for an important reason",
+   "summary": "Each party can terminate a continuing obligation for an important reason without observing a notice period. An important reason exists if, considering all circumstances and weighing both sides' interests, continuing until the agreed end or the end of the notice period cannot reasonably be expected of the terminating party.",
+   "keywords": [
+    "dauerschuldverhältnis wichtiger grund kündigung",
+    "end ongoing contract without notice important reason",
+    "kündigung ohne frist unzumutbar fortsetzung",
+    "terminate subscription lease service contract early unreasonable",
+    "314 abs 1 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__314.html"
   }
  },
  "free_help": {
