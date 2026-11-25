@@ -3241,7 +3241,7 @@
     "competitor job ban",
     "karenz 50 prozent"
    ],
-   "source": "https://www.thorn-arbeitsrecht-muenchen.de/lexikon/wettbewerbsverbot"
+   "source": "https://www.gesetze-im-internet.de/hgb/__74.html"
   },
   "personnel_file_access": {
    "area": "data",
@@ -8499,6 +8499,116 @@
     "buyer knows prepaid rent"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__566b.html"
+  },
+  "paid_short_personal_absence": {
+   "area": "work",
+   "law": "§ 616 BGB",
+   "title": "Short absence for a personal reason: you keep your pay if it is not your fault and not long",
+   "summary": "An employee does not lose pay just because a personal reason, through no fault of his own, keeps him from work for a relatively short time. Amounts he receives from statutory health or accident insurance for that time are deducted. Contracts and collective agreements can limit or exclude this.",
+   "keywords": [
+    "paid time off personal reason",
+    "wedding funeral day off paid",
+    "vorübergehende verhinderung lohn",
+    "616 bgb freistellung bezahlt",
+    "court summons paid absence"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__616.html"
+  },
+  "time_off_for_job_search_after_notice": {
+   "area": "work",
+   "law": "§ 629 BGB",
+   "title": "After a notice of termination you can ask for reasonable time off to look for a new job",
+   "summary": "After notice of termination of a continuing employment, the employer must on request grant the employee reasonable time to look for another job.",
+   "keywords": [
+    "time off job interviews after notice",
+    "freistellung stellensuche",
+    "bewerbungsgespräch nach kündigung freizeit",
+    "629 bgb",
+    "interview during notice period"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__629.html"
+  },
+  "noncompete_two_year_limit_and_minors": {
+   "area": "work",
+   "law": "§ 74a HGB, § 110 GewO",
+   "title": "Non-compete limits: max two years, only for a real business interest, void for minors",
+   "summary": "A post-employment competition ban is not binding where it does not protect a legitimate business interest of the employer or where it unreasonably hinders the employee's career considering the compensation. It cannot run longer than two years after the job ends. It is void if the employee was a minor when it was signed, or if the employer made him promise on his word of honour.",
+   "keywords": [
+    "non-compete signed under 18",
+    "wettbewerbsverbot minderjährig nichtig",
+    "ehrenwort wettbewerbsverbot",
+    "unbillige erschwerung fortkommen",
+    "74a hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__74a.html"
+  },
+  "pay_due_after_work_done": {
+   "area": "work",
+   "law": "§ 614 BGB",
+   "title": "Pay is due after the work is done, and monthly pay at the end of each month",
+   "summary": "Remuneration is to be paid after the services have been performed. If it is measured by periods of time, it is due after each period has ended, so a monthly salary is due at the end of the month unless the contract says otherwise.",
+   "keywords": [
+    "when is salary due",
+    "pay day end of month",
+    "lohn fälligkeit",
+    "fälligkeit vergütung 614",
+    "employer pay in advance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__614.html"
+  },
+  "pay_when_employer_refuses_your_work": {
+   "area": "work",
+   "law": "§ 615 BGB",
+   "title": "If the employer does not accept your work, you still get paid, minus what you saved or earned elsewhere",
+   "summary": "If the employer is in default of acceptance, the employee can demand the agreed pay without working it later. He must accept a deduction for what he saves by not working or earns elsewhere or maliciously fails to earn. The same applies when the employer carries the risk of the work being cancelled.",
+   "keywords": [
+    "annahmeverzug lohn",
+    "employer sent me home no pay",
+    "suspended unfairly pay",
+    "betriebsrisiko arbeitgeber lohn",
+    "shop closed no work still paid"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__615.html"
+  },
+  "employer_instructions_fair_discretion": {
+   "area": "work",
+   "law": "§ 106 GewO",
+   "title": "The employer can set tasks, place and hours only within fair discretion and what the contract allows",
+   "summary": "The employer may specify content, place and time of work at his fair discretion, as far as the contract, a works agreement, a collective agreement or a law has not fixed them. This covers order and conduct in the workplace. He must also take the employee's disabilities into account.",
+   "keywords": [
+    "weisungsrecht arbeitgeber",
+    "can employer change my tasks",
+    "employer change workplace location",
+    "billiges ermessen arbeitgeber",
+    "versetzung arbeitsort"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewo/__106.html"
+  },
+  "wages_in_euro_no_goods_on_credit": {
+   "area": "work",
+   "law": "§ 107 Abs. 1, 2 GewO",
+   "title": "Wages must be paid in euros; goods instead of pay only by agreement and at cost price",
+   "summary": "Pay must be calculated and paid in euros. Payment in kind can be agreed only if it suits the employee's interest or the nature of the job. The employer may not hand out goods on credit, and goods may be set off against pay only by agreement and at average cost. Their value may not exceed the garnishable part of the pay.",
+   "keywords": [
+    "paid in goods instead of money",
+    "sachbezug lohn",
+    "employer pays in vouchers",
+    "truckverbot",
+    "paid in cash euro wages"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewo/__107.html"
+  },
+  "employer_sick_care_costs": {
+   "area": "work",
+   "law": "§ 617 BGB",
+   "title": "If the employer houses you in a hospital while ill, he may only offset the costs against your pay",
+   "summary": "The employer can provide board and medical treatment by taking the sick employee into a hospital, and the costs may be set against the pay for the time of illness. A termination because of the illness under § 626 is disregarded.",
+   "keywords": [
+    "krankenfürsorge arbeitgeber",
+    "live-in worker sick employer treatment",
+    "pflicht zur krankenfürsorge"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__617.html"
   }
  },
  "free_help": {
