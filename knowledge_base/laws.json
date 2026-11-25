@@ -7512,7 +7512,11 @@
     "no contract fine",
     "employer penalty",
     "report employer contract",
-    "verstoß nachweisgesetz"
+    "verstoß nachweisgesetz",
+    "employer fine missing written key terms",
+    "bußgeld arbeitgeber nachweisgesetz",
+    "fine employer not giving written terms",
+    "nachweis verstoß geldbuße"
    ],
    "source": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
   },
@@ -10766,6 +10770,174 @@
     "356e bgb"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__356e.html"
+  },
+  "social_authority_decision_must_be_specific": {
+   "area": "money",
+   "law": "§ 33 Abs. 1 SGB X",
+   "title": "A social-law decision (Verwaltungsakt) must be clear enough in its content",
+   "summary": "An administrative act under social law must be sufficiently specific in its content, so the person affected can tell what is decided.",
+   "keywords": [
+    "bescheid inhaltlich hinreichend bestimmt",
+    "benefit decision unclear content",
+    "jobcenter bescheid unklar",
+    "sozialverwaltungsverfahren bestimmtheit",
+    "33 abs 1 sgb x"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html"
+  },
+  "social_authority_decision_oral_confirm_in_writing": {
+   "area": "money",
+   "law": "§ 33 Abs. 2 SGB X",
+   "title": "An oral decision from a social agency must be confirmed in writing if you ask right away and have a legitimate interest",
+   "summary": "An administrative act can be issued in writing, electronically, orally or in another way. An oral act must be confirmed in writing or electronically if there is a legitimate interest and the person affected demands it without delay.",
+   "keywords": [
+    "mündlicher bescheid schriftlich bestätigen",
+    "agency said it orally confirm in writing",
+    "jobcenter mündlich zusage schriftlich verlangen",
+    "verwaltungsakt mündlich unverzüglich verlangen",
+    "33 abs 2 sgb x"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/SGB_10.pdf"
+  },
+  "social_decision_must_state_how_to_object": {
+   "area": "money",
+   "law": "§ 36 SGB X",
+   "title": "A social agency decision must tell you in writing where, by when and in what form to object",
+   "summary": "The authority must instruct in writing about the remedy, the place where it must be filed, the seat of that place, the deadline to observe and the form. An electronic decision needs an electronic instruction.",
+   "keywords": [
+    "rechtsbehelfsbelehrung sozialbehörde schriftlich",
+    "social agency decision appeal instructions",
+    "bescheid jobcenter widerspruch belehrung",
+    "sgb x belehrung frist form",
+    "36 sgb x"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html"
+  },
+  "flat_special_expenses_36_euro": {
+   "area": "money",
+   "law": "§ 10c EStG",
+   "title": "Special expenses (donations, church tax, own training etc.) get an automatic 36 euro flat deduction",
+   "summary": "For special expenses under § 10 para 1 nos. 4, 5, 7 and 9 and para 1a and § 10b, a flat amount of 36 euros is deducted if you do not prove higher expenses.",
+   "keywords": [
+    "sonderausgaben pauschbetrag 36 euro",
+    "special expenses flat rate germany tax",
+    "sonderausgaben pauschale steuererklärung",
+    "36 euro pauschbetrag",
+    "10c estg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__10c.html"
+  },
+  "meal_allowance_28_euro_full_day": {
+   "area": "money",
+   "law": "§ 9 Abs. 4a EStG",
+   "title": "Meal allowance of 28 euros for each calendar day you are away 24 hours",
+   "summary": "For each calendar day on which an employee is away from home and workplace for 24 hours, 28 euros can be claimed as a flat amount for extra meal costs.",
+   "keywords": [
+    "verpflegungsmehraufwand 28 euro",
+    "per diem business trip tax germany",
+    "dienstreise 24 stunden pauschale",
+    "meal allowance work trip tax",
+    "9 abs 4a estg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__9.html"
+  },
+  "support_of_dependants_tax_relief": {
+   "area": "money",
+   "law": "§ 33a Abs. 1 EStG",
+   "title": "Supporting a person who is legally entitled to maintenance can reduce tax up to the basic allowance",
+   "summary": "If you bear costs for the maintenance and any vocational training of a person who is legally entitled to support from you or your spouse, income tax is reduced on application by deducting the costs up to the amount of the basic tax-free allowance per calendar year.",
+   "keywords": [
+    "unterhaltsleistungen steuer absetzen grundfreibetrag",
+    "support relatives tax deduction germany",
+    "unterhalt bedürftige person außergewöhnliche belastung",
+    "support parents tax relief",
+    "33a estg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__33a.html"
+  },
+  "theft_penalty": {
+   "area": "consumer",
+   "law": "§ 242 StGB",
+   "title": "Theft: up to five years in prison or a fine, and the attempt is punishable",
+   "summary": "Whoever takes movable property belonging to another with the intent of unlawfully appropriating it for himself or a third party is punished with imprisonment up to five years or a fine. The attempt is punishable.",
+   "keywords": [
+    "diebstahl strafe",
+    "theft penalty germany",
+    "ladendiebstahl strafbar",
+    "stealing punishment fine prison",
+    "242 stgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/BJNR001270871.html"
+  },
+  "fraud_penalty": {
+   "area": "consumer",
+   "law": "§ 263 StGB",
+   "title": "Fraud: up to five years in prison or a fine, and the attempt is punishable",
+   "summary": "Whoever, intending to obtain an unlawful pecuniary advantage, damages another person's property by deceiving or maintaining a mistake through false facts is punished with imprisonment up to five years or a fine. The attempt is punishable, and serious cases carry six months to ten years.",
+   "keywords": [
+    "betrug strafe",
+    "fraud penalty germany",
+    "betrug vermögensvorteil irrtum",
+    "scam crime sentence",
+    "263 stgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/BJNR001270871.epub"
+  },
+  "computer_fraud_and_tools": {
+   "area": "consumer",
+   "law": "§ 263a StGB",
+   "title": "Computer fraud covers manipulated data processing; preparing it with tools or passwords is punishable too",
+   "summary": "Preparing computer fraud by making, obtaining, offering, keeping or passing on programs designed for it, or passwords or other security codes suited to it, is punished with imprisonment up to three years or a fine.",
+   "keywords": [
+    "computerbetrug vorbereiten passwörter",
+    "computer fraud preparation passwords",
+    "263a stgb strafe",
+    "hacking tools fraud germany",
+    "sicherungscodes weitergeben strafbar"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__263a.html"
+  },
+  "naturalisation_requires_self_support": {
+   "area": "international",
+   "law": "§ 10 Abs. 1 Nr. 3 StAG",
+   "title": "Naturalisation: you must support yourself and your family without SGB II or SGB XII benefits, with exceptions",
+   "summary": "A foreigner is naturalised on application, among other conditions, if he can cover his living costs and those of his dependants without benefits under the Second or Twelfth Book of the Social Code; the law lists exceptions to this condition.",
+   "keywords": [
+    "einbürgerung lebensunterhalt ohne bürgergeld",
+    "naturalisation self supporting germany",
+    "einbürgerung sgb ii sgb xii leistungen",
+    "citizenship benefits excluded",
+    "10 abs 1 nr 3 stag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/BJNR005830913.html"
+  },
+  "naturalisation_identity_and_nationality_clarified": {
+   "area": "international",
+   "law": "§ 10 Abs. 1 StAG",
+   "title": "Naturalisation needs clarified identity and nationality, plus lawful habitual residence",
+   "summary": "A foreigner who has lawfully had his habitual residence in Germany for the required period, has legal capacity or a legal representative, and whose identity and nationality are clarified, is naturalised on application if he meets the further conditions.",
+   "keywords": [
+    "einbürgerung identität staatsangehörigkeit geklärt",
+    "naturalisation identity documents required",
+    "einbürgerung gewöhnlicher aufenthalt",
+    "citizenship application identity germany",
+    "10 abs 1 stag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/__10.html"
+  },
+  "naturalisation_confession_history_responsibility": {
+   "area": "international",
+   "law": "§ 10 Abs. 1 Nr. 1a StAG",
+   "title": "Naturalisation requires a commitment to Germany's historical responsibility and peaceful coexistence",
+   "summary": "The applicant must confess to Germany's special historical responsibility for the National Socialist tyranny and its consequences, especially the protection of Jewish life, and to the peaceful coexistence of peoples and the ban on wars of aggression.",
+   "keywords": [
+    "einbürgerung bekenntnis historische verantwortung",
+    "citizenship germany nazi responsibility commitment",
+    "einbürgerung jüdisches leben schutz",
+    "naturalisation commitment conditions",
+    "10 abs 1 nr 1a stag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/__10.html"
   }
  },
  "free_help": {
