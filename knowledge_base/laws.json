@@ -12883,6 +12883,174 @@
     "Kenntnis Verletzung schriftlich"
    ],
    "source": "https://www.gesetze-im-internet.de/vvg_2008/__21.html"
+  },
+  "beer_wine_not_to_under_16": {
+   "area": "consumer",
+   "law": "§ 9 Abs. 1 Nr. 1 JuSchG",
+   "title": "Beer and wine and the age of 16",
+   "summary": "In restaurants, shops or anywhere in public, beer, wine, sparkling wine and mixes of them with non-alcoholic drinks must not be given to children and teenagers under 16. This does not apply if a parent or guardian accompanies a teenager.",
+   "keywords": [
+    "beer wine under 16",
+    "Alkohol Jugendliche 16 Jahre",
+    "Bier Wein Jugendschutz",
+    "accompanied by parent alcohol",
+    "Jugendschutzgesetz Alkohol"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/__9.html"
+  },
+  "spirits_and_mixed_drinks_not_to_under_18": {
+   "area": "consumer",
+   "law": "§ 9 Abs. 1 Nr. 2 JuSchG",
+   "title": "Spirits and strong drinks are for 18 and over",
+   "summary": "Other alcoholic drinks, and foods containing more than a small amount of them, must not be given to minors under 18, and they must not be allowed to consume them.",
+   "keywords": [
+    "spirits under 18",
+    "Schnaps Spirituosen ab 18",
+    "hard alcohol minors",
+    "Branntwein Jugendliche",
+    "andere alkoholische Getränke 18"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/__9.html"
+  },
+  "alcohol_vending_machine_ban_public": {
+   "area": "consumer",
+   "law": "§ 9 Abs. 3 JuSchG",
+   "title": "No alcohol from public vending machines",
+   "summary": "Alcoholic drinks must not be offered in vending machines in public places, unless a machine is in a place not open to minors or is set up so that children and teenagers cannot get at it.",
+   "keywords": [
+    "alcohol vending machine public",
+    "Alkohol Automaten Öffentlichkeit",
+    "Getränkeautomat Bier",
+    "vending machine beer ban",
+    "Automat alkoholische Getränke"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/BJNR273000002.html"
+  },
+  "public_dance_events_under_16_midnight_limit": {
+   "area": "consumer",
+   "law": "§ 5 JuSchG",
+   "title": "Public dance events for young people",
+   "summary": "Children and teenagers under 16 must not be allowed at public dance events without a parent or guardian. Teenagers from 16 may stay at most until midnight without such company.",
+   "keywords": [
+    "dance event under 16",
+    "Tanzveranstaltung Jugendliche bis 24 Uhr",
+    "disco age 16 midnight",
+    "Tanzveranstaltungen Jugendschutz",
+    "ohne Begleitung personensorgeberechtigte"
+   ],
+   "source": "https://www.gesetze-im-internet.de/juschg/JuSchG.pdf"
+  },
+  "eu_citizen_not_working_needs_health_cover_and_money": {
+   "area": "international",
+   "law": "§ 4 FreizügG/EU",
+   "title": "EU citizens who do not work",
+   "summary": "Non-working EU citizens, including students, have the right to enter and stay if they have adequate health insurance and adequate means of subsistence. Their accompanying family members have the same right.",
+   "keywords": [
+    "EU citizen student residence right",
+    "Freizügigkeit nicht erwerbstätig",
+    "ausreichende Existenzmittel Krankenversicherungsschutz",
+    "EU student Germany stay",
+    "freizügigkeitsberechtigt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html"
+  },
+  "eu_citizen_permanent_residence_after_five_years": {
+   "area": "international",
+   "law": "§ 4a FreizügG/EU",
+   "title": "Permanent residence for EU citizens",
+   "summary": "EU citizens who have lived lawfully and continuously in Germany for five years get the right of permanent residence, whether or not the other residence conditions are still met.",
+   "keywords": [
+    "EU citizen permanent residence five years",
+    "Daueraufenthaltsrecht Unionsbürger",
+    "fünf Jahre ständig rechtmäßig",
+    "permanent right to stay EU",
+    "Freizügigkeitsgesetz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html"
+  },
+  "fake_invoice_fine_up_to_100000_euro": {
+   "area": "money",
+   "law": "§ 8 Abs. 4, 5 SchwarzArbG",
+   "title": "Fake invoices and receipts",
+   "summary": "Issuing or circulating a receipt that falsely pretends work, services or a delivery took place, and so enables undeclared work or unlawful employment, is an administrative offence with a fine of up to 100,000 euros.",
+   "keywords": [
+    "fake invoice fine 100000 euro",
+    "Scheinrechnung Bußgeld",
+    "Schwarzarbeit Beleg falsch",
+    "Gefälligkeitsrechnung",
+    "illegal employment receipt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/schwarzarbg_2004/__8.html"
+  },
+  "customs_can_check_id_for_undeclared_work": {
+   "area": "work",
+   "law": "§ 3 SchwarzArbG",
+   "title": "Customs checks for undeclared work",
+   "summary": "Customs authorities checking for undeclared work may stop people, ask for their personal details and require the ID papers they carry to be handed over. They may check that the papers are genuine and establish the holder's identity.",
+   "keywords": [
+    "customs check ID workplace",
+    "Zoll Kontrolle Ausweis Arbeitsplatz",
+    "Schwarzarbeit Prüfung Personalien",
+    "Finanzkontrolle Schwarzarbeit",
+    "Ausweispapiere mitführen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/schwarzarbg_2004/__3.html"
+  },
+  "coercion_attempt_punishable_severe_cases_up_to_five_years": {
+   "area": "money",
+   "law": "§ 240 StGB",
+   "title": "Coercion",
+   "summary": "An attempt at coercion (Nötigung) is also punishable. In especially serious cases, for example forcing a pregnant woman into an abortion or an official abusing his powers, the sentence is six months to five years in prison.",
+   "keywords": [
+    "Nötigung Versuch strafbar",
+    "coercion attempt punishable",
+    "besonders schwerer Fall sechs Monate fünf Jahre",
+    "Amtsträger Befugnisse missbraucht",
+    "Nötigung Freiheitsstrafe"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__240.html"
+  },
+  "damages_after_termination_caused_by_other_side": {
+   "area": "work",
+   "law": "§ 628 Abs. 2 BGB",
+   "title": "Damages when the other side forced you to quit",
+   "summary": "If a termination was provoked by the other party's breach of contract, that party must pay the damage caused by the end of the relationship.",
+   "keywords": [
+    "damages termination breach of contract other party",
+    "Schadensersatz Kündigung vertragswidriges Verhalten",
+    "fristlose Kündigung Schaden",
+    "Auflösungsschaden",
+    "Arbeitnehmer kündigt wegen Arbeitgeber"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__628.html"
+  },
+  "apprentice_important_reason_termination_two_weeks": {
+   "area": "work",
+   "law": "§ 22 Abs. 4 BBiG",
+   "title": "Two-week limit for terminating a training contract for cause",
+   "summary": "A termination for important reason in training is invalid if the facts were known to the person entitled to terminate for longer than two weeks. If an out-of-court conciliation procedure has started, the period is paused until it ends.",
+   "keywords": [
+    "apprentice termination for cause two weeks",
+    "Ausbildungsverhältnis wichtiger Grund Frist",
+    "Güteverfahren Hemmung",
+    "Berufsbildungsgesetz fristlose Kündigung Azubi",
+    "Tatsachen bekannt länger als zwei Wochen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__22.html"
+  },
+  "employment_contract_terms_freely_agreed_within_mandatory_law": {
+   "area": "work",
+   "law": "§ 105 GewO",
+   "title": "Freedom of contract in employment",
+   "summary": "Employer and employee can freely agree on making, content and form of the employment contract, unless mandatory law, an applicable collective agreement or a works agreement stands in the way. Proof of essential terms follows the Nachweisgesetz.",
+   "keywords": [
+    "freedom of contract employment",
+    "freie Gestaltung Arbeitsvertrag",
+    "zwingende gesetzliche Vorschriften Tarifvertrag Betriebsvereinbarung",
+    "Abschluss Inhalt Form Arbeitsvertrag",
+    "Gewerbeordnung 105"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewo/__105.html"
   }
  },
  "free_help": {
