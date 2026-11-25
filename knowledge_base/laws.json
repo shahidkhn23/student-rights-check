@@ -7616,6 +7616,162 @@
     "mitarbeiterzahl kündigungsschutz"
    ],
    "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
+  },
+  "parttime_reduction_request": {
+   "area": "work",
+   "law": "§ 8 TzBfG",
+   "title": "Asking to cut your hours: six months on the job and three months notice",
+   "summary": "You can ask to reduce your contractual working hours if the employment has lasted more than six months and the employer has more than 15 employees. Ask in writing at least three months before the change starts. If the employer does not refuse in writing one month before the start date, the reduction takes effect as you requested.",
+   "keywords": [
+    "reduce my hours",
+    "fewer hours",
+    "cut working hours",
+    "part-time request",
+    "reduce contract hours",
+    "three months notice hours"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "parttime_preference_longer_hours": {
+   "area": "work",
+   "law": "§ 9 TzBfG",
+   "title": "Part-time and want more hours: you get preference for open jobs",
+   "summary": "If you work part-time and tell your employer you want longer hours, the employer must give you preference for a suitable open position, unless there are urgent operational reasons or another employee has a stronger wish for the same job.",
+   "keywords": [
+    "want more hours",
+    "increase my hours",
+    "longer working hours",
+    "preference open position",
+    "part-time to more hours"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "fixed_term_no_reason_limit": {
+   "area": "work",
+   "law": "§ 14 Abs. 2 TzBfG",
+   "title": "Fixed term without a reason: up to two years and three renewals",
+   "summary": "A fixed-term contract without an objective reason is allowed for at most two years, and within those two years it can be renewed up to three times. It is not allowed if you already worked for the same employer before.",
+   "keywords": [
+    "two years fixed term",
+    "renewed three times",
+    "chain contracts",
+    "fixed-term renewals",
+    "sachgrundlos befristet"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "fixed_term_continued_work": {
+   "area": "work",
+   "law": "§ 15 Abs. 5 TzBfG",
+   "title": "Fixed term ended but you keep working: the job becomes permanent",
+   "summary": "If you keep working after a fixed-term contract expires and the employer knows it and does not object right away, the contract is treated as open-ended.",
+   "keywords": [
+    "keep working after contract ended",
+    "fixed term expired still working",
+    "became permanent",
+    "contract ran out employer silent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "fixed_term_challenge_deadline": {
+   "area": "work",
+   "law": "§ 17 TzBfG",
+   "title": "Challenging a fixed term: you have three weeks",
+   "summary": "If you think the fixed term in your contract is not valid, you must go to the labour court within three weeks after the agreed end date. After that the term counts as valid.",
+   "keywords": [
+    "challenge fixed term",
+    "three weeks labour court",
+    "befristungskontrollklage",
+    "contract end invalid"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "fixed_term_permanent_info": {
+   "area": "work",
+   "law": "§ 18 TzBfG",
+   "title": "Fixed-term staff must be told about permanent jobs",
+   "summary": "The employer must tell fixed-term employees about suitable open-ended positions in the company that become free.",
+   "keywords": [
+    "permanent position info",
+    "told about permanent jobs",
+    "fixed term open ended vacancy",
+    "internal vacancy fixed-term"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "fixed_term_equal_treatment": {
+   "area": "work",
+   "law": "§ 4 Abs. 2 TzBfG",
+   "title": "Fixed-term staff may not be treated worse than permanent staff",
+   "summary": "A fixed-term employee may not be treated worse than a comparable permanent employee just because the contract is limited, unless there is an objective reason.",
+   "keywords": [
+    "fixed term treated worse",
+    "temporary employee same conditions",
+    "befristet benachteiligung",
+    "fixed-term bonus excluded"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html"
+  },
+  "milog_intern_under18": {
+   "area": "work",
+   "law": "§ 22 Abs. 2 MiLoG",
+   "title": "Minimum wage does not apply to under-18s without vocational training",
+   "summary": "Minors without completed vocational training are not covered by the statutory minimum wage under the MiLoG.",
+   "keywords": [
+    "under 18 minimum wage",
+    "minor no training wage",
+    "17 years old job pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/milog/__22.html"
+  },
+  "milog_long_term_unemployed": {
+   "area": "work",
+   "law": "§ 22 Abs. 4 MiLoG",
+   "title": "Long-term unemployed: no minimum wage for the first six months",
+   "summary": "People who were unemployed for a year or longer can be employed for the first six months without the statutory minimum wage.",
+   "keywords": [
+    "long-term unemployed minimum wage",
+    "six months no minimum wage",
+    "langzeitarbeitslos mindestlohn"
+   ],
+   "source": "https://www.gesetze-im-internet.de/milog/__22.html"
+  },
+  "parental_leave_part_time_32h": {
+   "area": "work",
+   "law": "§ 15 Abs. 4 BEEG",
+   "title": "Working during parental leave: up to 32 hours a week",
+   "summary": "During parental leave you may work part-time up to 32 hours per week on average per month.",
+   "keywords": [
+    "work during parental leave",
+    "32 hours parental leave",
+    "teilzeit elternzeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__15.html"
+  },
+  "parental_leave_part_time_request": {
+   "area": "work",
+   "law": "§ 15 Abs. 7 BEEG",
+   "title": "Part-time during parental leave: ask seven or thirteen weeks ahead",
+   "summary": "To work part-time during parental leave, ask in writing seven weeks ahead for a child up to three years, or thirteen weeks ahead for the period between the third and eighth birthday. If the employer does not refuse in writing within four weeks (eight weeks for the older period) the request is deemed approved. You can request a reduction twice during the leave.",
+   "keywords": [
+    "request part-time parental leave",
+    "employer refuse parental part-time",
+    "deemed consent four weeks",
+    "second reduction parental"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__15.html"
+  },
+  "parental_leave_dismissal_window": {
+   "area": "work",
+   "law": "§ 18 BEEG",
+   "title": "Parental leave dismissal protection starts eight or fourteen weeks before",
+   "summary": "Dismissal protection starts at the earliest eight weeks before the leave begins (fourteen weeks if the leave is between the third and eighth birthday). A dismissal needs prior approval of the competent authority.",
+   "keywords": [
+    "dismissal before parental leave",
+    "eight weeks before leave",
+    "fired authority approval parental"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__18.html"
   }
  },
  "free_help": {

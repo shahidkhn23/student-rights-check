@@ -2,7 +2,7 @@
 
 Two tools, both backed by the tested, verified code:
   * check_document – runs the red-flag checks on the document the student attached
-  * search_rights  – searches the 421 verified rules
+  * search_rights  – searches the 433 verified rules
 
 Guardrail in code (not just in the prompt): every law reference (§ ..., Art. ...)
 in the final answer must appear in a tool result. If not, the model gets one
