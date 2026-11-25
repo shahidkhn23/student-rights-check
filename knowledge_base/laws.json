@@ -9417,6 +9417,106 @@
     "119 bgb"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__119.html"
+  },
+  "applicants_count_as_employees_for_data_law": {
+   "area": "data",
+   "law": "§ 26 Abs. 8 BDSG",
+   "title": "Job applicants and former employees count as \"employees\" under German employee data protection",
+   "summary": "For the employee data rules in the BDSG, applicants for a job and people whose employment has ended also count as employees, so their data may be processed only as far as needed for the hiring decision.",
+   "keywords": [
+    "bewerberdaten datenschutz",
+    "applicant data protection germany",
+    "employer storing my application data",
+    "bewerber beschäftigte bdsg",
+    "26 bdsg bewerber"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html"
+  },
+  "employer_data_only_if_needed_for_job": {
+   "area": "data",
+   "law": "§ 26 Abs. 1 BDSG",
+   "title": "Employers may process your data only if needed to hire you, run or end the job, or meet legal duties",
+   "summary": "Personal data of employees may be processed for employment purposes only where necessary for the decision to hire, or afterwards for carrying out or ending the employment, or to meet rights and duties set by law or collective agreements.",
+   "keywords": [
+    "what personal data may employer collect",
+    "arbeitgeber daten verarbeiten erforderlich",
+    "beschäftigtendatenschutz grundsatz",
+    "employer collects too much information",
+    "26 abs 1 bdsg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html"
+  },
+  "employer_data_crime_suspicion_documented": {
+   "area": "data",
+   "law": "§ 26 Abs. 1 Satz 2 BDSG",
+   "title": "Employer investigating a crime at work needs documented concrete suspicion first",
+   "summary": "To detect crimes, an employer may process employee data only if documented facts give rise to a suspicion that the person committed a crime in the employment relationship, the processing is necessary and not disproportionate.",
+   "keywords": [
+    "documented suspicion crime employee data",
+    "tatsächliche anhaltspunkte verdacht beschäftigte",
+    "employer investigating theft by employee data",
+    "straftaten aufdecken beschäftigte",
+    "26 abs 1 satz 2 bdsg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html"
+  },
+  "employee_consent_form_and_voluntariness": {
+   "area": "data",
+   "law": "§ 26 Abs. 2 BDSG",
+   "title": "Consent at work must be voluntary and in writing or electronic form",
+   "summary": "Whether consent of an employee is voluntary depends on the dependency in the employment and the circumstances. It may be voluntary if it brings a legal or economic advantage or if both sides pursue the same interests. It must be in writing or electronic form unless special circumstances make another form appropriate.",
+   "keywords": [
+    "einwilligung arbeitgeber freiwillig",
+    "employer asks me to consent photo data",
+    "consent employment written form",
+    "einwilligung beschäftigungsverhältnis schriftlich",
+    "26 abs 2 bdsg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html"
+  },
+  "krankengeld_when_unfit_for_work": {
+   "area": "health",
+   "law": "§ 44 Abs. 1 SGB V",
+   "title": "Statutory insured people get Krankengeld when illness makes them unable to work",
+   "summary": "Insured persons are entitled to sickness benefit (Krankengeld) if illness makes them unfit for work.",
+   "keywords": [
+    "krankengeld anspruch voraussetzung",
+    "sick pay from health insurance after six weeks",
+    "krankenkasse zahlt krankengeld arbeitsunfähig",
+    "who gets krankengeld",
+    "44 sgb v",
+    "when does the health fund pay krankengeld",
+    "krankengeld voraussetzung arbeitsunfähig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__44.html"
+  },
+  "krankengeld_abroad_with_fund_consent": {
+   "area": "health",
+   "law": "§ 16 Abs. 4 SGB V",
+   "title": "Krankengeld keeps being paid abroad if your health fund agreed to the stay",
+   "summary": "The claim to sickness benefit does not rest while an insured person stays abroad after becoming unfit for work, provided the health fund agreed to the stay.",
+   "keywords": [
+    "krankengeld ausland zustimmung",
+    "krankenkasse agreed stay abroad sickness benefit",
+    "ruhen krankengeld auslandsaufenthalt",
+    "16 sgb v ruht",
+    "krankengeld im ausland"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__16.html"
+  },
+  "preventive_care_entitlement": {
+   "area": "health",
+   "law": "§ 23 Abs. 1 SGB V",
+   "title": "Statutory insured people can get medical prevention care when health is weakening or a child's development is at risk",
+   "summary": "Insured persons are entitled to medical treatment and to medicines, dressings, remedies and aids that are necessary to strengthen health that is weakened and would likely lead to illness, to counter a risk to a child's health development, to prevent illness or its worsening, or to avoid the need for care.",
+   "keywords": [
+    "vorsorgeleistung krankenkasse anspruch",
+    "preventive treatment health insurance covers",
+    "vorsorge schwächung gesundheit",
+    "medizinische vorsorge zahlt krankenkasse",
+    "23 sgb v"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__23.html"
   }
  },
  "free_help": {
