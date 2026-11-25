@@ -9643,6 +9643,135 @@
     "9a estg"
    ],
    "source": "https://www.gesetze-im-internet.de/estg/__9a.html"
+  },
+  "agg_lawsuit_three_months_after_written_claim": {
+   "area": "discrimination",
+   "law": "§ 61b Abs. 1 ArbGG",
+   "title": "Discrimination at work: sue within three months after you made the written claim",
+   "summary": "A lawsuit for compensation under § 15 AGG must be filed within three months after the claim was asserted in writing.",
+   "keywords": [
+    "agg klage frist drei monate",
+    "discrimination compensation lawsuit deadline labor court",
+    "entschädigung klage arbeitsgericht benachteiligung frist",
+    "file suit after written claim agg",
+    "61b arbgg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbgg/__61b.html"
+  },
+  "agg_employer_pays_damage_unless_not_responsible": {
+   "area": "discrimination",
+   "law": "§ 15 Abs. 1 AGG",
+   "title": "If the employer discriminates, it must repay your financial damage unless it is not responsible for the breach",
+   "summary": "In case of a breach of the ban on discrimination the employer must compensate the damage caused, unless it is not responsible for the breach of duty.",
+   "keywords": [
+    "agg schadensersatz arbeitgeber vermögensschaden",
+    "discrimination financial loss employer pays",
+    "benachteiligungsverbot verstoß schaden ersetzen",
+    "lost wages because of discrimination",
+    "15 abs 1 agg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__15.html"
+  },
+  "agg_collective_agreement_intent_needed": {
+   "area": "discrimination",
+   "law": "§ 15 Abs. 3 AGG",
+   "title": "If the employer only applied a collective agreement, compensation needs intent or gross negligence",
+   "summary": "When applying collective agreements, the employer owes compensation only if it acts intentionally or with gross negligence.",
+   "keywords": [
+    "tarifvertrag diskriminierung entschädigung vorsatz",
+    "discrimination collective agreement employer liable",
+    "kollektivrechtliche vereinbarung grob fahrlässig agg",
+    "union contract discriminates who pays",
+    "15 abs 3 agg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/agg/__15.html"
+  },
+  "traffic_accident_report_within_two_months": {
+   "area": "consumer",
+   "law": "§ 15 StVG",
+   "title": "Traffic accident damage: tell the liable party within two months or lose the claim",
+   "summary": "The injured party loses the rights under the Road Traffic Act if he does not report the accident to the liable person within two months of learning of the damage and who is liable. There is no loss if the report was missed for reasons beyond his control or the other party learned of it in another way.",
+   "keywords": [
+    "unfall anzeigen zwei monate verwirkung",
+    "report damage to liable person deadline two months",
+    "stvg verwirkung schadenersatz",
+    "claim lost late notice liable party",
+    "15 stvg",
+    "did not tell other driver about accident claim gone",
+    "accident notice liable person late",
+    "unfall nicht gemeldet anspruch verloren"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__15.html"
+  },
+  "registration_stay_up_to_six_months": {
+   "area": "international",
+   "law": "BMG Meldepflicht bei kurzem Aufenthalt",
+   "title": "Already registered in Germany and staying somewhere else up to six months: no new registration needed",
+   "summary": "Anyone registered in Germany who moves into another residence for a stay of no more than six months does not have to register or deregister there. If the stay lasts longer than six months, registration within two weeks is required.",
+   "keywords": [
+    "sublet short stay anmeldung nötig",
+    "temporary stay six months register address",
+    "zweiter wohnsitz sechs monate meldepflicht",
+    "do i register for a short stay germany",
+    "meldepflicht aufenthalt bis sechs monate"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html"
+  },
+  "registration_hotel_stay_over_six_months": {
+   "area": "international",
+   "law": "§ 29 BMG",
+   "title": "Living in a hotel or hostel for more than six months: you must register",
+   "summary": "People taken in by accommodation businesses (Beherbergungsstätten) for longer than six months are subject to the registration duty. Someone not registered for a home in Germany must register within two weeks once the stay exceeds three months.",
+   "keywords": [
+    "hostel hotel wohnen anmeldung",
+    "living in hostel register address germany",
+    "beherbergungsstätte meldepflicht sechs monate",
+    "hotel long stay anmeldung drei monate",
+    "29 bmg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bmg/__29.html"
+  },
+  "registration_children_under_16": {
+   "area": "international",
+   "law": "§ 17 Abs. 3 BMG",
+   "title": "Children under 16: the people whose home they move into or out of do the registration",
+   "summary": "Registration and deregistration of persons under 16 is the duty of those in whose home the children move in or from whose home they move out. Newborns born in Germany need registration only if they move into a different home than their parents'.",
+   "keywords": [
+    "kind anmelden unter 16",
+    "register child germany parents",
+    "ummeldung minderjährige wer meldet",
+    "newborn registration address",
+    "17 abs 3 bmg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bmg/__17.html"
+  },
+  "teaching_small_works_in_full": {
+   "area": "copyright",
+   "law": "§ 60a Abs. 2 UrhG",
+   "title": "For teaching, images, single journal articles and small or out-of-print works may be used in full",
+   "summary": "Abbildungen, individual contributions from the same specialist or scientific journal, other works of small scope and out-of-print works may be used in full for illustrating teaching, in derogation from the 15 percent limit.",
+   "keywords": [
+    "abbildungen vollständig nutzen lehre",
+    "teacher share whole article journal course",
+    "60a abs 2 urhg",
+    "einzelner beitrag fachzeitschrift unterricht",
+    "out of print work teaching full"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__60a.html"
+  },
+  "private_copies_may_not_be_shared": {
+   "area": "copyright",
+   "law": "§ 53 Abs. 6 UrhG",
+   "title": "Copies made for private or own use may not be distributed or used in public performances",
+   "summary": "Copies made under the private and personal use exceptions may be neither distributed nor used for public performances.",
+   "keywords": [
+    "privatkopie weitergeben verboten",
+    "private copy share with friends allowed",
+    "vervielfältigungsstücke verbreitet öffentlich wiedergabe",
+    "copied cd give away copyright",
+    "53 abs 6 urhg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__53.html"
   }
  },
  "free_help": {
