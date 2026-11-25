@@ -7986,6 +7986,204 @@
     "14 weeks jobs"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_3/__142.html"
+  },
+  "apprentice_probation_termination": {
+   "area": "work",
+   "law": "§ 22 Abs. 1 BBiG",
+   "title": "Apprenticeship probation: either side can quit any time without notice",
+   "summary": "During the probation period a training contract can be ended at any time without a notice period, by the trainee or the training company.",
+   "keywords": [
+    "apprenticeship probation quit",
+    "azubi probezeit kündigen",
+    "training contract probation no notice"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__22.html"
+  },
+  "apprentice_quit_after_probation": {
+   "area": "work",
+   "law": "§ 22 Abs. 2 BBiG",
+   "title": "Apprenticeship after probation: quit with four weeks notice only to give up or change career",
+   "summary": "After probation the contract ends only for a serious reason without notice, or by the trainee with four weeks notice if they give up training or want to train for another occupation. The notice must be in writing, and the trainee must state the reasons.",
+   "keywords": [
+    "azubi kündigen nach probezeit",
+    "four weeks notice apprenticeship",
+    "give up apprenticeship change career",
+    "ausbildung abbrechen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__22.html"
+  },
+  "apprentice_termination_two_weeks": {
+   "area": "work",
+   "law": "§ 22 Abs. 4 BBiG",
+   "title": "Apprenticeship: a termination for serious reason is void after two weeks",
+   "summary": "A termination for a serious reason is invalid if the person terminating has known the facts for more than two weeks. Termination must be on paper, not by email.",
+   "keywords": [
+    "ausbildung fristlos two weeks",
+    "apprenticeship termination email invalid",
+    "serious reason two week deadline trainee"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__22.html"
+  },
+  "apprentice_pay_rises_yearly": {
+   "area": "work",
+   "law": "§ 17 Abs. 1 BBiG",
+   "title": "Apprentices: pay must be appropriate and rise at least every year",
+   "summary": "The training company must pay an appropriate wage, and it must rise as training advances, at least once a year.",
+   "keywords": [
+    "apprentice pay rise each year",
+    "ausbildungsvergütung steigt",
+    "appropriate trainee wage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__17.html"
+  },
+  "apprentice_minimum_pay_later_years": {
+   "area": "work",
+   "law": "§ 17 Abs. 2 BBiG",
+   "title": "Apprentice minimum pay: +18% in year two, +35% in year three, +40% in year four",
+   "summary": "There is a statutory minimum monthly pay for the first training year, set by the year training began. The minimum rises by 18% in the second year, 35% in the third and 40% in the fourth, calculated from the first-year amount.",
+   "keywords": [
+    "mindestausbildungsvergütung",
+    "minimum apprentice pay second year",
+    "18 percent more second year",
+    "minimum training wage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__17.html"
+  },
+  "apprentice_pay_below_collective": {
+   "area": "work",
+   "law": "§ 17 Abs. 4 BBiG",
+   "title": "Apprentice pay more than 20% under the collective rate is not appropriate",
+   "summary": "If the employer is not bound by a collective agreement, pay that is more than 20% below the relevant collective rate is generally not appropriate, even if it meets the statutory minimum.",
+   "keywords": [
+    "apprentice pay 20 percent below tariff",
+    "azubi lohn unter tarif",
+    "not appropriate training pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__17.html"
+  },
+  "apprentice_overtime_pay": {
+   "area": "work",
+   "law": "§ 17 Abs. 7 BBiG",
+   "title": "Apprentices: extra hours must be paid or taken as time off",
+   "summary": "Work beyond the agreed regular daily training time must be paid extra or compensated with equivalent time off.",
+   "keywords": [
+    "apprentice overtime pay",
+    "azubi überstunden bezahlt",
+    "trainee extra hours time off"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__17.html"
+  },
+  "apprentice_in_kind_75_percent": {
+   "area": "work",
+   "law": "§ 17 Abs. 6 BBiG",
+   "title": "Apprentices: meals or housing can count toward pay, but at most 75%",
+   "summary": "Non-cash benefits such as meals or accommodation can count toward the training pay at official values, but not for more than 75% of the gross pay.",
+   "keywords": [
+    "apprentice meals count as pay",
+    "sachbezug azubi 75 percent",
+    "accommodation deducted apprentice wage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/__17.html"
+  },
+  "bafoeg_extension_reasons": {
+   "area": "money",
+   "law": "§ 15 Abs. 3 BAföG",
+   "title": "BAföG beyond the standard period: serious reasons, caring for a relative, committee work, failed final exam",
+   "summary": "BAföG can be extended by an appropriate time beyond the maximum funding period for serious reasons, home care of a close relative at care level 3 or higher, work in university or student bodies, failing the final exam for the first time, or disability, pregnancy or raising a child under 14.",
+   "keywords": [
+    "bafoeg extension reasons",
+    "förderungshöchstdauer überschreiten",
+    "committee work bafoeg",
+    "care relative bafoeg extension"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__15.html"
+  },
+  "bafoeg_degree_completion_help": {
+   "area": "money",
+   "law": "§ 15 Abs. 5 BAföG",
+   "title": "Hilfe zum Studienabschluss: up to 12 more months of BAföG for the final stretch",
+   "summary": "For self-contained degree programmes BAföG can continue for up to 12 months after the maximum period if you were admitted to the final exam within four semesters of that point, and the examination office confirms you can finish within those 12 months. It is paid as a loan.",
+   "keywords": [
+    "hilfe zum studienabschluss",
+    "12 months after bafoeg end",
+    "final exam admission bafoeg loan",
+    "abschlusshilfe"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__15.html"
+  },
+  "bafoeg_other_training_full_loan": {
+   "area": "money",
+   "law": "§ 17 Abs. 3 BAföG",
+   "title": "BAföG for another degree after switching: paid as a full loan beyond the funding period",
+   "summary": "At universities, support is a full loan (no grant) for another training course whose semesters exceed the maximum funding period, which is shortened by semesters already completed in the earlier course. This does not apply if you stopped or changed field for a good or unavoidable reason.",
+   "keywords": [
+    "second course full loan bafoeg",
+    "bafoeg only loan switch degree",
+    "darlehen komplett bafoeg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__17.html"
+  },
+  "family_insurance_child_age_limits": {
+   "area": "health",
+   "law": "§ 10 Abs. 2 SGB V",
+   "title": "Family insurance for children: to 18, to 23 if not working, to 25 in training or studies",
+   "summary": "Children are covered through a parent free of charge up to 18 without further conditions, up to 23 if not employed, and up to 25 if in school, vocational training or a voluntary social or ecological year.",
+   "keywords": [
+    "family insurance age 23",
+    "kostenlos mitversichert 25",
+    "child covered parents insurance age limit",
+    "familienversicherung altersgrenze"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__10.html"
+  },
+  "family_insurance_service_extension": {
+   "area": "health",
+   "law": "§ 10 Abs. 2 Nr. 3 SGB V",
+   "title": "Family insurance runs past 25 by the length of statutory or voluntary service",
+   "summary": "Interruptions of training for statutory service, certain voluntary services or work as a development worker extend family insurance beyond 25 by the length of that service, up to 12 months for development work.",
+   "keywords": [
+    "family insurance extended service",
+    "voluntary service insurance past 25",
+    "freiwilligendienst familienversicherung verlängert"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__10.html"
+  },
+  "family_insurance_disability_no_limit": {
+   "area": "health",
+   "law": "§ 10 Abs. 2 Nr. 4 SGB V",
+   "title": "Family insurance without age limit for children with a disability who cannot support themselves",
+   "summary": "There is no age limit for children with a disability who cannot support themselves, if the disability existed while they were covered within the age limits.",
+   "keywords": [
+    "disabled child family insurance",
+    "behinderung familienversicherung unbegrenzt",
+    "no age limit insured via parents"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__10.html"
+  },
+  "kindergeld_unemployed_under_21": {
+   "area": "money",
+   "law": "§ 32 Abs. 4 Nr. 1 EStG",
+   "title": "Kindergeld for 18 to 20 year olds without a job: they must register as job-seeking",
+   "summary": "A child who is 18 but not yet 21 still counts if they are not employed and registered as a job seeker with a German employment agency.",
+   "keywords": [
+    "kindergeld arbeitslos 21",
+    "child benefit unemployed registered",
+    "job seeker under 21 kindergeld"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__32.html"
+  },
+  "kindergeld_voluntary_service": {
+   "area": "money",
+   "law": "§ 32 Abs. 4 Nr. 2d EStG",
+   "title": "Kindergeld during a voluntary service until 25",
+   "summary": "A child under 25 still counts while doing a recognised voluntary service such as a voluntary social or ecological year, federal voluntary service or an international volunteer programme.",
+   "keywords": [
+    "kindergeld freiwilligendienst",
+    "fsj child benefit",
+    "bundesfreiwilligendienst kindergeld",
+    "volunteer year child benefit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__32.html"
   }
  },
  "free_help": {
