@@ -7052,6 +7052,207 @@
     "schüleraustausch"
    ],
    "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html"
+  },
+  "student_mother_postbirth_only_on_request": {
+   "area": "exams",
+   "law": "§ 3 Abs. 3 MuSchG",
+   "title": "Student mothers: the university may only involve you in the eight weeks after birth if you ask",
+   "summary": "After the birth, the training institution may let a student take part in her studies during the protection period only if she expressly asks for it, and she can withdraw this request at any time. Without your request, nothing in the first eight weeks (twelve after a premature or multiple birth) can be required of you.",
+   "keywords": [
+    "student after birth",
+    "entbindung",
+    "eight weeks",
+    "acht wochen",
+    "exam after birth",
+    "exam shortly after giving birth",
+    "university pressure",
+    "schutzfrist studentin",
+    "twelve weeks multiple birth"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "pregnancy_medical_employment_ban": {
+   "area": "work",
+   "law": "§ 16 MuSchG",
+   "title": "A doctor's certificate can stop you working if work endangers you or the child",
+   "summary": "An employer may not employ a pregnant woman as far as a medical certificate shows that her health or her child's health is endangered if she keeps working. After the birth, a woman who is not fully fit according to a medical certificate may not be given tasks beyond her capacity in the first months.",
+   "keywords": [
+    "beschäftigungsverbot",
+    "medical ban",
+    "doctor says stop work",
+    "ärztliches zeugnis",
+    "pregnant dangerous job",
+    "work not safe pregnant",
+    "werkstudent pregnant",
+    "individual employment ban"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "pregnancy_night_and_sunday_work_ban": {
+   "area": "work",
+   "law": "§ 5, § 6 MuSchG",
+   "title": "Pregnant or breastfeeding: no work between 8 pm and 6 am, Sundays only with consent",
+   "summary": "An employer may not employ a pregnant or breastfeeding woman between 8 pm and 6 am. Work until 10 pm is possible only with an approval by the authority. Work on Sundays and public holidays is generally forbidden and allowed only with your consent, a replacement rest day and no unacceptable risk from working alone. This matters for jobs in hotels, restaurants and events.",
+   "keywords": [
+    "night shift pregnant",
+    "nachtarbeit schwanger",
+    "sunday work",
+    "sonntagsarbeit",
+    "hotel night shift",
+    "8 pm",
+    "20 uhr",
+    "restaurant evening shift",
+    "stillende nachtschicht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "pregnancy_checkups_and_nursing_breaks": {
+   "area": "work",
+   "law": "§ 7 MuSchG",
+   "title": "Time off for prenatal check-ups and breastfeeding breaks without loss of pay",
+   "summary": "The employer must release you for the time needed for prenatal and maternity check-ups covered by statutory health insurance. During the first twelve months after birth you can ask for nursing breaks, at least twice a day for 30 minutes or once for one hour, more for longer shifts. These times may not lead to a loss of pay.",
+   "keywords": [
+    "vorsorgeuntersuchung",
+    "prenatal appointment",
+    "doctor appointment pregnant",
+    "stillpause",
+    "breastfeeding break",
+    "nursing break",
+    "time off checkup",
+    "freistellung untersuchung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "maternity_protection_pay_mutterschutzlohn": {
+   "area": "work",
+   "law": "§ 18 MuSchG",
+   "title": "Banned from working outside the protection periods: you get Mutterschutzlohn",
+   "summary": "If you cannot work fully or partly because of an employment ban outside the statutory protection periods, the employer has to pay maternity protection pay (Mutterschutzlohn). It equals your average pay of the last three completed calendar months before the pregnancy began. If your job started after the pregnancy began, the first three months of employment count.",
+   "keywords": [
+    "mutterschutzlohn",
+    "pay during employment ban",
+    "beschäftigungsverbot lohn",
+    "salary pregnant not allowed work",
+    "average pay three months",
+    "lohn schwanger freigestellt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "pregnancy_dismissal_ban_duration": {
+   "area": "work",
+   "law": "§ 17 MuSchG",
+   "title": "Dismissal ban: through pregnancy, at least four months after birth, four after a late miscarriage",
+   "summary": "Dismissing a woman is unlawful during pregnancy and until the end of the protection period after birth, but at least four months after the birth. After a miscarriage after the twelfth week the ban lasts four months. It applies if the employer knows of it or is told within two weeks of receiving the dismissal. Only the state labour authority can allow a dismissal in special cases, and it must be in writing and state the reason.",
+   "keywords": [
+    "fired pregnant",
+    "kündigung schwangerschaft",
+    "four months after birth",
+    "vier monate",
+    "miscarriage dismissal",
+    "fehlgeburt kündigung",
+    "dismissal ban pregnant",
+    "elternzeit kündigung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "sick_pay_same_illness_again": {
+   "area": "work",
+   "law": "§ 3 Abs. 1 EntgFG",
+   "title": "Same illness again: new six weeks only after six months free of it or twelve months",
+   "summary": "If you become unable to work again because of the same illness, you get a new six-week entitlement to sick pay only if you were free of that illness for at least six months, or if twelve months have passed since the first incapacity began. Otherwise the earlier weeks are counted.",
+   "keywords": [
+    "same illness",
+    "fortsetzungserkrankung",
+    "chronic illness sick pay",
+    "six months",
+    "twelve months",
+    "sick again",
+    "relapse",
+    "new six weeks",
+    "krank wieder dieselbe krankheit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html"
+  },
+  "sick_pay_withheld_without_certificate": {
+   "area": "work",
+   "law": "§ 7 EntgFG",
+   "title": "The employer can hold back sick pay until you hand in the required certificate",
+   "summary": "Until you submit the medical certificate you are required to provide, the employer may refuse to continue paying your wages. This does not apply if you are not at fault for the missing certificate. The certificate is due by the next working day if the incapacity lasts longer than three calendar days, and the employer may ask for it earlier.",
+   "keywords": [
+    "no certificate",
+    "sick note late",
+    "attest vergessen",
+    "wages withheld sick",
+    "arbeitgeber zahlt nicht krank",
+    "lohn zurückhalten",
+    "gelber schein",
+    "employer demands note day one"
+   ],
+   "source": "https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html"
+  },
+  "deposit_default_immediate_termination": {
+   "area": "housing",
+   "law": "§ 569 Abs. 2a BGB",
+   "title": "Not paying the deposit can justify immediate termination once it reaches two months' rent",
+   "summary": "If a tenant is in default with a deposit (Kaution) that equals the amount of two months' rent, the landlord can have an important reason to end a residential lease immediately. This is why you should not simply withhold an agreed deposit.",
+   "keywords": [
+    "deposit not paid",
+    "kaution nicht gezahlt",
+    "two months rent deposit",
+    "landlord terminates deposit",
+    "kaution rückstand",
+    "fristlose kündigung kaution",
+    "pay deposit late"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__569.html"
+  },
+  "rent_arrears_schonfrist_once_in_two_years": {
+   "area": "housing",
+   "law": "§ 569 Abs. 3 Nr. 2 BGB",
+   "title": "The pay-within-two-months rescue works only once in two years",
+   "summary": "Paying all arrears within two months after the landlord has sued for eviction makes an immediate termination for arrears void. This rescue is not available if an earlier immediate termination for arrears had already been made void in the same way within the last two years.",
+   "keywords": [
+    "schonfrist",
+    "pay arrears court",
+    "two years",
+    "nachzahlen räumungsklage",
+    "rescue termination"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__569.html"
+  },
+  "pregnant_student_disadvantages_avoided": {
+   "area": "exams",
+   "law": "§ 9 Abs. 1 MuSchG",
+   "title": "Pregnant or breastfeeding students: the university must avoid or make up disadvantages",
+   "summary": "For students the training institution takes the role of the employer. It must take the protective measures required by the risk assessment for the physical and mental health of you and your child. You should be able to continue your studies where legally possible, and disadvantages caused by pregnancy, birth or breastfeeding should be avoided or compensated.",
+   "keywords": [
+    "pregnant student",
+    "schwanger studium",
+    "lab safety pregnant",
+    "practical course pregnant",
+    "nachteilsausgleich schwanger",
+    "university risk assessment",
+    "gefährdungsbeurteilung student",
+    "breastfeeding student"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
+  },
+  "pregnant_six_weeks_before_birth_waiver": {
+   "area": "work",
+   "law": "§ 3 Abs. 1 MuSchG",
+   "title": "In the six weeks before the due date you may work only if you expressly agree",
+   "summary": "An employer may not employ a pregnant woman in the last six weeks before the expected delivery date unless she has expressly agreed to work. She can withdraw this consent at any time. After the birth the protection period lasts eight weeks, or twelve weeks for premature or multiple births.",
+   "keywords": [
+    "six weeks before birth",
+    "sechs wochen vor entbindung",
+    "due date work",
+    "mutterschutz beginnt",
+    "maternity leave start",
+    "work until birth",
+    "consent to work pregnant",
+    "schutzfrist vor geburt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html"
   }
  },
  "free_help": {
