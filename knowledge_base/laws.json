@@ -9772,6 +9772,132 @@
     "53 abs 6 urhg"
    ],
    "source": "https://www.gesetze-im-internet.de/urhg/__53.html"
+  },
+  "payment_not_executed_full_refund": {
+   "area": "money",
+   "law": "§ 675y Abs. 1 BGB",
+   "title": "Transfer you ordered failed or went wrong: your bank must refund the full amount without delay",
+   "summary": "If a payment you initiated was not executed or was executed incorrectly, you can demand that your payment service provider refunds the amount immediately and in full.",
+   "keywords": [
+    "überweisung nicht ausgeführt erstattung bank",
+    "transfer went wrong bank must refund",
+    "fehlerhafte ausführung zahlungsauftrag",
+    "payment failed money gone bank refund",
+    "675y bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__675y.html"
+  },
+  "payment_provider_liability_cap_12500": {
+   "area": "money",
+   "law": "§ 675z BGB",
+   "title": "Other damage from a failed transfer can be capped at 12,500 euro, but not for intent or gross negligence",
+   "summary": "Beyond the refund rules, the provider's liability for damage caused by a payment order that was not executed, wrongly executed or late can be limited to 12,500 euro. This limit does not apply to intent.",
+   "keywords": [
+    "bank haftung begrenzt 12500 euro",
+    "bank liability cap failed transfer damage",
+    "folgeschaden verspätete überweisung bank",
+    "late transfer damage bank liable",
+    "675z bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__675z.html"
+  },
+  "report_unauthorised_payment_without_delay": {
+   "area": "money",
+   "law": "§ 676b Abs. 1 BGB",
+   "title": "Spot a payment you did not authorise or that went wrong: tell your bank immediately",
+   "summary": "A payment service user must inform the provider without undue delay after discovering an unauthorised or wrongly executed payment.",
+   "keywords": [
+    "unautorisierte zahlung bank melden unverzüglich",
+    "tell bank immediately fraud payment",
+    "676b bgb anzeige",
+    "how fast report wrong payment bank",
+    "nicht autorisierte abbuchung melden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__676b.html"
+  },
+  "new_provider_cancel_needs_text_form": {
+   "area": "consumer",
+   "law": "§ 312h BGB",
+   "title": "If a new provider cancels your old contract for you, your cancellation or authorisation needs text form",
+   "summary": "If a business, after you changed provider, is commissioned to pass on your cancellation of an existing continuing contract or is authorised to declare it, your cancellation or the authorisation needs text form (for example email).",
+   "keywords": [
+    "anbieterwechsel kündigung vollmacht textform",
+    "new provider cancels old contract text form",
+    "kündigung durch neuen anbieter",
+    "switch provider cancellation authorisation",
+    "312h bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312h.html"
+  },
+  "cancel_button_not_for_finance_or_strict_form": {
+   "area": "consumer",
+   "law": "§ 312k Abs. 1 BGB",
+   "title": "The cancel button duty does not cover financial services or contracts that need a stricter form than text form",
+   "summary": "The online cancellation button duty applies to web contracts for continuing obligations with paid service. It does not apply to contracts whose cancellation by law needs a stricter form than text form, nor to websites or contracts concerning financial services.",
+   "keywords": [
+    "kündigungsbutton gilt nicht finanzdienstleistung",
+    "cancel button bank insurance exception",
+    "kündigungsschaltfläche ausnahme schriftform",
+    "which subscriptions need no cancel button",
+    "312k abs 1 ausnahmen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312k.html"
+  },
+  "contract_basis_collapsed_adjust_or_leave": {
+   "area": "consumer",
+   "law": "§ 313 BGB",
+   "title": "If the basis of a contract collapses, you can demand adjustment, and if that is impossible, withdraw or terminate",
+   "summary": "If circumstances that became the basis of the contract change seriously, or essential assumptions turn out to be false, adjustment can be demanded. If adjustment is impossible or unreasonable for one side, the disadvantaged party can withdraw, and for continuing contracts the right to terminate takes the place of withdrawal.",
+   "keywords": [
+    "geschäftsgrundlage wegfall vertrag anpassen",
+    "change of circumstances contract adjust withdraw",
+    "störung der geschäftsgrundlage",
+    "contract unreasonable after circumstances changed",
+    "313 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__313.html"
+  },
+  "student_benefit_exception_no_baf_g_claim": {
+   "area": "money",
+   "law": "§ 7 Abs. 6 SGB II",
+   "title": "Students with no BAföG claim for specific reasons are not shut out of Grundsicherung by the study exclusion",
+   "summary": "The exclusion in § 7 Abs. 5 SGB II does not apply to trainees who have no right to training support because of § 2 Abs. 1a BAföG. § 7 Abs. 6 lists further exceptions for trainees whose needs are measured under certain BAföG provisions.",
+   "keywords": [
+    "student grundsicherung ausnahme bafög keinen anspruch",
+    "exception student citizens benefit not exclude",
+    "§ 7 abs 6 sgb ii auszubildende",
+    "bürgergeld student ausnahme paragraph 2 abs 1a",
+    "who gets grundsicherung as student exceptions"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_2/__7.html"
+  },
+  "training_benefits_are_not_grundsicherungsgeld": {
+   "area": "money",
+   "law": "§ 27 Abs. 1 SGB II",
+   "title": "Trainees' support under § 27 SGB II does not count as regular Grundsicherungsgeld",
+   "summary": "Trainees excluded by § 7 Abs. 5 SGB II receive support for living costs under the rules of § 27. These benefits are not treated as Grundsicherungsgeld within § 19 Abs. 1 Satz 1.",
+   "keywords": [
+    "leistungen für auszubildende sgb ii 27",
+    "student hardship benefits not grundsicherungsgeld",
+    "§ 27 sgb ii auszubildende leistungen",
+    "trainee support under sgb ii section 27",
+    "azubi darlehen zuschuss jobcenter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html"
+  },
+  "wohngeld_excluded_with_grundsicherung": {
+   "area": "money",
+   "law": "§ 7 Abs. 1 WoGG",
+   "title": "No Wohngeld if you receive Grundsicherungsgeld or trainee benefits paid as a grant under § 27 SGB II",
+   "summary": "Recipients of Grundsicherungsgeld under SGB II, and recipients of benefits for trainees under § 27 Abs. 3 SGB II that are paid as a grant, are excluded from housing benefit.",
+   "keywords": [
+    "wohngeld ausgeschlossen grundsicherung",
+    "housing benefit excluded when on citizens benefit",
+    "wohngeld und bürgergeld gleichzeitig",
+    "can i get wohngeld and jobcenter",
+    "7 wogg ausschluss"
+   ],
+   "source": "https://www.gesetze-im-internet.de/wogg/__7.html"
   }
  },
  "free_help": {
