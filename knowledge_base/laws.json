@@ -9235,6 +9235,188 @@
     "buy software online consumer"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__327.html"
+  },
+  "claims_expire_three_years_end_of_year": {
+   "area": "consumer",
+   "law": "§ 195, § 199 Abs. 1 BGB",
+   "title": "Ordinary claims expire after three years, counted from the end of the year you knew about them",
+   "summary": "The regular limitation period is three years. It starts at the end of the year in which the claim arose and the creditor learned, or without gross negligence should have learned, of the circumstances and of the debtor.",
+   "keywords": [
+    "when does a debt become time barred",
+    "verjährung drei jahre jahresende",
+    "regelmäßige verjährungsfrist",
+    "claim expires three years germany",
+    "195 bgb verjährung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__199.html"
+  },
+  "injury_claims_limit_thirty_years": {
+   "area": "consumer",
+   "law": "§ 199 Abs. 2 BGB",
+   "title": "Damages for injury to life, body, health or freedom expire only after 30 years at the latest",
+   "summary": "Damages claims based on injury to life, body, health or freedom expire, regardless of when they arose and of knowledge, 30 years after the act, breach of duty or other event that caused the damage.",
+   "keywords": [
+    "personenschaden verjährung 30 jahre",
+    "injury compensation time limit",
+    "schmerzensgeld verjährt",
+    "how long can i claim for injury",
+    "199 abs 2"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__199.html"
+  },
+  "negotiations_pause_limitation": {
+   "area": "consumer",
+   "law": "§ 203 BGB",
+   "title": "While you negotiate about a claim, the limitation period is paused, with three extra months afterwards",
+   "summary": "If debtor and creditor negotiate about the claim or the circumstances behind it, limitation is suspended until one side refuses to continue. Limitation then occurs at the earliest three months after the suspension ends.",
+   "keywords": [
+    "verhandlungen hemmen verjährung",
+    "negotiations stop limitation clock",
+    "verjährung gehemmt verhandlung",
+    "talks with insurer limitation",
+    "203 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__203.html"
+  },
+  "lawsuit_or_payment_order_stops_limitation": {
+   "area": "consumer",
+   "law": "§ 204 Abs. 1 BGB",
+   "title": "A lawsuit or a delivered payment order (Mahnbescheid) pauses the limitation period",
+   "summary": "Limitation is suspended by filing a lawsuit for performance or for a declaration of the claim, and by service of a payment order in the dunning procedure or of a European payment order.",
+   "keywords": [
+    "mahnbescheid hemmt verjährung",
+    "sue before statute of limitations",
+    "klage verjährung unterbrechen",
+    "how to stop claim from expiring",
+    "204 bgb hemmung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__204.html"
+  },
+  "minor_contracts_need_parent_consent": {
+   "area": "consumer",
+   "law": "§ 106, § 107, § 108 BGB",
+   "title": "Under 18: contracts need your parents' consent, otherwise they depend on their approval",
+   "summary": "A minor from seven years old has limited capacity to contract. For a declaration that is not merely legally advantageous, he needs the consent of his legal representative. If a minor makes a contract without that consent, its validity depends on the representative's approval, and once the minor turns 18 his own approval replaces it.",
+   "keywords": [
+    "can a 16 year old sign a contract",
+    "minderjährig vertrag eltern zustimmung",
+    "beschränkt geschäftsfähig",
+    "contract without parents consent under 18",
+    "107 bgb einwilligung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__107.html"
+  },
+  "pocket_money_paragraph": {
+   "area": "consumer",
+   "law": "§ 110 BGB",
+   "title": "A minor's contract is valid from the start if paid with money given for that purpose or free use",
+   "summary": "A contract that a minor made without the representative's consent is treated as valid from the beginning if the minor performs it with means that the representative, or a third party with his consent, left to him for that purpose or for free disposal.",
+   "keywords": [
+    "taschengeldparagraph",
+    "kinder kaufen vom taschengeld wirksam",
+    "minor buys with pocket money valid",
+    "bewirken leistung eigenen mitteln",
+    "110 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__110.html"
+  },
+  "child_liability_age_limits": {
+   "area": "consumer",
+   "law": "§ 828 BGB",
+   "title": "Children and damage: under 7 not liable, 7 to 9 not in motor accidents, under 18 only with the insight to understand",
+   "summary": "A child under seven is not responsible for damage to others. A child aged seven to nine is not responsible for damage in an accident with a motor vehicle, rail or suspension railway unless he caused it intentionally. Anyone under 18 is not responsible if, at the time of the act, he lacked the insight needed to recognise responsibility.",
+   "keywords": [
+    "kind haftet schaden alter",
+    "child breaks something liable age",
+    "haftung minderjährige sieben zehn jahre",
+    "kind fahrrad unfall haftung",
+    "828 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__828.html"
+  },
+  "own_fault_reduces_damages": {
+   "area": "consumer",
+   "law": "§ 254 BGB",
+   "title": "If you share the blame, your damages are reduced, also when you fail to limit the damage",
+   "summary": "If the injured person's own fault contributed to the damage, the duty to pay and the amount depend on the circumstances, especially on who mainly caused it. The same applies if he failed to warn about an unusually high risk of damage or failed to avert or reduce the damage.",
+   "keywords": [
+    "mitverschulden schadensersatz kürzung",
+    "contributory negligence damages reduced",
+    "schadenminderungspflicht",
+    "my fault share accident compensation",
+    "254 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__254.html"
+  },
+  "compensation_for_pain_only_where_law_allows": {
+   "area": "consumer",
+   "law": "§ 253 Abs. 1 BGB",
+   "title": "Money for non-material harm can be claimed only in cases the law provides for",
+   "summary": "Compensation in money for damage that is not financial loss can be demanded only in the cases determined by law.",
+   "keywords": [
+    "immaterieller schaden entschädigung nur gesetzlich",
+    "when can i claim pain and suffering",
+    "schmerzensgeld voraussetzung",
+    "non material damage compensation germany",
+    "253 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__253.html"
+  },
+  "damages_restore_or_pay_money": {
+   "area": "consumer",
+   "law": "§ 249 BGB",
+   "title": "Damages: restore the original state, or for injury and damaged property demand the money needed",
+   "summary": "Whoever must pay damages has to restore the state that would exist without the harmful event. For injury to a person or damage to property, the injured person can demand the money needed for that instead. For damaged property, VAT is included only to the extent it was actually incurred.",
+   "keywords": [
+    "schadensersatz reparaturkosten umsatzsteuer",
+    "fiktive abrechnung mehrwertsteuer",
+    "compensation repair costs vat damaged item",
+    "wiederherstellung schaden geld",
+    "249 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__249.html"
+  },
+  "animal_keeper_liable_for_damage": {
+   "area": "consumer",
+   "law": "§ 833 BGB",
+   "title": "If an animal injures someone or damages property, its keeper must pay for the damage",
+   "summary": "If an animal kills or injures a person or damages property, the person who keeps the animal has to compensate the injured person for the resulting damage.",
+   "keywords": [
+    "dog bites someone who pays",
+    "tierhalterhaftung hund",
+    "hund beschädigt auto haftung",
+    "pet damage liability owner",
+    "833 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__833.html"
+  },
+  "avoid_contract_for_deceit_or_threat": {
+   "area": "consumer",
+   "law": "§ 123, § 124 BGB",
+   "title": "Tricked or threatened into a contract: you can avoid it, up to ten years at most",
+   "summary": "Anyone who was led to make a declaration by fraudulent deception or unlawfully by a threat can avoid the declaration. Avoidance is excluded when ten years have passed since the declaration was made.",
+   "keywords": [
+    "arglistige täuschung vertrag anfechten",
+    "contract signed under pressure threat void",
+    "anfechtung drohung",
+    "tricked into signing contract germany",
+    "123 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__123.html"
+  },
+  "avoid_contract_for_mistake_quickly": {
+   "area": "consumer",
+   "law": "§ 119 Abs. 1, § 121 BGB",
+   "title": "Mistake about what you declared: you can avoid it, but you must act without undue delay",
+   "summary": "Someone who was mistaken about the content of his declaration, or did not want to make a declaration of that content at all, can avoid it if he would not have made it knowing the facts and judging sensibly. In these cases the avoidance must be made without culpable delay after learning the reason.",
+   "keywords": [
+    "irrtum anfechten vertrag",
+    "mistake in contract typo price avoid",
+    "anfechtung irrtum unverzüglich",
+    "wrong price declared avoid purchase",
+    "119 bgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__119.html"
   }
  },
  "free_help": {
