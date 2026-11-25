@@ -338,6 +338,18 @@ KB = json.loads((Path(__file__).resolve().parents[1] / "knowledge_base" / "laws.
     ('how much can a company charge for a payment reminder fee', 'reminder_fees_limit'),
     ('do my parents keep Kindergeld during my Erasmus semester abroad', 'kindergeld_study_abroad'),
     ('can my boss read my emails on the Diensthandy if private use is allowed', 'employer_email_phone_monitoring'),
+    ('can my landlord deduct from my deposit for normal wear and tear', 'wear_and_tear_not_tenant'),
+    ('claims for damage to the flat expire after six months', 'landlord_damage_claims_six_months'),
+    ('I installed shelves in my room, can I take them with me or claim the costs', 'tenant_expense_claims_six_months'),
+    ('do I still pay rent during my semester abroad', 'rent_due_if_you_cannot_use_room'),
+    ('my landlord refuses to repair the broken heating, what must he do', 'landlord_duty_to_maintain'),
+    ("my landlord's notice period is longer after five years of tenancy", 'landlord_notice_longer_after_five_years'),
+    ('can a short-term sublet have a shorter notice period', 'temporary_use_shorter_notice'),
+    ('the flat is dangerous for my health can I leave immediately', 'health_hazard_immediate_termination'),
+    ('does a fristlose Kündigung need to give a reason in the letter', 'termination_reason_must_be_stated'),
+    ('when can a lease be ended immediately with an important reason and abmahnung', 'immediate_termination_important_reason'),
+    ('I did not move out on time, what compensation can the landlord charge', 'overstaying_agreed_or_local_rent'),
+    ('can the landlord claim extra damages because I returned the flat late', 'overstaying_further_damages_limited'),
 ])
 def test_finds_the_right_rule(question, expected):
     assert INDEX.search(question)[0] == expected
