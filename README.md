@@ -27,7 +27,7 @@ Lawyers are expensive, and free advice exists (Mieterverein, Verbraucherzentrale
 
 ## What it covers
 
-466 verified rules across 10 areas of student life (`python -m rightscheck topics` lists them all):
+474 verified rules across 10 areas of student life (`python -m rightscheck topics` lists them all):
 
 | Area | Examples |
 |---|---|
@@ -91,7 +91,7 @@ I couldn't find a verified rule for this question, so I won't guess.
 flowchart LR
     Q[Question] --> R[Retrieval<br/>BM25 over rules<br/>EN + DE keywords]
     D[PDF / text] --> X[Extract text] --> C[Classify document] --> E[Rule engine<br/>clause + numbers]
-    R --> K[(Verified knowledge base<br/>466 rules · sources · dates)]
+    R --> K[(Verified knowledge base<br/>474 rules · sources · dates)]
     E --> K
     K --> O[Report / answer<br/>law · source · free help]
     O --> L[Optional LLM<br/>plain language, any language<br/>only from verified facts]
@@ -110,7 +110,7 @@ A wrong answer here costs a student real money or an exam attempt. So the work i
 
 `python -m rightscheck agent "<message>" [--file contract.pdf] [--trace]`
 
-Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 466 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
+Here the model decides what to do. It has two tools, both backed by the tested code above: `check_document` (red-flag checks on the attached document) and `search_rights` (the 474 verified rules). It can combine them, e.g. check a lease, look up a related right, and draft a polite message to the landlord.
 
 Real run on 14 Nov 2026 (an open-weight 120B model through an chat-completions compatible API, started from the "live run" workflow in GitHub Actions), shortened:
 
@@ -123,7 +123,7 @@ Sehr geehrter Herr Beispiel,
 ... beim Durchsehen habe ich ein paar Punkte gefunden, die nach geltendem Recht angepasst werden sollten:
 
 1. Kaution: Die vereinbarte Kaution von 1 800 € überschreitet das zulässige Maximum von drei
-   Nettokaltmieten (3 × 466 € = 1 350 €). Nach § 551 Abs. 1 und 4 BGB ...
+   Nettokaltmieten (3 × 450 € = 1 350 €). Nach § 551 Abs. 1 und 4 BGB ...
    § 551 Abs. 2 und 3 BGB sieht vor, dass die Kaution in bis zu drei gleichen Monatsraten gezahlt werden kann.
 2. Kündigungsfrist: ... Nach § 573c Abs. 1 und 4 BGB beträgt die gesetzliche Kündigungsfrist ... in der Regel drei Monate.
 
@@ -178,7 +178,7 @@ pytest                                                              # run the te
 
 ## Quality
 
-- **474 tests**: every sample contract, number parsing, 438 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
+- **482 tests**: every sample contract, number parsing, 446 real student questions in English and German, the minimum wage switch on 1 Jan 2027.
 - **Precision test:** a fair contract (`samples/fairer_vertrag.txt`) must produce zero warnings, and an unrelated question must get no answer. A tool that warns about everything or answers everything is useless.
 - **Integrity tests:** every rule has an area, a source link and keywords; every answer only contains text from the verified knowledge base.
 
@@ -188,7 +188,7 @@ pytest                                                              # run the te
 - [x] v0.2: all student-rights areas, "Ask about your rights" mode, Bavarian exam law
 - [x] v0.3: 50 verified rules, 27 automatic contract checks
 - [x] v0.4: AI agent mode with tool calling and a code-enforced grounding check
-- [x] Growing the knowledge base toward 600 rules in verified batches of ~12-25 (466 reached so far; each rule is checked against its source and gets a test question)
+- [x] Growing the knowledge base toward 600 rules in verified batches of ~12-25 (474 reached so far; each rule is checked against its source and gets a test question)
 - [ ] OCR so students can upload a photo of a letter
 - [ ] n8n workflow: upload → check → deadline into Google Calendar → reminder e-mail
 - [ ] Zapier version: forward a letter by e-mail, get the explanation back

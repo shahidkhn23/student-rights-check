@@ -8184,6 +8184,107 @@
     "volunteer year child benefit"
    ],
    "source": "https://www.gesetze-im-internet.de/estg/__32.html"
+  },
+  "neighbour_disturbance_termination": {
+   "area": "housing",
+   "law": "§ 569 Abs. 2 BGB",
+   "title": "Serious repeated noise or disturbance of the peace: either side can end the lease",
+   "summary": "Either landlord or tenant may terminate if the other seriously and repeatedly disturbs the peace of the building. It is justified only if continuing until the normal notice period ends would be unreasonable, weighing all circumstances, fault and both sides' interests.",
+   "keywords": [
+    "repeated noise termination",
+    "disturb the peace lease",
+    "störung hausfrieden kündigung",
+    "neighbour noise end lease immediately"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__569.html"
+  },
+  "rent_arrears_after_rent_increase_judgment": {
+   "area": "housing",
+   "law": "§ 569 Abs. 3 Nr. 3 BGB",
+   "title": "After a court orders a higher rent, the landlord must wait two months before ending the lease for arrears",
+   "summary": "If the tenant has been legally ordered to pay an increased rent under §§ 558–560, the landlord cannot terminate for late payment before two months after the judgment becomes final.",
+   "keywords": [
+    "rent increase judgment arrears termination",
+    "court ordered higher rent two months",
+    "zustimmungsklage mieterhöhung kündigung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__569.html"
+  },
+  "void_extra_termination_clauses": {
+   "area": "housing",
+   "law": "§ 569 Abs. 5 BGB",
+   "title": "Lease clauses giving the landlord extra termination rights are void",
+   "summary": "Clauses that disadvantage the tenant by deviating from the immediate-termination rules are void, and so are clauses giving the landlord extraordinary termination rights beyond those set by law.",
+   "keywords": [
+    "clause extra termination landlord void",
+    "lease clause terminate immediately invalid",
+    "unwirksame kündigungsklausel"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__569.html"
+  },
+  "warranty_presumption_animals_six_months": {
+   "area": "consumer",
+   "law": "§ 477 Abs. 1 BGB",
+   "title": "Buying a live animal from a trader: the defect presumption lasts six months, not one year",
+   "summary": "For goods in general, a defect that shows up within one year after delivery is presumed to have existed at the start. When a living animal is bought the presumption period is six months. It does not apply if it is incompatible with the nature of the goods or the type of defect.",
+   "keywords": [
+    "pet bought defect six months",
+    "living animal warranty presumption",
+    "tier kaufmangel beweislast",
+    "animal sick after purchase"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__477.html"
+  },
+  "warranty_digital_elements_two_years": {
+   "area": "consumer",
+   "law": "§ 477 Abs. 2 BGB",
+   "title": "Smart devices with digital features: the defect presumption can run two years",
+   "summary": "For goods with digital elements where permanent provision of those elements was agreed, a deviation that appears during the provision period, or within two years of delivery, is presumed to have existed during the provision period up to that point.",
+   "keywords": [
+    "digital elements defect presumption",
+    "smart device software defect two years",
+    "updates provided defect presumption"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__477.html"
+  },
+  "withdrawal_start_split_deliveries": {
+   "area": "consumer",
+   "law": "§ 356 Abs. 2 BGB",
+   "title": "Withdrawal period for split orders: it starts when the last item arrives",
+   "summary": "For several goods ordered together but delivered separately, the 14 days start when the last item arrives. For goods delivered in partial shipments, it is the last shipment, and for recurring deliveries over a set period it is the first delivery.",
+   "keywords": [
+    "order delivered in parts withdrawal",
+    "last item arrives 14 days",
+    "partial shipment withdrawal period",
+    "recurring delivery withdrawal start"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__356.html"
+  },
+  "withdrawal_services_early_start": {
+   "area": "consumer",
+   "law": "§ 356 Abs. 5 BGB",
+   "title": "Services: you lose your withdrawal right once the service is fully delivered, if you agreed to an early start",
+   "summary": "For a paid service, the right to withdraw ends on full performance if, before it began, you expressly agreed that it would start within the withdrawal period, gave that consent on a durable medium and confirmed that you know the right is lost. Free services end it on full performance, and a repair visit you asked for works the same way.",
+   "keywords": [
+    "service withdrawal lost fully performed",
+    "early start service withdrawal",
+    "repair visit requested withdrawal",
+    "dienstleistung widerruf erloschen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__356.html"
+  },
+  "withdrawal_digital_content_start": {
+   "area": "consumer",
+   "law": "§ 356 Abs. 6 BGB",
+   "title": "Digital content: the withdrawal right ends when the download or streaming starts, if you agreed",
+   "summary": "For digital content not on a physical medium, the withdrawal right expires when the trader begins performance, if you expressly agreed to the early start, confirmed that you know the right will be lost and the trader gave the confirmation under § 312f. Free digital content: the right ends once the trader begins.",
+   "keywords": [
+    "digital content withdrawal download",
+    "ebook withdrawal after download",
+    "streaming withdrawal lost",
+    "software download widerruf"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__356.html"
   }
  },
  "free_help": {
