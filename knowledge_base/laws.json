@@ -7567,7 +7567,12 @@
     "court severance",
     "how much severance",
     "auflösung gegen abfindung",
-    "kündigungsschutzklage abfindung"
+    "kündigungsschutzklage abfindung",
+    "maximum severance",
+    "labour court award",
+    "court dissolves",
+    "twelve months pay",
+    "severance cap"
    ],
    "source": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html"
   },
@@ -18131,6 +18136,508 @@
     "höchstmaß geldbuße"
    ],
    "source": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.epub"
+  },
+  "limitation_paused_between_spouses_and_partners": {
+   "area": "money",
+   "law": "§ 207 Abs. 1 BGB",
+   "title": "Limitation is paused between spouses and life partners",
+   "summary": "The limitation period for claims between spouses is suspended as long as the marriage lasts. The same applies to claims between registered life partners while the partnership exists.",
+   "keywords": [
+    "verjährung gehemmt",
+    "ehegatten",
+    "lebenspartner",
+    "anspruch zwischen ehegatten",
+    "hemmung verjährung ehe",
+    "limitation spouses"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__207.html"
+  },
+  "limitation_paused_between_child_and_parents_until_21": {
+   "area": "money",
+   "law": "§ 207 Abs. 1 BGB",
+   "title": "Limitation is paused between a child and parents until age 21",
+   "summary": "The limitation period for claims between a child and its parents, or between the child and a parent's spouse or life partner, is suspended until the child turns 21.",
+   "keywords": [
+    "verjährung kind eltern",
+    "21. lebensjahr",
+    "stiefelternteil",
+    "hemmung",
+    "claims against parents limitation",
+    "anspruch gegen eltern"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__207.html"
+  },
+  "limitation_paused_during_guardianship_and_care": {
+   "area": "money",
+   "law": "§ 207 Abs. 1 BGB",
+   "title": "Limitation is paused during guardianship, legal care and curatorship",
+   "summary": "The limitation period is suspended between guardian and ward during guardianship, between a person under legal care and their carer during the care, and between a person under curatorship and the curator during that curatorship.",
+   "keywords": [
+    "vormund",
+    "mündel",
+    "betreuer",
+    "betreuter",
+    "pfleger",
+    "pflegschaft",
+    "verjährung hemmung",
+    "guardian limitation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__207.html"
+  },
+  "child_claims_against_beistand_limitation_paused": {
+   "area": "money",
+   "law": "§ 207 Abs. 1 BGB",
+   "title": "Limitation of a child's claims against a Beistand is paused",
+   "summary": "The limitation period for claims of the child against a Beistand (court-free helper for the parent) is suspended for as long as the Beistandschaft lasts.",
+   "keywords": [
+    "beistand",
+    "beistandschaft",
+    "verjährung kind",
+    "gehemmt",
+    "jugendamt beistand",
+    "child helper limitation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__207.html"
+  },
+  "landlord_can_terminate_if_tenant_endangers_property_or_sublets_illegally": {
+   "area": "housing",
+   "law": "§ 543 Abs. 2 Satz 1 Nr. 2 BGB",
+   "title": "Termination without notice for endangering the flat or unauthorised subletting",
+   "summary": "The landlord can terminate without notice for good cause if the tenant seriously violates the landlord's rights by endangering the property through neglect of due care, or by letting a third party use it without permission.",
+   "keywords": [
+    "untervermietung ohne erlaubnis",
+    "fristlose kündigung",
+    "vernachlässigung",
+    "gefährdet mietsache",
+    "unerlaubte untervermietung",
+    "sublet without permission"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__543.html"
+  },
+  "tenant_can_terminate_if_use_not_given_or_withdrawn": {
+   "area": "housing",
+   "law": "§ 543 Abs. 2 Satz 1 Nr. 1 BGB",
+   "title": "Tenant can terminate without notice if the use of the flat is denied",
+   "summary": "The tenant can terminate without notice for good cause if the contractual use of the rented property is wholly or partly not granted in time or is taken away again.",
+   "keywords": [
+    "mieter fristlos kündigen",
+    "gebrauch nicht gewährt",
+    "wohnung nicht übergeben",
+    "entzogen",
+    "tenant terminate use denied",
+    "mietsache nicht nutzbar"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__543.html"
+  },
+  "rent_reduced_to_zero_or_in_proportion_when_use_impaired": {
+   "area": "housing",
+   "law": "§ 536 Abs. 1 BGB",
+   "title": "Rent reduction (Mietminderung) when the flat has a defect",
+   "summary": "If the rented flat has a defect that removes its fitness for use, the tenant does not have to pay rent for that time. If the fitness is only reduced, only a reasonably reduced rent is due. A minor impairment is ignored.",
+   "keywords": [
+    "mietminderung",
+    "mangel",
+    "unerhebliche minderung",
+    "tauglichkeit aufgehoben",
+    "schimmel",
+    "heizung ausgefallen",
+    "rent reduction defect"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__536.html"
+  },
+  "rent_reduction_also_for_missing_promised_feature": {
+   "area": "housing",
+   "law": "§ 536 Abs. 2 BGB",
+   "title": "Rent reduction also when a promised feature is missing",
+   "summary": "The rent reduction rules also apply if a promised property of the flat is missing or later falls away.",
+   "keywords": [
+    "zugesicherte eigenschaft",
+    "fehlt",
+    "wohnfläche abweichung",
+    "zusicherung",
+    "promised feature missing",
+    "mietminderung zusicherung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__536.html"
+  },
+  "residential_tenant_defect_rules_cannot_be_worsened": {
+   "area": "housing",
+   "law": "§ 536 Abs. 4 BGB",
+   "title": "Clauses against tenants' defect rights are void for flats",
+   "summary": "In a residential lease, any agreement that deviates from the rent reduction rules to the tenant's disadvantage is invalid.",
+   "keywords": [
+    "mietminderung ausschluss klausel",
+    "unwirksam",
+    "mietvertrag klausel minderung",
+    "void clause",
+    "verzicht auf minderung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__536.html"
+  },
+  "tenant_must_report_defects_immediately": {
+   "area": "housing",
+   "law": "§ 536c Abs. 1 BGB",
+   "title": "Report defects to the landlord without delay",
+   "summary": "If a defect shows up during the lease, or measures to protect the flat against an unforeseen danger become necessary, the tenant must tell the landlord without delay. The same applies if a third party claims a right to the property.",
+   "keywords": [
+    "mängelanzeige",
+    "unverzüglich anzeigen",
+    "schaden melden",
+    "schimmel melden",
+    "report defect landlord",
+    "unvorhergesehene gefahr"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__536c.html"
+  },
+  "landlord_must_give_use_and_keep_flat_in_suitable_state": {
+   "area": "housing",
+   "law": "§ 535 Abs. 1 BGB",
+   "title": "The landlord must provide and maintain a usable flat",
+   "summary": "The lease obliges the landlord to let the tenant use the flat during the lease. The landlord must hand it over in a state suitable for the contractual use and keep it in that state throughout the lease.",
+   "keywords": [
+    "vermieter pflichten",
+    "instandhaltung",
+    "vertragsgemäßer gebrauch",
+    "hauptpflichten mietvertrag",
+    "landlord obligations",
+    "instandhalten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__535.html"
+  },
+  "tenant_must_pay_the_agreed_rent": {
+   "area": "housing",
+   "law": "§ 535 Abs. 2 BGB",
+   "title": "The tenant must pay the agreed rent",
+   "summary": "The tenant must pay the landlord the rent agreed in the lease.",
+   "keywords": [
+    "miete zahlen",
+    "vereinbarte miete",
+    "mieterpflicht",
+    "tenant pays rent",
+    "hauptpflicht mieter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__535.html"
+  },
+  "operating_costs_only_if_agreed_in_lease": {
+   "area": "housing",
+   "law": "§ 556 Abs. 1 BGB",
+   "title": "The tenant pays utilities (Betriebskosten) only if agreed",
+   "summary": "The parties can agree that the tenant bears operating costs. These are the costs that ownership or the proper use of the building and plot regularly cause the owner. The list is set by the Betriebskostenverordnung.",
+   "keywords": [
+    "betriebskosten vereinbaren",
+    "nebenkosten",
+    "betriebskostenverordnung",
+    "umlage",
+    "nebenkosten mietvertrag",
+    "operating costs agreed"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556.html"
+  },
+  "landlord_must_let_tenant_see_utility_receipts": {
+   "area": "housing",
+   "law": "§ 556 Abs. 4 BGB",
+   "title": "You can inspect the receipts behind the utility bill",
+   "summary": "On request, the landlord must let the tenant inspect the documents on which the utility statement is based. The landlord may provide them electronically.",
+   "keywords": [
+    "belegeinsicht",
+    "nebenkostenabrechnung belege",
+    "einsicht rechnungen",
+    "unterlagen",
+    "inspect receipts",
+    "kopien belege"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556.html"
+  },
+  "landlord_need_not_give_partial_utility_statements": {
+   "area": "housing",
+   "law": "§ 556 Abs. 3 BGB",
+   "title": "No duty for partial utility statements",
+   "summary": "The landlord is not obliged to issue partial statements of operating costs.",
+   "keywords": [
+    "teilabrechnung",
+    "nebenkosten teilweise",
+    "zwischenabrechnung",
+    "partial statement utility",
+    "abrechnung teil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556.html"
+  },
+  "utility_rules_cannot_be_worsened_for_tenant": {
+   "area": "housing",
+   "law": "§ 556 Abs. 5 BGB",
+   "title": "Utility cost rules cannot be changed to your disadvantage",
+   "summary": "Any agreement that deviates from § 556 Abs. 1, Abs. 2 Satz 2, Abs. 3 or Abs. 3a BGB to the tenant's disadvantage is invalid.",
+   "keywords": [
+    "nebenkosten klausel unwirksam",
+    "abweichende vereinbarung",
+    "void utility clause",
+    "mietvertrag nebenkosten zum nachteil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "landlord_can_switch_to_consumption_based_cost_split_before_period_starts": {
+   "area": "housing",
+   "law": "§ 556a Abs. 2 BGB",
+   "title": "Switching to consumption-based utility billing",
+   "summary": "If the lease says otherwise, the landlord can declare in text form that operating costs will in future be split by a measure that reflects actual consumption or cause, in whole or in part. The declaration is allowed only before a billing period begins.",
+   "keywords": [
+    "verbrauchsabhängig",
+    "umlageschlüssel ändern",
+    "abrechnungsmaßstab",
+    "textform erklärung",
+    "vor beginn abrechnungszeitraum",
+    "switch cost split"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__556a.html"
+  },
+  "rent_increase_cap_20_percent_in_three_years": {
+   "area": "housing",
+   "law": "§ 558 Abs. 3 BGB",
+   "title": "Rent increase cap: 20 percent in three years",
+   "summary": "Rent increases up to the local comparative rent may not raise the rent by more than 20 percent within three years (Kappungsgrenze), not counting modernisation increases. It is 15 percent in areas where housing supply is especially at risk, as set by state regulation for up to five years at a time.",
+   "keywords": [
+    "kappungsgrenze",
+    "20 prozent",
+    "drei jahre",
+    "15 prozent",
+    "angespannter wohnungsmarkt",
+    "mieterhöhung grenze",
+    "rent cap"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__558.html"
+  },
+  "index_rent_excludes_increase_to_local_comparative_rent": {
+   "area": "housing",
+   "law": "§ 557b BGB",
+   "title": "With an index rent you cannot get a comparison-rent increase",
+   "summary": "During an index-linked rent (Indexmiete), a rent increase to the local comparative rent under § 558 is excluded. A modernisation increase under § 559 or § 559e is possible only for building measures the landlord did not cause.",
+   "keywords": [
+    "indexmiete",
+    "inflation miete",
+    "erhöhung ausgeschlossen",
+    "559",
+    "vergleichsmiete ausgeschlossen",
+    "index linked rent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__557b.html"
+  },
+  "consumer_contract_rules_apply_when_consumer_pays_a_price": {
+   "area": "consumer",
+   "law": "§ 312 Abs. 1 BGB",
+   "title": "The special consumer contract rules apply when you pay a price",
+   "summary": "The consumer contract rules in chapters 1 and 2 of this part of the BGB apply to consumer contracts in which the consumer undertakes to pay a price. Notarised contracts are largely excluded.",
+   "keywords": [
+    "verbraucherverträge anwendungsbereich",
+    "preis zahlen",
+    "notariell beurkundet",
+    "anwendungsbereich 312",
+    "scope consumer contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__312.html"
+  },
+  "student_insurance_duty_does_not_apply_if_otherwise_insured": {
+   "area": "health",
+   "law": "§ 5 Abs. 1 Nr. 9, Abs. 7 SGB V",
+   "title": "Students are not compulsorily insured as students if they are insured another way",
+   "summary": "The compulsory insurance for students does not apply to someone who is already compulsorily insured as an employee or similar, or insured through family insurance under § 10, except where the student's spouse, partner or child is not insured. Student insurance takes precedence over the insurance of interns.",
+   "keywords": [
+    "student versicherungspflicht ausnahme",
+    "familienversichert student",
+    "pflichtversichert arbeitnehmer",
+    "vorrang praktikanten",
+    "student already insured"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__5.html"
+  },
+  "student_membership_ends_with_semester_unless_reenrolled_in_a_month": {
+   "area": "health",
+   "law": "§ 190 Abs. 9 SGB V",
+   "title": "Student health insurance ends with the semester after exmatriculation",
+   "summary": "The membership of compulsorily insured students ends at the end of the semester for which they last enrolled or re-registered if they are exmatriculated. This does not apply if they enrol at a state or state-recognised university within one month after the end of that semester.",
+   "keywords": [
+    "exmatrikulation krankenversicherung",
+    "mitgliedschaft endet",
+    "semester ende",
+    "einschreiben innerhalb eines monats",
+    "studienabbruch krankenkasse",
+    "exmatriculated insurance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__190.html"
+  },
+  "universities_must_inform_students_about_health_insurance_duty": {
+   "area": "health",
+   "law": "§ 199a Abs. 1 SGB V",
+   "title": "Universities must tell students about health insurance rules",
+   "summary": "State and state-recognised universities, and the Foundation for University Admission, must inform applicants and students about the compulsory health insurance for students, the options for exemption and the steps needed to keep the insurance.",
+   "keywords": [
+    "hochschule informationspflicht",
+    "krankenversicherung student information",
+    "befreiungsmöglichkeiten",
+    "stiftung für hochschulzulassung",
+    "uni muss informieren"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__199a.html"
+  },
+  "sick_child_benefit_ten_days_per_child_twenty_for_single_parents": {
+   "area": "health",
+   "law": "§ 45 Abs. 2 SGB V",
+   "title": "Child sick pay: 10 working days per child a year, 20 for single parents",
+   "summary": "Statutory insured parents can get Krankengeld for staying home to care for a sick insured child if a doctor says it is needed and no other household member can do it. It is paid for up to 10 working days per child and calendar year, or 20 for single parents, and only one parent can claim for the same child.",
+   "keywords": [
+    "kinderkrankengeld",
+    "kind krank",
+    "10 arbeitstage",
+    "alleinerziehende 20",
+    "kinderkrankentage",
+    "sick child pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__45.html"
+  },
+  "self_employed_no_sick_pay_unless_elected": {
+   "area": "health",
+   "law": "§ 44 Abs. 2 SGB V",
+   "title": "Self-employed people get Krankengeld only if they opt in",
+   "summary": "Full-time self-employed people have no claim to Krankengeld unless they declare to the health fund that their membership should include it (Wahlerklärung).",
+   "keywords": [
+    "selbständige krankengeld",
+    "wahlerklärung",
+    "freiberufler krankengeld",
+    "hauptberuflich selbständig",
+    "self-employed sick pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.epub"
+  },
+  "krankengeld_starts_with_hospital_stay_or_medical_certificate": {
+   "area": "health",
+   "law": "§ 46 SGB V",
+   "title": "When Krankengeld starts",
+   "summary": "The claim to Krankengeld arises from the start of inpatient treatment in a hospital or prevention or rehabilitation facility, and otherwise on the day the doctor certifies incapacity for work.",
+   "keywords": [
+    "krankengeld beginn",
+    "arbeitsunfähigkeit feststellung",
+    "krankenhaus",
+    "entstehen anspruch",
+    "when sick pay starts",
+    "ärztliche feststellung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html"
+  },
+  "krankengeld_continues_if_next_certificate_by_next_working_day": {
+   "area": "health",
+   "law": "§ 46 Satz 2 SGB V",
+   "title": "Keep Krankengeld by getting the next certificate in time",
+   "summary": "The claim to Krankengeld continues until the day on which further incapacity for work due to the same illness is certified by a doctor, provided the doctor certifies it at the latest on the next working day after the previous certified period.",
+   "keywords": [
+    "folgebescheinigung",
+    "nächster werktag",
+    "krankengeld lücke",
+    "lückenlos",
+    "anschlussbescheinigung",
+    "gap in certificate"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.epub"
+  },
+  "krankengeld_paid_for_calendar_days_thirty_day_month": {
+   "area": "health",
+   "law": "§ 47 SGB V",
+   "title": "Krankengeld is paid per calendar day, a month counts as 30 days",
+   "summary": "Krankengeld is paid for calendar days. If it is payable for a whole calendar month, the month is counted as thirty days.",
+   "keywords": [
+    "krankengeld kalendertage",
+    "dreißig tage",
+    "monat 30 tage",
+    "berechnung krankengeld",
+    "sick pay calendar days"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/__47.html"
+  },
+  "inpatient_copayment_ten_euro_per_day": {
+   "area": "health",
+   "law": "§ 61 SGB V",
+   "title": "Inpatient copayment: 10 euro per calendar day",
+   "summary": "For inpatient measures, and for intensive out-of-hospital care in certain care facilities, the patient copayment is 10 euro per calendar day.",
+   "keywords": [
+    "krankenhaus zuzahlung",
+    "10 euro pro tag",
+    "stationäre zuzahlung",
+    "krankenhausaufenthalt kosten",
+    "hospital copay per day"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html"
+  },
+  "copayment_cap_household_relatives_allowance_15_percent": {
+   "area": "health",
+   "law": "§ 62 SGB V",
+   "title": "Copayment cap: household relatives reduce the income counted",
+   "summary": "To work out the copayment cap, the annual gross income of the first relative living in the insured person's household is reduced by 15 percent, and further relatives reduce it by a further percentage. The cap is 2 percent of annual gross income, or 1 percent for chronically ill people in continuous treatment.",
+   "keywords": [
+    "belastungsgrenze angehörige",
+    "15 prozent",
+    "familie zuzahlung",
+    "chroniker 1 prozent",
+    "haushalt angehörige",
+    "zuzahlungsgrenze familie"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html"
+  },
+  "change_of_working_terms_suit_within_three_weeks": {
+   "area": "work",
+   "law": "§ 4 Satz 2 KSchG",
+   "title": "Contesting a change of working conditions: three weeks too",
+   "summary": "If an employer gives notice with an offer of changed working conditions (Änderungskündigung), the employee who wants to contest the change must sue within three weeks of receiving the written notice, asking the court to find the change socially unjustified or invalid.",
+   "keywords": [
+    "änderungskündigung",
+    "änderung arbeitsbedingungen",
+    "klagefrist",
+    "drei wochen",
+    "sozial ungerechtfertigt",
+    "change of terms dismissal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/__4.html"
+  },
+  "late_dismissal_suit_allowed_if_pregnancy_learned_late": {
+   "area": "work",
+   "law": "§ 5 Abs. 1 KSchG",
+   "title": "Pregnancy learned too late: a late dismissal suit is allowed",
+   "summary": "A late dismissal suit is also allowed if a woman, for a reason she is not responsible for, only learned of her pregnancy after the three-week deadline had passed.",
+   "keywords": [
+    "schwangerschaft zu spät erfahren",
+    "verspätete klage",
+    "nachträgliche zulassung",
+    "kündigung schwanger",
+    "pregnant late suit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/KSchG.pdf"
+  },
+  "late_dismissal_suit_application_barred_after_six_months": {
+   "area": "work",
+   "law": "§ 5 Abs. 3 KSchG",
+   "title": "Late suit application: six months at most",
+   "summary": "An application to admit a late dismissal suit can no longer be made once six months have passed, counted from the end of the missed deadline. The application must be combined with the suit.",
+   "keywords": [
+    "sechs monate",
+    "nachträgliche klagezulassung",
+    "antrag verspätet",
+    "ausschlussfrist",
+    "late suit deadline",
+    "klageerhebung antrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/KSchG.pdf"
+  },
+  "court_ends_job_on_date_valid_notice_would_have_ended_it": {
+   "area": "work",
+   "law": "§ 9 Abs. 2 KSchG",
+   "title": "When the court ends the employment after a won dismissal case",
+   "summary": "If the court dissolves the employment against severance, it sets the date at which the employment would have ended had the dismissal been socially justified.",
+   "keywords": [
+    "auflösungsantrag",
+    "zeitpunkt auflösung",
+    "abfindung gericht",
+    "kündigungsfrist ende",
+    "court dissolves job date",
+    "auflösung arbeitsverhältnis zeitpunkt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/kschg/__9.html"
   }
  },
  "free_help": {
