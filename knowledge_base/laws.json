@@ -14114,7 +14114,10 @@
     "property",
     "exclude others",
     "animal protection",
-    "disposal"
+    "disposal",
+    "what may an owner do",
+    "owner own property",
+    "civil code owner"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__903.html"
   },
@@ -14129,7 +14132,9 @@
     "pets",
     "tiere",
     "protection",
-    "law"
+    "law",
+    "are animals things",
+    "animals legally things civil code"
    ],
    "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.pdf"
   },
@@ -16050,6 +16055,410 @@
     "verbot"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__1306.html"
+  },
+  "breach_of_duty_gives_damages_unless_not_at_fault": {
+   "area": "consumer",
+   "law": "BGB § 280 Abs. 1",
+   "title": "Damages for breach of duty",
+   "summary": "If the debtor breaches a duty from the obligation, the creditor can demand compensation for the resulting damage. This does not apply if the debtor is not responsible for the breach.",
+   "keywords": [
+    "pflichtverletzung",
+    "schadensersatz",
+    "breach of duty",
+    "damages",
+    "vertreten",
+    "schuldverhältnis"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__280.html"
+  },
+  "no_damages_instead_of_whole_performance_for_minor_breach": {
+   "area": "consumer",
+   "law": "BGB § 281 Abs. 1 S. 3",
+   "title": "Minor defects and damages",
+   "summary": "If the debtor performed the service not as owed, the creditor cannot demand damages instead of the whole performance when the breach is insignificant.",
+   "keywords": [
+    "unerheblich",
+    "minor breach",
+    "damages instead of performance",
+    "schadensersatz statt der ganzen leistung",
+    "insignificant"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__281.html"
+  },
+  "liability_for_unlawful_harm_to_body_property": {
+   "area": "consumer",
+   "law": "BGB § 823 Abs. 1",
+   "title": "Liability for unlawful harm",
+   "summary": "Whoever intentionally or negligently and unlawfully injures the life, body, health, freedom, property or another right of someone is obliged to compensate the resulting damage.",
+   "keywords": [
+    "unerlaubte handlung",
+    "tort",
+    "schadensersatz",
+    "negligence",
+    "fahrlässig",
+    "property damage",
+    "injury"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__823.html"
+  },
+  "liability_for_breaking_protective_law": {
+   "area": "consumer",
+   "law": "BGB § 823 Abs. 2",
+   "title": "Breach of a protective law",
+   "summary": "The same duty to pay damages applies to someone who violates a statute meant to protect another person. If the statute can be violated without fault, liability arises only with fault.",
+   "keywords": [
+    "schutzgesetz",
+    "protective statute",
+    "violation",
+    "damages",
+    "fault",
+    "verschulden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__823.html"
+  },
+  "employer_liable_for_helper_damage_unless_careful": {
+   "area": "work",
+   "law": "BGB § 831 Abs. 1",
+   "title": "Liability for assistants",
+   "summary": "Whoever appoints another to carry out a task must compensate the damage the other unlawfully causes to a third party while doing it. Liability does not arise if the principal exercised due care in selecting and supervising, or the damage would have occurred anyway.",
+   "keywords": [
+    "verrichtungsgehilfe",
+    "employer liability",
+    "assistant",
+    "geschäftsherr",
+    "exculpation",
+    "auswahl",
+    "haftung arbeitgeber"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__831.html"
+  },
+  "supervisor_liable_for_child_damage_unless_supervised": {
+   "area": "money",
+   "law": "BGB § 832 Abs. 1",
+   "title": "Duty of supervision",
+   "summary": "Whoever is legally obliged to supervise a minor or a person needing supervision because of their mental or physical state must compensate damage that person unlawfully causes to a third party, unless they met their supervision duty or the damage would have occurred anyway.",
+   "keywords": [
+    "aufsichtspflicht",
+    "parents liability",
+    "child damage",
+    "supervision",
+    "eltern haften",
+    "minderjährig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__832.html"
+  },
+  "contractual_supervisor_has_same_liability": {
+   "area": "money",
+   "law": "BGB § 832 Abs. 2",
+   "title": "Supervision by contract",
+   "summary": "The same responsibility as a legally obliged supervisor applies to anyone who takes over the supervision by contract, such as a babysitter.",
+   "keywords": [
+    "babysitter",
+    "aufsicht",
+    "vertrag",
+    "supervision by contract",
+    "aufsichtspflicht",
+    "haftung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__832.html"
+  },
+  "landowner_liable_if_building_part_falls": {
+   "area": "housing",
+   "law": "BGB § 836 Abs. 1",
+   "title": "Falling building parts",
+   "summary": "If a building or other structure collapses or parts detach and someone is killed, injured or property is damaged because of faulty construction or poor maintenance, the owner-possessor of the land must compensate the damage, unless they exercised the required care to avert the danger.",
+   "keywords": [
+    "einsturz",
+    "gebäude",
+    "grundstücksbesitzer",
+    "falling parts",
+    "dachziegel",
+    "building collapse",
+    "haftung",
+    "verkehrssicherung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__836.html"
+  },
+  "former_owner_liable_one_year_after_possession_ends": {
+   "area": "housing",
+   "law": "BGB § 836 Abs. 2",
+   "title": "Previous possessor",
+   "summary": "A former possessor of the land remains responsible if the collapse or detachment happens within one year after their possession ended, unless they exercised due care during their possession or a later possessor could have averted the danger.",
+   "keywords": [
+    "früherer besitzer",
+    "one year",
+    "former owner",
+    "building collapse",
+    "grundstück",
+    "haftung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__836.html"
+  },
+  "building_possessor_on_foreign_land_liable_instead": {
+   "area": "housing",
+   "law": "BGB § 837",
+   "title": "Building on someone else's land",
+   "summary": "Whoever possesses a building or other structure on foreign land in exercise of a right bears the liability of § 836 instead of the possessor of the land.",
+   "keywords": [
+    "gebäudebesitzer",
+    "fremdes grundstück",
+    "building on foreign land",
+    "erbbaurecht",
+    "haftung",
+    "gebäude"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__837.html"
+  },
+  "official_liable_for_breach_of_duty_negligence_subsidiary": {
+   "area": "consumer",
+   "law": "BGB § 839 Abs. 1",
+   "title": "Official misconduct",
+   "summary": "An official who intentionally or negligently breaches an official duty owed to a third party must compensate the damage. If only negligence is involved, the official can be sued only if the injured person cannot obtain compensation otherwise.",
+   "keywords": [
+    "amtspflichtverletzung",
+    "beamter",
+    "official",
+    "breach of official duty",
+    "subsidiär",
+    "fahrlässig",
+    "staatshaftung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__839.html"
+  },
+  "state_liable_for_official_breach_of_duty": {
+   "area": "consumer",
+   "law": "Art. 34 GG",
+   "title": "State liability",
+   "summary": "If someone breaches an official duty owed to a third party while exercising a public office, responsibility in principle lies with the state or body they serve. Recourse is reserved for intent or gross negligence, and the ordinary courts must remain open.",
+   "keywords": [
+    "staatshaftung",
+    "art 34",
+    "official",
+    "amtshaftung",
+    "state liability",
+    "regress",
+    "ordinary courts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/art_34.html"
+  },
+  "judge_liable_only_if_breach_is_a_crime": {
+   "area": "consumer",
+   "law": "BGB § 839 Abs. 2",
+   "title": "Judgment errors",
+   "summary": "An official who breaches duty in giving judgment in a legal case is responsible for the damage only if the breach is itself a criminal offence. This does not apply to wrongful refusal or delay of the office's exercise.",
+   "keywords": [
+    "richter",
+    "judgment",
+    "liability",
+    "urteil",
+    "spruchrichterprivileg",
+    "straftat",
+    "delay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__839.html"
+  },
+  "compensation_covers_lost_earning_prospects": {
+   "area": "money",
+   "law": "BGB § 842",
+   "title": "Loss of earning prospects",
+   "summary": "Liability for an unlawful act against a person extends to the disadvantages the act causes to the injured person's earnings or advancement.",
+   "keywords": [
+    "erwerb",
+    "fortkommen",
+    "earning prospects",
+    "personal injury",
+    "damages",
+    "career",
+    "schaden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__842.html"
+  },
+  "injured_person_gets_money_annuity_for_lost_earning_capacity": {
+   "area": "money",
+   "law": "BGB § 843 Abs. 1",
+   "title": "Annuity after injury",
+   "summary": "If body or health injury removes or reduces someone's earning capacity or increases their needs, damages are paid to the injured person as a money annuity.",
+   "keywords": [
+    "geldrente",
+    "erwerbsfähigkeit",
+    "earning capacity",
+    "annuity",
+    "mehrbedarf",
+    "injury",
+    "schadensersatz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__843.html"
+  },
+  "lump_sum_instead_of_annuity_needs_important_reason": {
+   "area": "money",
+   "law": "BGB § 843 Abs. 3",
+   "title": "Lump sum instead of annuity",
+   "summary": "Instead of the annuity, the injured person can demand a capital settlement if there is an important reason.",
+   "keywords": [
+    "kapitalabfindung",
+    "lump sum",
+    "annuity",
+    "wichtiger grund",
+    "settlement",
+    "injury"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__843.html"
+  },
+  "maintenance_by_others_does_not_cancel_damages_claim": {
+   "area": "money",
+   "law": "BGB § 843 Abs. 4",
+   "title": "Support by others",
+   "summary": "The injured person's damages claim is not excluded because another person has to provide them with maintenance.",
+   "keywords": [
+    "unterhalt",
+    "anderer",
+    "damages",
+    "injury",
+    "kein ausschluss",
+    "geldrente",
+    "maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__843.html"
+  },
+  "funeral_costs_reimbursed_by_liable_party": {
+   "area": "money",
+   "law": "BGB § 844 Abs. 1",
+   "title": "Funeral costs after death",
+   "summary": "If someone is killed, the liable party must reimburse the funeral costs to whoever is obliged to bear them.",
+   "keywords": [
+    "beerdigungskosten",
+    "funeral costs",
+    "tötung",
+    "wrongful death",
+    "bestattung",
+    "schadensersatz"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__844.html"
+  },
+  "dependants_get_annuity_after_wrongful_death": {
+   "area": "money",
+   "law": "BGB § 844 Abs. 2",
+   "title": "Maintenance loss after death",
+   "summary": "If the deceased was legally obliged, or could become obliged, to pay maintenance to a third person who loses that claim through the killing, the liable party pays that person an annuity for the presumed duration of the deceased's life.",
+   "keywords": [
+    "unterhaltsschaden",
+    "dependants",
+    "widow",
+    "wrongful death",
+    "annuity",
+    "hinterbliebene",
+    "unterhalt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__844.html"
+  },
+  "lost_household_services_compensated_by_annuity": {
+   "area": "money",
+   "law": "BGB § 845",
+   "title": "Lost services",
+   "summary": "If someone legally owed services in a third party's household or business is killed or injured, the liable party compensates the third party for the lost services by a money annuity.",
+   "keywords": [
+    "entgangene dienste",
+    "household services",
+    "lost services",
+    "hauswesen",
+    "geldrente",
+    "injury"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__845.html"
+  },
+  "contributory_fault_of_victim_reduces_third_party_claims": {
+   "area": "money",
+   "law": "BGB § 846",
+   "title": "Victim's own fault",
+   "summary": "If the victim's own fault contributed to the damage that a third person suffers under §§ 844 and 845, § 254 applies to that third person's claim.",
+   "keywords": [
+    "mitverschulden",
+    "third party",
+    "victim fault",
+    "hinterbliebene",
+    "reduction",
+    "254"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__846.html"
+  },
+  "duty_to_mitigate_damage_and_warn_of_high_damage": {
+   "area": "consumer",
+   "law": "BGB § 254 Abs. 2",
+   "title": "Duty to limit damage",
+   "summary": "The injured person's own fault also counts when they failed to warn the debtor of the risk of unusually high damage, or failed to avert or reduce the damage.",
+   "keywords": [
+    "schadensminderungspflicht",
+    "mitverschulden",
+    "mitigate",
+    "warn",
+    "avert damage",
+    "abwenden"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__254.html"
+  },
+  "sales_defect_claims_five_years_for_buildings_two_otherwise": {
+   "area": "consumer",
+   "law": "BGB § 438 Abs. 1",
+   "title": "Limitation of sales defect claims",
+   "summary": "Defect claims for a purchase expire in 30 years for third-party rights to recover the item, in five years for a building or things used for a building that caused its defect, and in two years otherwise.",
+   "keywords": [
+    "verjährung mängelansprüche",
+    "limitation",
+    "defect claims",
+    "two years",
+    "five years",
+    "bauwerk",
+    "kaufsache"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__438.html"
+  },
+  "employee_liable_for_breach_only_if_responsible_burden_on_employer": {
+   "area": "work",
+   "law": "BGB § 619a",
+   "title": "Burden of proof for employee liability",
+   "summary": "Unlike the general rule in § 280 (1), an employee has to compensate the employer for damage from breach of a duty under the employment relationship only if the employee is responsible for the breach, so the employer must prove it.",
+   "keywords": [
+    "arbeitnehmerhaftung",
+    "beweislast",
+    "employee liability",
+    "burden of proof",
+    "schaden arbeitgeber",
+    "vertreten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__619a.html"
+  },
+  "work_contract_defect_claims_two_years_for_things": {
+   "area": "consumer",
+   "law": "BGB § 634a Abs. 1 Nr. 1",
+   "title": "Defect claims in work contracts",
+   "summary": "Defect claims in work contracts expire in two years where the work consists in producing, servicing or altering a thing or in planning or supervision for it. If the contractor fraudulently concealed the defect, the regular limitation period applies.",
+   "keywords": [
+    "werkvertrag",
+    "verjährung",
+    "two years",
+    "handwerker",
+    "defect",
+    "arglistig",
+    "mängelansprüche"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__634a.html"
+  },
+  "terms_cannot_cut_defect_claims_below_one_year": {
+   "area": "consumer",
+   "law": "BGB § 309 Nr. 8 b ff",
+   "title": "No shortening below one year",
+   "summary": "In general terms for new goods and work, the limitation of defect claims cannot be eased so that, outside buildings, a period shorter than one year from the statutory start results.",
+   "keywords": [
+    "agb",
+    "verjährung",
+    "shorten",
+    "one year",
+    "neue sachen",
+    "terms",
+    "mängel",
+    "klauselverbot"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__309.html"
   }
  },
  "free_help": {
