@@ -13397,6 +13397,125 @@
     "startup name conflict"
    ],
    "source": "https://www.gesetze-im-internet.de/markeng/__15.html"
+  },
+  "small_claims_court_discretion_up_to_1000": {
+   "area": "money",
+   "law": "ZPO § 495a",
+   "title": "Small claims up to 1,000 euro: simplified court procedure",
+   "summary": "If the amount in dispute is not more than 1,000 euro, the court can shape its procedure at its fair discretion. An oral hearing must be held if a party asks for it.",
+   "keywords": [
+    "kleine forderungen",
+    "small claims",
+    "bagatellverfahren",
+    "495a zpo",
+    "1000 euro klage",
+    "simplified procedure"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__495a.html"
+  },
+  "court_language_is_german": {
+   "area": "international",
+   "law": "GVG § 184",
+   "title": "The language of German courts is German",
+   "summary": "Court proceedings are held in German. The right of Sorbs to speak Sorbian in their home districts is guaranteed.",
+   "keywords": [
+    "gerichtssprache",
+    "court language",
+    "german court english",
+    "interpreter court",
+    "dolmetscher gericht",
+    "184 gvg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gvg/GVG.pdf"
+  },
+  "court_hearing_public_no_recording": {
+   "area": "consumer",
+   "law": "GVG § 169",
+   "title": "Court hearings are public, but audio and film recordings are not allowed",
+   "summary": "Hearings before the deciding court, including the announcement of judgments, are public. Radio and television recordings and audio or film recordings meant for publication are inadmissible.",
+   "keywords": [
+    "öffentliche verhandlung",
+    "court public hearing",
+    "filming court",
+    "recording court",
+    "169 gvg",
+    "tonaufnahme gericht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gvg/GVG.pdf"
+  },
+  "labor_court_first_instance_own_lawyer_costs": {
+   "area": "work",
+   "law": "ArbGG § 12a",
+   "title": "Labour court first instance: each side pays its own lawyer even if it wins",
+   "summary": "In judgment proceedings of the first instance at the labour court, the winning side has no claim to compensation for lost time or to reimbursement of the costs of a lawyer or representative. The lawyer must point this out before the representation agreement is made.",
+   "keywords": [
+    "arbeitsgericht anwaltskosten",
+    "labour court lawyer costs",
+    "12a arbgg",
+    "who pays lawyer labour court",
+    "kostentragung arbeitsgericht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbgg/__12a.html"
+  },
+  "labor_court_hearing_starts_with_conciliation": {
+   "area": "work",
+   "law": "ArbGG § 54",
+   "title": "Labour court hearing starts with a conciliation attempt before the judge",
+   "summary": "The oral hearing begins with a Güteverhandlung before the presiding judge to reach an amicable agreement. The judge discusses the whole dispute with the parties, and a settlement is recorded in the minutes.",
+   "keywords": [
+    "güteverhandlung",
+    "gütetermin",
+    "conciliation hearing",
+    "arbeitsgericht ablauf",
+    "54 arbgg",
+    "settlement labour court"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html"
+  },
+  "vehicle_owner_must_pay_for_regular_inspection": {
+   "area": "consumer",
+   "law": "StVZO § 29",
+   "title": "Vehicle keepers must have the car inspected regularly at their own cost",
+   "summary": "The keepers of registered vehicles must have them inspected at regular intervals at their own cost according to Annex VIII (Hauptuntersuchung, TÜV).",
+   "keywords": [
+    "tüv",
+    "hauptuntersuchung",
+    "hu inspection",
+    "car inspection germany",
+    "29 stvzo",
+    "dekra"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html"
+  },
+  "vehicle_must_be_registered_for_public_roads": {
+   "area": "consumer",
+   "law": "FZV § 3",
+   "title": "A motor vehicle needs registration before it is used on public roads",
+   "summary": "A motor vehicle and its trailers may only be put into operation on public roads by the driver if they are registered for road traffic. Registration is granted on application.",
+   "keywords": [
+    "kfz zulassung",
+    "register car",
+    "fahrzeug zulassung",
+    "vehicle registration",
+    "3 fzv",
+    "zulassungsstelle"
+   ],
+   "source": "https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html"
+  },
+  "deposit_bottles_must_carry_return_notice": {
+   "area": "consumer",
+   "law": "VerpackG § 32",
+   "title": "Shops must signpost deposit and reusable drinks packaging",
+   "summary": "Retailers of deposit-bearing disposable drinks packaging must tell consumers in the shop with clearly visible signs near the products. For reusable drinks packaging the sign must carry the word MEHRWEG.",
+   "keywords": [
+    "pfand hinweis",
+    "deposit sign",
+    "mehrweg schild",
+    "32 verpackg",
+    "einweg pfandpflicht",
+    "reusable bottle sign"
+   ],
+   "source": "https://www.gesetze-im-internet.de/verpackg/__32.html"
   }
  },
  "free_help": {
