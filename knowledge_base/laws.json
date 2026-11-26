@@ -10670,7 +10670,11 @@
     "transfer holiday booking to another person",
     "reise übertragen sieben tage",
     "substitute traveller package tour",
-    "651e bgb"
+    "651e bgb",
+    "friend take over",
+    "booked package trip",
+    "instead of me",
+    "replacement traveller"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__651e.html"
   },
@@ -18896,6 +18900,99 @@
     "60b"
    ],
    "source": "https://www.gesetze-im-internet.de/urhg/__60b.html"
+  },
+  "doctor_must_prove_consent_and_information_given": {
+   "area": "health",
+   "law": "§ 630h Abs. 2 BGB",
+   "title": "In a treatment dispute the doctor must prove consent was obtained and you were properly informed",
+   "summary": "The treating doctor has to prove that they obtained your consent under § 630d and informed you as § 630e requires. If the information was not good enough, they can still argue that you would have consented anyway.",
+   "keywords": [
+    "Einwilligung",
+    "Aufklärung",
+    "burden of proof",
+    "Beweislast",
+    "consent",
+    "doctor",
+    "informed",
+    "630h"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__630h.html"
+  },
+  "package_tour_definition_two_kinds_of_services": {
+   "area": "consumer",
+   "law": "§ 651a Abs. 1, 2 BGB",
+   "title": "Package holiday: at least two different kinds of travel services for the same trip",
+   "summary": "In a package travel contract the organiser undertakes to provide a package trip and you pay the agreed price. A package is a combination of at least two different types of travel services for the same trip.",
+   "keywords": [
+    "Pauschalreise",
+    "package holiday",
+    "flight and hotel",
+    "two services",
+    "Reiseveranstalter",
+    "651a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651a.html"
+  },
+  "host_school_stay_terminate_any_time": {
+   "area": "consumer",
+   "law": "§ 651u Abs. 4 BGB",
+   "title": "School exchange abroad: the traveller can terminate the contract at any time until the stay ends",
+   "summary": "For a Gastschulaufenthalt the traveller may terminate the contract at any time up to the end of the trip.",
+   "keywords": [
+    "Gastschulaufenthalt",
+    "school exchange",
+    "host family",
+    "terminate",
+    "cancel",
+    "651u"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__651u.html"
+  },
+  "distance_learning_contract_right_to_withdraw": {
+   "area": "consumer",
+   "law": "§ 4 FernUSG",
+   "title": "Distance-learning contract: you have a right of withdrawal",
+   "summary": "For a distance-learning contract under § 3 Abs. 2 FernUSG the participant has a withdrawal right under § 355 BGB, and the rules in §§ 356, 357 and 357a BGB apply accordingly.",
+   "keywords": [
+    "Fernunterricht",
+    "distance learning",
+    "online course",
+    "withdraw",
+    "Widerruf",
+    "FernUSG",
+    "Fernlehrgang"
+   ],
+   "source": "https://www.gesetze-im-internet.de/fernusg/__4.html"
+  },
+  "insurance_contract_withdrawal_fourteen_days": {
+   "area": "consumer",
+   "law": "§ 8 Abs. 1 VVG",
+   "title": "Insurance: you can withdraw within 14 days in text form, without giving a reason",
+   "summary": "The policyholder can withdraw the contract declaration within 14 days. The withdrawal must be made in text form to the insurer, needs no reason, and sending it in time is enough.",
+   "keywords": [
+    "Versicherung widerrufen",
+    "insurance withdrawal",
+    "14 days",
+    "Textform",
+    "policyholder",
+    "Versicherungsnehmer",
+    "VVG 8"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__8.html"
+  },
+  "insurance_withdrawal_expires_twelve_months_fourteen_days": {
+   "area": "consumer",
+   "law": "§ 8 VVG",
+   "title": "Insurance withdrawal right ends at the latest 12 months and 14 days after the contract is concluded",
+   "summary": "If the insurer never properly informed you about the withdrawal right, it still ends at the latest twelve months and 14 days after the contract was concluded.",
+   "keywords": [
+    "Widerrufsrecht erlischt",
+    "insurance withdrawal deadline",
+    "twelve months",
+    "Belehrung",
+    "VVG 8"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__8.html"
   }
  },
  "free_help": {
