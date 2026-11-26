@@ -13322,7 +13322,9 @@
     "rückforderung jobcenter",
     "verjährung erstattung",
     "50 sgb x",
-    "repay bafög bürgergeld"
+    "repay bafög bürgergeld",
+    "authority demand repayment",
+    "overpaid benefits"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_10/__50.html"
   },
@@ -13646,6 +13648,396 @@
     "zeitarbeit 18 monate"
    ],
    "source": "https://www.gesetze-im-internet.de/a_g/__1.html"
+  },
+  "pflichtteil_half_of_statutory_share": {
+   "area": "money",
+   "law": "BGB § 2303",
+   "title": "Compulsory share of an estate",
+   "summary": "A child who is cut out of a will can demand the compulsory share (Pflichtteil) from the heirs. It is worth half of the value of what the child would have inherited by law.",
+   "keywords": [
+    "pflichtteil",
+    "compulsory share",
+    "disinherited",
+    "child",
+    "will",
+    "heir",
+    "half"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2303.html"
+  },
+  "pflichtteil_top_up_when_share_too_small": {
+   "area": "money",
+   "law": "BGB § 2305",
+   "title": "Top-up when the inheritance left is too small",
+   "summary": "If a person entitled to a compulsory share was left less than half of the statutory share, they can claim the missing difference from the co-heirs.",
+   "keywords": [
+    "zusatzpflichtteil",
+    "top up",
+    "compulsory share",
+    "left too little",
+    "co-heirs",
+    "will"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2305.html"
+  },
+  "statutory_heirs_first_order_children": {
+   "area": "money",
+   "law": "BGB § 1924",
+   "title": "Who inherits first without a will",
+   "summary": "Without a will, the deceased person's descendants are the first-order heirs. A living child shuts out its own children, and children inherit in equal parts.",
+   "keywords": [
+    "statutory heirs",
+    "intestate",
+    "no will",
+    "children inherit",
+    "first order",
+    "descendants",
+    "equal shares"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1924.html"
+  },
+  "surviving_spouse_inherits_quarter_beside_children": {
+   "area": "money",
+   "law": "BGB § 1931",
+   "title": "Share of a surviving spouse",
+   "summary": "Beside children, a surviving spouse inherits one quarter by law. Beside parents or siblings, or beside grandparents, the spouse gets half. With no such relatives, the spouse gets everything.",
+   "keywords": [
+    "spouse",
+    "widow",
+    "widower",
+    "inherit",
+    "quarter",
+    "half",
+    "intestate",
+    "no will",
+    "children"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1931.html"
+  },
+  "handwritten_will_valid_form": {
+   "area": "money",
+   "law": "BGB § 2247",
+   "title": "Handwritten will",
+   "summary": "A will can be made by a declaration written and signed by hand. It should say the date and place, and the signature should contain first name and family name. Minors cannot make a handwritten will.",
+   "keywords": [
+    "handwritten will",
+    "holographic",
+    "testament",
+    "own hand",
+    "signature",
+    "date",
+    "place",
+    "minor"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2247.html"
+  },
+  "will_must_be_made_personally": {
+   "area": "money",
+   "law": "BGB § 2064",
+   "title": "A will cannot be made through someone else",
+   "summary": "A will can only be made in person. Nobody else can write or sign it on behalf of the person who dies.",
+   "keywords": [
+    "will",
+    "testament",
+    "personally",
+    "representative",
+    "someone else",
+    "cannot"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2064.html"
+  },
+  "ordinary_will_two_forms": {
+   "area": "money",
+   "law": "BGB § 2231",
+   "title": "Two ordinary ways to make a will",
+   "summary": "A regular will is made either by having a notary record it, or by a handwritten declaration under section 2247.",
+   "keywords": [
+    "ordinary will",
+    "notary",
+    "notarial",
+    "handwritten",
+    "two forms",
+    "testament"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2231.html"
+  },
+  "joint_will_only_spouses": {
+   "area": "money",
+   "law": "BGB § 2265",
+   "title": "Joint will only for spouses",
+   "summary": "A joint will (gemeinschaftliches Testament) can only be made by spouses. Unmarried partners cannot make one.",
+   "keywords": [
+    "joint will",
+    "spouses",
+    "married",
+    "unmarried partners",
+    "gemeinschaftliches testament"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2265.html"
+  },
+  "joint_handwritten_will_one_writes": {
+   "area": "money",
+   "law": "BGB § 2267",
+   "title": "Joint handwritten will by spouses",
+   "summary": "For a joint handwritten will, it is enough that one spouse writes it in the proper form and the other spouse signs it by hand too. The second spouse should add date and place.",
+   "keywords": [
+    "joint will",
+    "handwritten",
+    "one spouse writes",
+    "cosign",
+    "date",
+    "place"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2267.html"
+  },
+  "handwritten_will_official_custody": {
+   "area": "money",
+   "law": "BGB § 2248",
+   "title": "Official custody of a handwritten will",
+   "summary": "A handwritten will must be taken into special official custody if the person who made it asks for that.",
+   "keywords": [
+    "will",
+    "custody",
+    "court",
+    "deposit",
+    "safekeeping",
+    "handwritten",
+    "testament"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2248.html"
+  },
+  "divorce_requires_marriage_failed": {
+   "area": "money",
+   "law": "BGB § 1565",
+   "title": "When a marriage can be divorced",
+   "summary": "A marriage can be divorced once it has failed, meaning the couple no longer live together as spouses and cannot be expected to restore it. If they have lived apart under a year, divorce needs an unreasonable hardship.",
+   "keywords": [
+    "divorce",
+    "scheidung",
+    "marriage failed",
+    "separated",
+    "one year",
+    "hardship",
+    "trennungsjahr"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1565.html"
+  },
+  "separation_maintenance_between_spouses": {
+   "area": "money",
+   "law": "BGB § 1361",
+   "title": "Maintenance during separation",
+   "summary": "If spouses live apart, one can demand appropriate maintenance from the other based on their living conditions and income. It is paid monthly in advance.",
+   "keywords": [
+    "separation",
+    "maintenance",
+    "trennungsunterhalt",
+    "spouse",
+    "living apart",
+    "monthly"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1361.html"
+  },
+  "household_items_after_separation": {
+   "area": "money",
+   "law": "BGB § 1361a",
+   "title": "Household items after separation",
+   "summary": "When spouses separate, each can demand their own household items back, but must lend them to the other if needed for a separate household and if that is fair. Jointly owned items are divided fairly.",
+   "keywords": [
+    "household items",
+    "separation",
+    "furniture",
+    "spouse",
+    "belongings",
+    "divide",
+    "fairly"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1361a.html"
+  },
+  "spouses_duty_of_marital_partnership": {
+   "area": "money",
+   "law": "BGB § 1353",
+   "title": "Marital partnership",
+   "summary": "Spouses owe each other a marital partnership and take responsibility for one another. A spouse need not follow a demand to restore it if it is an abuse of right or the marriage has failed.",
+   "keywords": [
+    "marriage",
+    "spouses",
+    "duty",
+    "partnership",
+    "responsibility",
+    "failed marriage"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1353.html"
+  },
+  "married_name_choice": {
+   "area": "money",
+   "law": "BGB § 1355",
+   "title": "Choosing a married name",
+   "summary": "Spouses can choose a shared family name by declaration to the registry office, either one spouse's birth name, current name or a double name. If they choose none, each keeps the name they had.",
+   "keywords": [
+    "married name",
+    "ehename",
+    "surname",
+    "double name",
+    "registry office",
+    "keep name"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1355.html"
+  },
+  "companion_name_for_spouse": {
+   "area": "money",
+   "law": "BGB § 1355a",
+   "title": "Adding a companion name",
+   "summary": "A spouse whose name is not the married name can add their birth name or their name at the time of the declaration in front of or behind the married name by declaration to the registry office.",
+   "keywords": [
+    "begleitname",
+    "companion name",
+    "married name",
+    "add name",
+    "registry office",
+    "surname"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1355a.html"
+  },
+  "spouse_everyday_purchases_bind_both": {
+   "area": "consumer",
+   "law": "BGB § 1357",
+   "title": "Everyday purchases bind both spouses",
+   "summary": "Each spouse may make transactions to cover the family's appropriate daily needs, and both spouses are then entitled and liable, unless the circumstances show otherwise.",
+   "keywords": [
+    "spouse",
+    "everyday needs",
+    "schlüsselgewalt",
+    "liable",
+    "both",
+    "family purchases",
+    "debts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1357.html"
+  },
+  "good_faith_purchase_from_non_owner": {
+   "area": "consumer",
+   "law": "BGB § 932",
+   "title": "Buying in good faith from a non-owner",
+   "summary": "If you buy a movable item from someone who is not the owner, you still become owner unless you knew, or grossly negligently did not know, that it was not theirs.",
+   "keywords": [
+    "good faith",
+    "gutgläubiger erwerb",
+    "non-owner",
+    "second hand",
+    "stolen",
+    "buyer",
+    "ownership"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__932.html"
+  },
+  "no_good_faith_ownership_of_stolen_goods": {
+   "area": "consumer",
+   "law": "BGB § 935",
+   "title": "Stolen or lost items stay with the owner",
+   "summary": "You cannot gain ownership in good faith of an item that was stolen from the owner, lost or otherwise taken away from them.",
+   "keywords": [
+    "stolen",
+    "lost",
+    "abhanden gekommen",
+    "good faith",
+    "ownership",
+    "second hand",
+    "owner"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__935.html"
+  },
+  "transfer_of_ownership_movable_items": {
+   "area": "consumer",
+   "law": "BGB § 929",
+   "title": "How ownership of a movable item passes",
+   "summary": "To transfer ownership of a movable item, the owner must hand it over and both sides must agree that ownership shall pass.",
+   "keywords": [
+    "ownership",
+    "transfer",
+    "handover",
+    "agreement",
+    "movable",
+    "eigentum",
+    "übereignung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__929.html"
+  },
+  "owner_can_demand_item_back": {
+   "area": "consumer",
+   "law": "BGB § 985",
+   "title": "Owner can demand the item back",
+   "summary": "The owner of an item can demand it back from whoever holds it.",
+   "keywords": [
+    "owner",
+    "return item",
+    "herausgabe",
+    "possession",
+    "demand back",
+    "eigentümer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__985.html"
+  },
+  "contract_voidable_for_mistake": {
+   "area": "consumer",
+   "law": "BGB § 119",
+   "title": "Cancelling a declaration made by mistake",
+   "summary": "You can contest a declaration if you were mistaken about what it meant, or never meant to make such a declaration, provided you would not have made it had you known. Mistakes about essential traits of a person or item count too.",
+   "keywords": [
+    "mistake",
+    "irrtum",
+    "anfechtung",
+    "contest",
+    "void",
+    "declaration",
+    "contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__119.html"
+  },
+  "contest_for_mistake_without_delay": {
+   "area": "consumer",
+   "law": "BGB § 121",
+   "title": "Deadline to contest for mistake",
+   "summary": "A contest for mistake must be made without culpable delay once you know the reason. It is excluded after ten years from the declaration.",
+   "keywords": [
+    "anfechtung",
+    "deadline",
+    "unverzüglich",
+    "ten years",
+    "mistake",
+    "contest"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__121.html"
+  },
+  "contest_contract_for_deceit_or_threat": {
+   "area": "consumer",
+   "law": "BGB § 123",
+   "title": "Contesting a contract because of deceit or threat",
+   "summary": "Anyone who was brought to make a declaration by wilful deception or an unlawful threat can contest it. If a third party deceived you, it can be contested only if the other side knew or should have known.",
+   "keywords": [
+    "deceit",
+    "arglistige täuschung",
+    "threat",
+    "drohung",
+    "contest",
+    "anfechtung",
+    "third party"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__123.html"
+  },
+  "contested_contract_void_from_start": {
+   "area": "consumer",
+   "law": "BGB § 142",
+   "title": "Effect of a successful contest",
+   "summary": "If a voidable transaction is contested, it is treated as void from the beginning.",
+   "keywords": [
+    "contest",
+    "anfechtung",
+    "void",
+    "from the beginning",
+    "retroactive",
+    "contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__142.html"
   }
  },
  "free_help": {
