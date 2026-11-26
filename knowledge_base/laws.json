@@ -14038,6 +14038,364 @@
     "contract"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__142.html"
+  },
+  "declaration_effective_when_it_reaches_you": {
+   "area": "consumer",
+   "law": "BGB § 130 Abs. 1",
+   "title": "Declarations take effect on receipt",
+   "summary": "A declaration made to someone who is not present becomes effective when it reaches them. It does not take effect if a revocation reaches the other person earlier or at the same time.",
+   "keywords": [
+    "receipt",
+    "zugang",
+    "declaration",
+    "effective",
+    "revocation",
+    "letter",
+    "absent",
+    "withdraw"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "declaration_valid_even_if_sender_dies": {
+   "area": "consumer",
+   "law": "BGB § 130 Abs. 3",
+   "title": "Death after sending does not undo it",
+   "summary": "A declaration stays effective even if the person who made it dies or loses legal capacity after sending it.",
+   "keywords": [
+    "declaration",
+    "sender dies",
+    "death after sending",
+    "capacity",
+    "effective",
+    "letter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "offer_binds_the_offeror": {
+   "area": "consumer",
+   "law": "BGB § 145",
+   "title": "An offer binds the person who made it",
+   "summary": "Whoever offers another person a contract is bound by the offer, unless they have excluded being bound.",
+   "keywords": [
+    "offer",
+    "antrag",
+    "binding",
+    "contract",
+    "bound",
+    "exclude",
+    "angebot"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__145.html"
+  },
+  "acceptance_deadline_present_or_absent": {
+   "area": "consumer",
+   "law": "BGB § 147",
+   "title": "Time to accept an offer",
+   "summary": "An offer made to someone present, including by phone, can only be accepted immediately. An offer to someone absent can be accepted until the time the offeror can normally expect an answer.",
+   "keywords": [
+    "accept offer",
+    "acceptance period",
+    "annahmefrist",
+    "phone",
+    "immediately",
+    "absent",
+    "answer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__147.html"
+  },
+  "owner_powers_over_property": {
+   "area": "consumer",
+   "law": "BGB § 903",
+   "title": "What an owner may do with their property",
+   "summary": "An owner may deal with an item as they wish and exclude others, as long as law or third-party rights do not stand in the way. The owner of an animal must follow the special animal protection rules.",
+   "keywords": [
+    "owner",
+    "eigentümer",
+    "property",
+    "exclude others",
+    "animal protection",
+    "disposal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__903.html"
+  },
+  "animals_are_not_things": {
+   "area": "consumer",
+   "law": "BGB § 90a",
+   "title": "Animals are not things",
+   "summary": "Animals are not things. They are protected by special laws, and the rules for things apply to them only as far as nothing else is provided.",
+   "keywords": [
+    "animals",
+    "not things",
+    "pets",
+    "tiere",
+    "protection",
+    "law"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.pdf"
+  },
+  "ownerless_movable_item_becomes_yours": {
+   "area": "consumer",
+   "law": "BGB § 958 Abs. 1",
+   "title": "Taking an ownerless item",
+   "summary": "Whoever takes possession of an ownerless movable item as their own becomes its owner.",
+   "keywords": [
+    "ownerless",
+    "herrenlos",
+    "take possession",
+    "become owner",
+    "abandoned item"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__958.html"
+  },
+  "finders_reward_percentages": {
+   "area": "consumer",
+   "law": "BGB § 971",
+   "title": "Finder's reward",
+   "summary": "A finder can demand a reward from the person entitled to the item: five percent of the value up to 500 euros, three percent of the value above that, and three percent for animals.",
+   "keywords": [
+    "finder",
+    "finderlohn",
+    "found item",
+    "reward",
+    "lost property",
+    "five percent",
+    "animals"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html"
+  },
+  "finder_reimbursement_of_expenses": {
+   "area": "consumer",
+   "law": "BGB § 970",
+   "title": "Finder's expenses",
+   "summary": "A finder who has necessary expenses for safekeeping the found item, or for tracing who it belongs to, can demand reimbursement from the person entitled to it.",
+   "keywords": [
+    "finder",
+    "expenses",
+    "reimbursement",
+    "found item",
+    "safekeeping",
+    "aufwendungen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html"
+  },
+  "found_in_public_office_half_reward": {
+   "area": "consumer",
+   "law": "BGB § 978",
+   "title": "Found in a public office or transport facility",
+   "summary": "If you find something in a public authority or transport facility and hand it in, the reward is half of the normal amount. Employees of that office get no reward.",
+   "keywords": [
+    "lost property office",
+    "fundbüro",
+    "authority",
+    "transport",
+    "half reward",
+    "found",
+    "employee"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__978.html"
+  },
+  "association_gains_legal_capacity_by_registration": {
+   "area": "consumer",
+   "law": "BGB § 21",
+   "title": "Registered association",
+   "summary": "A non-commercial association gains legal capacity by being entered into the register of associations at the local court.",
+   "keywords": [
+    "verein",
+    "association",
+    "register",
+    "eingetragener verein",
+    "e.v.",
+    "legal capacity",
+    "local court"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__21.html"
+  },
+  "association_decisions_by_majority_of_votes_cast": {
+   "area": "consumer",
+   "law": "BGB § 32 Abs. 1",
+   "title": "Association member meetings",
+   "summary": "Association matters are decided in a members' meeting. The topic must be named in the invitation for a decision to be valid, and the majority of votes cast decides.",
+   "keywords": [
+    "verein",
+    "members meeting",
+    "mitgliederversammlung",
+    "majority",
+    "invitation",
+    "agenda",
+    "vote"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "association_decision_without_meeting_all_agree": {
+   "area": "consumer",
+   "law": "BGB § 32 Abs. 3",
+   "title": "Association decision without a meeting",
+   "summary": "A decision is also valid without a meeting if all members agree to it in text form.",
+   "keywords": [
+    "verein",
+    "decision without meeting",
+    "all members",
+    "text form",
+    "written consent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__32.html"
+  },
+  "association_membership_not_transferable": {
+   "area": "consumer",
+   "law": "BGB § 38",
+   "title": "Membership cannot be passed on",
+   "summary": "Membership in an association cannot be transferred or inherited, and a member cannot hand over the exercise of membership rights to someone else.",
+   "keywords": [
+    "verein",
+    "membership",
+    "transfer",
+    "inherit",
+    "not transferable",
+    "member rights"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__38.html"
+  },
+  "right_to_leave_an_association": {
+   "area": "consumer",
+   "law": "BGB § 39",
+   "title": "Leaving an association",
+   "summary": "Members have the right to leave the association. The articles can set that leaving is only possible at the end of a financial year or after a notice period of at most two years.",
+   "keywords": [
+    "verein",
+    "leave",
+    "austritt",
+    "quit membership",
+    "notice period",
+    "two years",
+    "articles"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__39.html"
+  },
+  "relatives_may_refuse_testimony_in_criminal_case": {
+   "area": "discrimination",
+   "law": "StPO § 52",
+   "title": "Refusing to testify against relatives",
+   "summary": "Fiancés, spouses (even after divorce), registered partners and close relatives of the accused may refuse to testify in a criminal case.",
+   "keywords": [
+    "witness",
+    "refuse testimony",
+    "zeugnisverweigerungsrecht",
+    "relatives",
+    "spouse",
+    "fiancé",
+    "criminal case"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__52.html"
+  },
+  "relatives_may_refuse_oath": {
+   "area": "discrimination",
+   "law": "StPO § 61",
+   "title": "Relatives may refuse the oath",
+   "summary": "Relatives of the accused named in § 52 have the right to refuse to be sworn in as witnesses and must be told so.",
+   "keywords": [
+    "oath",
+    "witness",
+    "relatives",
+    "beeidigung",
+    "refuse",
+    "accused"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__61.html"
+  },
+  "accused_may_use_defence_lawyer_any_time": {
+   "area": "discrimination",
+   "law": "StPO § 137",
+   "title": "Defence lawyer at any stage",
+   "summary": "An accused person can use a defence lawyer at any stage of the proceedings. No more than three chosen defence lawyers are allowed.",
+   "keywords": [
+    "defence lawyer",
+    "verteidiger",
+    "accused",
+    "beschuldigter",
+    "any stage",
+    "three lawyers"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__137.html"
+  },
+  "equality_before_the_law_art_3": {
+   "area": "discrimination",
+   "law": "Art. 3 Abs. 1 und 3 GG",
+   "title": "Equality before the law",
+   "summary": "All people are equal before the law. Nobody may be disadvantaged or favoured because of sex, descent, race, language, origin, faith or religious or political views, and nobody because of disability.",
+   "keywords": [
+    "equality",
+    "gleichheit",
+    "art 3",
+    "discrimination",
+    "disability",
+    "race",
+    "sex",
+    "basic law"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/BJNR000010949.html"
+  },
+  "freedom_of_assembly_art_8": {
+   "area": "discrimination",
+   "law": "Art. 8 Abs. 1 GG",
+   "title": "Right to assemble",
+   "summary": "All Germans have the right to assemble peacefully and without weapons, without registration or permission. For outdoor assemblies this can be restricted by law.",
+   "keywords": [
+    "assembly",
+    "demonstration",
+    "versammlungsfreiheit",
+    "art 8",
+    "protest",
+    "peaceful"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/BJNR000010949.html"
+  },
+  "free_choice_of_profession_art_12": {
+   "area": "work",
+   "law": "Art. 12 Abs. 1 GG",
+   "title": "Free choice of profession",
+   "summary": "All Germans have the right to freely choose their occupation, place of work and place of training. Practising a profession can be regulated by law.",
+   "keywords": [
+    "profession",
+    "berufsfreiheit",
+    "art 12",
+    "occupation",
+    "workplace",
+    "training",
+    "choose"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/art_12.html"
+  },
+  "no_forced_labour_art_12": {
+   "area": "work",
+   "law": "Art. 12 Abs. 2 und 3 GG",
+   "title": "No forced labour",
+   "summary": "Nobody may be forced to do a particular job, except within a customary general public service duty equal for all. Forced labour is only allowed during a court-ordered detention.",
+   "keywords": [
+    "forced labour",
+    "zwangsarbeit",
+    "art 12",
+    "compel",
+    "work",
+    "detention"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/art_12.html"
+  },
+  "home_is_inviolable_art_13": {
+   "area": "housing",
+   "law": "Art. 13 Abs. 1 GG",
+   "title": "The home is inviolable",
+   "summary": "The home is inviolable. Authorities may only enter or search it under the conditions the basic law and the laws allow.",
+   "keywords": [
+    "home",
+    "wohnung",
+    "unverletzlichkeit",
+    "art 13",
+    "search",
+    "entry",
+    "inviolable",
+    "privacy"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gg/art_13.html"
   }
  },
  "free_help": {
