@@ -17678,7 +17678,11 @@
     "kind eigenes vermögen",
     "erträge",
     "unterhalt trotz vermögen",
-    "child assets maintenance"
+    "child assets maintenance",
+    "minor child",
+    "own assets",
+    "income from assets",
+    "not enough"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__1602.html"
   },
@@ -18638,6 +18642,260 @@
     "auflösung arbeitsverhältnis zeitpunkt"
    ],
    "source": "https://www.gesetze-im-internet.de/kschg/__9.html"
+  },
+  "defamation_public_up_to_two_years": {
+   "area": "discrimination",
+   "law": "§ 186 StGB",
+   "title": "Spreading a damaging claim about someone that cannot be proven: up to one year, up to two if public",
+   "summary": "Anyone who states or spreads a fact about another person that is likely to make them look bad and that cannot be proven true faces up to one year in prison or a fine. If it happens in public or by spreading content, the maximum is two years.",
+   "keywords": [
+    "üble Nachrede",
+    "defamation",
+    "rumour",
+    "spreading",
+    "public",
+    "prison",
+    "fine",
+    "186"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__186.html"
+  },
+  "dangerous_bodily_harm_weapon_poison": {
+   "area": "discrimination",
+   "law": "§ 224 StGB",
+   "title": "Dangerous bodily harm: poison, a weapon, an ambush, a group attack or a life-threatening act",
+   "summary": "Bodily harm becomes dangerous if it is done with poison, with a weapon or dangerous tool, by surprise attack, together with another person, or in a way that endangers life. The attempt is punishable.",
+   "keywords": [
+    "gefährliche Körperverletzung",
+    "weapon",
+    "poison",
+    "knife",
+    "group attack",
+    "ambush",
+    "life-threatening",
+    "224"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__224.html"
+  },
+  "grievous_bodily_harm_lasting_damage": {
+   "area": "discrimination",
+   "law": "§ 226 StGB",
+   "title": "Grievous bodily harm: lasting serious damage to the victim",
+   "summary": "If the victim permanently loses sight, hearing, speech or the ability to have children, loses a major body part, or is lastingly disfigured or disabled, the offence is grievous bodily harm with a prison term of at least one year. Less serious cases carry six months to five years.",
+   "keywords": [
+    "schwere Körperverletzung",
+    "lasting damage",
+    "disfigured",
+    "loses sight",
+    "permanent",
+    "prison",
+    "226"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__226.html"
+  },
+  "threat_of_a_felony_up_to_two_years": {
+   "area": "discrimination",
+   "law": "§ 241 StGB",
+   "title": "Threatening someone with a serious crime: up to two years",
+   "summary": "Threatening another person with a felony against them or someone close to them is punishable by up to two years in prison or a fine. Pretending that such a crime is about to happen is treated the same way.",
+   "keywords": [
+    "Bedrohung",
+    "threat",
+    "threatening",
+    "felony",
+    "murder threat",
+    "death threat",
+    "prison",
+    "241"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__241.html"
+  },
+  "unauthorised_use_of_car_or_bike": {
+   "area": "discrimination",
+   "law": "§ 248b StGB",
+   "title": "Taking a car or bicycle without permission, even just to use it: up to three years",
+   "summary": "Using a motor vehicle or bicycle against the owner’s will is punishable by up to three years in prison or a fine, and the attempt is punishable too. It is prosecuted only on the owner’s complaint.",
+   "keywords": [
+    "unbefugter Gebrauch eines Fahrzeugs",
+    "joyride",
+    "borrow bike",
+    "without permission",
+    "bicycle",
+    "car",
+    "248b"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__248b.html"
+  },
+  "embezzlement_up_to_three_years": {
+   "area": "discrimination",
+   "law": "§ 246 StGB",
+   "title": "Embezzlement: keeping something entrusted to you or already in your hands can mean up to three years",
+   "summary": "Anyone who unlawfully keeps for themselves or another person a thing that is not theirs and that they already have in their possession faces up to three years in prison or a fine.",
+   "keywords": [
+    "Unterschlagung",
+    "embezzlement",
+    "keeping found item",
+    "borrowed item",
+    "not returning",
+    "246"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__246.html"
+  },
+  "minor_theft_only_on_complaint": {
+   "area": "discrimination",
+   "law": "§ 248a StGB",
+   "title": "Theft or embezzlement of items of very little value is prosecuted only on complaint",
+   "summary": "For theft and embezzlement of things of low value, the authorities prosecute only if the victim files a complaint or the prosecutor sees a special public interest.",
+   "keywords": [
+    "Geringwertigkeit",
+    "low value",
+    "petty theft",
+    "complaint",
+    "Strafantrag",
+    "shoplifting",
+    "248a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__248a.html"
+  },
+  "property_damage_up_to_two_years": {
+   "area": "discrimination",
+   "law": "§ 303 StGB",
+   "title": "Damaging or destroying someone else’s property: up to two years, and changing its appearance counts",
+   "summary": "Unlawfully damaging or destroying a thing that belongs to someone else is punishable by up to two years in prison or a fine. Unlawfully and substantially changing its appearance counts too, and the attempt is punishable.",
+   "keywords": [
+    "Sachbeschädigung",
+    "vandalism",
+    "graffiti",
+    "property damage",
+    "destroying",
+    "appearance",
+    "303"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__303.html"
+  },
+  "hit_and_run_up_to_three_years": {
+   "area": "discrimination",
+   "law": "§ 142 StGB",
+   "title": "Leaving the scene of an accident: up to three years",
+   "summary": "Anyone involved in a traffic accident who drives off without allowing the necessary determinations, or without waiting a reasonable time, faces up to three years in prison or a fine. If you left after waiting or with an excuse, you must report promptly afterwards.",
+   "keywords": [
+    "Unfallflucht",
+    "hit and run",
+    "leaving accident scene",
+    "waiting time",
+    "report",
+    "police",
+    "142"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__142.html"
+  },
+  "endangering_road_traffic_up_to_five_years": {
+   "area": "consumer",
+   "law": "§ 315c StGB",
+   "title": "Endangering road traffic: drunk or reckless driving that puts people or valuables at risk can mean up to five years",
+   "summary": "Anyone who drives a vehicle while unfit because of alcohol or drugs, or who grossly violates traffic rules, and thereby endangers a person or valuable property, faces up to five years in prison or a fine.",
+   "keywords": [
+    "Gefährdung des Straßenverkehrs",
+    "drunk driving",
+    "reckless",
+    "red light",
+    "overtaking",
+    "endangering",
+    "315c"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__315c.html"
+  },
+  "drunk_driving_up_to_one_year": {
+   "area": "consumer",
+   "law": "§ 316 StGB",
+   "title": "Driving unfit because of alcohol or drugs: up to one year, and negligence is punishable too",
+   "summary": "Anyone who drives a vehicle in traffic while unfit to drive because of alcohol or other intoxicants faces up to one year in prison or a fine, even without an accident. Negligent drunk driving is also punishable.",
+   "keywords": [
+    "Trunkenheit im Verkehr",
+    "drink driving",
+    "drunk",
+    "alcohol",
+    "licence",
+    "negligent",
+    "316"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__316.html"
+  },
+  "discharge_early_decision_if_all_paid": {
+   "area": "money",
+   "law": "§ 300 Abs. 2 InsO",
+   "title": "Debt discharge can come early if no creditor files claims or all claims are paid",
+   "summary": "If no insolvency creditor has filed a claim, or all filed claims, costs and expenses have been paid, the court can decide on the discharge before the period ends once you ask for it.",
+   "keywords": [
+    "Restschuldbefreiung",
+    "early discharge",
+    "vorzeitig",
+    "all debts paid",
+    "no creditors",
+    "300"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__300.html"
+  },
+  "apprenticeship_permit_six_months_new_place": {
+   "area": "international",
+   "law": "§ 16a Abs. 4 AufenthG",
+   "title": "Training place lost: up to six months to find another before the permit is withdrawn",
+   "summary": "If an apprenticeship ends early, the foreigners authority can allow up to six months to look for a new training place before the residence permit for training is revoked.",
+   "keywords": [
+    "Ausbildung abgebrochen",
+    "apprenticeship ended",
+    "new training place",
+    "six months",
+    "residence permit",
+    "16a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__16a.html"
+  },
+  "student_permit_withdrawn_if_conditions_lapse": {
+   "area": "international",
+   "law": "§ 52 Nr. 3 AufenthG",
+   "title": "Student permit can be revoked if you no longer meet its conditions",
+   "summary": "A residence permit for study under § 16b can be revoked if the conditions for it no longer exist, for example if you are no longer enrolled or study is not being pursued.",
+   "keywords": [
+    "Widerruf",
+    "revocation",
+    "student permit",
+    "exmatriculated",
+    "no longer enrolled",
+    "52"
+   ],
+   "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__52.html"
+  },
+  "wohngeld_not_for_training_permit_holders": {
+   "area": "housing",
+   "law": "§ 3 WoGG",
+   "title": "Foreigners with permits for training, job search or Chancenkarte generally cannot get Wohngeld",
+   "summary": "People whose residence permit is for training, job search or the opportunity card are generally not entitled to housing benefit under the Wohngeld law.",
+   "keywords": [
+    "Wohngeld",
+    "Ausländer",
+    "housing benefit",
+    "foreigners",
+    "Chancenkarte",
+    "not entitled",
+    "WoGG 3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/wogg/__3.html"
+  },
+  "media_collections_ten_percent_teaching": {
+   "area": "copyright",
+   "law": "§ 60b UrhG",
+   "title": "Teaching media collections: up to 10 percent of a work",
+   "summary": "Providers of teaching and learning media may combine parts of works, normally up to 10 percent of each work, into a collection for teaching, if it is used for teaching and learning on the institution’s premises or networks.",
+   "keywords": [
+    "Unterrichtsmedien",
+    "Lehrmedien",
+    "10 percent",
+    "collection",
+    "teaching media",
+    "60b"
+   ],
+   "source": "https://www.gesetze-im-internet.de/urhg/__60b.html"
   }
  },
  "free_help": {
