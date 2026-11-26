@@ -13051,6 +13051,134 @@
     "Gewerbeordnung 105"
    ],
    "source": "https://www.gesetze-im-internet.de/gewo/__105.html"
+  },
+  "elterngeld_67_percent_max_1800": {
+   "area": "money",
+   "law": "BEEG § 2",
+   "title": "Elterngeld: 67 percent of earlier income, capped at 1,800 euro",
+   "summary": "Elterngeld is 67 percent of the income from work before the birth. It is paid up to a maximum of 1,800 euro a month for full months in which the person has no income from work. Above 1,200 euro of earlier income the percentage drops by 0.1 points per 2 euro, down to 65 percent.",
+   "keywords": [
+    "elterngeld",
+    "67 percent",
+    "höchstbetrag",
+    "1800",
+    "parental allowance amount",
+    "beeg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__2.html"
+  },
+  "elterngeld_basis_until_14th_month": {
+   "area": "money",
+   "law": "BEEG § 4",
+   "title": "Basiselterngeld can be taken until the 14th month of the child",
+   "summary": "Elterngeld can be drawn from the day of birth. Basiselterngeld can be taken until the child has completed 14 months of life, while Elterngeld Plus can run longer.",
+   "keywords": [
+    "basiselterngeld",
+    "14 months",
+    "elterngeld plus",
+    "how long parental allowance",
+    "bezugsdauer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__4.html"
+  },
+  "elterngeld_300_euro_disregarded_other_benefits": {
+   "area": "money",
+   "law": "BEEG § 10",
+   "title": "Up to 300 euro of Elterngeld is not counted against other benefits",
+   "summary": "For other means-tested benefits, Elterngeld is left out as income up to 300 euro a month, or up to the amount of the earlier work income taken into account under § 2.",
+   "keywords": [
+    "elterngeld 300 euro",
+    "counted as income",
+    "bürgergeld elterngeld",
+    "anrechnung elterngeld",
+    "wohngeld elterngeld"
+   ],
+   "source": "https://www.gesetze-im-internet.de/beeg/__10.html"
+  },
+  "alg_duration_depends_on_insurance_time_and_age": {
+   "area": "money",
+   "law": "SGB III § 147",
+   "title": "How long unemployment benefit lasts depends on insured time and age",
+   "summary": "The length of the claim to Arbeitslosengeld depends on how long you were in insured employment within the rahmenfrist extended by 30 months, and on your age when the claim arises. With the short qualifying period of 6 months you get 3 months, with 8 months 4 months and with 10 months 5 months, whatever your age.",
+   "keywords": [
+    "how long arbeitslosengeld",
+    "alg duration",
+    "anspruchsdauer",
+    "months unemployment benefit",
+    "insured time"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_3/__147.html"
+  },
+  "alg_severance_can_pause_benefit": {
+   "area": "money",
+   "law": "SGB III § 158",
+   "title": "A severance payment can pause unemployment benefit",
+   "summary": "If the employment ended earlier than the employer notice period allowed and you got a severance payment, the Arbeitslosengeld is paused from the end of the job until the day the notice period would have ended. The pause lasts at most one year.",
+   "keywords": [
+    "abfindung arbeitslosengeld",
+    "ruhen",
+    "severance unemployment benefit",
+    "entlassungsentschädigung",
+    "benefit paused"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_3/__158.html"
+  },
+  "zpo_767_objection_to_enforcement": {
+   "area": "money",
+   "law": "ZPO § 767",
+   "title": "Vollstreckungsabwehrklage: sue if the debt itself no longer exists",
+   "summary": "If you claim that the debt in a judgment has been paid or otherwise ended, you raise this by an action at the court of first instance. It only works for reasons that arose after the last oral hearing in which they could have been raised.",
+   "keywords": [
+    "vollstreckungsabwehrklage",
+    "already paid judgment",
+    "enforcement debt paid",
+    "gläubiger vollstreckt trotz zahlung",
+    "767 zpo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__767.html"
+  },
+  "zpo_811a_exchange_seizure": {
+   "area": "money",
+   "law": "ZPO § 811a",
+   "title": "Austauschpfändung: exempt items can be swapped for cheaper ones",
+   "summary": "A creditor can ask the court for an exchange seizure: an otherwise protected item is taken, and the debtor gets the money for a replacement from the proceeds. The court only allows it if it is reasonable, especially when the proceeds clearly exceed the value of the replacement.",
+   "keywords": [
+    "austauschpfändung",
+    "exchange seizure",
+    "replacement item",
+    "gerichtsvollzieher takes laptop",
+    "811a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__811a.html"
+  },
+  "zpo_811_unseizable_household_items": {
+   "area": "money",
+   "law": "ZPO § 811",
+   "title": "Items you need for a modest life cannot be seized",
+   "summary": "Things you or the people in your household need for a modest living and housekeeping are not subject to seizure, and neither are items needed for health reasons or private records whose use would intrude on personal rights.",
+   "keywords": [
+    "unpfändbar",
+    "gerichtsvollzieher",
+    "bailiff",
+    "what can be seized",
+    "household items protected",
+    "811 zpo"
+   ],
+   "source": "https://www.gesetze-im-internet.de/zpo/__811.html"
+  },
+  "mutterschutz_six_weeks_before_eight_after": {
+   "area": "work",
+   "law": "MuSchG § 3",
+   "title": "Maternity protection: six weeks before and eight weeks after birth",
+   "summary": "An employer may not employ a pregnant woman in the last six weeks before the birth unless she expressly agrees, and she can withdraw that at any time. After the birth she may not be employed for eight weeks. The date of birth given in the medical certificate decides the start.",
+   "keywords": [
+    "schutzfrist",
+    "six weeks before birth",
+    "eight weeks after birth",
+    "maternity leave length",
+    "mutterschutz weeks"
+   ],
+   "source": "https://www.gesetze-im-internet.de/muschg_2018/__3.html"
   }
  },
  "free_help": {
