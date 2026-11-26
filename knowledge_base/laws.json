@@ -15130,6 +15130,474 @@
     "melderegister"
    ],
    "source": "https://www.gesetze-im-internet.de/bmg/__17.html"
+  },
+  "right_of_retention_until_counterclaim_met": {
+   "area": "consumer",
+   "law": "BGB § 273 Abs. 1",
+   "title": "Right of retention",
+   "summary": "If you have a due claim against the other side from the same legal relationship, you can refuse your own performance until you receive what you are owed.",
+   "keywords": [
+    "zurückbehaltungsrecht",
+    "retention",
+    "withhold",
+    "refuse performance",
+    "counterclaim",
+    "same relationship"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "retention_averted_by_security_not_guarantee": {
+   "area": "consumer",
+   "law": "BGB § 273 Abs. 3",
+   "title": "Averting the right of retention",
+   "summary": "The other side can avert your right of retention by providing security, but security by a guarantor (Bürge) is excluded.",
+   "keywords": [
+    "zurückbehaltungsrecht",
+    "security",
+    "sicherheitsleistung",
+    "guarantor",
+    "bürge",
+    "avert"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__273.html"
+  },
+  "contract_partial_performance_cannot_refuse_for_tiny_rest": {
+   "area": "consumer",
+   "law": "BGB § 320 Abs. 2",
+   "title": "No refusing everything for a tiny rest",
+   "summary": "If one side has partly performed, the other cannot refuse their performance as far as that would breach good faith, especially because the outstanding part is relatively small.",
+   "keywords": [
+    "einrede nicht erfüllter vertrag",
+    "partial performance",
+    "small remainder",
+    "good faith",
+    "withhold payment",
+    "geringfügig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__320.html"
+  },
+  "creditor_must_give_receipt_on_request": {
+   "area": "consumer",
+   "law": "BGB § 368",
+   "title": "Right to a receipt",
+   "summary": "On receiving payment, the creditor must give you a written receipt (Quittung) if you ask. If you have a legal interest in another form, you can demand that form.",
+   "keywords": [
+    "quittung",
+    "receipt",
+    "payment",
+    "written confirmation",
+    "creditor",
+    "proof of payment"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__368.html"
+  },
+  "set_off_two_mutual_claims": {
+   "area": "consumer",
+   "law": "BGB § 387",
+   "title": "Set-off of mutual debts",
+   "summary": "If two people owe each other performances of the same kind, each can set off their claim against the other's once they can demand their own performance and perform what they owe.",
+   "keywords": [
+    "aufrechnung",
+    "set-off",
+    "offset",
+    "mutual claims",
+    "debts",
+    "counterclaim",
+    "same kind"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "claim_can_be_assigned_by_contract": {
+   "area": "consumer",
+   "law": "BGB § 398",
+   "title": "Assigning a claim",
+   "summary": "A creditor can transfer a claim to another person by contract (assignment). With the contract, the new creditor takes the place of the old one.",
+   "keywords": [
+    "abtretung",
+    "assignment",
+    "transfer claim",
+    "cession",
+    "new creditor",
+    "debt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "representative_declaration_binds_principal": {
+   "area": "consumer",
+   "law": "BGB § 164 Abs. 1",
+   "title": "Acting for someone else",
+   "summary": "A declaration someone makes within their authority in the name of the person they represent binds that person directly. It does not matter if the representation is said outright or follows from the circumstances.",
+   "keywords": [
+    "vertretung",
+    "agent",
+    "represent",
+    "authority",
+    "vollmacht",
+    "in the name of",
+    "principal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "contract_without_authority_other_side_may_revoke": {
+   "area": "consumer",
+   "law": "BGB § 177, § 178",
+   "title": "Contract signed without authority",
+   "summary": "If someone signs a contract in another person's name without authority, it depends on that person's ratification. Until then the other party may revoke it, unless they knew about the missing authority.",
+   "keywords": [
+    "vertreter ohne vertretungsmacht",
+    "without authority",
+    "ratification",
+    "genehmigung",
+    "revoke",
+    "agent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.pdf"
+  },
+  "agent_without_authority_personally_liable": {
+   "area": "consumer",
+   "law": "BGB § 179",
+   "title": "Personal liability of a false agent",
+   "summary": "Anyone who signs as an agent without proving authority is liable to the other party, at their choice, for performance or damages if the principal refuses to ratify. If the agent did not know of the missing authority, only reliance damages are owed.",
+   "keywords": [
+    "falsus procurator",
+    "agent liable",
+    "no authority",
+    "performance",
+    "damages",
+    "haftung des vertreters"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.pdf"
+  },
+  "agent_cannot_contract_with_self": {
+   "area": "consumer",
+   "law": "BGB § 181",
+   "title": "No contracts with yourself",
+   "summary": "A representative may not conclude a contract in the name of the principal with themselves or as representative of a third party, unless it was allowed or only fulfils an obligation.",
+   "keywords": [
+    "insichgeschäft",
+    "self-dealing",
+    "representative",
+    "conflict of interest",
+    "contract with oneself"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "formless_contract_where_form_required_is_void": {
+   "area": "consumer",
+   "law": "BGB § 125",
+   "title": "Missing legal form",
+   "summary": "A legal transaction that lacks the form required by law is void. A lack of an agreed form also means voidness in case of doubt.",
+   "keywords": [
+    "formmangel",
+    "form requirement",
+    "void",
+    "written form",
+    "nichtig",
+    "missing form"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__125.html"
+  },
+  "written_form_needs_handwritten_signature": {
+   "area": "consumer",
+   "law": "BGB § 126 Abs. 1",
+   "title": "Written form",
+   "summary": "Where the law demands written form, the document must be signed by the issuer by hand with their name, or with a notarially certified mark.",
+   "keywords": [
+    "schriftform",
+    "written form",
+    "signature",
+    "handwritten",
+    "unterschrift",
+    "eigenhändig"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__126.html"
+  },
+  "written_form_replaceable_by_electronic_or_notary": {
+   "area": "consumer",
+   "law": "BGB § 126 Abs. 3, 5",
+   "title": "Replacing written form",
+   "summary": "Written form can be replaced by the electronic form unless the law says otherwise, and notarial recording replaces written form as well.",
+   "keywords": [
+    "schriftform",
+    "electronic form",
+    "notarial",
+    "replace",
+    "qualified signature",
+    "beurkundung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__126.html"
+  },
+  "contract_both_sign_same_document": {
+   "area": "consumer",
+   "law": "BGB § 126 Abs. 2",
+   "title": "Signing a contract",
+   "summary": "For a contract in written form, the signatures of the parties must be on the same document. With several copies, it is enough if each party signs the copy meant for the other.",
+   "keywords": [
+    "contract",
+    "both sign",
+    "same document",
+    "counterparts",
+    "schriftform",
+    "signatures"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.pdf"
+  },
+  "interpret_declarations_by_real_intent": {
+   "area": "consumer",
+   "law": "BGB § 133",
+   "title": "Interpreting declarations",
+   "summary": "When interpreting a declaration, you look for the real intention and do not stick to the literal sense of the words.",
+   "keywords": [
+    "auslegung",
+    "interpretation",
+    "real intent",
+    "literal wording",
+    "declaration",
+    "wille"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "contracts_interpreted_by_good_faith": {
+   "area": "consumer",
+   "law": "BGB § 157",
+   "title": "Interpreting contracts",
+   "summary": "Contracts must be interpreted as good faith requires, taking customary practice into account.",
+   "keywords": [
+    "auslegung verträge",
+    "treu und glauben",
+    "good faith",
+    "customary practice",
+    "verkehrssitte",
+    "interpret contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__157.html"
+  },
+  "unjust_enrichment_return_without_legal_ground": {
+   "area": "consumer",
+   "law": "BGB § 812 Abs. 1",
+   "title": "Getting back what was paid without a legal reason",
+   "summary": "Whoever gains something without legal ground through another person's performance or at their expense must return it. This also applies if the legal ground later falls away.",
+   "keywords": [
+    "ungerechtfertigte bereicherung",
+    "unjust enrichment",
+    "return",
+    "paid by mistake",
+    "without legal ground"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "no_return_if_both_broke_law_or_morals": {
+   "area": "consumer",
+   "law": "BGB § 817 Satz 2",
+   "title": "Both sides broke the law",
+   "summary": "If the person who paid also violated a legal ban or good morals, getting the performance back is excluded, unless it only consisted of taking on an obligation.",
+   "keywords": [
+    "rückforderung ausgeschlossen",
+    "both violated",
+    "illegal",
+    "sittenwidrig",
+    "return excluded",
+    "bereicherung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__817.html"
+  },
+  "enrichment_liability_tightens_when_lawsuit_pending": {
+   "area": "consumer",
+   "law": "BGB § 818 Abs. 4",
+   "title": "Liability once sued",
+   "summary": "From the moment a lawsuit for return is pending, the recipient is liable under the general rules.",
+   "keywords": [
+    "rechtshängigkeit",
+    "lawsuit pending",
+    "bereicherung",
+    "liability",
+    "general rules",
+    "rückforderung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__818.html"
+  },
+  "disposal_by_non_owner_valid_with_consent": {
+   "area": "consumer",
+   "law": "BGB § 185 Abs. 1",
+   "title": "Selling someone else's item with consent",
+   "summary": "A disposal made by a person who is not entitled is effective if it happens with the consent of the entitled person.",
+   "keywords": [
+    "verfügung nichtberechtigter",
+    "consent",
+    "einwilligung",
+    "sell for owner",
+    "non-owner",
+    "effective"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "broker_expenses_only_if_agreed": {
+   "area": "consumer",
+   "law": "BGB § 652 Abs. 2",
+   "title": "Broker's expenses",
+   "summary": "A broker is only reimbursed expenses if that was agreed, even if the contract does not come about.",
+   "keywords": [
+    "makler",
+    "broker",
+    "expenses",
+    "aufwendungen",
+    "agreed",
+    "commission",
+    "maklerlohn"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__652.html"
+  },
+  "home_purchase_broker_contract_text_form": {
+   "area": "consumer",
+   "law": "BGB § 656a",
+   "title": "Broker contract for buying a home",
+   "summary": "A brokerage contract about buying a flat or single-family house requires text form.",
+   "keywords": [
+    "makler",
+    "kaufvertrag",
+    "wohnung",
+    "einfamilienhaus",
+    "text form",
+    "broker contract",
+    "textform"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "loan_for_use_is_free": {
+   "area": "consumer",
+   "law": "BGB § 598",
+   "title": "Lending an item",
+   "summary": "Through a loan for use (Leihe), the lender allows the borrower to use the item free of charge.",
+   "keywords": [
+    "leihe",
+    "loan for use",
+    "lend",
+    "borrow",
+    "free of charge",
+    "unentgeltlich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "unpaid_mandate_agent": {
+   "area": "consumer",
+   "law": "BGB § 662",
+   "title": "Mandate without pay",
+   "summary": "By accepting a mandate (Auftrag), the agent promises to handle a task for the principal without payment.",
+   "keywords": [
+    "auftrag",
+    "mandate",
+    "unpaid",
+    "favour",
+    "agent",
+    "unentgeltlich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__662.html"
+  },
+  "gift_requires_both_to_agree_free": {
+   "area": "consumer",
+   "law": "BGB § 516 Abs. 1",
+   "title": "What is a gift",
+   "summary": "A transfer from your assets that enriches another is a gift if both sides agree it is free of charge. A gift made without the other person's will can be put to a deadline for acceptance.",
+   "keywords": [
+    "schenkung",
+    "gift",
+    "donation",
+    "free of charge",
+    "unentgeltlich",
+    "acceptance deadline"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "gift_promise_formal_defect_cured_by_giving": {
+   "area": "consumer",
+   "law": "BGB § 518 Abs. 2",
+   "title": "Gift promise cured by performance",
+   "summary": "A missing form of a promise of a gift is cured once the promised performance has been carried out.",
+   "keywords": [
+    "schenkungsversprechen",
+    "form defect",
+    "cured",
+    "notarial",
+    "performance",
+    "gift promise"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__518.html"
+  },
+  "gift_reclaim_if_giver_becomes_poor": {
+   "area": "consumer",
+   "law": "BGB § 528",
+   "title": "Reclaiming a gift when you become poor",
+   "summary": "If the giver can no longer pay their own appropriate living costs and legal maintenance duties after the gift, they can demand it back from the recipient under the rules on unjust enrichment.",
+   "keywords": [
+    "schenkung",
+    "rückforderung",
+    "verarmung",
+    "impoverishment",
+    "reclaim gift",
+    "sozialamt",
+    "maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__528.html"
+  },
+  "gift_revocable_for_gross_ingratitude": {
+   "area": "consumer",
+   "law": "BGB § 530 Abs. 1",
+   "title": "Revoking a gift",
+   "summary": "A gift can be revoked if the recipient is guilty of gross ingratitude through a serious offence against the giver or a close relative.",
+   "keywords": [
+    "widerruf schenkung",
+    "grober undank",
+    "revoke gift",
+    "ingratitude",
+    "serious offence"
+   ],
+   "source": "https://www.gesetze-im-internet.de/cgi-bin/htsearch?config=Gesamt_bmjhome2005&words=Schenkung&suche=Suchen"
+  },
+  "moral_duty_gifts_not_reclaimable": {
+   "area": "consumer",
+   "law": "BGB § 534",
+   "title": "Moral duty gifts",
+   "summary": "Gifts that fulfil a moral duty or a consideration owed out of decency cannot be reclaimed or revoked.",
+   "keywords": [
+    "pflichtschenkung",
+    "anstandsschenkung",
+    "moral duty",
+    "gift",
+    "not reclaimable",
+    "decency"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__534.html"
+  },
+  "real_estate_contract_needs_notary": {
+   "area": "housing",
+   "law": "BGB § 311b Abs. 1",
+   "title": "Real estate contracts need a notary",
+   "summary": "A contract to transfer or buy ownership of land needs notarial recording. A contract made without that form becomes valid in full once the transfer of title (Auflassung) and land register entry have happened.",
+   "keywords": [
+    "grundstück",
+    "real estate",
+    "notary",
+    "notarielle beurkundung",
+    "land register",
+    "auflassung",
+    "grundbuch"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "contract_over_whole_assets_needs_notary": {
+   "area": "money",
+   "law": "BGB § 311b Abs. 3",
+   "title": "Contract about all your assets",
+   "summary": "A contract to transfer your whole present assets, or a fraction of them, or to burden them with a usufruct, needs notarial recording.",
+   "keywords": [
+    "whole assets",
+    "gesamtvermögen",
+    "notary",
+    "beurkundung",
+    "transfer",
+    "nießbrauch"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
   }
  },
  "free_help": {
