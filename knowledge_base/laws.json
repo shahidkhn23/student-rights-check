@@ -14752,6 +14752,384 @@
     "monthly"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_11/__45b.html"
+  },
+  "merchant_is_who_runs_commercial_business": {
+   "area": "consumer",
+   "law": "§ 1 Abs. 1 HGB",
+   "title": "Who is a merchant",
+   "summary": "A merchant (Kaufmann) under the commercial code is anyone who runs a commercial business (Handelsgewerbe).",
+   "keywords": [
+    "kaufmann",
+    "merchant",
+    "handelsgewerbe",
+    "commercial business",
+    "hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__1.html"
+  },
+  "commercial_business_needs_commercial_setup": {
+   "area": "consumer",
+   "law": "§ 1 Abs. 2 HGB",
+   "title": "What counts as a commercial business",
+   "summary": "Every trade is a commercial business, unless the business by its kind or size does not need a commercially organised operation.",
+   "keywords": [
+    "handelsgewerbe",
+    "small business",
+    "kaufmännisch",
+    "trade",
+    "size",
+    "kleingewerbe"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html"
+  },
+  "commercial_transactions_are_merchants_business_deals": {
+   "area": "consumer",
+   "law": "§ 343 Abs. 1 HGB",
+   "title": "Commercial transactions",
+   "summary": "Commercial transactions are all deals of a merchant that belong to the running of their commercial business.",
+   "keywords": [
+    "handelsgeschäfte",
+    "commercial transactions",
+    "merchant",
+    "business deals",
+    "hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__343.html"
+  },
+  "merchants_follow_trade_customs": {
+   "area": "consumer",
+   "law": "§ 346 HGB",
+   "title": "Trade customs among merchants",
+   "summary": "Between merchants, the customs and usages that apply in trade must be taken into account when judging the meaning and effect of actions and omissions.",
+   "keywords": [
+    "handelsbräuche",
+    "trade customs",
+    "merchants",
+    "usage",
+    "gewohnheiten",
+    "hgb"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__346.html"
+  },
+  "merchant_late_defect_notice_immediately": {
+   "area": "consumer",
+   "law": "§ 377 Abs. 3 HGB",
+   "title": "Defects found later between merchants",
+   "summary": "In a deal between merchants, a defect that only shows later must be reported immediately upon discovery, otherwise the goods count as approved also regarding that defect.",
+   "keywords": [
+    "rügepflicht",
+    "notice of defect",
+    "merchants",
+    "immediately",
+    "approved",
+    "goods",
+    "kaufmann"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__377.html"
+  },
+  "merchant_notice_timely_dispatch_enough": {
+   "area": "consumer",
+   "law": "§ 377 Abs. 4, 5 HGB",
+   "title": "Sending the defect notice in time",
+   "summary": "To keep the buyer's rights, sending the notice in time is enough. A seller who fraudulently concealed the defect cannot rely on the notice rules.",
+   "keywords": [
+    "rügepflicht",
+    "defect notice",
+    "dispatch",
+    "fraud",
+    "concealed defect",
+    "seller",
+    "merchants"
+   ],
+   "source": "https://www.gesetze-im-internet.de/hgb/__377.html"
+  },
+  "gmbh_minimum_share_capital_25000": {
+   "area": "work",
+   "law": "§ 5 Abs. 1 GmbHG",
+   "title": "Minimum capital of a GmbH",
+   "summary": "The share capital of a GmbH must be at least 25,000 euro.",
+   "keywords": [
+    "gmbh",
+    "stammkapital",
+    "share capital",
+    "25000",
+    "founding",
+    "minimum"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gmbhg/GmbHG.pdf"
+  },
+  "gmbh_shares_full_euro_sum_equals_capital": {
+   "area": "work",
+   "law": "§ 5 Abs. 2, 3 GmbHG",
+   "title": "GmbH shares",
+   "summary": "Each share of a GmbH must be a full euro amount, and the shares together must add up to the share capital.",
+   "keywords": [
+    "gmbh",
+    "geschäftsanteil",
+    "nominal value",
+    "full euro",
+    "share capital",
+    "sum"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gmbhg/GmbHG.pdf"
+  },
+  "gmbh_is_own_legal_person": {
+   "area": "work",
+   "law": "§ 13 Abs. 1 GmbHG",
+   "title": "A GmbH is its own legal person",
+   "summary": "A GmbH has its own rights and duties, can own land, and can sue and be sued in court.",
+   "keywords": [
+    "gmbh",
+    "legal person",
+    "juristische person",
+    "own rights",
+    "sue",
+    "own property"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html"
+  },
+  "gmbh_any_lawful_purpose_one_founder": {
+   "area": "work",
+   "law": "§ 1 GmbHG",
+   "title": "Who can found a GmbH",
+   "summary": "A GmbH can be founded by one or more persons for any lawful purpose.",
+   "keywords": [
+    "gmbh",
+    "founding",
+    "one person",
+    "lawful purpose",
+    "gründer",
+    "einpersonen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.epub"
+  },
+  "equalised_persons_no_extra_leave": {
+   "area": "work",
+   "law": "§ 151 Abs. 3 SGB IX",
+   "title": "Equalised persons and extra leave",
+   "summary": "People with a disability who are equalised with severely disabled people get the special rules for severely disabled people, except the extra holiday (§ 208) and chapter 13.",
+   "keywords": [
+    "gleichgestellt",
+    "equalised",
+    "extra leave",
+    "zusatzurlaub",
+    "severe disability",
+    "exception"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_9_2018/SGB_IX.pdf"
+  },
+  "equalisation_effective_on_application_date": {
+   "area": "work",
+   "law": "§ 151 Abs. 2 SGB IX",
+   "title": "Equalisation date",
+   "summary": "Equalisation with a severely disabled person takes effect on the day the application is received.",
+   "keywords": [
+    "gleichstellung",
+    "equalisation",
+    "application date",
+    "disability",
+    "effective",
+    "antrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_9_2018/SGB_IX.pdf"
+  },
+  "threatened_by_disability_expected_impairment": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 SGB IX",
+   "title": "At risk of disability",
+   "summary": "People are considered threatened by disability if an impairment is expected.",
+   "keywords": [
+    "von behinderung bedroht",
+    "threatened by disability",
+    "expected impairment",
+    "sgb ix"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_9_2018/__2.html"
+  },
+  "insolvency_discharge_second_time_five_years": {
+   "area": "money",
+   "law": "§ 287 Abs. 2 InsO",
+   "title": "Second discharge takes longer",
+   "summary": "If a discharge of residual debt was already granted once for an application filed after September 2020, the assignment period in a new proceeding is five years.",
+   "keywords": [
+    "restschuldbefreiung",
+    "second time",
+    "five years",
+    "abtretungsfrist",
+    "insolvency",
+    "again"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__287.html"
+  },
+  "insolvency_discharge_application_two_weeks": {
+   "area": "money",
+   "law": "§ 287 Abs. 1 InsO",
+   "title": "Time to apply for discharge",
+   "summary": "The application for discharge should be filed with the insolvency application. If not, it must be filed within two weeks after the court's notice under § 20 (2).",
+   "keywords": [
+    "restschuldbefreiung",
+    "application",
+    "two weeks",
+    "court notice",
+    "insolvency",
+    "antrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/__287.html"
+  },
+  "agreements_cannot_undermine_wage_assignment_in_insolvency": {
+   "area": "money",
+   "law": "§ 287 Abs. 3 InsO",
+   "title": "No side deals against the assignment",
+   "summary": "Agreements by the debtor are void as far as they would frustrate or impair the assignment declaration made for the discharge of residual debt.",
+   "keywords": [
+    "abtretungserklärung",
+    "assignment",
+    "void",
+    "agreements",
+    "insolvency",
+    "wage",
+    "restschuld"
+   ],
+   "source": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html"
+  },
+  "german_citizenship_by_birth_if_parent_german": {
+   "area": "international",
+   "law": "§ 4 Abs. 1 StAG",
+   "title": "Citizenship by birth",
+   "summary": "A child acquires German citizenship by birth if one parent is German. If only the father is German and paternity must be established, it must be acknowledged or proceedings begun before the child turns 23.",
+   "keywords": [
+    "staatsangehörigkeit",
+    "citizenship",
+    "birth",
+    "german parent",
+    "paternity",
+    "child"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/BJNR005830913.html"
+  },
+  "foundling_presumed_child_of_german": {
+   "area": "international",
+   "law": "§ 4 Abs. 2 StAG",
+   "title": "Foundlings",
+   "summary": "A child found in Germany is considered the child of a German until proven otherwise.",
+   "keywords": [
+    "findelkind",
+    "foundling",
+    "german citizenship",
+    "presumed",
+    "found child"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/BJNR005830913.html"
+  },
+  "ways_to_acquire_german_citizenship": {
+   "area": "international",
+   "law": "§ 3 Abs. 1 StAG",
+   "title": "Ways to become German",
+   "summary": "German citizenship is acquired by birth, by declaration, by adoption as a child, by a certificate under the Federal Expellees Act, or by naturalisation.",
+   "keywords": [
+    "german citizenship",
+    "ways",
+    "birth",
+    "declaration",
+    "adoption",
+    "naturalisation",
+    "einbürgerung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/BJNR005830913.html"
+  },
+  "naturalisation_conditions_legal_capacity_home_support": {
+   "area": "international",
+   "law": "§ 8 Abs. 1 StAG",
+   "title": "Discretionary naturalisation",
+   "summary": "A foreigner can be naturalised if they have legal capacity, no criminal conviction, their own home or lodging, and can support themselves and their dependants. Exceptions are possible for public interest or hardship.",
+   "keywords": [
+    "einbürgerung",
+    "naturalisation",
+    "conditions",
+    "legal capacity",
+    "housing",
+    "support",
+    "hardship"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/__8.html"
+  },
+  "spouse_of_german_naturalisation_three_years": {
+   "area": "international",
+   "law": "§ 9 Abs. 1 StAG",
+   "title": "Naturalisation of spouses of Germans",
+   "summary": "Spouses and registered partners of Germans should be naturalised if they have lived lawfully in Germany for three years and the marriage has lasted two years.",
+   "keywords": [
+    "spouse",
+    "ehegatte",
+    "einbürgerung",
+    "three years",
+    "marriage",
+    "two years",
+    "partner of german"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stag/__9.html"
+  },
+  "id_card_duty_from_16": {
+   "area": "international",
+   "law": "§ 1 Abs. 1 PAuswG",
+   "title": "Duty to hold an ID card",
+   "summary": "Germans must hold a valid ID once they are 16 and subject to the registration duty (or mainly live in Germany). They must show it to a competent authority on request, and cannot be required to leave it as a deposit.",
+   "keywords": [
+    "personalausweis",
+    "id card",
+    "16 years",
+    "duty",
+    "show",
+    "deposit",
+    "hinterlegen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html"
+  },
+  "passport_validity_ten_years_six_under_24": {
+   "area": "international",
+   "law": "§ 5 Abs. 1 PassG",
+   "title": "Passport validity",
+   "summary": "A German passport is valid for ten years, or six years if the holder is under 24.",
+   "keywords": [
+    "reisepass",
+    "passport",
+    "validity",
+    "ten years",
+    "six years",
+    "under 24"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pa_g_1986/BJNR105370986.html"
+  },
+  "passport_needed_to_leave_or_enter_germany": {
+   "area": "international",
+   "law": "§ 1 Abs. 1 PassG",
+   "title": "Passport duty at the border",
+   "summary": "Germans who leave or enter Germany must carry a valid passport and identify themselves with it. A German passport satisfies this.",
+   "keywords": [
+    "passpflicht",
+    "passport",
+    "border",
+    "carry",
+    "leave germany",
+    "entry",
+    "reisepass"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pa_g_1986/BJNR105370986.html"
+  },
+  "deregister_earliest_one_week_before_moving_out": {
+   "area": "housing",
+   "law": "§ 17 Abs. 2 BMG",
+   "title": "Earliest date to deregister",
+   "summary": "If you move out and do not take a new home in Germany, you must deregister within two weeks. Deregistration is possible at the earliest one week before moving out.",
+   "keywords": [
+    "abmeldung",
+    "deregister",
+    "one week before",
+    "move out",
+    "two weeks",
+    "melderegister"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bmg/__17.html"
   }
  },
  "free_help": {
