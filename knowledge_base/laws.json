@@ -13602,6 +13602,50 @@
     "pflichtversichert student"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html"
+  },
+  "works_council_possible_from_five_employees": {
+   "area": "work",
+   "law": "BetrVG § 1",
+   "title": "A works council can be elected where at least five permanent employees work",
+   "summary": "Works councils are elected in establishments with normally at least five permanent employees entitled to vote, of whom three are eligible to stand.",
+   "keywords": [
+    "betriebsrat gründen",
+    "found works council",
+    "five employees",
+    "minimum staff works council",
+    "1 betrvg",
+    "betriebsrat wählen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html"
+  },
+  "works_council_members_released_paid": {
+   "area": "work",
+   "law": "BetrVG § 37",
+   "title": "Works council members are released from work without loss of pay",
+   "summary": "Works council work is an unpaid honorary post, but members are released from their job without reduction of pay as far as needed to do their tasks properly. Each member gets three weeks of paid release for recognised training during their term.",
+   "keywords": [
+    "betriebsrat freistellung",
+    "works council paid time off",
+    "schulung betriebsrat",
+    "37 betrvg",
+    "three weeks training"
+   ],
+   "source": "https://www.gesetze-im-internet.de/betrvg/__37.html"
+  },
+  "temp_agency_max_18_months_same_company": {
+   "area": "work",
+   "law": "AÜG § 1",
+   "title": "A temp worker may not be placed at the same company longer than 18 months",
+   "summary": "The agency may not place the same temporary worker with the same hirer for more than 18 consecutive months. Earlier placements count fully if the gaps between them are no longer than three months. A collective agreement in the sector can set a different maximum.",
+   "keywords": [
+    "leiharbeit höchstdauer",
+    "18 monate",
+    "temp agency maximum",
+    "überlassungshöchstdauer",
+    "1b aüg",
+    "zeitarbeit 18 monate"
+   ],
+   "source": "https://www.gesetze-im-internet.de/a_g/__1.html"
   }
  },
  "free_help": {
