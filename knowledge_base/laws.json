@@ -13224,6 +13224,179 @@
     "owners report"
    ],
    "source": "https://www.gesetze-im-internet.de/woeigg/__28.html"
+  },
+  "animal_welfare_no_pain_without_reason": {
+   "area": "consumer",
+   "law": "TierSchG § 1",
+   "title": "No one may cause an animal pain, suffering or harm without a good reason",
+   "summary": "The Animal Welfare Act protects the life and wellbeing of animals as fellow creatures. Nobody may cause an animal pain, suffering or damage without a reasonable ground.",
+   "keywords": [
+    "tierschutz",
+    "animal welfare",
+    "tierquälerei",
+    "animal cruelty",
+    "tierschutzgesetz",
+    "pain animal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html"
+  },
+  "animal_keeper_must_feed_care_house_appropriately": {
+   "area": "consumer",
+   "law": "TierSchG § 2",
+   "title": "Animal keepers must feed, care for and house animals appropriately",
+   "summary": "Whoever keeps or looks after an animal must feed, care for and house it in a way that suits its species and needs, must not restrict its natural movement so that it suffers pain or avoidable harm, and must have the knowledge and skills needed to do this.",
+   "keywords": [
+    "tierhalter pflichten",
+    "pet owner duties",
+    "animal keeping",
+    "haustier haltung",
+    "tierhaltung artgerecht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tierschg/__2.html"
+  },
+  "killing_vertebrate_without_reason_crime": {
+   "area": "consumer",
+   "law": "TierSchG § 17",
+   "title": "Killing a vertebrate without good reason is a crime",
+   "summary": "Whoever kills a vertebrate animal without a reasonable ground, or out of cruelty causes it considerable pain or suffering, or causes lasting or repeated considerable pain or suffering, faces up to three years in prison or a fine.",
+   "keywords": [
+    "tier töten",
+    "animal killing crime",
+    "tierquälerei strafe",
+    "three years prison animal",
+    "17 tierschg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tierschg/__17.html"
+  },
+  "animal_taken_away_if_severely_neglected": {
+   "area": "consumer",
+   "law": "TierSchG § 16a",
+   "title": "Authorities can take away a severely neglected animal",
+   "summary": "If a vet official finds an animal considerably neglected because its keeper does not meet the care requirements, or showing serious behaviour disorders, the authority can take it from the keeper and house it elsewhere at the keeper's cost until proper keeping is ensured.",
+   "keywords": [
+    "tier weggenommen",
+    "animal confiscated",
+    "neglect animal authority",
+    "veterinäramt",
+    "fortnahme tier"
+   ],
+   "source": "https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html"
+  },
+  "social_application_wrong_office_still_valid": {
+   "area": "money",
+   "law": "SGB I § 16",
+   "title": "An application at the wrong social office must be passed on",
+   "summary": "Applications for social benefits are made at the competent benefit provider, but they are also accepted by all other benefit providers and by all municipalities. An application filed at an incompetent provider must be forwarded to the competent one.",
+   "keywords": [
+    "antrag falsche behörde",
+    "wrong office application",
+    "sozialleistung antrag",
+    "unzuständig leistungsträger",
+    "16 sgb i"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_1/__16.html"
+  },
+  "social_benefit_refused_if_no_cooperation": {
+   "area": "money",
+   "law": "SGB I § 66",
+   "title": "Social benefits can be refused if you do not cooperate",
+   "summary": "If someone who applies for or receives a social benefit does not meet cooperation duties and this makes clarifying the facts considerably harder, the benefit provider can withhold or withdraw the benefit until the cooperation is made up.",
+   "keywords": [
+    "mitwirkungspflicht",
+    "cooperation duty",
+    "leistung versagt",
+    "jobcenter unterlagen nicht eingereicht",
+    "66 sgb i",
+    "benefit stopped missing documents"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_1/__66.html"
+  },
+  "social_overpayment_refund_limitation_four_years": {
+   "area": "money",
+   "law": "SGB X § 50",
+   "title": "Repayment claims for wrongly paid benefits expire after four years",
+   "summary": "The claim to refund wrongly paid social benefits becomes time-barred four years after the end of the calendar year in which the decision became final.",
+   "keywords": [
+    "überzahlung",
+    "overpayment benefits",
+    "rückforderung jobcenter",
+    "verjährung erstattung",
+    "50 sgb x",
+    "repay bafög bürgergeld"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/__50.html"
+  },
+  "employee_invention_report_in_writing": {
+   "area": "work",
+   "law": "ArbnErfG § 5",
+   "title": "Employees must report job inventions to the employer in writing",
+   "summary": "An employee who makes an invention in the course of the job must report it without delay to the employer, separately and in text form, and must make clear that it is an invention report.",
+   "keywords": [
+    "diensterfindung",
+    "employee invention",
+    "erfindung arbeitgeber melden",
+    "arbeitnehmererfindung",
+    "invention at work report"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbnerfg/__5.html"
+  },
+  "employer_claims_invention_four_months": {
+   "area": "work",
+   "law": "ArbnErfG § 6",
+   "title": "Employer is deemed to claim an invention unless released within four months",
+   "summary": "The employer can claim a job invention by declaration. The claim counts as made if the employer does not release the invention in text form within four months after receiving a proper report.",
+   "keywords": [
+    "inanspruchnahme",
+    "claim invention",
+    "four months",
+    "diensterfindung freigabe",
+    "arbeitgeber erfindung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/arbnerfg/__6.html"
+  },
+  "patent_right_belongs_to_inventor": {
+   "area": "copyright",
+   "law": "PatG § 6",
+   "title": "The right to a patent belongs to the inventor",
+   "summary": "The right to the patent belongs to the inventor or their successor. If several made the invention together, they hold it jointly. If several made it independently, the one who filed first at the patent office gets it.",
+   "keywords": [
+    "patent inventor",
+    "who owns patent",
+    "erfinder recht auf patent",
+    "first to file",
+    "6 patg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/patg/__6.html"
+  },
+  "trademark_protection_ten_years_renewable": {
+   "area": "copyright",
+   "law": "MarkenG § 47",
+   "title": "A registered trade mark lasts ten years and can be renewed",
+   "summary": "The protection of a registered trade mark lasts ten years from the filing date and is extended by ten years each time on application if the renewal fee is paid. The application can still be filed within a six-month grace period.",
+   "keywords": [
+    "markenschutz dauer",
+    "trademark duration",
+    "marke verlängern",
+    "trademark renewal",
+    "47 markeng",
+    "ten years trademark"
+   ],
+   "source": "https://www.gesetze-im-internet.de/markeng/__47.html"
+  },
+  "company_name_protected_as_business_designation": {
+   "area": "copyright",
+   "law": "MarkenG § 15",
+   "title": "Company names and titles of works are protected as business designations",
+   "summary": "Company signs and titles of works are protected as business designations. The owner can stop others from using confusingly similar signs in business and claim damages.",
+   "keywords": [
+    "firmenname schutz",
+    "geschäftliche bezeichnung",
+    "business name protection",
+    "werktitel",
+    "15 markeng",
+    "startup name conflict"
+   ],
+   "source": "https://www.gesetze-im-internet.de/markeng/__15.html"
   }
  },
  "free_help": {
