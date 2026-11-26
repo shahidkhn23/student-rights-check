@@ -13179,6 +13179,51 @@
     "mutterschutz weeks"
    ],
    "source": "https://www.gesetze-im-internet.de/muschg_2018/__3.html"
+  },
+  "assault_penalty_up_to_five_years": {
+   "area": "consumer",
+   "law": "StGB § 223",
+   "title": "Körperverletzung: up to five years or a fine, attempt punishable",
+   "summary": "Whoever physically mistreats another person or damages their health faces up to five years in prison or a fine. The attempt is also punishable.",
+   "keywords": [
+    "körperverletzung",
+    "assault penalty",
+    "bodily harm",
+    "hitting someone",
+    "223 stgb",
+    "schlägerei"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__223.html"
+  },
+  "wohnungseigentum_owner_duties_no_more_than_unavoidable_nuisance": {
+   "area": "housing",
+   "law": "WEG § 14",
+   "title": "Flat owners must not cause more disadvantage than unavoidable",
+   "summary": "Each owner must keep to the law, agreements and resolutions and may not cause other owners more disadvantage than is unavoidable when people live together in an orderly way. An owner who has to tolerate an unreasonable impact can claim appropriate compensation in money.",
+   "keywords": [
+    "wohnungseigentum",
+    "eigentümergemeinschaft",
+    "neighbour owner nuisance",
+    "weg 14",
+    "condominium owner duties",
+    "lärm eigentümer"
+   ],
+   "source": "https://www.gesetze-im-internet.de/woeigg/__14.html"
+  },
+  "wohnungseigentum_asset_report_each_owner": {
+   "area": "housing",
+   "law": "WEG § 28",
+   "title": "Property manager must give every owner an annual asset report",
+   "summary": "After each calendar year the administrator must prepare an asset report with the state of the reserves and the main common assets, and make it available to every owner.",
+   "keywords": [
+    "vermögensbericht",
+    "hausverwalter",
+    "rücklage",
+    "instandhaltungsrücklage",
+    "weg 28",
+    "owners report"
+   ],
+   "source": "https://www.gesetze-im-internet.de/woeigg/__28.html"
   }
  },
  "free_help": {
