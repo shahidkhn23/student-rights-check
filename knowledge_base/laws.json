@@ -17528,6 +17528,609 @@
     "bafög ablehnung"
    ],
    "source": "https://www.gesetze-im-internet.de/sgb_2/__7.html"
+  },
+  "after_divorce_each_spouse_must_support_self": {
+   "area": "money",
+   "law": "§ 1569 BGB",
+   "title": "After divorce everyone must support themselves",
+   "summary": "After a divorce each former spouse is expected to provide for their own living. Only a spouse who cannot do so can claim maintenance from the other, and only under the specific rules that follow in the BGB.",
+   "keywords": [
+    "nachehelicher unterhalt",
+    "eigenverantwortung",
+    "scheidung unterhalt",
+    "ex-spouse maintenance",
+    "support yourself after divorce"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1569.html"
+  },
+  "childcare_maintenance_at_least_three_years_after_birth": {
+   "area": "money",
+   "law": "§ 1570 Abs. 1 BGB",
+   "title": "Maintenance for the divorced parent who cares for a child",
+   "summary": "A divorced spouse can demand maintenance from the other for caring for a shared child for at least three years after the birth. It lasts longer as far as fairness requires, taking into account the child's interests and the childcare actually available.",
+   "keywords": [
+    "betreuungsunterhalt",
+    "kind betreuung",
+    "drei jahre",
+    "billigkeit",
+    "kinderbetreuung",
+    "childcare maintenance",
+    "geschieden kind"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1570.html"
+  },
+  "maintenance_for_old_age_after_divorce": {
+   "area": "money",
+   "law": "§ 1571 BGB",
+   "title": "Maintenance because of age after divorce",
+   "summary": "A divorced spouse can demand maintenance as far as, at the time of the divorce or another set point in time, they can no longer be expected to work because of their age.",
+   "keywords": [
+    "unterhalt wegen alters",
+    "alter erwerbstätigkeit",
+    "geschiedener ehegatte",
+    "age maintenance",
+    "nicht mehr erwartet"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1571.html"
+  },
+  "divorced_spouse_no_maintenance_if_self_supporting": {
+   "area": "money",
+   "law": "§ 1577 Abs. 1 BGB",
+   "title": "No spousal maintenance while you can support yourself",
+   "summary": "A divorced spouse cannot claim maintenance for childcare, age, illness, unemployment, training or fairness reasons as long as and as far as they can support themselves from their own income and assets.",
+   "keywords": [
+    "bedürftigkeit",
+    "eigene einkünfte",
+    "vermögen",
+    "selbst unterhalten",
+    "ehegattenunterhalt",
+    "need test",
+    "spousal maintenance income"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1577.html"
+  },
+  "spousal_maintenance_includes_old_age_and_disability_insurance": {
+   "area": "money",
+   "law": "§ 1578 Abs. 3 BGB",
+   "title": "Spousal maintenance includes pension and disability insurance",
+   "summary": "If a divorced spouse is entitled to maintenance for childcare, age, illness, unemployment or similar reasons, their living needs also cover the cost of appropriate insurance for old age and reduced earning capacity.",
+   "keywords": [
+    "altersvorsorge",
+    "erwerbsminderung",
+    "versicherung",
+    "lebensbedarf",
+    "unterhalt umfasst",
+    "pension insurance maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1578.html"
+  },
+  "short_marriage_can_cut_maintenance": {
+   "area": "money",
+   "law": "§ 1579 Nr. 1 BGB",
+   "title": "A short marriage can limit or deny maintenance",
+   "summary": "Spousal maintenance can be reduced, limited in time or refused if claiming it would be grossly unfair, for example because the marriage was short. The years in which the spouse can claim childcare maintenance under § 1570 count toward the length of the marriage.",
+   "keywords": [
+    "kurze ehe",
+    "grobe unbilligkeit",
+    "unterhalt versagen",
+    "beschränkung unterhalt",
+    "short marriage",
+    "unterhalt kürzen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1579.html"
+  },
+  "registered_partners_maintenance_after_ending_partnership": {
+   "area": "money",
+   "law": "§ 16 LPartG",
+   "title": "Maintenance after the end of a registered partnership",
+   "summary": "After a registered life partnership is dissolved, each partner must support themselves. A partner who cannot may claim maintenance only under rules that correspond to §§ 1570 to 1586b and 1609 BGB.",
+   "keywords": [
+    "lebenspartnerschaft",
+    "nachpartnerschaftlicher unterhalt",
+    "aufhebung",
+    "eingetragene lebenspartnerschaft",
+    "life partner maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html"
+  },
+  "maintenance_ranking_descendants_before_ascendants": {
+   "area": "money",
+   "law": "§ 1606 Abs. 1 und 2 BGB",
+   "title": "Who pays maintenance first",
+   "summary": "Descendants owe maintenance before relatives in the ascending line. Within each group, closer relatives are liable before more distant ones.",
+   "keywords": [
+    "rangfolge",
+    "unterhaltspflichtige",
+    "abkömmlinge",
+    "verwandte aufsteigender linie",
+    "näher vor entfernter",
+    "ranking maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1606.html"
+  },
+  "equally_close_relatives_pay_by_income_and_caring_parent_pays_by_care": {
+   "area": "money",
+   "law": "§ 1606 Abs. 3 BGB",
+   "title": "Several equally close relatives share maintenance by their means",
+   "summary": "Several equally close relatives are liable in proportion to their income and assets. A parent who looks after a minor child normally meets their duty to contribute to the child's maintenance through care and upbringing.",
+   "keywords": [
+    "anteilig haften",
+    "erwerbs und vermögensverhältnisse",
+    "betreuender elternteil",
+    "pflege und erziehung",
+    "barunterhalt",
+    "naturalunterhalt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1606.html"
+  },
+  "minor_child_with_own_assets_can_still_claim_maintenance": {
+   "area": "money",
+   "law": "§ 1602 Abs. 2 BGB",
+   "title": "A minor child with assets can still claim maintenance",
+   "summary": "A minor child can demand maintenance from their parents even if the child has assets, as far as the income from those assets and the child's earnings are not enough to cover their living costs.",
+   "keywords": [
+    "minderjähriges kind vermögen",
+    "kind eigenes vermögen",
+    "erträge",
+    "unterhalt trotz vermögen",
+    "child assets maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1602.html"
+  },
+  "maintenance_level_depends_on_position_in_life": {
+   "area": "money",
+   "law": "§ 1610 Abs. 1 BGB",
+   "title": "The level of maintenance follows the needy person's position in life",
+   "summary": "The amount of maintenance is set by the position in life of the person in need (appropriate maintenance).",
+   "keywords": [
+    "angemessener unterhalt",
+    "lebensstellung",
+    "maß des unterhalts",
+    "bedürftiger",
+    "how much maintenance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1610.html"
+  },
+  "advance_maintenance_paid_at_minimum_maintenance_level": {
+   "area": "money",
+   "law": "§ 2 UhVorschG",
+   "title": "Unterhaltsvorschuss is paid monthly at minimum maintenance level",
+   "summary": "The advance maintenance for children of single parents is paid monthly in the amount of the minimum maintenance under § 1612a Abs. 1 Satz 3 BGB for the child's age group. If the conditions are met for only part of a month, it is paid pro rata.",
+   "keywords": [
+    "unterhaltsvorschuss",
+    "alleinerziehend",
+    "mindestunterhalt",
+    "anteilig",
+    "unterhaltsleistung monatlich",
+    "single parent advance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html"
+  },
+  "product_liability_burden_of_proof": {
+   "area": "consumer",
+   "law": "§ 1 Abs. 4 ProdHaftG",
+   "title": "Who must prove what in a product liability claim",
+   "summary": "The injured person must prove the defect, the damage and that the defect caused the damage. If it is disputed whether the producer is excluded from liability, the producer must prove it.",
+   "keywords": [
+    "beweislast",
+    "produkthaftung",
+    "fehler beweisen",
+    "hersteller beweist",
+    "burden of proof",
+    "kausalität"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/__1.html"
+  },
+  "product_liability_exclusions": {
+   "area": "consumer",
+   "law": "§ 1 Abs. 2 ProdHaftG",
+   "title": "When a producer is not liable for a defective product",
+   "summary": "The producer is not liable if they did not put the product into circulation, if the defect probably did not exist when it was put into circulation, if it was not made for sale or professional use, if the defect results from mandatory legal rules, or if the defect could not be detected by the state of science and technology at that time.",
+   "keywords": [
+    "haftungsausschluss",
+    "entwicklungsrisiko",
+    "stand der wissenschaft",
+    "nicht in verkehr gebracht",
+    "zwingende rechtsvorschriften",
+    "producer exempt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html"
+  },
+  "product_liability_own_fault_reduces_claim": {
+   "area": "consumer",
+   "law": "§ 6 ProdHaftG",
+   "title": "Your own fault reduces a product liability claim",
+   "summary": "If the injured person's own fault contributed to the damage, § 254 BGB applies. For property damage, the fault of the person who has control of the item counts as the injured person's fault. A third party's act does not reduce the producer's liability.",
+   "keywords": [
+    "mitverschulden",
+    "haftungsminderung",
+    "dritter",
+    "254",
+    "produkthaftung eigenes verschulden",
+    "contributory fault product"
+   ],
+   "source": "https://www.gesetze-im-internet.de/prodhaftg/__6.html"
+  },
+  "car_holder_liable_for_accident_damage_without_fault": {
+   "area": "consumer",
+   "law": "§ 7 Abs. 1 StVG",
+   "title": "The vehicle keeper is liable without fault",
+   "summary": "If during the operation of a motor vehicle a person is killed or injured or property is damaged, the keeper (Halter) must compensate the injured person. This strict liability does not depend on the keeper's fault.",
+   "keywords": [
+    "halterhaftung",
+    "gefährdungshaftung",
+    "fahrzeughalter",
+    "betrieb kraftfahrzeug",
+    "verschuldensunabhängig",
+    "keeper liability"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__7.html"
+  },
+  "car_holder_not_liable_in_force_majeure": {
+   "area": "consumer",
+   "law": "§ 7 Abs. 2 StVG",
+   "title": "No keeper liability in cases of force majeure",
+   "summary": "The keeper's duty to pay damages is excluded if the accident was caused by force majeure (höhere Gewalt).",
+   "keywords": [
+    "höhere gewalt",
+    "force majeure",
+    "haftungsausschluss halter",
+    "naturgewalt",
+    "unfall unvermeidbar"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__7.html"
+  },
+  "unauthorised_car_use_user_liable_instead_of_holder": {
+   "area": "consumer",
+   "law": "§ 7 Abs. 3 StVG",
+   "title": "Using a car without the keeper's knowledge",
+   "summary": "Whoever uses a motor vehicle without the keeper's knowledge and will is liable instead of the keeper. The keeper stays liable as well if their fault made the use possible. This does not apply if the user is employed by the keeper to operate the car or the keeper let them have it.",
+   "keywords": [
+    "schwarzfahrt",
+    "ohne wissen und willen",
+    "autoschlüssel",
+    "joyride",
+    "unauthorised use",
+    "gestohlenes auto haftung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__7.html"
+  },
+  "paid_passenger_transport_keeper_liability_cannot_be_excluded": {
+   "area": "consumer",
+   "law": "§ 8a StVG",
+   "title": "Paid passenger transport: no exclusion of liability",
+   "summary": "In commercial, paid transport of passengers, the keeper's liability under § 7 for killing or injuring carried people can be neither excluded nor limited.",
+   "keywords": [
+    "taxi",
+    "entgeltliche personenbeförderung",
+    "haftungsausschluss verboten",
+    "geschäftsmäßig",
+    "fahrgast",
+    "passenger liability"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/index.html"
+  },
+  "car_accident_own_fault_reduces_claim": {
+   "area": "consumer",
+   "law": "§ 9 StVG",
+   "title": "Your own fault reduces a claim after a traffic accident",
+   "summary": "If the injured person's own fault contributed to the damage, § 254 BGB applies. For property damage, the fault of the person who controls the item counts as the injured person's fault.",
+   "keywords": [
+    "mitverschulden",
+    "verkehrsunfall",
+    "quote",
+    "mithaftung",
+    "254 bgb",
+    "partial fault accident"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__9.html"
+  },
+  "several_cars_involved_keepers_share_by_circumstances": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 1 StVG",
+   "title": "Accident with several vehicles: keepers share the damage by circumstances",
+   "summary": "If several motor vehicles caused the damage and their keepers are legally liable to a third person, then between the keepers it depends on the circumstances, above all on which vehicle predominantly caused the damage, whether and how much each has to pay.",
+   "keywords": [
+    "mehrere kraftfahrzeuge",
+    "schadensverteilung",
+    "haftungsquote",
+    "zwei autos",
+    "unfall beteiligte",
+    "fault split"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__17.html"
+  },
+  "unavoidable_event_excludes_car_liability": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 3 StVG",
+   "title": "Unavoidable event between several vehicles",
+   "summary": "The duty to compensate between several vehicles is excluded if the accident was caused by an unavoidable event that was not due to a defect in the vehicle or a failure of its devices.",
+   "keywords": [
+    "unabwendbares ereignis",
+    "höhere gewalt",
+    "fahrzeugfehler",
+    "versagen vorrichtungen",
+    "unavoidable"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__17.html"
+  },
+  "car_and_animal_or_train_accident_same_rules": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 4 StVG",
+   "title": "Car against animal or railway: same sharing rules",
+   "summary": "The rules on sharing damage between several vehicles apply accordingly when the damage is caused by a motor vehicle and an animal, or by a motor vehicle and a railway.",
+   "keywords": [
+    "tier",
+    "eisenbahn",
+    "wildunfall",
+    "bahnübergang",
+    "motor vehicle and animal",
+    "zug unfall"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__17.html"
+  },
+  "driver_also_liable_only_if_at_fault": {
+   "area": "consumer",
+   "law": "§ 18 Abs. 1 StVG",
+   "title": "The driver is liable too, but only if at fault",
+   "summary": "In the cases of § 7 StVG the driver of the vehicle is also liable for damages. The duty is excluded if the damage was not caused by the driver's fault.",
+   "keywords": [
+    "fahrzeugführer",
+    "ersatzpflicht fahrer",
+    "verschulden führer",
+    "fahrerhaftung",
+    "driver liability"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__18.html"
+  },
+  "car_keeper_liability_capped_at_five_million_for_injury": {
+   "area": "consumer",
+   "law": "§ 12 StVG",
+   "title": "Keeper liability cap for death and injury",
+   "summary": "For death or injury of one or several persons from the same event, liability under the Road Traffic Act is capped at a total of five million euro (ten million euro when a highly or fully automated or autonomous driving function was in use).",
+   "keywords": [
+    "höchstbetrag",
+    "haftungshöchstgrenze",
+    "fünf millionen",
+    "zehn millionen",
+    "autonomes fahren",
+    "liability cap car"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_stvg/englisch_stvg.pdf"
+  },
+  "apprentice_minimum_pay_2025_start": {
+   "area": "work",
+   "law": "§ 17 Abs. 2 BBiG; BBiMindVergFBek 2025",
+   "title": "Minimum apprentice pay for training starting in 2025",
+   "summary": "For training that begins between 1 January and 31 December 2025, the monthly minimum pay is 682 euro in the first year, 805 euro in the second, 921 euro in the third and 955 euro in the fourth.",
+   "keywords": [
+    "mindestausbildungsvergütung",
+    "682",
+    "805",
+    "921",
+    "955",
+    "azubi gehalt 2025",
+    "minimum training pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbimindvergfbek_2025/----.html"
+  },
+  "apprentice_part_time_training_pay_cut_limit": {
+   "area": "work",
+   "law": "§ 17 BBiG",
+   "title": "Part-time training: pay cut cannot exceed the hours cut",
+   "summary": "Pay is not appropriate if the percentage cut in the training pay is higher than the percentage cut in daily or weekly working time.",
+   "keywords": [
+    "teilzeitberufsausbildung",
+    "teilzeit ausbildung",
+    "vergütung kürzung",
+    "prozentual",
+    "part-time apprenticeship pay"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html"
+  },
+  "apprenticeship_contract_follows_employment_law": {
+   "area": "work",
+   "law": "§ 10 BBiG",
+   "title": "Training contract: employment law applies",
+   "summary": "Anyone who hires people for vocational training must conclude a training contract with them. Unless the nature and purpose of the contract or the BBiG says otherwise, the rules and principles for employment contracts apply to it.",
+   "keywords": [
+    "berufsausbildungsvertrag",
+    "ausbildungsvertrag",
+    "arbeitsvertrag vorschriften",
+    "anzuwenden",
+    "azubi vertrag",
+    "training contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bbig_2005/BBiG.pdf"
+  },
+  "nursing_training_probation_six_months": {
+   "area": "work",
+   "law": "§ 20 PflBG",
+   "title": "Nursing training: six months probation",
+   "summary": "A nursing training relationship starts with a probation period, which is six months unless the law provides otherwise.",
+   "keywords": [
+    "pflegeausbildung",
+    "probezeit sechs monate",
+    "pflegefachkraft",
+    "pflegeberufegesetz",
+    "nursing apprenticeship probation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflbg/PflBG.pdf"
+  },
+  "nursing_training_termination_rules": {
+   "area": "work",
+   "law": "§ 22 PflBG",
+   "title": "Ending a nursing training",
+   "summary": "During the probation period either side can end the nursing training at any time without a notice period. Afterwards it can be ended by either side without notice for an important reason, or by the trainee with four weeks' notice.",
+   "keywords": [
+    "pflegeausbildung kündigen",
+    "kündigung ausbildungsverhältnis pflege",
+    "vier wochen",
+    "wichtiger grund",
+    "quit nursing training"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html"
+  },
+  "new_energy_supplier_must_confirm_in_text_form": {
+   "area": "consumer",
+   "law": "§ 20a Abs. 1 EnWG",
+   "title": "New energy supplier must confirm the start date",
+   "summary": "When you switch supplier, the new supplier must confirm to you in text form without delay whether and from which date they can start supplying you as requested.",
+   "keywords": [
+    "lieferantenwechsel bestätigung",
+    "textform",
+    "neuer lieferant",
+    "belieferung beginn",
+    "stromanbieter wechsel",
+    "confirm switch"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html"
+  },
+  "late_supplier_switch_damages_and_burden_on_supplier": {
+   "area": "consumer",
+   "law": "§ 20a Abs. 4 EnWG",
+   "title": "Delayed supplier switch: you can claim damages",
+   "summary": "If the supplier switch does not happen within the legal deadline, the consumer can claim damages under §§ 249 ff. BGB from the supplier or grid operator responsible for the delay. That party must prove it is not responsible.",
+   "keywords": [
+    "schadensersatz lieferantenwechsel",
+    "verzögerung",
+    "netzbetreiber",
+    "beweislast",
+    "delayed switch",
+    "zu spät gewechselt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__20a.html"
+  },
+  "energy_contract_must_be_simple_and_state_free_switching": {
+   "area": "consumer",
+   "law": "§ 41 Abs. 1 EnWG",
+   "title": "Energy contracts must be simple and mention free, quick switching",
+   "summary": "Contracts to supply energy to end consumers must be simple and understandable. They must state, among other things, that switching supplier is free of charge and quick, and how current tariffs can be found.",
+   "keywords": [
+    "einfach und verständlich",
+    "energievertrag inhalt",
+    "unentgeltlicher wechsel",
+    "tarife informationen",
+    "contract content energy"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__41.html"
+  },
+  "basic_supply_not_required_if_economically_unreasonable": {
+   "area": "consumer",
+   "law": "§ 36 Abs. 1 EnWG",
+   "title": "Basic supplier can refuse if supply is economically unreasonable",
+   "summary": "The duty of the basic supplier to supply households does not apply if supplying is economically unreasonable for the energy company.",
+   "keywords": [
+    "grundversorgung ausnahme",
+    "wirtschaftlich nicht zumutbar",
+    "grundversorger ablehnen",
+    "versorgung verweigert",
+    "refuse basic supply"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html"
+  },
+  "energy_cutoff_threat_you_can_demand_settlement_offer": {
+   "area": "consumer",
+   "law": "§ 41g EnWG",
+   "title": "Threatened with an energy cut-off: demand a settlement offer",
+   "summary": "A household customer in basic supply who receives a threat of interruption can demand an offer for an agreement to avert it (Abwendungsvereinbarung). The supplier must send it within a week, and at the latest with the announcement of the cut-off. If you accept in text form before the interruption, the supply must not be cut.",
+   "keywords": [
+    "abwendungsvereinbarung",
+    "stromsperre",
+    "gassperre",
+    "androhung unterbrechung",
+    "zahlungsrückstand",
+    "energy shutoff"
+   ],
+   "source": "https://www.gesetze-im-internet.de/enwg_2005/__41g.html"
+  },
+  "basic_supply_termination_text_form_and_no_fee": {
+   "area": "consumer",
+   "law": "§ 20 Abs. 2 und 3 StromGVV",
+   "title": "Cancelling basic electricity supply: text form and no fee",
+   "summary": "Cancelling the basic supply contract needs text form, and the supplier must confirm it promptly with the end date. The supplier may not charge any separate fee for cancelling or switching supplier.",
+   "keywords": [
+    "kündigung grundversorgung",
+    "kündigungsbestätigung",
+    "keine gebühr wechsel",
+    "stromvertrag kündigen",
+    "no cancellation fee"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stromgvv/__20.html"
+  },
+  "data_breach_report_not_used_against_reporter_without_consent": {
+   "area": "data",
+   "law": "§ 42 Abs. 4 BDSG",
+   "title": "A data breach report cannot be used against the reporter",
+   "summary": "A report of a data breach to the authority under Art. 33 GDPR, or a notification to affected people under Art. 34, can be used in criminal proceedings against the person who reported it, or their relatives, only with that person's consent.",
+   "keywords": [
+    "datenpanne meldung",
+    "art 33",
+    "strafverfahren",
+    "verwertungsverbot",
+    "meldepflichtiger",
+    "breach notification protection"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/__42.html"
+  },
+  "public_body_data_protection_officer_dismissal_protection": {
+   "area": "data",
+   "law": "§ 6 BDSG",
+   "title": "Data protection officers at public bodies are protected from dismissal",
+   "summary": "A data protection officer of a public body reports directly to the highest management level and cannot be dismissed or penalised for doing the job. Dismissal is possible only under § 626 BGB applied accordingly, and for one year after the appointment ends the officer cannot be terminated unless the public body has cause for notice-free termination.",
+   "keywords": [
+    "datenschutzbeauftragter kündigung",
+    "öffentliche stelle",
+    "abberufung",
+    "sonderkündigungsschutz",
+    "dpo dismissal",
+    "626"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bdsg_2018/BDSG.pdf"
+  },
+  "under_14_not_blameworthy_for_regulatory_offence": {
+   "area": "discrimination",
+   "law": "§ 12 Abs. 1 OWiG",
+   "title": "Children under 14 cannot be fined",
+   "summary": "A person who is not yet 14 when committing an act acts without blame under the Regulatory Offences Act. A juvenile is blameworthy only if they meet the conditions of § 3 sentence 1 of the Youth Courts Act.",
+   "keywords": [
+    "kinder unter 14",
+    "vorwerfbar",
+    "ordnungswidrigkeit minderjährig",
+    "jugendlicher bußgeld",
+    "child fine",
+    "verantwortlichkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html"
+  },
+  "mental_disorder_means_no_blame_for_regulatory_offence": {
+   "area": "discrimination",
+   "law": "§ 12 Abs. 2 OWiG",
+   "title": "No fine if you could not understand the wrong",
+   "summary": "A person does not act blamably if, because of a pathological mental disorder, a deep disturbance of consciousness, reduced intelligence or another severe mental disorder, they were unable to see that the act was wrong or to act on that insight.",
+   "keywords": [
+    "krankhafte seelische störung",
+    "bewusstseinsstörung",
+    "einsichtsfähigkeit",
+    "schuldunfähig bußgeld",
+    "mental disorder fine"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html"
+  },
+  "regulatory_offence_limitation_periods_by_fine_size": {
+   "area": "discrimination",
+   "law": "§ 31 Abs. 2 OWiG",
+   "title": "Limitation of regulatory offences depends on the maximum fine",
+   "summary": "The right to prosecute lapses after three years if the maximum fine is above 15,000 euro, two years above 2,500 up to 15,000, one year above 1,000 up to 2,500, and six months for all other offences.",
+   "keywords": [
+    "verfolgungsverjährung",
+    "verjährung bußgeld",
+    "drei jahre",
+    "sechs monate",
+    "limitation period fine",
+    "höchstmaß geldbuße"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.epub"
   }
  },
  "free_help": {
