@@ -16693,6 +16693,207 @@
     "anspruch"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/__651j.html"
+  },
+  "insurance_withdrawal_period_starts_only_after_documents_received": {
+   "area": "consumer",
+   "law": "§ 8 Abs. 2 VVG",
+   "title": "When the 14 days start",
+   "summary": "The 14-day withdrawal period for an insurance contract starts with conclusion of the contract, but not before the policyholder has received in text form the policy, the terms, the required information and the instruction about the right of withdrawal.",
+   "keywords": [
+    "widerrufsfrist beginn",
+    "versicherungsschein",
+    "withdrawal period start",
+    "belehrung",
+    "insurance documents",
+    "textform"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__8.html"
+  },
+  "no_withdrawal_for_insurance_shorter_than_one_month": {
+   "area": "consumer",
+   "law": "§ 8 Abs. 3 VVG",
+   "title": "No withdrawal for very short cover",
+   "summary": "There is no right of withdrawal for insurance contracts with a term of less than one month.",
+   "keywords": [
+    "kurzzeitversicherung",
+    "less than one month",
+    "no withdrawal",
+    "reiseversicherung",
+    "versicherung",
+    "widerruf ausgeschlossen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__8.html"
+  },
+  "insurer_loses_rights_if_it_knew_of_undisclosed_risk": {
+   "area": "consumer",
+   "law": "§ 19 VVG",
+   "title": "Insurer already knew",
+   "summary": "The insurer's rights after a breach of the duty to disclose are excluded if the insurer knew the undisclosed risk circumstance or knew the statement was inaccurate.",
+   "keywords": [
+    "anzeigepflicht",
+    "insurer knew",
+    "kannte",
+    "gefahrumstand",
+    "rücktritt",
+    "ausgeschlossen",
+    "disclosure"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__19.html"
+  },
+  "policyholder_can_cancel_if_premium_rises_over_ten_percent_after_disclosure_breach": {
+   "area": "consumer",
+   "law": "§ 19 Abs. 6 VVG",
+   "title": "Special termination after contract change",
+   "summary": "If the contract is changed after a breach of the duty to disclose and the premium rises by more than 10 percent, or the insurer excludes cover for the undisclosed circumstance, the policyholder can terminate within one month of the insurer's notice without observing a notice period.",
+   "keywords": [
+    "prämienerhöhung",
+    "10 prozent",
+    "sonderkündigung",
+    "policyholder terminate",
+    "anzeigepflicht",
+    "one month"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__19.html"
+  },
+  "insurer_free_of_payment_only_if_breach_of_duty_was_intentional_in_contract": {
+   "area": "consumer",
+   "law": "§ 28 Abs. 2 VVG",
+   "title": "Breach of an insurance obligation",
+   "summary": "If the contract says the insurer need not pay when the policyholder breaches a contractual obligation (Obliegenheit), the insurer is released from paying if the policyholder breached it intentionally.",
+   "keywords": [
+    "obliegenheitsverletzung",
+    "leistungsfrei",
+    "vorsatz",
+    "insurer not pay",
+    "breach of obligation",
+    "versicherungsfall"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__28.html"
+  },
+  "insurance_rules_on_disclosure_cannot_be_made_worse_by_contract": {
+   "area": "consumer",
+   "law": "§ 32 VVG",
+   "title": "No worse terms for the policyholder",
+   "summary": "Agreements that deviate from §§ 19 to 28 (4) and § 31 (1) sentence 2 VVG to the policyholder's detriment are not permitted.",
+   "keywords": [
+    "abweichende vereinbarungen",
+    "zwingend",
+    "policyholder protection",
+    "nachteil",
+    "versicherungsbedingungen",
+    "unwirksam"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vvg_2008/__32.html"
+  },
+  "advertising_against_recognisable_wish_is_unacceptable_nuisance": {
+   "area": "consumer",
+   "law": "§ 7 Abs. 1 UWG",
+   "title": "Unwanted advertising",
+   "summary": "A commercial act that unreasonably bothers a market participant is unlawful. This applies in particular to advertising where it is apparent that the addressee does not want it.",
+   "keywords": [
+    "unzumutbare belästigung",
+    "unwanted advertising",
+    "werbung",
+    "nicht gewünscht",
+    "bitte keine werbung",
+    "spam",
+    "nuisance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uwg_2004/__7.html"
+  },
+  "misleading_claim_that_repair_or_part_is_needed": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 2 Nr. 5 UWG",
+   "title": "Misleading about necessity",
+   "summary": "A commercial practice is misleading if it contains untrue or deceptive statements about the necessity of a service, a spare part, a replacement or a repair.",
+   "keywords": [
+    "notwendigkeit",
+    "reparatur",
+    "ersatzteil",
+    "necessity of repair",
+    "misleading",
+    "werkstatt",
+    "irreführend"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uwg_2004/__5.html"
+  },
+  "withholding_or_hiding_essential_information_is_misleading": {
+   "area": "consumer",
+   "law": "§ 5a UWG",
+   "title": "Misleading by omission",
+   "summary": "Withholding essential information that the consumer needs for an informed decision is misleading. Hiding it, giving it in an unclear or ambiguous way, or giving it too late counts as withholding.",
+   "keywords": [
+    "irreführung durch unterlassen",
+    "wesentliche informationen",
+    "verheimlichen",
+    "omission",
+    "hidden fees",
+    "informationspflicht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/uwg_2004/__5a.html"
+  },
+  "total_price_must_be_highlighted_when_price_is_split": {
+   "area": "consumer",
+   "law": "§ 3 Abs. 3 PAngV",
+   "title": "Total price stands out",
+   "summary": "If a price is broken down into components, the total price must be emphasised.",
+   "keywords": [
+    "gesamtpreis hervorheben",
+    "aufgegliedert",
+    "price breakdown",
+    "total price",
+    "preisangabe",
+    "emphasise"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pangv_2022/__3.html"
+  },
+  "no_unit_price_needed_if_same_as_total_price": {
+   "area": "consumer",
+   "law": "§ 4 PAngV",
+   "title": "No unit price if identical",
+   "summary": "The unit price (price per quantity unit) can be left out if it is identical to the total price.",
+   "keywords": [
+    "grundpreis",
+    "verzicht",
+    "unit price omitted",
+    "identical",
+    "gesamtpreis",
+    "preisangabenverordnung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pangv_2022/__4.html"
+  },
+  "price_cut_ads_must_show_lowest_price_of_last_30_days": {
+   "area": "consumer",
+   "law": "§ 11 Abs. 1 PAngV",
+   "title": "Discount adverts",
+   "summary": "Anyone who has to state a total price must, when announcing a price reduction for goods to consumers, state the lowest total price charged in the last 30 days before the reduction applied.",
+   "keywords": [
+    "preisermäßigung",
+    "30 tage",
+    "niedrigster preis",
+    "discount",
+    "black friday",
+    "uvp",
+    "statt preis",
+    "price reduction"
+   ],
+   "source": "https://www.gesetze-im-internet.de/pangv_2022/__11.html"
+  },
+  "tenant_may_cut_3_percent_if_no_remote_readable_meters": {
+   "area": "housing",
+   "law": "§ 12 HeizkostenV",
+   "title": "Missing remote-readable meters",
+   "summary": "If the building owner failed to install remotely readable consumption equipment as required by § 5 (2) or (3), the tenant has the right to cut their share of the costs by 3 percent.",
+   "keywords": [
+    "fernablesbar",
+    "3 prozent",
+    "kürzung",
+    "remote meters",
+    "heizkosten",
+    "ausstattung zur verbrauchserfassung",
+    "tenant cut"
+   ],
+   "source": "https://www.gesetze-im-internet.de/heizkostenv/__12.html"
   }
  },
  "free_help": {
