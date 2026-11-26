@@ -17196,6 +17196,338 @@
     "vergehen"
    ],
    "source": "https://www.gesetze-im-internet.de/stpo/__154c.html"
+  },
+  "away_from_home_trainee_allowance_1200": {
+   "area": "money",
+   "law": "§ 33a Abs. 2 EStG",
+   "title": "Tax allowance for an adult child in training who lives away from home",
+   "summary": "Parents can deduct a flat allowance of 1,200 euro per calendar year from their total income for the special needs of an adult child in vocational training who lives away from home, as long as they are entitled to the child allowance or Kindergeld for that child.",
+   "keywords": [
+    "auswärtig untergebracht",
+    "sonderbedarf",
+    "1200",
+    "freibetrag",
+    "volljähriges kind",
+    "berufsausbildung",
+    "parents tax allowance",
+    "living away from home"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__33a.html"
+  },
+  "first_training_means_twelve_months_with_final_exam": {
+   "area": "money",
+   "law": "§ 9 Abs. 6 EStG",
+   "title": "What counts as a first training (Erstausbildung) for tax",
+   "summary": "Training costs only count as Werbungskosten if you already completed a first training or degree before, or the training happens within an employment. A first training means an organised training of at least 12 months full-time that ends with a final exam.",
+   "keywords": [
+    "erstausbildung",
+    "first training",
+    "12 monate",
+    "mindestdauer",
+    "abschlussprüfung",
+    "final exam",
+    "werbungskosten",
+    "ausbildungskosten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__9.html"
+  },
+  "short_term_job_flat_wage_tax_18_working_days": {
+   "area": "work",
+   "law": "§ 40a Abs. 1 EStG",
+   "title": "Flat-rate wage tax for short-term jobs: 18 working days",
+   "summary": "An employer may use the flat-rate wage tax for a short-term employment only if the person is employed occasionally and not on a regularly recurring basis, and the job does not last longer than 18 consecutive working days (further conditions apply).",
+   "keywords": [
+    "kurzfristige beschäftigung",
+    "pauschalierung",
+    "lohnsteuer",
+    "18 arbeitstage",
+    "pauschsteuer",
+    "aushilfe",
+    "gelegentlich"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__40a.html"
+  },
+  "pensioners_flat_allowance_102_euro": {
+   "area": "money",
+   "law": "§ 9a EStG",
+   "title": "Flat allowance for pension income: 102 euro",
+   "summary": "Without proof of higher costs, 102 euro is deducted as a flat Werbungskosten allowance from pension-type income under § 22 no. 1, 1a and 5 EStG, and the same 102 euro applies to civil-service pensions (Versorgungsbezüge).",
+   "keywords": [
+    "rentner",
+    "rente",
+    "pensioner",
+    "102 euro",
+    "werbungskosten pauschbetrag",
+    "versorgungsbezüge",
+    "pension income"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__9a.html"
+  },
+  "child_allowance_or_kindergeld_not_both": {
+   "area": "money",
+   "law": "§ 31, § 32 Abs. 6 EStG",
+   "title": "Kindergeld or child tax allowance, not both",
+   "summary": "The tax-free minimum for a child is secured either by the child allowance (3,414 euro per child under § 32 Abs. 6) or by Kindergeld. As far as Kindergeld is not needed for that, it supports the family. If the allowances are worth more, they are deducted and the Kindergeld is added to the tax.",
+   "keywords": [
+    "kinderfreibetrag",
+    "3414",
+    "familienleistungsausgleich",
+    "günstigerprüfung",
+    "kindergeld oder freibetrag",
+    "child allowance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/estg/__31.html"
+  },
+  "minijob_status_ends_when_conditions_lapse": {
+   "area": "work",
+   "law": "§ 8 SGB IV",
+   "title": "A minijob stops being a minijob when the conditions fall away",
+   "summary": "A marginal employment no longer exists as soon as the conditions in § 8 Abs. 1 SGB IV (earnings limit, or time limit for short-term jobs) are no longer met. Several marginal jobs are added together for this test.",
+   "keywords": [
+    "minijob endet",
+    "geringfügige beschäftigung entfällt",
+    "grenze überschritten",
+    "zusammenrechnen",
+    "mehrere minijobs",
+    "over the limit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_4/__8.html"
+  },
+  "short_term_job_not_if_professional_and_over_limit": {
+   "area": "work",
+   "law": "§ 8 Abs. 1 Nr. 2 SGB IV",
+   "title": "Short-term job rule does not apply to professional work above the earnings limit",
+   "summary": "A short-term job (three months or 70 working days a year) counts as marginal employment unless it is carried out professionally (berufsmäßig) and the pay exceeds the marginal earnings limit.",
+   "keywords": [
+    "berufsmäßig",
+    "kurzfristige beschäftigung ausnahme",
+    "professional",
+    "hauptberuflich",
+    "70 arbeitstage",
+    "geringfügigkeitsgrenze übersteigt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_4/__8.html"
+  },
+  "no_pension_contributions_after_full_old_age_pension": {
+   "area": "money",
+   "law": "§ 5 Abs. 4 Nr. 1 SGB VI",
+   "title": "No pension insurance after a full old-age pension",
+   "summary": "People who draw a full old-age pension (Vollrente wegen Alters) after the month in which they reach the regular retirement age are exempt from compulsory pension insurance.",
+   "keywords": [
+    "vollrente",
+    "regelaltersgrenze",
+    "rentenversicherungsfrei",
+    "weiterarbeiten",
+    "working pensioner",
+    "no pension contributions"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_6/__5.html"
+  },
+  "civil_servants_exempt_from_pension_insurance": {
+   "area": "work",
+   "law": "§ 5 Abs. 1 Nr. 1 SGB VI",
+   "title": "Civil servants are exempt from statutory pension insurance",
+   "summary": "Civil servants and judges for life, for a term or on probation, professional soldiers and soldiers for a term, and civil servants on revocable appointment in preparatory service are exempt from the statutory pension insurance.",
+   "keywords": [
+    "beamte",
+    "rentenversicherungsfrei",
+    "richter",
+    "soldaten",
+    "vorbereitungsdienst",
+    "referendar",
+    "civil servant",
+    "exempt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_6/__5.html"
+  },
+  "grundsicherung_who_is_eligible_basic_conditions": {
+   "area": "money",
+   "law": "§ 7 Abs. 1 SGB II",
+   "title": "Who can get Grundsicherung für Arbeitsuchende",
+   "summary": "Benefits under SGB II go to people who are at least 15 and below the retirement age limit, are able to work, are in need of help and normally live in Germany (employable beneficiaries).",
+   "keywords": [
+    "grundsicherungsgeld",
+    "jobcenter",
+    "leistungsberechtigt",
+    "erwerbsfähig",
+    "hilfebedürftig",
+    "15 jahre",
+    "gewöhnlicher aufenthalt",
+    "eligible"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_2/__7.html"
+  },
+  "wohngeld_exclusion_starts_first_of_application_month": {
+   "area": "housing",
+   "law": "§ 8 WoGG",
+   "title": "Wohngeld exclusion starts from the first of the month you apply for another benefit",
+   "summary": "If you apply for a benefit that excludes Wohngeld (such as Grundsicherungsgeld), the exclusion starts from the first of the month for which the application is made, or from the next month if the benefit is not requested from the first of a month. The same rule applies after the benefit is granted.",
+   "keywords": [
+    "wohngeld ausschluss beginn",
+    "erster des monats",
+    "antragstellung",
+    "exclusion starts",
+    "ausschluss dauer",
+    "leistung beantragt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/wogg/__8.html"
+  },
+  "volunteer_allowance_not_counted_as_income_grundsicherung": {
+   "area": "money",
+   "law": "§ 11a SGB II",
+   "title": "Tax-free volunteer allowances are not counted as income for Grundsicherung",
+   "summary": "Expense allowances and income from side activities that are tax-free under § 3 no. 12, 26 or 26a EStG are not counted as income for SGB II benefits, up to the amount named in § 3 no. 26 EStG.",
+   "keywords": [
+    "übungsleiterpauschale",
+    "ehrenamtspauschale",
+    "nicht zu berücksichtigendes einkommen",
+    "jobcenter",
+    "aufwandsentschädigung",
+    "volunteer income"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_2/__11a.html"
+  },
+  "guardian_flat_allowance_not_income_social_assistance": {
+   "area": "money",
+   "law": "§ 82 SGB XII",
+   "title": "Legal guardian flat allowance is not income for social assistance",
+   "summary": "The flat expense allowance for legal guardians under § 1878 BGB is not counted as income in social assistance, up to the amount in § 3 no. 26 sentence 1 EStG per calendar year.",
+   "keywords": [
+    "betreuer",
+    "aufwandspauschale",
+    "rechtlicher betreuer",
+    "sozialhilfe einkommen",
+    "legal guardian",
+    "flat allowance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_12/__82.html"
+  },
+  "bafoeg_loan_interest_after_45_days_late": {
+   "area": "money",
+   "law": "§ 18 Abs. 2 BAföG",
+   "title": "BAföG loans are interest-free unless you pay 45 days late",
+   "summary": "The state loan part of BAföG carries no interest. If you miss a payment date by more than 45 days, the entire amount not yet repaid, up to the instalment due, is charged 6 percent interest per year.",
+   "keywords": [
+    "darlehen zinsen",
+    "6 prozent",
+    "45 tage",
+    "zahlungstermin",
+    "verzugszinsen",
+    "interest free",
+    "rate verpasst",
+    "bafög rückzahlung verspätet"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__18.html"
+  },
+  "bafoeg_repayment_starts_five_years_after_standard_period": {
+   "area": "money",
+   "law": "§ 18 Abs. 4 BAföG",
+   "title": "BAföG repayment starts five years after the standard period",
+   "summary": "For a degree at a university, the first repayment instalment of the BAföG loan falls due five years after the end of the maximum funding period (Förderungshöchstdauer).",
+   "keywords": [
+    "rückzahlungsbeginn",
+    "fünf jahre",
+    "förderungshöchstdauer",
+    "erste rate",
+    "repayment start",
+    "when repay bafög"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__18.html"
+  },
+  "old_kfw_bank_loan_can_be_repaid_any_time": {
+   "area": "money",
+   "law": "§ 18c BAföG",
+   "title": "Old KfW bank loans for BAföG can be repaid at any time",
+   "summary": "Bank loans from the KfW for BAföG support under the rules valid on 31 July 2019 are repaid under § 18c BAföG. The loan can be repaid in full or in part at any time.",
+   "keywords": [
+    "kfw bankdarlehen",
+    "18c",
+    "vorzeitig zurückzahlen",
+    "teilweise tilgen",
+    "bankdarlehen bafög",
+    "repay early"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__18c.html"
+  },
+  "bafoeg_loan_waiver_low_income_proof": {
+   "area": "money",
+   "law": "§ 3 DarlehensV",
+   "title": "Proof for being released from BAföG repayment",
+   "summary": "To be freed from repayment because of low income, you prove your income with payslips from your employer, tax assessments showing profit income if self-employed, or notices of state transfer benefits that cannot be counted against your needs.",
+   "keywords": [
+    "freistellung rückzahlung",
+    "nachweise",
+    "lohnabrechnung",
+    "einkommensteuerbescheid",
+    "geringes einkommen",
+    "darlehensverordnung",
+    "income proof"
+   ],
+   "source": "https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html"
+  },
+  "bafoeg_advance_decision_on_request": {
+   "area": "money",
+   "law": "§ 46 Abs. 5 BAföG",
+   "title": "Ask for an advance BAföG decision before a risky step",
+   "summary": "On request, the BAföG office decides in advance whether the conditions are met for a named course and institution abroad, a second degree, another training, or training after the age limit. The decision stops binding the office if the training does not start within a year of the application.",
+   "keywords": [
+    "vorabentscheidung",
+    "dem grunde nach",
+    "ausland",
+    "zweitstudium",
+    "altersgrenze",
+    "advance decision",
+    "vorab entscheiden",
+    "ein jahr"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/__46.html"
+  },
+  "bafoeg_only_for_full_time_training_of_one_semester": {
+   "area": "money",
+   "law": "§ 2 Abs. 5 BAföG",
+   "title": "BAföG needs a full-time training lasting at least one semester",
+   "summary": "BAföG is paid only if the training section lasts at least one school or study half-year and takes up the trainee's working capacity fully in general.",
+   "keywords": [
+    "vollzeit",
+    "mindestens ein halbjahr",
+    "arbeitskraft voll in anspruch",
+    "teilzeitstudium",
+    "part-time degree",
+    "ausbildungsabschnitt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/BAf%C3%B6G.pdf"
+  },
+  "bafoeg_parents_income_allowance_2540": {
+   "area": "money",
+   "law": "§ 25 Abs. 1 BAföG",
+   "title": "Parents' income allowance in BAföG",
+   "summary": "When BAföG counts your parents' income, a monthly allowance is left free: 2,540 euro for married parents living together, and 1,690 euro each for a single parent or for your own spouse or registered partner.",
+   "keywords": [
+    "elternfreibetrag",
+    "freibetrag eltern",
+    "2540",
+    "1690",
+    "elterneinkommen",
+    "parents income allowance",
+    "verheiratete eltern"
+   ],
+   "source": "https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html"
+  },
+  "sgb2_pending_bafoeg_application_students_not_excluded": {
+   "area": "money",
+   "law": "§ 7 Abs. 6 SGB II",
+   "title": "Pending BAföG application: SGB II exclusion does not apply yet",
+   "summary": "For certain trainees whose need is set under §§ 12, 13 BAföG, the SGB II exclusion for BAföG-eligible training does not apply while the BAföG application is undecided. If the BAföG office refuses, the exclusion applies from the start of the following month.",
+   "keywords": [
+    "antrag bafög noch nicht entschieden",
+    "abgelehnt",
+    "folgenden monat",
+    "jobcenter",
+    "pending application",
+    "ausschluss ab",
+    "bafög ablehnung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_2/__7.html"
   }
  },
  "free_help": {
