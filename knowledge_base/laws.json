@@ -14396,6 +14396,362 @@
     "privacy"
    ],
    "source": "https://www.gesetze-im-internet.de/gg/art_13.html"
+  },
+  "regulatory_fine_range_five_to_thousand": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 1 OWiG",
+   "title": "Normal range of a regulatory fine",
+   "summary": "Unless a law says otherwise, a regulatory fine (Geldbuße) is at least 5 euro and at most 1,000 euro.",
+   "keywords": [
+    "geldbuße",
+    "regulatory fine",
+    "minimum",
+    "maximum",
+    "thousand euro",
+    "ordnungswidrigkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/OWiG.pdf"
+  },
+  "negligent_offence_half_maximum_fine": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 2 OWiG",
+   "title": "Negligence halves the maximum fine",
+   "summary": "If the law threatens a fine for intentional and negligent acts without separating them, a negligent act can be fined with only half of the maximum amount.",
+   "keywords": [
+    "negligent",
+    "fahrlässig",
+    "half",
+    "maximum fine",
+    "intentional",
+    "vorsätzlich",
+    "geldbuße"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/OWiG.pdf"
+  },
+  "fine_amount_considers_income_unless_minor": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 3 OWiG",
+   "title": "Income and the size of a fine",
+   "summary": "The fine depends on how serious the offence is and how much blame the person carries. The offender's finances count too, but are usually ignored for minor offences.",
+   "keywords": [
+    "fine",
+    "income",
+    "economic situation",
+    "minor offence",
+    "wirtschaftliche verhältnisse",
+    "geldbuße"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__17.html"
+  },
+  "fine_should_exceed_profit": {
+   "area": "consumer",
+   "law": "§ 17 Abs. 4 OWiG",
+   "title": "Fine should beat the profit",
+   "summary": "A fine should be higher than the economic benefit the offender gained from the offence. If the legal maximum is too low for that, it may be exceeded.",
+   "keywords": [
+    "fine",
+    "profit",
+    "economic benefit",
+    "exceed maximum",
+    "geldbuße",
+    "vorteil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__17.html"
+  },
+  "regulatory_offence_limitation_starts_when_act_ends": {
+   "area": "consumer",
+   "law": "§ 31 Abs. 3 OWiG",
+   "title": "When the limitation period starts",
+   "summary": "The limitation period for a regulatory offence begins once the act has ended. If a result that belongs to the offence occurs later, it begins then.",
+   "keywords": [
+    "verjährung",
+    "limitation",
+    "regulatory offence",
+    "start",
+    "act ended",
+    "ordnungswidrigkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__31.html"
+  },
+  "warning_fee_blocks_further_prosecution": {
+   "area": "consumer",
+   "law": "§ 56 Abs. 4 OWiG",
+   "title": "A paid warning closes the case",
+   "summary": "If a warning with a warning fee is effective, the offence can no longer be prosecuted on the same facts and legal grounds.",
+   "keywords": [
+    "verwarnung",
+    "warning fee",
+    "verwarnungsgeld",
+    "paid",
+    "prosecution",
+    "closed",
+    "ticket"
+   ],
+   "source": "https://www.gesetze-im-internet.de/owig_1968/__56.html"
+  },
+  "hearing_before_adverse_decision_vwvfg": {
+   "area": "consumer",
+   "law": "§ 28 Abs. 1 VwVfG",
+   "title": "Right to be heard by an authority",
+   "summary": "Before an authority issues a decision that interferes with your rights, you must get the chance to comment on the facts that matter for the decision.",
+   "keywords": [
+    "anhörung",
+    "right to be heard",
+    "authority",
+    "verwaltungsakt",
+    "comment",
+    "decision",
+    "facts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwvfg/__28.html"
+  },
+  "authority_need_not_explain_if_it_grants_request": {
+   "area": "consumer",
+   "law": "§ 39 Abs. 2 Nr. 1 VwVfG",
+   "title": "When no reasons are needed",
+   "summary": "An authority need not give reasons if it grants your application and the decision does not interfere with someone else's rights.",
+   "keywords": [
+    "begründung",
+    "reasons",
+    "authority",
+    "granted",
+    "application",
+    "verwaltungsakt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/vwvfg/__39.html"
+  },
+  "social_decision_by_email_fourth_day": {
+   "area": "money",
+   "law": "§ 37 SGB X",
+   "title": "Electronic social authority decision",
+   "summary": "A social authority decision sent electronically counts as delivered on the fourth day after it was sent.",
+   "keywords": [
+    "sgb x",
+    "electronic",
+    "email",
+    "bekanntgabe",
+    "fourth day",
+    "social authority",
+    "delivered"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html"
+  },
+  "social_decision_reasons_on_request_one_year": {
+   "area": "money",
+   "law": "§ 35 Abs. 3 SGB X",
+   "title": "Asking for the reasons",
+   "summary": "In the cases named in the law, a social authority must explain its decision in writing or electronically if you ask within one year of being told of it.",
+   "keywords": [
+    "begründung",
+    "reasons",
+    "sgb x",
+    "one year",
+    "request",
+    "social authority",
+    "decision"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html"
+  },
+  "accident_insurance_covers_forbidden_conduct": {
+   "area": "work",
+   "law": "§ 7 Abs. 2 SGB VII",
+   "title": "Breaking rules does not cancel cover",
+   "summary": "Acting against a ban does not rule out an insured accident or occupational disease in the statutory accident insurance.",
+   "keywords": [
+    "unfallversicherung",
+    "accident insurance",
+    "rule breach",
+    "forbidden",
+    "verbotswidrig",
+    "work accident"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_7/__7.html"
+  },
+  "accident_insurance_direct_commute_path": {
+   "area": "work",
+   "law": "§ 8 Abs. 2 Nr. 1 SGB VII",
+   "title": "Direct path to and from work",
+   "summary": "The direct path to and from the place of the insured activity is itself an insured activity.",
+   "keywords": [
+    "commute",
+    "direct path",
+    "wegeunfall",
+    "insured",
+    "work accident",
+    "way to work"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_7/__8.html"
+  },
+  "accident_insurance_trainees_and_employees": {
+   "area": "work",
+   "law": "§ 2 Abs. 1 Nr. 1, 2 SGB VII",
+   "title": "Who is insured by law against accidents",
+   "summary": "Employees are insured by law in the statutory accident insurance, and so are people learning during vocational training and further training in workplaces and similar training facilities.",
+   "keywords": [
+    "employees",
+    "trainees",
+    "beschäftigte",
+    "lernende",
+    "accident insurance",
+    "insured by law"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_7/__2.html"
+  },
+  "overtake_on_left_only_when_oncoming_clear": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 1, 2 StVO",
+   "title": "Overtaking rules",
+   "summary": "You overtake on the left. You may only overtake if you can see that oncoming traffic will not be obstructed for the whole manoeuvre, and only when you are driving much faster than the one you pass.",
+   "keywords": [
+    "overtake",
+    "überholen",
+    "left",
+    "oncoming traffic",
+    "much faster",
+    "driving rules"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html"
+  },
+  "overtaking_banned_when_unclear": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 3 Nr. 1 StVO",
+   "title": "No overtaking when unclear",
+   "summary": "Overtaking is not allowed when the traffic situation is unclear, or where a no-overtaking sign bans it.",
+   "keywords": [
+    "overtaking",
+    "unclear traffic situation",
+    "no overtaking sign",
+    "überholverbot"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html"
+  },
+  "overtaking_cyclists_distance_one_and_a_half_two": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 4 StVO",
+   "title": "Distance when overtaking cyclists",
+   "summary": "When a motor vehicle overtakes pedestrians, cyclists or e-scooter riders, the side distance must be at least 1.5 m in built-up areas and at least 2 m outside them.",
+   "keywords": [
+    "overtake cyclist",
+    "distance",
+    "1.5 m",
+    "2 m",
+    "überholabstand",
+    "pedestrians",
+    "e-scooter"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__5.html"
+  },
+  "cyclists_may_pass_right_in_queue": {
+   "area": "consumer",
+   "law": "§ 5 Abs. 8 StVO",
+   "title": "Passing a queue on the right on a bike",
+   "summary": "If there is enough space, cyclists and moped riders may carefully overtake on the right, at moderate speed, vehicles waiting in the right-hand lane.",
+   "keywords": [
+    "cyclist",
+    "pass queue",
+    "right",
+    "stau",
+    "waiting vehicles",
+    "moderate speed",
+    "moped"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__5.html"
+  },
+  "park_space_saving": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 6 StVO",
+   "title": "Park space-saving",
+   "summary": "You must park in a space-saving way, and as a rule this applies to stopping as well.",
+   "keywords": [
+    "parking",
+    "space-saving",
+    "platzsparend",
+    "stopping",
+    "parken",
+    "rule"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__12.html"
+  },
+  "driver_responsible_for_view_and_hearing": {
+   "area": "consumer",
+   "law": "§ 23 Abs. 1 StVO",
+   "title": "Driver's view and hearing",
+   "summary": "Whoever drives a vehicle is responsible for making sure that passengers, animals, load, devices or the vehicle's condition do not impair their view or hearing.",
+   "keywords": [
+    "driver",
+    "sicht",
+    "gehör",
+    "view",
+    "hearing",
+    "load",
+    "passengers",
+    "animals",
+    "responsibility"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__23.html"
+  },
+  "care_dependence_definition_six_months": {
+   "area": "health",
+   "law": "§ 14 Abs. 1 SGB XI",
+   "title": "What counts as needing care",
+   "summary": "People who need help from others because health problems limit their independence or abilities are in need of care. This must last, probably for at least six months, and reach the severity set in § 15.",
+   "keywords": [
+    "pflegebedürftigkeit",
+    "care need",
+    "six months",
+    "independence",
+    "pflegegrad",
+    "definition"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.epub"
+  },
+  "care_degree_one_from_12_5_points": {
+   "area": "health",
+   "law": "§ 15 SGB XI",
+   "title": "Care degree 1 threshold",
+   "summary": "Care degree 1 (Pflegegrad 1) starts at 12.5 and below 27 total points and means slight limits of independence or abilities.",
+   "keywords": [
+    "pflegegrad 1",
+    "points",
+    "12.5",
+    "27",
+    "care degree",
+    "assessment",
+    "gutachten"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_11/__15.html"
+  },
+  "care_allowance_amounts_degree_two_three": {
+   "area": "health",
+   "law": "§ 37 SGB XI",
+   "title": "Care allowance",
+   "summary": "The monthly care allowance for self-arranged care is 347 euro for care degree 2 and 599 euro for care degree 3. The 2025 notice sets 800 euro for degree 4 and 990 euro for degree 5.",
+   "keywords": [
+    "pflegegeld",
+    "care allowance",
+    "347",
+    "599",
+    "800",
+    "990",
+    "care degree",
+    "monthly"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_11/__37.html"
+  },
+  "relief_amount_131_euro_home_care": {
+   "area": "health",
+   "law": "§ 45b SGB XI",
+   "title": "Relief amount for home care",
+   "summary": "People in home care can claim a relief amount of up to 131 euro per month.",
+   "keywords": [
+    "entlastungsbetrag",
+    "relief amount",
+    "131 euro",
+    "home care",
+    "pflege",
+    "monthly"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_11/__45b.html"
   }
  },
  "free_help": {
