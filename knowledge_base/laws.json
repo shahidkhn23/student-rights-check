@@ -18993,6 +18993,174 @@
     "VVG 8"
    ],
    "source": "https://www.gesetze-im-internet.de/vvg_2008/__8.html"
+  },
+  "alcohol_ban_novices_and_under_21": {
+   "area": "consumer",
+   "law": "§ 24c StVG",
+   "title": "Zero alcohol for drivers in the probation period or under 21",
+   "summary": "Anyone who drives a motor vehicle during the probationary licence period or before turning 21 commits an offence by drinking alcohol or THC while driving, or by starting a drive while under their effect.",
+   "keywords": [
+    "Alkoholverbot",
+    "Probezeit",
+    "Fahranfänger",
+    "under 21",
+    "0.0",
+    "novice driver",
+    "24c"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvg/__24c.html"
+  },
+  "phone_use_while_driving_fine_100_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 246.1",
+   "title": "Using a phone or other device while driving: 100 euro",
+   "summary": "The standard fine for illegally using an electronic communication or information device while driving a vehicle is 100 euro.",
+   "keywords": [
+    "Handy am Steuer",
+    "phone fine",
+    "Bußgeld",
+    "mobile",
+    "Handyverstoß",
+    "246.1",
+    "Bußgeldkatalog"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "phone_use_with_endangerment_150_euro_ban": {
+   "area": "consumer",
+   "law": "BKatV Nr. 246.2",
+   "title": "Phone use at the wheel that endangers others: 150 euro and a one-month driving ban",
+   "summary": "If illegal use of an electronic device while driving puts others at risk, the standard penalty is 150 euro and a driving ban of one month.",
+   "keywords": [
+    "Handy gefährdet",
+    "phone endangerment",
+    "Fahrverbot",
+    "one month ban",
+    "150 euro",
+    "246.2"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "parking_on_pavement_or_cycle_path_55_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 52a",
+   "title": "Parking on a pavement or cycle path: 55 euro",
+   "summary": "Parking illegally on a footpath or cycle path carries a standard fine of 55 euro, more if it endangers others or causes damage.",
+   "keywords": [
+    "Gehweg parken",
+    "Radweg",
+    "pavement parking",
+    "Bußgeld",
+    "52a",
+    "Falschparken"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "expired_parking_meter_or_disc_20_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 63",
+   "title": "Parking at an expired meter or with no disc or ticket: 20 euro",
+   "summary": "Parking at an expired meter, without the required parking disc or ticket, or beyond the maximum parking time carries a standard fine of 20 euro.",
+   "keywords": [
+    "Parkuhr abgelaufen",
+    "Parkschein",
+    "Parkscheibe",
+    "expired ticket",
+    "Parkgebühr",
+    "fine",
+    "63"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "overtaking_on_the_right_in_town_30_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 16",
+   "title": "Overtaking on the right inside built-up areas: 30 euro",
+   "summary": "Overtaking on the right within built-up areas carries a standard fine of 30 euro.",
+   "keywords": [
+    "rechts überholt",
+    "innerorts",
+    "overtake right",
+    "Bußgeld",
+    "16",
+    "Überholen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "stopping_banned_at_narrow_or_blind_spots_and_bends": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 1 StVO",
+   "title": "No stopping at narrow or blind spots, sharp bends, merging lanes or level crossings",
+   "summary": "Stopping is not allowed at narrow or poorly visible road sections, in the area of sharp bends, on merging and exit lanes, and on railway level crossings.",
+   "keywords": [
+    "Halteverbot",
+    "enge Straßenstellen",
+    "unübersichtlich",
+    "scharfe Kurve",
+    "Bahnübergang",
+    "stopping banned",
+    "12"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__12.html"
+  },
+  "no_parking_in_front_of_driveways_or_on_marked_bays": {
+   "area": "consumer",
+   "law": "§ 12 Abs. 3 StVO",
+   "title": "No parking in front of driveways or where it blocks marked parking bays",
+   "summary": "Parking is not allowed in front of property entrances and exits, on narrow roads also opposite them, or where it stops people from using marked parking areas.",
+   "keywords": [
+    "Einfahrt zuparken",
+    "Grundstücksausfahrt",
+    "blocked driveway",
+    "Parken verboten",
+    "marked bays",
+    "12 Abs. 3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__12.html"
+  },
+  "parking_on_disabled_bay_without_permit_55_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 55",
+   "title": "Parking without authorisation on a disabled parking space: 55 euro",
+   "summary": "Unauthorised parking on a parking space reserved for severely disabled people carries a standard fine of 55 euro.",
+   "keywords": [
+    "Behindertenparkplatz",
+    "Schwerbehinderten-Parkplatz",
+    "disabled parking",
+    "fine",
+    "55"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
+  },
+  "parking_disc_time_limit_follow_the_sign": {
+   "area": "consumer",
+   "law": "§ 13 Abs. 2 StVO",
+   "title": "Parking-disc zones: you may stop and park only for the time shown on the sign",
+   "summary": "Where a sign requires a parking disc, stopping and parking is allowed only for the time stated on the additional sign.",
+   "keywords": [
+    "Parkscheibe",
+    "parking disc",
+    "Höchstparkdauer",
+    "Zusatzzeichen",
+    "time limit",
+    "13"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stvo_2013/__13.html"
+  },
+  "blocking_rescue_vehicle_by_illegal_stopping_100_euro": {
+   "area": "consumer",
+   "law": "BKatV Nr. 51b.3",
+   "title": "Stopping illegally at a narrow or blind spot and blocking a rescue vehicle: 100 euro",
+   "summary": "If illegal stopping at a narrow or poorly visible road section obstructs a rescue vehicle that is on a call-out, the standard fine is 100 euro.",
+   "keywords": [
+    "Rettungsfahrzeug behindert",
+    "blocking ambulance",
+    "Rettungsgasse",
+    "fine",
+    "100 euro",
+    "51b.3"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bkatv_2013/anlage.html"
   }
  },
  "free_help": {
