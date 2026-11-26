@@ -16894,6 +16894,308 @@
     "tenant cut"
    ],
    "source": "https://www.gesetze-im-internet.de/heizkostenv/__12.html"
+  },
+  "defamation_with_knowledge_of_falsehood_up_to_two_years": {
+   "area": "discrimination",
+   "law": "§ 187 StGB",
+   "title": "Defamation (Verleumdung)",
+   "summary": "Whoever, knowing better, asserts or spreads an untrue fact about another that is likely to make them contemptible, lower them in public opinion or endanger their credit faces up to two years in prison or a fine. If done publicly, in a meeting or by spreading content, the maximum is five years.",
+   "keywords": [
+    "verleumdung",
+    "defamation",
+    "lie",
+    "false rumour",
+    "unwahre tatsache",
+    "wider besseres wissen",
+    "online",
+    "internet"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__187.html"
+  },
+  "trespass_penalty_up_to_one_year_only_on_complaint": {
+   "area": "discrimination",
+   "law": "§ 123 StGB",
+   "title": "Trespass (Hausfriedensbruch)",
+   "summary": "Whoever unlawfully enters another's home, business premises or fenced property, or stays without permission and does not leave when told to by the person entitled, faces up to one year in prison or a fine. The offence is prosecuted only on application.",
+   "keywords": [
+    "hausfriedensbruch",
+    "trespass",
+    "unlawfully enters",
+    "leave when asked",
+    "strafantrag",
+    "hausverbot",
+    "geschäftsräume"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__123.html"
+  },
+  "self_defence_is_not_unlawful": {
+   "area": "discrimination",
+   "law": "§ 32 StGB",
+   "title": "Self-defence",
+   "summary": "Whoever commits an act required by self-defence does not act unlawfully. Self-defence is the defence necessary to avert a present unlawful attack on oneself or another.",
+   "keywords": [
+    "notwehr",
+    "self defence",
+    "nothilfe",
+    "gegenwärtiger angriff",
+    "erforderlich",
+    "angriff abwehren"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__32.html"
+  },
+  "excess_of_self_defence_from_confusion_fear_or_fright_unpunished": {
+   "area": "discrimination",
+   "law": "§ 33 StGB",
+   "title": "Excessive self-defence",
+   "summary": "If the offender exceeds the limits of self-defence out of confusion, fear or fright, they are not punished.",
+   "keywords": [
+    "notwehrüberschreitung",
+    "excess self defence",
+    "verwirrung",
+    "furcht",
+    "schrecken",
+    "panic",
+    "straffrei"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__33.html"
+  },
+  "necessity_justifies_act_if_protected_interest_clearly_outweighs": {
+   "area": "discrimination",
+   "law": "§ 34 StGB",
+   "title": "Justifying necessity",
+   "summary": "Whoever commits an act in a present danger to life, limb, freedom, honour, property or another legal interest that cannot otherwise be averted, to avert the danger from themselves or another, does not act unlawfully if the protected interest substantially outweighs the one impaired.",
+   "keywords": [
+    "rechtfertigender notstand",
+    "necessity",
+    "emergency",
+    "gefahr",
+    "abwägung",
+    "interessen",
+    "überwiegt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__34.html"
+  },
+  "photographing_someone_in_private_rooms_is_a_crime": {
+   "area": "discrimination",
+   "law": "§ 201a Abs. 1 StGB",
+   "title": "Photos in private spaces",
+   "summary": "Whoever, without authorisation, makes or transmits photos or video of a person in a home or a room specially protected from view and thereby violates that person's intimate private sphere is criminally liable. The same applies to images showing a person's helplessness.",
+   "keywords": [
+    "bildaufnahmen",
+    "heimliche fotos",
+    "private sphere",
+    "wohnung",
+    "201a",
+    "secret photos",
+    "helplessness",
+    "persönlichkeitsrecht"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__201a.html"
+  },
+  "hacking_protected_data_up_to_three_years": {
+   "area": "discrimination",
+   "law": "§ 202a Abs. 1 StGB",
+   "title": "Spying out data",
+   "summary": "Whoever, without authorisation, gets access for themselves or another to data not meant for them and specially protected against unauthorised access, by overcoming the protection, faces up to three years in prison or a fine.",
+   "keywords": [
+    "ausspähen von daten",
+    "hacking",
+    "passwort knacken",
+    "unauthorised access",
+    "cybercrime",
+    "account",
+    "zugangssicherung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__202a.html"
+  },
+  "deleting_or_altering_data_unlawfully_up_to_two_years": {
+   "area": "discrimination",
+   "law": "§ 303a Abs. 1 StGB",
+   "title": "Data tampering",
+   "summary": "Whoever unlawfully deletes, suppresses, renders unusable or alters data faces up to two years in prison or a fine.",
+   "keywords": [
+    "datenveränderung",
+    "data tampering",
+    "delete data",
+    "löschen",
+    "unbrauchbar machen",
+    "computer",
+    "303a"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__303a.html"
+  },
+  "stalking_up_to_three_years": {
+   "area": "discrimination",
+   "law": "§ 238 Abs. 1 StGB",
+   "title": "Stalking",
+   "summary": "Whoever unlawfully stalks someone in a way likely to affect their way of life considerably, by repeatedly seeking their closeness, trying to contact them by phone, messaging or through third parties, or ordering goods in their name, faces up to three years in prison or a fine.",
+   "keywords": [
+    "nachstellung",
+    "stalking",
+    "kontakt",
+    "belästigung",
+    "social media",
+    "repeatedly",
+    "gewaltschutz",
+    "ex partner"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stgb/__238.html"
+  },
+  "juvenile_is_14_to_under_18_young_adult_from_18": {
+   "area": "discrimination",
+   "law": "§ 1 Abs. 2 JGG",
+   "title": "Youth criminal law ages",
+   "summary": "Under the Youth Courts Act, a juvenile is someone who was fourteen but not yet eighteen at the time of the offence, and a young adult (Heranwachsender) is someone who was eighteen at the time.",
+   "keywords": [
+    "jugendlicher",
+    "heranwachsender",
+    "14",
+    "18",
+    "21",
+    "youth criminal law",
+    "jugendstrafrecht",
+    "age"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__1.html"
+  },
+  "doubt_about_being_adult_means_juvenile_procedure": {
+   "area": "discrimination",
+   "law": "§ 1 Abs. 3 JGG",
+   "title": "Doubt about age",
+   "summary": "If it is doubtful whether the accused had turned eighteen at the time of the offence, the procedural rules for juveniles apply.",
+   "keywords": [
+    "zweifel alter",
+    "age doubt",
+    "jugendverfahren",
+    "18 years",
+    "juvenile rules",
+    "unaccompanied minor"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__1.html"
+  },
+  "young_adults_can_be_tried_as_juveniles_if_development_equal": {
+   "area": "discrimination",
+   "law": "§ 105 Abs. 1 Nr. 1 JGG",
+   "title": "Young adults and youth law",
+   "summary": "Youth criminal law applies to a young adult if an overall assessment of the offender, including their environment, shows that at the time of the offence they were still equal to a juvenile in moral and mental development.",
+   "keywords": [
+    "heranwachsende",
+    "jugendstrafrecht",
+    "reifeverzögerung",
+    "young adult",
+    "18 to 21",
+    "jugendstrafe",
+    "entwicklung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__105.html"
+  },
+  "maximum_youth_sentence_for_young_adults_ten_years": {
+   "area": "discrimination",
+   "law": "§ 105 Abs. 3 JGG",
+   "title": "Maximum youth sentence",
+   "summary": "The maximum youth sentence for young adults is ten years. For murder, if that is not enough because of the particular gravity of guilt, the maximum is 15 years.",
+   "keywords": [
+    "jugendstrafe höchstmaß",
+    "ten years",
+    "15 years",
+    "heranwachsende",
+    "maximum youth prison",
+    "mord"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__105.html"
+  },
+  "youth_prison_up_to_two_years_can_be_suspended_on_probation": {
+   "area": "discrimination",
+   "law": "§ 21 JGG",
+   "title": "Probation for youth sentences",
+   "summary": "The court suspends a youth sentence on probation if it expects the juvenile will take the sentence as a warning and lead a lawful life without further penalty. A youth sentence up to two years can be suspended unless enforcement is needed for the juvenile's development.",
+   "keywords": [
+    "bewährung",
+    "jugendstrafe",
+    "probation",
+    "juvenile",
+    "aussetzung",
+    "two years",
+    "warning"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__21.html"
+  },
+  "juvenile_questioning_postponed_if_defence_lawyer_necessary_but_absent": {
+   "area": "discrimination",
+   "law": "§ 70c Abs. 4 JGG",
+   "title": "Juvenile questioning needs counsel",
+   "summary": "If a defence lawyer is necessary at a juvenile's questioning or confrontation and is not present, the questioning is to be postponed or interrupted for a reasonable time, unless the lawyer expressly waived attendance.",
+   "keywords": [
+    "verteidiger",
+    "jugendlicher vernehmung",
+    "notwendige verteidigung",
+    "juvenile police interview",
+    "lawyer present",
+    "postponed"
+   ],
+   "source": "https://www.gesetze-im-internet.de/jgg/__70c.html"
+  },
+  "accused_must_appear_when_summoned_by_prosecutor": {
+   "area": "discrimination",
+   "law": "§ 163a Abs. 3 StPO",
+   "title": "Summons to the prosecutor",
+   "summary": "The accused is obliged to appear when summoned before the public prosecutor's office. Compare this with a police summons, where there is no such duty.",
+   "keywords": [
+    "ladung staatsanwaltschaft",
+    "erscheinen",
+    "summons",
+    "pflicht",
+    "beschuldigter",
+    "vorführung",
+    "prosecutor"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__163a.html"
+  },
+  "accused_can_demand_evidence_in_their_favour": {
+   "area": "discrimination",
+   "law": "§ 163a Abs. 2 StPO",
+   "title": "Evidence in your favour",
+   "summary": "If the accused applies for evidence to be taken in their favour, it must be taken where it is relevant.",
+   "keywords": [
+    "beweisantrag",
+    "entlastung",
+    "evidence in favour",
+    "ermittlungsverfahren",
+    "beschuldigter",
+    "antrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__163a.html"
+  },
+  "police_must_tell_you_about_lawyer_emergency_services": {
+   "area": "discrimination",
+   "law": "§ 136 Abs. 1 StPO",
+   "title": "Help finding a lawyer",
+   "summary": "If the accused wants to consult a defence lawyer before questioning, they must be given information that makes contacting a lawyer easier, and be pointed to existing emergency lawyer services.",
+   "keywords": [
+    "anwaltlicher notdienst",
+    "verteidiger befragen",
+    "lawyer hotline",
+    "vernehmung",
+    "police interview",
+    "rechtsanwalt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__136.html"
+  },
+  "victim_of_blackmail_may_be_spared_prosecution_for_own_offence": {
+   "area": "discrimination",
+   "law": "§ 154c Abs. 2 StPO",
+   "title": "Reporting coercion or extortion",
+   "summary": "If the victim of coercion, extortion or trafficking reports it and thereby an offence they committed becomes known, the prosecutor can refrain from prosecuting that offence unless atonement is indispensable because of its gravity.",
+   "keywords": [
+    "erpressung",
+    "nötigung anzeigen",
+    "opfer",
+    "absehen von verfolgung",
+    "blackmail victim",
+    "report crime",
+    "vergehen"
+   ],
+   "source": "https://www.gesetze-im-internet.de/stpo/__154c.html"
   }
  },
  "free_help": {
