@@ -15598,6 +15598,458 @@
     "nießbrauch"
    ],
    "source": "https://www.gesetze-im-internet.de/bgb/BGB.pdf"
+  },
+  "minor_may_make_will_from_16": {
+   "area": "money",
+   "law": "BGB § 2229 Abs. 1, 2",
+   "title": "Making a will as a minor",
+   "summary": "A minor can only make a will once they turn 16, and does not need the legal representative's consent.",
+   "keywords": [
+    "testierfähigkeit",
+    "minor",
+    "will",
+    "16 years",
+    "testament",
+    "parents consent",
+    "age"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "will_invalid_if_unable_to_understand": {
+   "area": "money",
+   "law": "BGB § 2229 Abs. 4",
+   "title": "Mental capacity for a will",
+   "summary": "Whoever, because of a pathological mental disturbance, mental weakness or disturbed consciousness, cannot understand the meaning of their declaration and act accordingly cannot make a will.",
+   "keywords": [
+    "testierunfähigkeit",
+    "capacity",
+    "dementia",
+    "will invalid",
+    "mental disturbance",
+    "testament"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "will_can_be_revoked_any_time": {
+   "area": "money",
+   "law": "BGB § 2253",
+   "title": "Revoking a will",
+   "summary": "The person who made a will can revoke it, or a single provision in it, at any time.",
+   "keywords": [
+    "widerruf testament",
+    "revoke will",
+    "change will",
+    "any time",
+    "erblasser"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2253.html"
+  },
+  "later_will_overrides_earlier_contradictions": {
+   "area": "money",
+   "law": "BGB § 2258 Abs. 1",
+   "title": "A later will overrides the earlier one",
+   "summary": "Making a new will cancels an earlier will as far as the new one contradicts it. If the later will is revoked, the earlier one is in doubt valid again.",
+   "keywords": [
+    "later will",
+    "spätere testament",
+    "contradiction",
+    "earlier will",
+    "aufgehoben",
+    "revoke"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2258.html"
+  },
+  "revocation_of_will_by_new_will": {
+   "area": "money",
+   "law": "BGB § 2254",
+   "title": "Revocation by will",
+   "summary": "A will is revoked by making a will (a revocation must itself be made in will form).",
+   "keywords": [
+    "widerruf durch testament",
+    "revoke",
+    "form",
+    "will",
+    "revocation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2254.html"
+  },
+  "will_in_official_custody_revoked_by_return": {
+   "area": "money",
+   "law": "BGB § 2256 Abs. 1",
+   "title": "Taking a will back from official custody",
+   "summary": "A will made before a notary that was taken into official custody counts as revoked if the document is handed back to the person who made it.",
+   "keywords": [
+    "amtliche verwahrung",
+    "return will",
+    "revoked",
+    "notarial will",
+    "custody",
+    "widerruf"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2256.html"
+  },
+  "revoking_a_revocation_restores_will": {
+   "area": "money",
+   "law": "BGB § 2257",
+   "title": "Revoking a revocation",
+   "summary": "If the revocation of a provision made by will is itself revoked, the provision is in doubt valid as if it had never been revoked.",
+   "keywords": [
+    "widerruf des widerrufs",
+    "revoke revocation",
+    "restore",
+    "will",
+    "provision",
+    "testament"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2257.html"
+  },
+  "forced_heirship_supplement_gifts_within_ten_years": {
+   "area": "money",
+   "law": "BGB § 2325",
+   "title": "Supplement for gifts before death",
+   "summary": "If the deceased made a gift to a third party, people entitled to a compulsory share can demand a supplement. Gifts made ten years before death or earlier are not counted, but for gifts to a spouse the period starts only when the marriage ends.",
+   "keywords": [
+    "pflichtteilsergänzung",
+    "gift",
+    "ten years",
+    "schenkung",
+    "third party",
+    "spouse",
+    "compulsory share"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2325.html"
+  },
+  "supplement_even_if_half_of_statutory_share_left": {
+   "area": "money",
+   "law": "BGB § 2326",
+   "title": "Supplement above the half share",
+   "summary": "The person entitled to a compulsory share can demand the supplement even if they were left half of their statutory share. If more than half was left, the claim is excluded as far as the extra value reaches.",
+   "keywords": [
+    "pflichtteilsergänzung",
+    "half",
+    "statutory share",
+    "supplement",
+    "left more",
+    "erbteil"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2326.html"
+  },
+  "heir_must_inform_compulsory_share_claimant": {
+   "area": "money",
+   "law": "BGB § 2314",
+   "title": "Information about the estate",
+   "summary": "A person entitled to a compulsory share who is not an heir can demand information about the estate from the heir. They can also demand that the inventory be made by an authority, official or notary, at the estate's cost.",
+   "keywords": [
+    "auskunftspflicht",
+    "information",
+    "estate",
+    "inventory",
+    "notary",
+    "pflichtteil",
+    "verzeichnis"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2314.html"
+  },
+  "waiver_of_inheritance_can_be_limited_to_compulsory_share": {
+   "area": "money",
+   "law": "BGB § 2346 Abs. 2",
+   "title": "Waiver of inheritance",
+   "summary": "A waiver of the right to inherit can be limited to the compulsory share right.",
+   "keywords": [
+    "erbverzicht",
+    "waiver",
+    "compulsory share",
+    "limited",
+    "verzicht",
+    "inheritance"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2346.html"
+  },
+  "heir_liable_for_estate_debts": {
+   "area": "money",
+   "law": "BGB § 1967 Abs. 1",
+   "title": "Heir pays the estate debts",
+   "summary": "The heir is liable for the obligations of the estate.",
+   "keywords": [
+    "erbenhaftung",
+    "nachlassverbindlichkeiten",
+    "estate debts",
+    "heir liable",
+    "inheritance debts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1967.html"
+  },
+  "heir_liability_limited_to_estate_by_administration_or_insolvency": {
+   "area": "money",
+   "law": "BGB § 1975",
+   "title": "Limiting liability to the estate",
+   "summary": "The heir's liability for estate debts is limited to the estate if estate administration (Nachlassverwaltung) is ordered or estate insolvency proceedings are opened.",
+   "keywords": [
+    "nachlassverwaltung",
+    "nachlassinsolvenz",
+    "limit liability",
+    "estate",
+    "heir",
+    "debts"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1975.html"
+  },
+  "several_heirs_estate_is_joint_property": {
+   "area": "money",
+   "law": "BGB § 2032 Abs. 1",
+   "title": "Community of heirs",
+   "summary": "If the deceased leaves several heirs, the estate becomes their joint property (Erbengemeinschaft).",
+   "keywords": [
+    "erbengemeinschaft",
+    "joint property",
+    "several heirs",
+    "co-heirs",
+    "estate"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2032.html"
+  },
+  "any_co_heir_can_demand_division_anytime": {
+   "area": "money",
+   "law": "BGB § 2042 Abs. 1",
+   "title": "Dividing the estate",
+   "summary": "Each co-heir can demand the division of the estate at any time, unless the law (§§ 2043 to 2045) says otherwise.",
+   "keywords": [
+    "auseinandersetzung",
+    "division",
+    "co-heir",
+    "miterbe",
+    "estate",
+    "demand any time"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2042.html"
+  },
+  "co_heirs_jointly_liable_for_estate_debts": {
+   "area": "money",
+   "law": "BGB § 2058",
+   "title": "Co-heirs are jointly liable",
+   "summary": "Co-heirs are jointly and severally liable for the shared estate debts.",
+   "keywords": [
+    "gesamtschuldner",
+    "co-heirs",
+    "joint and several",
+    "estate debts",
+    "miterben",
+    "haftung"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__2058.html"
+  },
+  "spouse_inheritance_extra_quarter_in_community_of_gains": {
+   "area": "money",
+   "law": "BGB § 1371 Abs. 1",
+   "title": "Spouse's extra quarter",
+   "summary": "If the matrimonial property regime ends by death, the surviving spouse's statutory share increases by one quarter of the estate, whether or not any gains were actually made.",
+   "keywords": [
+    "zugewinnausgleich",
+    "death",
+    "extra quarter",
+    "widow",
+    "spouse",
+    "erbteil",
+    "pauschal"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1371.html"
+  },
+  "spouse_not_heir_can_claim_gains_compensation": {
+   "area": "money",
+   "law": "BGB § 1371 Abs. 2",
+   "title": "If the spouse is not an heir",
+   "summary": "If the surviving spouse does not become an heir and gets no bequest, they can demand the gains compensation under §§ 1373 to 1383, 1390. Their compulsory share is then based on the unincreased statutory share.",
+   "keywords": [
+    "zugewinnausgleich",
+    "not heir",
+    "disinherited spouse",
+    "compensation",
+    "pflichtteil",
+    "widow"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1371.html"
+  },
+  "gains_calculated_at_divorce_petition_date": {
+   "area": "money",
+   "law": "BGB § 1384",
+   "title": "Cut-off date for gains in a divorce",
+   "summary": "If the marriage is divorced, the date for calculating the gains and the amount of the compensation claim is the date the divorce petition became pending.",
+   "keywords": [
+    "zugewinn",
+    "divorce",
+    "cut-off date",
+    "rechtshängigkeit",
+    "scheidungsantrag",
+    "stichtag",
+    "compensation"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1384.html"
+  },
+  "prenup_needs_notary_both_present": {
+   "area": "money",
+   "law": "BGB § 1410",
+   "title": "Prenuptial agreement form",
+   "summary": "A marriage contract (Ehevertrag) must be concluded with both parties present at the same time, recorded by a notary.",
+   "keywords": [
+    "ehevertrag",
+    "prenup",
+    "marriage contract",
+    "notary",
+    "both present",
+    "form"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1410.html"
+  },
+  "prenup_freedom_but_pension_split_rules": {
+   "area": "money",
+   "law": "BGB § 1408 Abs. 2",
+   "title": "Pension equalisation in a prenup",
+   "summary": "If spouses agree on pension equalisation (Versorgungsausgleich) in a marriage contract, §§ 6 and 8 of the Pension Equalisation Act apply to that agreement.",
+   "keywords": [
+    "versorgungsausgleich",
+    "prenup",
+    "pension split",
+    "ehevertrag",
+    "agreement",
+    "marriage contract"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1408.html"
+  },
+  "parents_have_duty_and_right_to_care_for_child": {
+   "area": "money",
+   "law": "BGB § 1626 Abs. 1",
+   "title": "Parental custody",
+   "summary": "Parents have the duty and the right to care for their minor child (parental custody). It covers care of the child's person and of the child's assets.",
+   "keywords": [
+    "elterliche sorge",
+    "parental custody",
+    "duty and right",
+    "child",
+    "personensorge",
+    "vermögenssorge"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "parents_consider_growing_independence_of_child": {
+   "area": "money",
+   "law": "BGB § 1626 Abs. 2",
+   "title": "Child's growing independence",
+   "summary": "In care and upbringing parents take into account the child's growing ability and need to act independently and responsibly, and discuss questions of custody with the child as fits its development.",
+   "keywords": [
+    "child independence",
+    "discuss",
+    "erziehung",
+    "development",
+    "parents",
+    "wachsende fähigkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html"
+  },
+  "contact_with_both_parents_is_child_welfare": {
+   "area": "money",
+   "law": "BGB § 1626 Abs. 3",
+   "title": "Contact with both parents",
+   "summary": "The child's welfare as a rule includes contact with both parents, and with other people the child has ties to if that benefits its development.",
+   "keywords": [
+    "umgang",
+    "contact",
+    "both parents",
+    "child welfare",
+    "kindeswohl",
+    "ties"
+   ],
+   "source": "https://www.gesetze-im-internet.de/englisch_bgb/print_englisch_bgb.html"
+  },
+  "unmarried_parents_joint_custody_options": {
+   "area": "money",
+   "law": "BGB § 1626a Abs. 1",
+   "title": "Joint custody for unmarried parents",
+   "summary": "If the parents are not married at the birth, they share custody if they declare it jointly, if they marry, or if the family court transfers joint custody.",
+   "keywords": [
+    "sorgeerklärung",
+    "unmarried parents",
+    "joint custody",
+    "gemeinsames sorgerecht",
+    "family court",
+    "marry"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1626a.html"
+  },
+  "family_court_grants_joint_custody_unless_against_child_welfare": {
+   "area": "money",
+   "law": "BGB § 1626a Abs. 2",
+   "title": "Court-ordered joint custody",
+   "summary": "On application of one parent the family court gives both parents joint custody if that does not contradict the child's welfare. If the other parent gives no objections, it is presumed not to contradict child welfare.",
+   "keywords": [
+    "joint custody",
+    "family court",
+    "kindeswohl",
+    "presumption",
+    "unmarried father",
+    "antrag"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1626a.html"
+  },
+  "family_court_regulates_contact_rights": {
+   "area": "money",
+   "law": "BGB § 1684 Abs. 3",
+   "title": "Family court and contact",
+   "summary": "The family court can decide on the extent of contact rights and regulate how they are exercised, including against third parties, and can compel the parties to fulfil their duties.",
+   "keywords": [
+    "umgangsrecht",
+    "contact rights",
+    "family court",
+    "regulate",
+    "order",
+    "kind",
+    "eltern"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1684.html"
+  },
+  "marriage_age_adult_only_sixteen_invalid": {
+   "area": "money",
+   "law": "BGB § 1303",
+   "title": "Minimum age for marriage",
+   "summary": "A marriage may not be entered into before the person is an adult. A marriage with someone who has not turned 16 cannot be validly concluded.",
+   "keywords": [
+    "ehemündigkeit",
+    "marriage age",
+    "18",
+    "child marriage",
+    "16 invalid",
+    "volljährigkeit"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1303.html"
+  },
+  "marriage_made_before_registrar_declaration": {
+   "area": "money",
+   "law": "BGB § 1310 Abs. 1",
+   "title": "How a marriage is concluded",
+   "summary": "A marriage is concluded only by the couple declaring before the registrar that they wish to marry each other. The registrar cannot refuse to take part if the conditions are met.",
+   "keywords": [
+    "eheschließung",
+    "registrar",
+    "standesbeamter",
+    "declare",
+    "marriage",
+    "standesamt"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1310.html"
+  },
+  "no_marriage_while_married_or_partnered": {
+   "area": "money",
+   "law": "BGB § 1306",
+   "title": "No second marriage",
+   "summary": "A marriage may not be concluded if one of the persons is already married or in a registered partnership with a third person.",
+   "keywords": [
+    "doppelehe",
+    "bigamy",
+    "existing marriage",
+    "lebenspartnerschaft",
+    "second marriage",
+    "verbot"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__1306.html"
   }
  },
  "free_help": {
