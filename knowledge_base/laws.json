@@ -13516,6 +13516,92 @@
     "reusable bottle sign"
    ],
    "source": "https://www.gesetze-im-internet.de/verpackg/__32.html"
+  },
+  "small_business_invoice_must_say_vat_exempt": {
+   "area": "money",
+   "law": "UStDV § 34a",
+   "title": "Kleinunternehmer invoices need a note that VAT exemption applies",
+   "summary": "An invoice for sales exempt under the small business rule must state the full names and addresses of both parties, the amount in one sum and a note that the small business exemption under § 19 UStG applies.",
+   "keywords": [
+    "rechnung kleinunternehmer",
+    "invoice note small business",
+    "34a ustdv",
+    "hinweis steuerbefreiung",
+    "freelancer invoice wording"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html"
+  },
+  "small_amount_invoice_up_to_250_euro": {
+   "area": "money",
+   "law": "UStDV § 33",
+   "title": "Invoices up to 250 euro need fewer details",
+   "summary": "An invoice with a total of up to 250 euro only needs minimum details, such as the full name and address of the seller and the issue date.",
+   "keywords": [
+    "kleinbetragsrechnung",
+    "receipt 250 euro",
+    "small invoice",
+    "33 ustdv",
+    "quittung pflichtangaben"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.epub"
+  },
+  "invoice_required_contents_ustg_14": {
+   "area": "money",
+   "law": "UStG § 14",
+   "title": "An invoice must show names, addresses, tax number, date and a running number",
+   "summary": "An invoice must contain the full name and address of the seller and the customer, the seller's tax number or VAT ID, the issue date and a unique consecutive invoice number.",
+   "keywords": [
+    "rechnung pflichtangaben",
+    "invoice requirements",
+    "rechnungsnummer",
+    "steuernummer rechnung",
+    "14 ustg",
+    "what must be on an invoice"
+   ],
+   "source": "https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html"
+  },
+  "trade_tax_allowance_24500": {
+   "area": "money",
+   "law": "GewStG § 11",
+   "title": "Trade tax: sole traders get a 24,500 euro allowance",
+   "summary": "For individuals and partnerships the trade income is reduced by an allowance of 24,500 euro before trade tax is calculated.",
+   "keywords": [
+    "gewerbesteuer freibetrag",
+    "24500 euro",
+    "trade tax allowance",
+    "gewerbe nebenberuflich steuer",
+    "11 gewstg"
+   ],
+   "source": "https://www.gesetze-im-internet.de/gewstg/__11.html"
+  },
+  "modernisation_simplified_procedure_10000": {
+   "area": "housing",
+   "law": "BGB § 559c",
+   "title": "Simplified rent increase after modernisation up to 10,000 euro cost",
+   "summary": "If the modernisation costs for the flat do not exceed 10,000 euro, the landlord can use a simplified procedure, deducting a flat 30 percent for maintenance that would have been needed anyway.",
+   "keywords": [
+    "vereinfachtes verfahren modernisierung",
+    "10000 euro",
+    "30 prozent abzug",
+    "559c bgb",
+    "simplified modernisation rent"
+   ],
+   "source": "https://www.gesetze-im-internet.de/bgb/__559c.html"
+  },
+  "student_health_insurance_compulsory_until_30": {
+   "area": "health",
+   "law": "SGB V § 5",
+   "title": "Students are compulsorily insured in statutory health insurance until age 30",
+   "summary": "Students enrolled at state or state-recognised universities are compulsorily insured, at the longest until they turn 30. After 30 only if the type of education or family or personal reasons justify it.",
+   "keywords": [
+    "studentische krankenversicherung",
+    "until 30",
+    "student health insurance age",
+    "5 sgb v",
+    "krankenversicherung student 30",
+    "pflichtversichert student"
+   ],
+   "source": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html"
   }
  },
  "free_help": {
